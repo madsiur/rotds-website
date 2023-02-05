@@ -1,0 +1,4 @@
+*.smc
+*.sfc
+__pycache__
+generator/__pycache__

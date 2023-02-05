@@ -1,0 +1,81 @@
+#TITLE Felix Battle Theme
+#ALBUM Golden Sun 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x44 ## strings (RS3)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x0E ## trumpet (FF6)
+#WAVE 0x23 0x5E ## flute (FF6)
+#WAVE 0x24 0x1C ## bass (FF6)
+#WAVE 0x25 0x12 ## cymbal (FF6)
+#WAVE 0x26 0x2F ## shaker (FF6)
+#WAVE 0x27 0x22 ## kick drum (FF6)
+#WAVE 0x28 0x5F ## hard snare (FF6)
+#WAVE 0x29 0x17 ## conga (FF6)
+
+{1}
+l16t120%v32%e1%b0,70%f0,0%x228v120p96|0o5r1  ^2 $1 |0a4^8g+8  
+a8<e8c+4^8>b8a8g+8  f+4^8f8f+8g+8a8e8  f+2ff+g+4f+g+  abag+a8b8e8<e4^8  
+fd>b<d>bg+bg+fg+fd[2c2  ^4]>b4^8<e4^8  >b4^8<c4^8g4  ^8f+8^d8^e2  
+^4d+ef+bf+bd+ef+bf+b  ef+gbgbef+gbgbf+ga<d  >a<d>f+ga<d>a<d>f+a<cd+f+caf+  
+d+c>af+[2g4^8f+8^g8^  a4^be4^8a4  ^be8f+8g8g4^8f+4  ^8ef+g4g8f+8g8a4  
+^be4^8f+ga4a8  g8a8a4^8b4^8  |2]
+;1
+
+l16
+{2}
+l16%e1v70p32|1o6>cd+cf+d+cegea+<c+e>dfdg+  
+fdf+af+<cd+f+> $2 |1v80o5c+8c+c+c+c+>b8  b8b8a4^8<d8^f+8^  c+4^8f+4^8df+a<d  
+>af+<f+d>af+adc+4^8d8  ^f+8^e4^8e4^8  fg+b<dfg+bg+fd>bg+o6|3e4  
+^8d8c8>b8a2  ^4g+ab<c>b<cdcdedc  >b4^<c>a4^8|1v70e4  ^8d4^8e4^8g4  
+^8d+4^8f+4^8e4  ^8g4^8f+4^8a4  ^8f+8a8<c8d+8f+8c8>|2v100[2eg  b<egb<e>bge>bgegb<ceg  
+<ec>gec>gf+a<df+a<df+d>af+  d>ad+f+b<d+f+b<d+>bf+d+>bf+]<<e4  ^8d8^e8^f+4^gc4  
+^8f+4^gc8d8e8e4  ^8d+4^8>b<de4e8  d8e8f+4^gc4^8  def+4f+8e8f+8e4  
+^8d+4^8
+;2
+
+l16
+{3}
+l16%e1v70p80|1o6>f+af+<c>af+a+<c+  >a+<ega+>g+bg+<d>bg+<cd+cf+a<c  
+ $3 o5f+8f+f+f+f+e8e8e8d4  ^8a8^<d8^>g+4^8<c+4  ^8>a<df+af+d<d>af+df+>ag+4  
+^8a8^<d8^>a4^8b4  ^8g+b<dfg+b<d>bg+fd>bo4|0v100e2  ^4e4^8f4^8  e4^8g+4^8f2  
+^4o5|1v70b4^8a4^8  <c4^8e4^8>b4  ^8<d+4^8c4^8e4  ^8d4^8f+4^8c8  
+d+8f+8a8<c8>f+8>[4eereer  e8e8e8ccrccrc8c8  c8ddrddrd8d8d8d+d+  
+rd+d+rd+8d+8d+8]
+;3
+
+l16
+{4}
+l16%e0v80p48|4o5cd+f+a<c>f+  ega+<c+>g<e>dfg+b<d>g+f+a<cd+  
+>a<f+> $4 f+8f+<f+>f+8e8e<e>e8d8  d<d>d8da<d>a<d>dc+8c+<c+>c+8  
+c+c+<c+>c+<c+>c+d8d<d>d8<dc+>ba  g+f+c+8c+<c+>c+8d8a8<d8>ee  e<e>ee<e>e<d>e<e>ed8f8g+8  
+b8<d8>g+8>a8a<a>a8a8a<a  >a8f8f<f>f8f8f<f>f8<e8  g+8b8<e8>b8g+8f8f<f>f8  
+f8f<f>f8e8b8<e8>d8a8  <d8>c8c<c>c8c8c<c>c8>[6b8  ]<c8c8c8g8<c8>g8d8d<d  
+>d8d8d<d>d8d+f+d+af+<c>a<d+  c>af+d+[4e8e<e>e8ebe<e>be  c8c<c>c8c<c>c<c>c<c>d8d<d  
+>d8dad<d>ad>b8b<b>b8b<f+  bdf+b]
+;4
+
+l16
+{5}
+l16%e1v100p64|5o5c+2^4  
+c+2^4 $5 c+4  |6v80g+8g+4^8g+4g+8g+4  ^8g+2r1  [2g+4g+8g+4^8]r2  
+^4|5v100c+4|6v80g+8g+4^8  g+4g+8g+4^8g+2  r1  [2g+4g+8g+4^8]|5v100c+1  
+r1  ^4c+2^4  r1  ^2^4^8c+8  
+c+8c+2r1  ^1  ^1  ^4^8c+4|6v80g+8g+4  
+^8g+4g+8g+4^8g+2  r1  |5v100c+4|6v80g+8g+4^8g+4  g+8g+4^8|5v100c+4|6v80g+8g+4  
+^8|5v100c+2^4
+;5
+
+l16
+{6}
+l16%e0v127p64|7o5[4c8  ^]c8^|8d8^|7c|8d|7c|8ddd $6 [2|7c8c  
+|8d|7c8c8c|8dd|7c]c8c|8d|7c8>|9a  aaggg<ddd>bbbaaa<|8dd  |7c[2c8c|8d|7c8c8c|8dd|7c]|9ddd  
+>bbbaaa<|8dd|7c[2c8c|8d|7c8c8  c|8dd|7c]c8c|8d|7c8>|9aaaggg  <ddd>bbbaaa<|8dd|7c[2c8c|8d  
+|7c8c8c|8dd|7c]|8ddd|9bbbaa  a|8ddd|7c|8dd|7c|8dd|7c|8d|7c>|9bag  
+<dddccc>bbbaaa<|7[9c]|8ddd  [2|8dd|7c|8dd|7c|8dddddd]dd|7c|8d  d|7cc8c8c8|9dd|7c|9dd|7c|9cc  
+>bbaa<[3|8dd|7c|8dd|7c|8dddddd  ]dd|7c|8dd|7c|9cc>bbaa<|7[2c8c|8d  
+|7c8c8c|8dd|7c]c8c|8d|7c8>|9aa  aggg<ddd>bbbaaa<|8dd|7c  [4c8c|8d|7c8c8c|8dd|7c]
+;6
+
+l16

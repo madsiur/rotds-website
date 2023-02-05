@@ -1,0 +1,85 @@
+#TITLE Shock of the Death God
+#ALBUM Ys III
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x02 ## electric bass (FF6)
+#WAVE 0x21 0x1E ## distortion guitar (FF6)
+#WAVE 0x22 0xA7 ## choir (GH)
+#WAVE 0x23 0x0B ## organ (FF6)
+#WAVE 0x24 0x0F ## hihat closed (FF6)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x21 ## hard snare (SOM)
+#WAVE 0x27 0xA0 ## snare (SD3)
+#WAVE 0x28 0x11 ## hihat opened (FF6)
+#WAVE 0x29 0x06 ## chorus (FF6)
+
+{1}
+l16t151%v20 $1 v100p30%e0%b0,70%f0,0|0o5a8<a>aaa<a>a<c8c<c>cc<c>c  
+>b8<b>bbbb<b>a+8a+<a+>a+<a+a+>a+  a8<a>aaa<a>a<c8c<c>cc<c>c  >b8<b>bbbb<b>a+8a+<a+>a+b<c>g+  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v80p90|1o6%r6>e8aee<c>eee8<c>eee<e>e  [3e8bee<d>eee8a+ee<c>ee  
+e8aee<c>eee8<c>ee<e>ee  ]e8bee<d>eee8a+ee<c>ee  e8>a1  ^4g8a8^b8^<c8>e1  
+^1  <e8>a1  ^4g+8a8^b8^<c8>a1  
+^1  
+;2
+
+l16
+{3}
+l16%e1 $3 v120p60|9%r6o5b^b^b^b^b^b^b^b^  brb4a8b8^<c8^d8  
+c>bm72,18,215<c1  ^2^4^^m>b^  b^b^b^b^b^b^b^br  b8^ra8b8^<c8^d8c>b  
+m72,18,215a1  ^2^4^^ma4  a4<c4c4>[3b4  b4a+4a+4a4  
+a4<c4c4>]b4  b4a+4a+4
+;3
+
+l16
+{4}
+l16 $4 p127v40%e1|2%r12o5m48,18,201e1  
+p0e1  p127e1  p0e1  p127e1  
+p0e1  p127e1  p0e1  m%r6v120p63o4e2a2  
+g+2g2  e2a2  g+2g2  e2a2  
+g+2g2  e2a2  g+2g2  
+;4
+
+l16
+{5}
+l16%e1 $5 v50p50|3o6>e8aee<c>eee8<c>eee<e>e  
+e8bee<d>eee8a+ee<c>ee  e8aee<c>eee8<c>ee<e>ee  e8bee<d>eee8a+ee<c>ee  
+e8aee<c>eee8<c>ee<e>ee  e8bee<d>eee8a+ee<c>ee  e8aee<c>eee8<c>ee<e>ee  
+e8bee<d>eee8a+ee<c>ee  e8>m48,18,201a1  ^4mg8a8^b8^<c8>m48,18,201e1  
+^1  m<e8>m48,18,201a1  ^4mg+8a8^b8^<c8>m48,18,201a1  
+^1  m
+;5
+
+l16
+{6}
+l16%e1 $6 v50p64o6[3|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^|5>bb|6<d^  
+]|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^dddd  [3|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^|5>bb|6<d^  
+]|5>b^|6<d^|5>bb|6<d^|5>b^r|6<ddddd  [3|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^|5>bb|6<d^  
+]|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^dddd  [3|5>b^|6<d^|5>bb|6<d^|5>b^|6<d^|5>bb|6<d^  
+]|5>b^|6<d^|5>b^r|6<ddddddddd  
+;6
+
+l16
+{7}
+l16%e1 $7 v50p64|4o5[3g+f+f+rg+f+f+rg+f+f+rg+f+f+r  
+]g+f+f+rg+f+f+rg+f+f+r4^  [3g+f+f+rg+f+f+rg+f+f+rg+f+f+r  ]g+f+f+rg+f+f+ro5v60|8a+8r4^8  
+v50o5|4g+f+f+rg+f+f+rg+f+f+rg+f+f+r  [2g+f+f+rg+f+f+rg+f+f+rg+f+f+r  
+]g+f+f+rg+f+f+rg+f+f+r4^  [3g+f+f+rg+f+f+rg+f+f+rg+f+f+r  ]g+f+f+ro5v60|8a+8r2^8  
+
+;7
+
+l16
+{8}
+l16%e1 $8 |7v80p64o5r8e^r8e^r8e^r8e^  r8e^r8e^r8e^r8e^  
+r8e^r8e^r8e^r8e^  r8e^r8e^r8e^eeee  r8e^r8e^r8e^r8e^  r8e^r8e^r8e^r8e^  
+r8e^r8e^r8e^r8e^  r8e^r8e^r8^eeeee  r8e^r8e^r8e^r8e^  r8e^r8e^r8e^r8e^  
+r8e^r8e^r8e^r8e^  r8e^r8e^r8e^eeee  r8e^r8e^r8e^r8e^  r8e^r8e^r8e^r8e^  
+r8e^r8e^r8e^r8e^  r8e^r8^eeeeeeeee  
+;8
+
+l16

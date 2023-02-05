@@ -1,0 +1,57 @@
+#TITLE Somewhere in the World
+#ALBUM Final Fantasy IV
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x18 ## acoustic bass (FF6)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+
+{1}
+l16t81%v32%e1%b0,70%f0,0 $1 v50p74|0%a12%r3o6>e2d+2  e2d+2  
+[2e8f+8g2^4  ]<e2d+2  e2d+2  [2e8f+8g2^4  
+]
+;1
+
+l16
+{2}
+l16%e1 $2 v55p64|0%a12%r3o6>c2>b2  <c2>b2  <c8d8d+2^4  
+c8d8d+2^4  <c2>b2  <c2>b2  <c8d8d+2^4  
+c8d8d+2^4  
+;2
+
+l16
+{3}
+l16%e1 $3 v60p54|0%a12%r3o4a2a2  a2a2  [2a8a8a2^4  
+]<a2a2  a2a2  [2a8a8a2^4  ]
+;3
+
+l16
+{4}
+l16%e1 $4 v65p44|0%a12%r3o4r1  
+^1  ^4d+2d4  r4c2>b4  r1  
+^1  ^4<d+2d4  r4c2>b4  
+;4
+
+l16
+{5}
+l16%e1 $5 v80p64|1%r19o4[2a8<c8e8g8f+8e8d+8>b8  
+]v60p32a24<c24d+24g8>v50p64a24<c24d+24g8v40p96a24<c24d+24g8>v30p124a24<c24d+24g8  
+o4v60p124a24<c24d+24g8>v50p96a24<c24d+24g8v40p64a24<c24d+24g8>v30p32a24<c24d+24g8  
+
+;5
+
+l16
+{6}
+l16%e0 $6 v120p64|2%r13o5ara8ega4^8^reg  ara8ega4^8^r<ga  
+>aar1  ^2^4^8
+;6
+
+l16
+{7}
+l16%e0 $7 v50p64|3o5[2a8  a8r2^4]aa  r1  
+^2^4^8
+;7
+
+l16

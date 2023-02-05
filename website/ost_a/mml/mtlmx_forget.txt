@@ -1,0 +1,67 @@
+#TITLE The One Who Cannot Forget
+#ALBUM Metal Max 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x44 ## strings (RS3)
+#WAVE 0x21 0x46 ## voice 2 (RS3)
+#WAVE 0x22 0x0C ## piano (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+
+{1}
+l16t80%v50%e1%x240%b0,70%f0,0 $1 v80p24|0o4d+rd+4d+rd+rd+4d+r  
+crc4crcrc4cr  drd4drdrd4dr  d+rd+4d+rd+rd+8d8f8  d+rd+4d+rd+rd+4d+r  
+crc4crcrc4cr  drd4drdrd4dr  d+rd+4d+rd+8d+4dr  crc4crcrc4cr  
+drd4drdrd4dr  d+rd+4d+rd+rd+4d+r  d+rd+4d+rd+rd+4dr  crc4crcrc4cr  
+drd4drdrd4dr  d+rd+4d+rd+8r4^8  d+1  
+;1
+
+l16
+{2}
+l16%e1 $2 v80p24|0o4>grg4grgrg4gr  
+d+rd+4d+rd+rd+4d+r  frf4frfrf4fr  grg4grgrg8f8a+8  grg4grgrg4gr  
+d+rd+4d+rd+rd+4d+r  frf4frfrf4fr  grg4grg8g4fr  d+rd+4d+rd+rd+4d+r  
+frf4frfrf4fr  grg4grgrg4gr  grg4grgrg4fr  d+rd+4d+rd+rd+4d+r  
+frf4frfrf4fr  <crc4crc8>a+8f8a+8  g1  
+;2
+
+l16
+{3}
+l16%e1 $3 v110p60|1%r4o4<g2^8f8d+8d8  
+d4^8d+8c2  d2^8f8<c8>a+8  f4^8g2^8  g2^8f8d+8d8  
+d4^8d+8c2  d2^8f8<f8d+8  d2^8c8>g8a+8  a+4^8<c8>c8d8d+8f8  
+a+4^8<c8>c8d8d+8f8  <d4^8d+8d8c8>f8a+8  g2^4g8g+8  a+4^8<c8>c8d8d+8f8  
+a+4^8<c8>f8a+8<f8d+8  d4^8d+8c1  ^8d+8d8>a+8
+;3
+
+l16
+{4}
+l16%e1 $4 v60p24|2o5<dd+gd8d+8r  
+dd+gd8d+8rdd+gd8d+8r  dd+gd8d+8rdd+gd8d+8r  dd+gd8d+8rdd+g<d8c>gd+8  
+dd+g8fd>a+<dd+gd8d+8rd  d+gd8d+8rdd+gd8d+8rd  d+gd8d+8rdd+gd8d+8rd  
+d+gd8d+8rdd+g<d8c>gd+8  dd+g8fd>a+gg+<cg8f8r>g  g+<cg8f8rcdf<c8>a+8rc  
+df<c8>a+8rdd+gd8d+8rd  d+gd8d+8rdd+g<d8c>gd+8  dd+g8fd>a+gg+<cg8f8r>g  
+g+<cg8f8r>ga+<c<c8>a+8r>g  a+<c<c8>a+8r<c>cfa+8gcd8  fd+c8>a+fa+g1  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v80p104|0o5>c2^4^8>a+8  g+2^8<d+8a+8g+8  
+>a+2^4f8a+8  <c2^4^8>g8  <c2^4^8>a+8  g+2^8<d+8a+8g+8  
+>a+1  <c2^8>g8<c8>g8  f2^8<c8g8f8  >g2^8<d8<c8>a+8  
+c2^4>g8a+8  <c2^8d+8d8>a+8  f2^8<c8g8f8  >g2^8<d8<c8>a+8  
+g+2^8d+8>a+8<d+8  >g+1  
+;5
+
+l16
+{6}
+l16%e1 $6 v50p104|3o5cg<dd+2^>cg<dd+  
+o4g+<d+a+<c2^o4g+<d+a+<c  o4a+<f<cd2^o4a+<f<cd  >cg<dd+2^o4a+<f<cd  
+>cg<dd+2^>cg<dd+  o4g+<d+a+<c2^o4g+<d+a+<c  o4a+<f<cd2^o4a+<f<cd  
+>cg<dd+2^>cg<dd+  o4f<cgg+2^>f<cgg+  >g<dg+a+2^>g<dg+a+  cg<dd+2^>cg<dd+  
+>cg<dd+2^>cg<dd+  o4f<cgg+2^>f<cgg+  >g<dg+a+2^>g<dg+a+  >g+<d+a+<c2^r>d+a+<d+  
+c2^4^r8^  
+;6
+
+l16

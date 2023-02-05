@@ -1,0 +1,106 @@
+#TITLE Fight Against an Armed Boss
+#ALBUM Super Mario RPG
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xEE ## shaker (SMRPG)
+#WAVE 0x21 0x14 ## snare (FF6)
+#WAVE 0x22 0xEC ## cowbell (SMRPG)
+#WAVE 0x23 0xEB ## timpani (SMRPG)
+#WAVE 0x2A 0xF2 ## bass guitar (SMRPG)
+#WAVE 0x2B 0xED ## snare drum (SMRPG)
+#WAVE 0x2C 0xEF ## closed hihat (SMRPG)
+#WAVE 0x2D 0xDA ## bassoon (SMRPG)
+#WAVE 0x2E 0xEA ## trombone (SMRPG)
+#WAVE 0x2F 0xE9 ## drum track (SMRPG)
+
+{1}
+l16t140%v32%b0,70%f0,0%x215%e1 $1 r1  r2^4|Dm3,8,50p64o6v72fga24r48a+24r48  
+<c8r>gf+rgra+4^raa+24r48  arag24r48f+rf+rg4.r8  <c8r>gf+rgra+4^raa+24r48  
+<crc>a+24r48ara+rg4.r8  <d+8r>a+ara+r<c+4^rcc+24r48  crc>a+24r48arara+4.r8  
+<d+8r>a+ara+r<c+4^rcc+24r48  d+rd+c+24r48crc+r>a+4.r8  m|Eo5p34v100c24r2r8.r48fv12,50^v24,120^8  
+v100c24r2^4r12v120c32r32c32r32  v100c24r2r8.r48fv12,50^v24,120^8  
+c24r2^4r12r8  o5p64v120g8g+g24r48f+rdrf8.d+r4  r12cr48dr48d+12g+r48g24r24f+4.^%r21^  
+|Dp34o4v72f+2<d2  <v64c2^4^8r8  |Ep64o5v120f8f+f24r48ercrd+8.c+r4  
+r12>a+r48<cr48c+12f+r48f24r24e4.^%r21^  |Dp34o4v72e2<c2  v64a+2^4^8r8  
+d2v56a+2  ^2^4^8r8  v64c2v56g+2  ^2^4^8r8  
+<p64v80g8g+gf+rdrf8gfd+rcr  >g+8.a+<cr48dr48d+r48f+4gr8.  <c8r>gf+rgra+8.rarg+r  
+p44g8g+24r48g24r48fr48d+24r24d24r24cr8.<cr8.  
+;1
+
+l16
+{2}
+l16r1  
+r2^4r8|Ap64o4v125f+48r24g32r32   $2 [8<o5c8r>gf+rg8][8<o5d+8r>a+ara+8  
+][2<o5c8r>gf+rgra+8rferfr  <c8r>gf+rgr<c+8r>g+grg+r  ][8<o5c8r>gf+rg8][8o4a+8rferf8  
+][4o4g+8r<d+drd+8][4>o4f+8r<c+crc+8  ][2o5c8r>gf+rg8]g+8r<d+drd+8  
+c8r>gf+rg8<c8r>gf+rg8  a+8rfd+rf8<c8r>gf+rg8  <cr8.<c24r12o4f+48r24g32r32[4<o5c8r>gf+rg8  
+]
+;2
+
+l16
+{3}
+l16[2v30|Cp79o5av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64av48|Cp79a  
+] $3 [3v30av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64av48|Cp79a  
+]v30av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64a%e1|0>b  
+%e0[3v30|Cp79o5av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64av48|Cp79a  
+]v30av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64a%e1|0>b  
+%e0v30|Cp79<av40|1p49av72|2p64av40|1p49av86%e1|Cp64a8%e0v72|2av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av30|Cp79a32a32v86%e1p64a%e0v48|1p49av72|2p64a|Cp79a  
+v30av40|1p49av72|2p64av40|1p49av86%e1|Cp64a8%e0v72|2av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av30|Cp79a32a32v86%e1p64a%e0v48|1p49av72|2p64av64|1p49a  
+v30|Cp79av40|1p49av72|2p64av40|1p49av86%e1|Cp64a8%e0v72|2av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av30|Cp79a32a32v86%e1p64a%e0v48|1p49av72|2p64a|Cp79a  
+v30av40|1p49av72|2p64av40|1p49av86%e1|Cp64a8%e0v72|2av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av30|Cp79a32a32v86%e1p64a%e0v48|1p49av72|2p64a24v48|1p49a24v64a24  
+[3v30|Cp79o5av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64av48|Cp79a  
+][3v30av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64a%e1|0>b  
+%e0[3v30|Cp79o5av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64av48|Cp79a  
+]]v30av40|1p49av72|2p64av40|1p49av86%e1|0p64>b8%e0v72|2<av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|0p64>b%e0v30|Cp79<av72|2p64a%e1|0>b  
+%e0[2v30|Cp79o5av40|1p49av72|2p64av40|1p49av86%e1|Cp64a8%e0v72|2av40|1p49a32v30a32v40|Cp79a|1p49av72|2p64av40|1p49av86%e1|Cp64a%e0v20p79av72|2p64av48|Cp79a  
+]
+;3
+
+l16
+{4}
+l16%e1|Fp64o4v50 $4 d+1  
+;4
+
+l16
+{5}
+l16%e1 $5 r1  
+r1  r8|Ep94o5v110g24r48g32r8r32g24r8.r48g24r48g32r8r32g24r12  r8f24r48f32r8r32f+24r8.r48g24r48g32r8r32g24r12  
+r8g24r48g32r8r32g24r8.r48g24r48g32r8r32g24r12  r8a24r48a32r8r32g+24r8.r48g24r48g32r8r32g24r12  
+r8a+24r48a+32r8r32a+24r8.r48a+24r48a+32r8r32a+24r12  r8g+24r48g+32r8r32a24r8.r48a+24r48a+32r8r32a+24r12  
+r8a+24r48a+32r8r32a+24r8.r48a+24r48a+32r8r32a+24r12  r8<c24r48c32r8r32>b24r8.r48a+24r48a+32r8r32v120g+32r32g+32r32  
+[2v100o5g24r2r8.r48a+v12,50^v24,120^8  v100g24r2^4r12v120g32r32g32r32  
+]r8|D[3o7v80c24r8.r48]c24r12r8[3o7c24r8.r48]c24r12  r4o5v72c2a4  
+^4<v64a2^8r8  r8[3v80o6a+24r8.r48]a+24r12r8[3o6a+24r8.r48]a+24r12  
+r4o4v72a+2<g4  ^4<v64g2^8r8  r4>g+2<v48f4  ^2^4^8r8  
+r4>v64f+2<v48d+4  ^2^4^8r8  r8|Eo5v100g24r48g32r8r32g24r8.r48g24r48g32r8r32g24r12  
+r8g+24r48g+32r8r32g+24r8.r48g24r48g32r8r32g24r12  r8g24r48g32r8r32g24r8.r48f24r48f32r8r32f24r12  
+p84>v110g8g+24r48g24r48fr48d+24r24d24r24cr8.<cr8.  
+;5
+
+l16
+{6}
+l16%e1|3&2r8%k253 $6 p114o5v100c8.p99>gp84f+8p99g8
+;6
+
+l16
+{7}
+l16%e1%k253 $7 |3p29o5v110c4.  
+c8c4^48p14>g8.^24
+;7
+
+l16
+{8}
+l16 $8 |Bp64o5v100[7a4]a8  a8[2v100o5a8%e1|Ep34o5v100c24r48c32r32%e0|Bp64o5v100a8%e1|Ep34o5v100c24r12%e0|Bp64o5]o5v100a8%e1|Ep34o4v100a+24r48a+32[3r32%e0|Bp64o5v100a8  
+%e1|Ep34o5v100c24r12%e0|Bp64o5v100a8%e1|Ep34o5v100c24r48c32]r32%e0|Bp64o5v100a8%e1|Ep34o5v100c24r12%e0|Bp64o5v100a8%e1|Ep34o5v100d24r48d32r32%e0|Bp64o5v100a8  
+%e1|Ep34o5v100d24r12%e0|Bp64o5v100a8%e1|Ep34o5v100c24r48c32r32%e0|Bp64o5v100a8%e1|Ep34o5v100c24[2r12%e0|Bp64o5v100a8%e1|Ep34o5v100d+24r48d+32r32%e0|Bp64o5v100a8  
+%e1|Ep34o5v100d+24]r12%e0|Bp64o5v100a8%e1|Ep34o5v100c+24r48c+32[3r32%e0|Bp64o5v100a8%e1|Ep34o5v100d+24r12%e0|Bp64o5v100a8%e1|Ep34o5v100d+24r48d+32]r32%e0|Bp64o5v100a8  
+%e1|Ep34o5v100d+24r12%e0|Bp64o5v100a8%e1|Ep34o5v100f24r48f32r32%e0|Bp64o5v100a8%e1|Ep34o5v100f24r12%e0|Bp64o5v100a8%e1|Ep34o5v100d+24r48d+32r32%e0|Bp64o5v100a8  
+%e1|Ep34o5v120c32r32c32r32%e0|Bp64[15o5v100a4]a8%e1|Ep34o5v110c32r32c32r32[8%e0|Bp64o5v100a8%e1|Dp34o6v80d+24r12]%e0|Bp64[7o5v100a4  
+]a8a8[8v100o5a8%e1|Dp34o6v80c+24r12%e0|Bp64o5][7o5v100a4]a8a8  a4a8%e1|Ep0o5v110a+48r24a+48r24%e0|Bp64o5v100a4a8%e1|Ep127o5v110a+48r24a+48r24  
+%e0|Bp64[5o5v100a4]a8%e1|Ep0o6v110c48r24c48r24%e0|Bp64o5v100a4a8%e1|Ep127o6v110c48r24c48r24  
+%e0|Bp64o5v100a4a4a4a8a8  [5v100o5a8%e1|Ep34o5v100c24r48c32r32%e0|Bp64o5v100a8%e1|Ep34o5v100c24r12%e0|Bp64o5]o5v100a8%e1|Ep34o4v100a+24r48a+32r32%e0|Bp64o5v100a8%e1|Ep34o4v100a+24r12  
+%e0|Bp64o5v100a4a4a4a8a8  
+;8
+
+l16

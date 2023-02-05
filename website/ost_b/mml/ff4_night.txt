@@ -1,0 +1,42 @@
+#TITLE Good Night
+#ALBUM Final Fantasy IV
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+
+{1}
+l16t75%v20%b0,70%f0,0%x223|0v91p79%r15%e1o6f8c+8d+8g+8f4f8f8  
+a+1  r1  
+;
+
+l16
+{2}
+l16|0v53p67%r15%e1o5g+4f+4g+4a4  r2<d2  
+r1  
+;
+
+l16
+{3}
+l16|0v53p58%r15%e1o5f4f4f4d+4  r4.a+2^8  r1  
+
+;
+
+l16
+{4}
+l16|0v53p56%r15%e1o5c+4c+4c4d+4  r4f2^4  r1  
+;
+
+l16
+{5}
+l16|0v53p50%r15%e1o4a+4a+4a+4b4  
+r8<d2^4^8  r1  
+;
+
+l16
+{6}
+l16|0v53p42%r15%e1o4f+4d+4g+4f4  a+1  
+r1  
+;
+
+l16

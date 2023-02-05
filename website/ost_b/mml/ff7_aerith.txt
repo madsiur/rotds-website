@@ -1,0 +1,137 @@
+#TITLE Aerith's Theme
+#ALBUM Final Fantasy VII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x03 ## wind flute (FF6)
+#WAVE 0x23 0x1A ## trombone (FF6)
+#WAVE 0x24 0x58 ## french horn (RS3)
+#WAVE 0x25 0x0A ## oboe (FF6)
+#WAVE 0x26 0x44 ## strings (RS3)
+#WAVE 0x27 0x0E ## trumpet (FF6)
+#WAVE 0x28 0x60 ## violin (FF6)
+
+{1}
+l16 $1 t72%v70%b0,70%f0,0%x191|0o6v127p63%e1f+8a8<d2^4  c8>a8e2^4  
+f+8a8<d8c+8e8d8>b8<c+8  >a2e2  |1o5v111p63%e1r4f+8a8<d8f+8d8>a8  
+^4e8a8<c8e8c8>a8  ^8>a+8<d8a+8<d8>a+8f8d8  >a+2<d32g32a+8.g32a+32<d8.  
+>[2^4d8f+8a8<d4.  >]>b8<f+8b8<d2^8  >c+8f+8a8<c+2^8  >d8g8b8<d2^8  
+>d8f+8a8<d2^8  [2[2>c+8f+8a8<c+2^8  ][2>d8g8b8<d2^8  ]]|7o5v69p101%e1r2f+4d4  
+>b2<d4e4  c+4.f+8f+2  f+1  a2<c+2  
+>b2a2  [7r1  ]
+;1
+
+l16c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{2}
+l16 $2 |0o6v95p63%e1d1  >a1  <d1  
+>a1  [10r1  ]|8o7v95p47%e1r2c+2  >b2a2  
+b1  r1  r2<c+2  >b2a2  
+b1  |2o4v63p47%e1r4<b4a4g4  f+2d2  r4b4a4g4  
+a4.<c+8c+2  r4>b4a4g4  e2c+2  r2r4g8a8  
+b8a8g8<d2^8  ^2>b8a8f+8g8  f+1  r1  
+r1  r1  r1  
+;2
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{3}
+l16 $3 |0o5v95p63%e1a1  e1  a1  
+e1  |3o7v63p69%e1r4d4>a4f+4  r4<a4e4c4  >a+2<d8c8>a+8<c8  
+>a+1  a1  ^1  [6r1  
+]r2g2  f+2g2  a1  ^1  
+g1  ^1  r1  d2f+4d4  
+f+4.a8a2  b2<c+4d4  >e2a2  g2e2  
+d2e4f+4  g2b2  a1  r1  
+r1  r1  r1  
+;3
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{4}
+l16 $4 |4o5v111p34%e1r1  r1  r1  
+r1  d1  >a1  a+1  
+g1  <d1  ^1  [12r1  
+]r2a4f+4  >g2<c+4>g4  f+2g+4a4  b2<c+4d4  
+e1  >a1  g1  e1  
+d1  r1  r1  r1  
+r1  
+;4
+
+l16c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{5}
+l16|2o5v79p47%e1r1  
+ $5 r1  r1  r1  f+8a8<d2^4  
+c8>a8e2r8de  d2f8e8d8e8  d1  d1  
+^2^4|5o5v111p66%e1d8e8  f+2^4f+8g8  a2^4b8<c+8  d4>b2g4  
+aba2r8a8f+8  c+1  f+2c+4b8a8  d1  
+^2^4a8f+8  c+1  f+2c+4b8<c+8  d1  
+^4|6o6v127p95%e1%a8d4c+4>b4  a2f+2  r4<d4c+4>b4  <c+4.f+8f+2  
+r4d4c+4>b4  a2e2  r2r4e8f+8  g8f+8e8d2^8  
+^2g8f+8d8e8  d1  |5o6v111p66%e1r4d4c+4>b4  a2e4.ef+  
+g8f+8e8d2^8  g2b2  v192,31a1  |2o5v79p47%e1
+;5
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{6}
+l16 $6 |6o4v63p37%e1%a8r1  
+r1  r1  r1  f+1  
+a1  f1  g2a+2  a1  
+^1  d2^4d8e8  f+1  g1  
+f+1  f+1  ^1  g1  
+^1  <c+1  f+2a2  v192,127g1  
+^4d4c+4>b4  a2f+2  r4<d4c+4>b4  <c+4.f+8f+2  
+r4d4c+4>b4  a2e2  r2r4e8f+8  g8f+8e8d2^8  
+^2g8f+8d8e8  d1  r1  r1  
+r1  r1  
+;6
+
+l16c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{7}
+l16 $7 |6o4v63p63%e1%a8r1  
+r1  r1  r1  d1  
+e1  d1  d2g2  f+1  
+^1  r1  c+1  >b2<c+4d4  
+d1  c+1  ^1  d1  
+^1  f+1  ^1  v192,127b1  
+^4d4c+4>b4  a2f+2  r4<d4c+4>b4  <c+4.f+8f+2  
+r4d4c+4>b4  a2e2  r2r4e8f+8  g8f+8e8d2^8  
+^2g8f+8d8e8  d1  r1  r1  
+r1  r1  
+;7
+
+l16c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+
+{8}
+l16 $8 |6o3v79p79%e1%a8r1  r1  r1  r1  
+a1  <c1  >a+1  a+2<d2  
+d1  ^1  >b1  a1  
+g1  a1  a1  ^1  
+g1  ^1  a1  ^1  
+v192,127g1  ^1  d1  >g2b4g4  
+f+2g+4a4  b2<c+4d4  e1  e1  
+d2e4f+4  g1  d1  r1  
+r1  r1  r1  
+;8
+
+l16

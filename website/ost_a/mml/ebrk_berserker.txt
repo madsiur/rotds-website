@@ -1,0 +1,137 @@
+#TITLE Berserker
+#ALBUM Energy Breaker
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1E ## distortion guitar (FF6)
+#WAVE 0x21 0xA7 ## choir (GH)
+#WAVE 0x22 0x12 ## cymbal (FF6)
+#WAVE 0x23 0x61 ## kick drum (CT)
+#WAVE 0x24 0x4F ## closed hihat (RS3)
+#WAVE 0x25 0x21 ## hard snare (SOM)
+#WAVE 0x26 0x11 ## hihat opened (FF6)
+#WAVE 0x27 0x36 ## sawtooth (UNK)
+
+{1}
+l16t189%v32 $1 v120p74%e1%b0,70%f0,0|0%r8o4a8a8a8a8<c8>a8a8<d8  
+>a8a8<c8>a8a8b8a8a8  a8a8a8a8<c8>a8a8<d8  >a8a8<e8>a8a8<d8>a8a8  
+a8a8a8a8<c8>a8a8<d8  >a8a8<c8>a8a8b8a8a8  a8a8a8a8<c8>a8a8<d8  >a8a8<e8>a8a8<d8>a8a8  
+<d8d8d8d8f8d8d8g8  d8d8f8d8d8e8d8d8  d8d8d8d8f8d8d8g8  d8d8a8d8d8g8d8d8  
+>a8a8a8a8<c8>a8a8<d8  >a8a8<c8>a8a8b8a8a8  a8a8a8a8<c8>a8a8<d8  
+>a8a8<e8>a8a8<d8>a8a8  <d8d8d8d8f8d8d8g8  d8d8f8d8d8e8d8d8  d8d8d8d8f8d8d8g8  
+d8d8a8d8d8g8d8d8  >e1  f2^4f^f^  g1  
+g+2^8g+^g+8g+^  a1  f2^8f8f^r8  f+2^4^^f+8  
+g8g8g8g8g8g8g4  g+1  a2^4a^a^  b1  
+<c2^8c^c8c^  >d2^8^^d^d^  d+2^8^^d+^d+^  e2^4^8e8  
+e8e8e8e8e8e8g+4  a8a8a8a8<c8>a8a8<d8  >a8a8<c8>a8a8b8a8a8  a8a8a8a8<c8>a8a8<d8  
+>a8a8<e8>a8a8<d8>a8a8  
+;1
+
+l16
+{2}
+l16%e1|7o5r1  ^1  ^1  
+^1   $2 v60p20a8<e8a8e8b8e8>a8o7c8  >e8>a8<b8e8>a8<a8e8>a8  <e8>a8<a8e8b8e8>a8o7c8  
+>e8>a8o7d8>e8>a8o7c8>e8>a8  <d8a8<d8>a8<e8>a8d8<f8  >a8d8<e8>a8d8<d8>a8d8  
+a8d8<d8>a8<e8>a8d8<f8  >a8d8<g8>a8d8<f8>a8d8  >a8<e8a8e8b8e8>a8o7c8  
+>e8>a8<b8e8>a8<a8e8>a8  <e8>a8<a8e8b8e8>a8o7c8  >e8>a8o7d8>e8>a8o7c8>e8>a8  
+<d8a8<d8>a8<e8>a8d8<f8  >a8d8<e8>a8d8<d8>a8d8  a8d8<d8>a8<e8>a8d8<f8  
+>a8d8<g8>a8d8<f8>a8d8  >e2gb<deg+b<de  fefefefedcdedc>ba  bagfbagfgagfefed  
+c>bab<cdc>babag+ag+ef  edcdegab<cdefedcd  edc>bagabagfedcde  f+ed>bagf+gab<dcdedc  
+>bab<cdefgab<cdefga  bg+ed>b<def+g+abg+ab<cd  edc>babagfededcde  
+dcdefgefgabgfgab  <c>gc<c>gcbgcbgcge>g<f  gfdagdb<c>b<dc>bab<cd  
+c>a+agfd+fgaa+gaa+<cdd+  ed>ba<ed>ba<e>bg+e<e>bg+e  <d>bg+e<d>bg+edc>bag+fed  
+r2o7v192,22m232,+1d1  v192,76m168,-4^2^4^8^^  c+c>bab<cdc>bagfgaba  
+gfedecdedc>b<c>baga  gedegab<c>bage<c>bag  ed<c>bagedd+m48,18,239v192,60e1  
+m248,-8^2^4^8^m
+;2
+
+l16
+{3}
+l16%e1|7o5r1  ^1  ^1  ^1  
+^8 $3 v60p94a8<e8a8e8b8e8>a8  o7c8>e8>a8<b8e8>a8<a8e8  >a8<e8>a8<a8e8b8e8>a8  
+o7c8>e8>a8o7d8>e8>a8o7c8>e8  >a8<d8a8<d8>a8<e8>a8d8  <f8>a8d8<e8>a8d8<d8>a8  
+d8a8d8<d8>a8<e8>a8d8  <f8>a8d8<g8>a8d8<f8>a8  d8>a8<e8a8e8b8e8>a8  
+o7c8>e8>a8<b8e8>a8<a8e8  >a8<e8>a8<a8e8b8e8>a8  o7c8>e8>a8o7d8>e8>a8o7c8>e8  
+>a8<d8a8<d8>a8<e8>a8d8  <f8>a8d8<e8>a8d8<d8>a8  d8a8d8<d8>a8<e8>a8d8  
+<f8>a8d8<g8>a8d8<f8>a8  d8>e2gb<deg+b  <defefefefedcdedc  >babagfbagfgagfef  
+edc>bab<cdc>babag+ag+  efedcdegab<cdefed  cdedc>bagabagfedc  def+ed>bagf+gab<dcde  
+dc>bab<cdefgab<cdef  gabg+ed>b<def+g+abg+ab  <cdedc>babagfededc  
+dedcdefgefgabgfg  ab<c>gc<c>gcbgcbgcge  >g<fgfdagdb<c>b<dc>bab  
+<cdc>a+agfd+fgaa+gaa+<c  dd+ed>ba<ed>ba<e>bg+e<e>b  g+e<d>bg+e<d>bg+edc>bag+f  
+edr2o7v192,12m232,+2d1  v192,76m168,-4^2^4^8^^  c+c>bab<cdc>bagfgaba  
+gfedecdedc>b<c>baga  gedegab<c>bage<c>bag  ed<c>bagedd+e1  ^2^4^8^
+;3
+
+l16
+{4}
+l16%e1v80p44|1%r3o4r1  
+^1  ^1  ^1   $4 a1  
+^1  ^1  ^1  <d1  
+^1  f1  ^1  >a1  
+^1  ^1  ^1  <d1  
+^1  f1  ^1  e1  
+d1  d1  d1  c1  
+c1  c1  >b1  b1  
+<c1  >b1  <c2d2  e1  
+d1  e1  >g+1  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;4
+
+l16
+{5}
+l16%e1v80p54|1%r3o4r1  
+^1  ^1  ^1   $5 e1  
+^1  <e1  ^1  >f1  
+^1  a1  ^1  e1  
+^1  <e1  ^1  >f1  
+^1  d1  ^1  g+1  
+a1  b1  g+1  a1  
+f1  a1  g1  g+1  
+a1  d1  e1  f1  
+g1  g+1  e1  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;5
+
+l16
+{6}
+l16%e1 $6 v120p64|2%r16o5a2^^1  
+r1  ^1  ^1  ^8^v60|4f+r8^[3f+rf+r8^f+rf+  
+r8^f+rf+r8^f+rf+rf+r8  ^f+rf+r8^f+rf+r8^f+rf+  r1  ^8^f+r8^]f+rf+r8^f+rf+  
+r8^f+rf+r8^f+rf+rf+r8  ^f+rf+r8^f+rf+r8^f+rf+  r1  ^1  
+^1  ^1  ^f+r8^f+r1  ^1  
+^1  ^4^8^v120|2%r16a1  ^2^^r1  
+^1  ^2v60|4f+rf+r8^f+r1  ^2^4^v80|6a+4  
+v120|2%r16a1  ^1  a1  ^2^r1  
+^1  ^4^8^
+;6
+
+l16
+{7}
+l16%e1 $7 v100p64|3o5r4b8b8r4  b8r4b8r8b8r4  
+b8b8r4b8b8r4  b8r4b8r8br4^  b8b8r4|5d8|3b8r4  |5d8r4|3b8|5d8|3b8r4  
+|5d8|3b8r4|5d8|3b8r4  |5d8r4[6|3b8|5d8|3b8r4  |5d8|3b8r4|5d8|3b8r4  
+|5d8r4]|3b8|5d8|3b8|5d8r8  d8r8|3b8r2^4  ^8b8r2^8|5d8  |3b8b8r2^4  
+^8b8r2b8|5d8  |3b8b8r2^4  ^8b8r2v60|4f+8v80|6a+4  v110|3b8r2^4b8  
+|5d8|3b8b8|5d8|3b8b8|5d8r8  |3b8r2^4^8  b8r2^8|5d8|3b8  b8r2^4^8  
+b8r2b8|5d8|3b8  b8r2^8|5d8|3b8  b8r2v60|4f+8v110|5d8|3b8  b8r4^8v80|6a+4r8v110|3b8  
+|5d8|3b8b8|5d8|3b8b8|5d8|3b8  r4b8b8r4b8r4  b8r8b8r4b8b8r4  b8b8r4b8r4b8  
+r8br4^b8b8
+;7
+
+l16
+{8}
+l16%e1 $8 v60p64|4o5r8f+r  f+rf+r8^f+rf+r8^f+rf+r8  
+^f+rf+r8^f+rf+r8^f+rf+  rf+r8^f+rf+r8^f+rf+r2  ^v80|6a+8v60|4f+8v80|6a8v60|4f+rv100|3b8v60|4f+r8^f+  
+rv100|3b8br2^4  ^b8r4^8b8r4^8  b8br2^4^  b8r8a8v60|4f+rv100|3b8v60|4f+r8^f+r  
+[2v100|3b8br2^4^  b8r4^8b8r4^8  b8br2^4^  b8r8v80|6a8v60|4f+rv100|3b8v60|4f+r8^f+r  
+]v100|3b8br2^4^  b8r4^8b8r4^8  b8br2^b8r8  b8v80|6a+8v120|2%r16a1  
+a1  a1  a2^4v80|6a+r8^  v120|2%r16a1  
+a1  a1  a4^8^4^8c+8^^  a1  
+a1  a1  a2^4v80|6a+r8^  v120|2%r16a1  
+a1  r4v80|6a+2a+4  v120|2%r16a4^8a4^8c+4  v60|4r8f+rf+rf+r8^f+rf+r8^  
+f+rf+r8^f+rf+r8^f+rf+r8  ^f+rf+rf+r8^f+rf+r8^f+  rf+r2^v80|6a+8v60|4f+8
+;8
+
+l16

@@ -1,0 +1,89 @@
+#TITLE Heartfelt Tears
+#ALBUM Romancing Saga
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x18 ## acoustic bass (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x5E ## flute (FF6)
+#WAVE 0x23 0x0E ## trumpet (FF6)
+#WAVE 0x24 0x0D ## strings (FF6)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x37 ## tambourine (FF6)
+
+{1}
+l16t95%v30%v30%v30|2p48%e1r1  m79,36,23r2t96,75r2   $3 t90o4v43[2b8<f+8g8a8b2  
+^2b8a8<d8>b8  g1  r2f+8e8a8d8  j2,1 c2^4c8d8  
+e4.e8d4c4  >b4.b8a+4<c+4  >b1  ] $1 c2^8>b8<c8g8  
+f+4e4d4f+4  e1  ^1  v48[2d8e8f8a8<c4>b8a8  
+b4g2^4  e8f8a8<c8e4d8c8  j2,2 d1  >] $2 t192,80>b2^4^8r8  
+
+;3
+
+l16
+{2}
+l16|0v85p64r1  r1   $6 o6[2e2^4e4  d1  
+c2^4c4  >b1  a2^4a4  j2,4 <d1  
+f+4.f+8c+4.c+8  >b1  <] $4 b2^4b4  <c2^4c4  
+c+2^4c+4  [2d2a4>a4  g2<g2  f2<c4>c4  
+>j2,5 g1  <] $5 b1  
+;6
+
+l16
+{3}
+l16|1v40p35%e1o4[2grbr][2f+rbr][2erbr]e4  
+d+8f+8 $9 o4[2[2[4grbr][4f+rbr]][4erar  ]j2,7 [4f+rar][2f+rbr][2f+ra+r][4f+rbr  
+]] $7 [4f+rbr][4gr<cr>][4ar<c+r>]<m79,0,25<|2v18p35r1  >>[2b4>b8<c8d8e8f8g8  
+a1  j2,8 <d4>d8e8f8g8a8b8  a1  ] $8 e2d+2  
+<|1v40p35o4m
+;9
+
+l16
+{4}
+l16|1v40p95%e1o4[2ergr][2drf+r][2crgr]>b8<c+8  
+>a4 $12 o4[2[2[4ergr][4drf+r]][4crer  ][4drf+r]j2,10 [4c+rf+r][2erf+r][2d+rf+r  
+]] $10 [8ergr]m75,36,24|3v55p100r2<[2d8e8  f8a8b1  r2e8f8a8<c8  
+j2,11 d1  r2>] $11 >b1  |1v40p95o4m
+;12
+
+l16
+{5}
+l16|4p90%e1r1  
+r1   $14 v65r2^4o4b4  a1  r2^4g4  
+f+1  r4c4e4b4  a2<d4c4  >b4.b8a+4<c+4  
+e2d+2  r2^4>b4  a1  r2^4g4  
+f+1  e2g2  a1  <c1  
+c+2e2  [2v70v192,5[8cr]>v70v192,5[8br]v70v192,5[8ar]j2,13 v70v192,5[8br]<] $13 v75b8f+8e8f+8  
+d+2
+;14
+
+l16
+{6}
+l16|4p64%e1r1  r1   $16 v75r2^4o4g4  f+1  
+r2^4e4  d1  r4>a4<c4g4  f+1  
+f+2e2  a2f+2  r2^4g4  f+1  
+r2^4e4  d1  c2e2  f+1  
+e2g2  a1  [2v70v192,5[8ar]v70v192,5[8gr]v70v192,5[8fr]j2,15 v70v192,5[8gr]] $15 v75e4c+4  
+>b2
+;16
+
+l16
+{7}
+l16|4p20%e1r1  r1   $19 v75o3[2e2^4e4  d1  
+c2^4c4  >b1  a1  j2,17 <d1  
+>f+1  b1  <] $17 b1  <c1  
+c+1  <[2[2v70v192,5[8fr]]v70v192,5[8er]j2,18 v70v192,5[8fr]] $18 v75>b2>b2  
+
+;19
+
+l16
+{8}
+l16r1  r1   $21 m71,36,30|2v33p80%e1r32o4[2b8<f+8g8a8b4.^^32  
+^2^32b8a8<d8>b^32  ^32g2^4^8.^32  ^32r2f+8e8a8d^32  ^32j2,20 c2^4c8d^32  
+^32e4.e8d4c8.^32  ^32>b4.b8a+4<c+8.^32  ^32>b2^4^8.^32  ^32] $20 c2^8>b8<c8g^32  
+^32f+4e4d4f+8.^32  ^32e2^4^8.^32  ^1  m[3%e0|5v75p64o5a8a8r4%e1|6v106,15p18p120,105a+8a+8a+8a+8  
+%e0|5v75p64a4a4%e1|6v106,15p18p120,105a+8a+8a+8a+8  ]%e0|5v75p64a8a8r4%e1|6v106,15p18p120,105a+8a+8a+8a+8  
+r1  
+;21
+
+l16

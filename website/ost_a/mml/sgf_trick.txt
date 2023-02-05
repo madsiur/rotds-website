@@ -1,0 +1,103 @@
+#TITLE Trick
+#ALBUM Saga Frontier
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x32 ## acoustic guitar (FF6)
+#WAVE 0x21 0x44 ## strings (RS3)
+#WAVE 0x22 0x0A ## oboe (FF6)
+#WAVE 0x23 0x3A ## female voice (FF6)
+#WAVE 0x24 0x03 ## wind flute (FF6)
+
+{1}
+l16t124%x244%b0,70%f0,0%v32v113p67%e1 $1 o5|0%r16t124gf+g2a+8a8g8  
+ag+a2<c8>a+8a8  b8g8b8<d8g8f24g24f24d+8d8  d+dd+2d8c8>a+8  aga2g8a8a+8  
+<c>a+<c2>a+8<c8d8  d+8c8d+8g8a8g24a24g24f8d+8  dcd2d+8f8g+8  g8f8g8g+8g8f8d+8d8  
+t125,114c8d8d+8g8f+8g24f+24g24f+24g24f+24ef+  t122g1  r8>g8a8a+8<c8>a+8a8g8  
+f+1  r8f+8g8a8a+8a8g8f+8  f1  r1  
+<d+8>g8<c8d8d+8c8d+8g8  fd+f2^4.  d8>f8a+8<c8d8>a+8<d8f8  d+dd+2^4.  
+c8>d+8g+8a+8<c8>g+8<c8d+8  c>a+<c2^4.  r1  r1  
+r1  r1  r1  r1  
+r4>g4<d4>b4  <g1  o4
+;1
+
+l16
+{2}
+l16%v32v127p31%e1o4|1 $2 r8d8g8d8a8d8a+8d8  
+r8d8a8d8a+8d8<c8>d8  r8d8b8d8<c8>d8<d8>d8  <c8>b8<c8d8c8>a+8a8g8  
+r8c8f8c8g8c8a8c8  r8d+8a8d+8a+8d+8<c8>d+8  r8f8<c8>f8<d8>f8<d+8>f8  
+<d8c8d8d+8d8c8>a+8g+8  r8>a+8<d+8>a+8<f8>a+8<g8>a+8  <d+4g4a2  d2c2  
+r8a+8<c8d8d+8d8c8>a+8  d+2c2  r8a8a+8<c8d8c8>a+8a8  d4>b4<d4d+4  
+f4d4d+4f4  d+1  f2d+2  d1  
+d+2c+2  c1  d+2d2  d+1  
+^1  g+8a+8<c8>g+8g8g+8a+8g8  f8g8g+8g8f8d8d+8f8  t255,95d+2f+2  
+a2<c2  >g1  ^1  o4t124
+;2
+
+l16
+{3}
+l16%v32v127 $3 o3p47%e1|1a+1  
+a1  g+1  %v32p31<d+8d8d+8f8d+8d8c8>a+8  %v32p47a1  
+a+1  <c1  %v32p31f8d+8f8g8f8d+8d8c8  %v32p47>g1  
+g4a+4<c4d+4  >a+2a2  r8<d8d+8f8g8f8d+8d8  >a1  
+r8<d8d+8f8g8f8d+8d8  >g+1  b2f4g4  g1  
+<c1  >f1  a+1  d+1  
+g+2b2  g2<d2  c2>a+2  <c8r8f8r8>a+8r8<d+8r8  
+>g+8r8<d8r8>b2  a2<c2  d+2f+2  >b1  
+^1  o3
+;3
+
+l16
+{4}
+l16%v32v127p79%e1 $4 o2|1g4<d4g4d4  >f+4<d4f+4d4  
+>f4<d4f4d4  c2^8>a+8a8g8  f4<c4f4c4  >g4<c4g4c4  
+>a4<f4a4f4  >a+2^8g+8g8f8  d+4a+4<d+4d4  c2d2  
+>g2g2  r8g8a8a+8<c8>a+8a8g8  f+2f+2  r8f+8g8a8a+8a8g8f+8  
+f1  g2a4b4  <c2>a+2  a1  
+a+2g+2  g1  g+2g2  f2g2  
+<c2>a+2  g+2g2  <f8r8g+8r8d+8r8g8r8  d8r8f8r8>g2  
+f+2f+1  ^2g1  ^1  
+
+;4
+
+l16
+{5}
+l16%v32v80p63%e1 $5 o5|2r1  r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  r8g8a8a+8a8g8f+8d8  g1  
+r8a8a+8<c8>a+8a8g8a+8  a1  r8f8g+8b8<d8>g+8b8<d8  f8>b8<d8g+8g8f8d+8d8  
+d+1  r8c8d8d+8f8c8d8d+8  d1  r8>a+8<c8d8d+8>a+8<c8c+8  
+c1  r8d+8d8c8>b8g8a8b8  <c1  r8f8d+8d8d+8f8g8d+8  
+f8g8g+8f8d+8f8g8d+8  d8d+8f8d+8d8>g8a8b8  <c8>f+8a8<c8d+8>a8<c8d+8  
+f+8c8d+8f+8a8f+8a8<c8  >bab1  ^2^4.
+;5
+
+l16
+{6}
+l16%v32v127p82%e1 $6 o5|3[22r1  
+]g1  f2d+2  f8r8g+8r8d+8r8g8r8  d8r8f8r8r2  
+d+1  ^1  d1  ^1  
+
+;6
+
+l16
+{7}
+l16%v32v127p77%e1 $7 o5|3[22r1  ]r2d2  c2>a+2  g+8r8<c8r8>g8r8a+8r8  
+f8r8g+8r8r2  a1  ^1  g1  
+^1  
+;7
+
+l16
+{8}
+l16%v32v100p63%e1 $8 o4|4r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  r1  r8g8a8a+8a8g8f+8d8  
+g1  r8a8a+8<c8>a+8a8g8a+8  a1  r8f8g+8b8<d8>g+8b8<d8  
+f8>b8<d8g+8g8f8d+8d8  d+1  r8c8d8d+8f8c8d8d+8  d1  
+r8>a+8<c8d8d+8>a+8<c8c+8  c1  r8d+8d8c8>b8g8a8b8  <c1  
+r8f8d+8d8d+8f8g8d+8  f8g8g+8f8d+8f8g8d+8  d8d+8f8d+8d8>g8a8b8  <c8>f+8a8<c8d+8>a8<c8d+8  
+f+8c8d+8f+8a8f+8a8<c8  >bab1  ^2^4.
+;8
+
+l16c1  
+c1  

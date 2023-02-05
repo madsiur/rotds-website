@@ -1,0 +1,60 @@
+#TITLE Machina Ronka
+#ALBUM Final Fantasy V
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x16 ## timpani (FF6)
+#WAVE 0x21 0x02 ## electric bass (FF6)
+#WAVE 0x22 0x12 ## cymbal (FF6)
+#WAVE 0x23 0x0D ## strings (FF6)
+
+{1}
+l16t90%b0,70%f0,0%v50%x117v125p40|0%e1o4 $1 d4
+;1
+
+l16
+{2}
+l16v127p60|0m12,20,203%e1%r18o3 $2 d4
+;2
+
+l16
+{3}
+l16v100p60@4m12,20,195%e1r1  
+r1   $3 [8v75o2p10%r20vc8c8v75o4p48,240%r30c32c+32d32d+32e32f32f+32g32o3%r20v75c8c8o7p96,20v4,4,255v40c4  
+][2v10v196,60p10%r25p196,240o7c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32  
+v60v196,125p196,20e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32  
+]
+;3
+
+l16
+{4}
+l16r1  r1   $4 v85p60@3%e1r8[4o2m192,+52p75c2^4m192,+52p65f4  
+m192,+52p55f4m192,+52p45f4m192,+52p35f4]m192,+52p75c2  ^4r8@6%e1o5[4m12,+6v100p90c6m12,+6v80p75c6m12,+6v60p60c6m12,+6v40p45c6  
+m12,+6v25p30c6m12,+6v10p15c6]
+;4
+
+l16
+{5}
+l16v127p60|1m12,20,203%e1%r14o6 $5 d4
+;5
+
+l16
+{6}
+l16v125p80|2%e1 $6 o3m48,+3a4
+;6
+
+l16
+{7}
+l16p57|3m12,16,199%e1r1  
+r1   $7 v105%a15o5[5d+dc+rr8d+dc+rc+rd+dc+r  ][2o6v85%a8a+4.e4c+4>a+8  
+<f+8e2^4c+>b  a+b<c+>e^2^8c+8  f+8e8^2^4  ]
+;7
+
+l16
+{8}
+l16p62|3m12,16,199%e1r1  
+r1   $8 v105%a15o5[5c+c>brr8<c+c>brbr<c+c>br  <][2v90%a8o6c+4.>a+4f+4e8  
+b8a+2^4a+g  f+ga+c+^2^8>f+8  b8a+8^2^4  ]
+;8
+
+l16

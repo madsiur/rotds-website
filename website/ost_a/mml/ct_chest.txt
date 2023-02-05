@@ -1,0 +1,35 @@
+#TITLE Sealed Chest
+#ALBUM Chrono Trigger
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+
+{1}
+l16t120%v25%e1%b0,70%f0,0v80p64|0o7a+8a8t115f8e8t110d8c+8t100>a+8a8  
+t90r8<g+4t50^8
+;
+
+l16
+{2}
+l16%e1v80p64|0o7g4d4  >a+4g4r^32<e4^8^32  
+
+;
+
+l16
+{3}
+l16%e1v80p64|0o7r1  ^c4^8^
+;
+
+l16
+{4}
+l16%e1v80p64|0o6r1  
+^32a4^8^^32
+;
+
+l16
+{5}
+l16%e1v50p64|0o6r1  f+2
+;
+
+l16

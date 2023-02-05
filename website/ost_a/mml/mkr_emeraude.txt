@@ -1,0 +1,71 @@
+#TITLE Emeraude's Theme
+#ALBUM Magic Knight Rayearth
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x3E ## xylophone (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x0C ## piano (FF6)
+#WAVE 0x24 0x31 ## bright piano (FF6)
+
+{1}
+l16t81%v32%e1%b0,70%f0,0 $1 v50p68|0o3a8<e8a8<c8>a8e8>a8<e8  
+a8<c8>a8e8>a8<e8a8<c8  >a8e8>d8a8<d8f+8d8>a8  g8<d8g8b8g8d8>a8<e8  
+a8<c8d8>g8c8g8<c8e8  c8>g8d8a8<d8f+8d8>a8  e8b8<e8g+8e8>b8e8g+8  
+b8<e8g+8b8o3a8<e8a8<c8  >a8e8>e8b8<e8g8e8>b8  f8<c8f8a8f8c8c8g8  
+<c8e8c8>g8>f8<c8f8a8  f8c8c8g8<c8e8c8>g8  d8a8<d8f8d8>a8>e8g8  b8<e8b8<e8o3a8<e8a8<c8  
+>a8e8>e8b8<e8g8e8>b8  f8<c8f8a8f8c8c8g8  <c8e8c8>g8d8a8<d8f8  d8>a8>a8<e8a8<c8e8c8  
+o3b8<f+8b8<d+8>b8f+8e8b8  <e8g+8b8g+8
+;1
+
+l16
+{2}
+l16%e1 $2 v10p50|1r2  
+^4o3v128,80a1  ^2v80<d2  ^4>g2b4  a2b4<c2  
+^4d2^4  e2f+4g+4  a4b4>a2  ^4<e2^4  
+f2^4c2  ^4>f2^4  <c2^4d2  ^4e4>b4g+4  
+a4<e4a4>e4  g4b4f4a4  <c4e4c4>g4  d4f4a4<c4  
+e4a4d+4e4  f+4g+4a4b4  
+;2
+
+l16
+{3}
+l16%e1 $3 v80p34|2o5r1  ^1  
+^4>d2^4  >g2b4a4  a4b4<c2  ^4d2^4  
+e2f+4g+4  a4b4>a2  ^4<e2^4  f2^4c2  
+^4>f2^4  <c2^4d2  ^4e4>b4g+4  a4<e4a4>e4  
+g4b4f4a4  <c4e4c4>g4  d4f4a4<c4  e4a4d+4e4  
+f+4g+4a4b4  
+;3
+
+l16
+{4}
+l16%e1 $4 v104p80|3o5r1  ^2a4<e4  e4g8f+8d4>b8a8  
+b4^8<c8d8>b8<c2  d4e4^8g8g4  f+4^8g8a8f+8g+2  ^4r2a8b8  
+<c4^8c8>b8a8b8g8  e2a4^8a8  g8f8g8e8c2  a4^8a8g8f8g4  
+<c4e4d4^8c8  >b8a8b2a8b8  <c4^8c8d8e8>b4  g4e4a4^8a8  
+b8<c8>g4e4c4  f4^8f8g8f8e4  a4<c4>b8a8b8<c8  d8d+8e2^4  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v50p74|1o5r1  ^2>a4<e4  e4g8f+8d4>b8a8  b4^8<c8d8>b8<c2  
+d4e4^8g8g4  f+4^8g8a8f+8g+2  ^4r2a8b8  <c4^8c8>b8a8b8g8  
+e2a4^8a8  g8f8g8e8c2  a4^8a8g8f8g4  <c4e4d4^8c8  
+>b8a8b2a8b8  <c4^8c8d8e8>b4  g4e4a4^8a8  b8<c8>g4e4c4  
+f4^8f8g8f8e4  a4<c4>b8a8b8<c8  d8d+8e2^4  
+;5
+
+l16
+{6}
+l16%e1 $6 v30p32|4o4r1  
+^2^32a4<e4  e4g8f+8d4>b8a8  b4^8<c8d8>b8<c2  d4e4^8g8g4  
+f+4^8g8a8f+8g+2  ^4r2a8b8  <c4^8c8>b8a8b8g8  e2a4^8a8  
+g8f8g8e8c2  a4^8a8g8f8g4  <c4e4d4^8c8  >b8a8b2a8b8  
+<c4^8c8d8e8>b4  g4e4a4^8a8  b8<c8>g4e4c4  f4^8f8g8f8e4  
+a4<c4>b8a8b8<c8  d8d+8e2^8^^32
+;6
+
+l16

@@ -1,0 +1,77 @@
+#TITLE Few Paths Forbidden
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x28 0xB0 ## synth strings (CT)
+#WAVE 0x29 0xCC ## matal bang (SD3)
+#WAVE 0x2A 0x3E ## xylophone (FF6)
+#WAVE 0x2B 0x84 ## flute (SOM)
+#WAVE 0x2C 0x1C ## bass (FF6)
+#WAVE 0x2D 0x7A ## kick (SOM)
+#WAVE 0x2E 0x21 ## hard snare (SOM)
+
+{1}
+l16t77%v50 $1 [5v67|Dp64o5aar8|Ea8.|Dar8ar|Ea4  ]|Daar8|Ea8.|Dar8ar|Ea8|Dar  
+ar2^4|Ea8.  |Daar8|Ea8.|Dar8ar|Ea|Dara  [5|Dp64o5aar8|Ea8.|Dar8ar|Ea4  
+]|Daar8|Ea8.|Dar8ar|Ea8|Dar  ar2^4|Ea8.  |Daar8|Ea8.|Dar8ar|Ea4  
+|Daar8|Ea8.|Daraar|Ea8|Da8  [8|Dp64o5aar8|Ea8.|Dar8ar|Ea4  ][4|Dp64o5aar]ar8.[4aar]ar|Ea8[4|Dp64o5aa  
+r]ar8.[3aar]ara|Ea4
+;1
+
+l16
+{2}
+l16 $2 |9[6o5v67a  v37aaav67a[2v37o5aav67av37aa]v67a][2r2  
+^4r8.v37o5a[7v67o5av37aaav67a[2v37o5aav67a  v37aa]v67a]][6o5av37aaav67a[2v37o5aav67av37aa]v67a]av37a  
+aav67av37aav67av37aaaav67ar8.
+;2
+
+l16
+{3}
+l16%e1 $3 |Ap96[2o5v50ga  
+<cdr8decdr8>ga<c>bab  gfr8ef<c>br8abge]ga  <cdr8decdr8>ga<c>efa  
+a+<cr8>fa<cdr8fec>ac>a+  ra+a+ra+<frffrefgeae  faeraefaef<c>bge[2o5cd  
+fgr8gafgr8cdfecd  >gar8<cdagr8efd>a]<cd  fgr8gafgr8cdf>aa+<d  fgr8>a+<dfar8a+afdc>a+  
+ra+a+ra+<frffref[2o5geae  faeraefaef<c>b]gr|8p48%a11%r10>v50o4f8.  
+e2^8g8.f8.  e2^8e8.d2  ^4^c8.d2  ^4^e8.f8.e2  
+^8g8.f8.e2  ^8e8.d2^4  ^c8.d2^4  ^r8.r1  
+r1  r1  r1  
+;3
+
+l16
+{4}
+l16%e1 $4 |Ap32[2o5v50cdfgr8gafgr8cdfe  
+cd>gar8<cdagr8efd>a  ]<cdfgr8gafgr8cdf>a  a+<dfgr8>a+<dfar8a+afd  
+r1  fcdecrfcdecdagec  |Bp32%a15%r9v50[2o5cdafg8<c>g8fc8d4  ^2^4^8.r  
+]cdafg8<c>g8f>f8a+4  ^1  r1  |Ap48<v50o5fcdecrfcdecdagec  
+fcdecrfcdecdager  |8p40%a11%r10>v50o4d8.c2^8e8.  d8.c2^8c8.  >a+2^4^a8.  
+a+2^4^<c8.  d8.c2^8e8.  d8.c2^8c8.  >a+2^4^a8.  
+a+2^4^r8.  r1  r1  r1  
+r1  
+;4
+
+l16
+{5}
+l16%e1 $5 |Bp64%r9o4v100cdafg8<c>g8fc8d4  ^2^4^8rc  
+cdafg8<c>g8fc8d4  ^2^4^8.r  cdafg8<c>g8f>f8a+4  ^1  
+a+<cdef8defga8a+8a8  f1  p48ga<c>a<c8dc8>bg8a4  ^2^4^8r<c  
+>ga<c>a<c8dc8>bg8a4  ^2^4^8.r  ga<c>a<c8dc8>ac8d4  ^1  
+a+<cdef8defga8a+8a8  f1  ^1  p96>f8.e2r8.e32f32g32e32  
+f8.e2r8.e32f32g32<c32  >a2^4r8a32a+32a32f32  d2^4r8c32f32g32<c32  
+d2^e8fgfeg  f8ed4.c>a<c>g<dc>f  g8af2r8da+32<c32>a+32a32  f2^4^r8.  
+r1  r1  r1  r1  
+
+;5
+
+l16
+{6}
+l16%e0 $6 r1  |Cp64%a15%r10[2o5v80ddr4r>d2^  r1  ]a+a+r4ra+8.gaa+aa+<c  
+|B%a15%r9>v80o3gaa+<cd8>a+<cdef8g8f8  d1  r1  |C%a15%r10v80[2o5ddr4r>d2^  
+r1  ]a+a+r4ra+8.gaa+aa+<c  |Bp48%a15%r9v80o4gaa+<cd8>a+<cdef8g8f8  
+d1  ^1  |8p32%a11%r10o3v80a8.a2^8<c8.  >a8.a2^8g8.  
+f2^4^e8.  f2^4^a8.  a8.a2^8<c8.  >a8.a2^8g8.  
+f2^4^e8.  f2^4^r8.  |Cp64%a15%r10v80[6o5dd]d+ccc[5o5dd]>dddddr[6o5dd  
+]d+ccf[5o5dd]>dddr8.
+;6
+
+l16

@@ -1,0 +1,134 @@
+#TITLE Red Moon
+#ALBUM Disgaea
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x4C ## e.piano (RS3)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x31 ## bright piano (FF6)
+
+{1}
+l16t80%v20%e1%b0,70%f0,0 $1 v100p64|0o5%r10m12,18,197e4e8f+8g4a4  
+f+8g8f+8d8>b2  <e4e8f+8g8g8g8b8  a8b8a8g8a2  <c4^8>b8a4e4  
+b4^8a8g4b4  a4g4f+4^8e8  e1  e8e8e8b8a8g8f+8d8  
+e4e8e8e8d8e1  ^4e8e8e8b8a8g8  f+4d2^4  d4e4^8e8e4  
+e8d8e1  e4e8f+8g4a4  f+8g8f+8d8>b2  <e4e8f+8g8g8g8b8  
+a8b8a8g8a2  <c4^8>b8a4e4  b4^8a8g4b4  a4g4f+4^8e8  
+e1  e8e8e8b8a8g8f+8d8  e4e8e8e8d8e1  ^4e8e8e8b8a8g8  
+f+4d2^4  d4e4^8e8e4  e8d8e1  e4e8f+8g4a4  
+f+8g8f+8d8>b2  <e4e8f+8g8g8g8b8  a8b8a8g8a2  <c4^8>b8a4e4  
+b4^8a8g4b4  a4g4f+4^8e8  e1  e8e8e8b8a8g8f+8d8  
+e4e8e8e8d8e1  ^4e8e8e8b8a8g8  f+4d2^4  d4
+;1
+
+l16
+{2}
+l16%e1 $2 v80p64|1o5r<e2^4  
+^8^rd2^4  ^8^re2^4  ^8^re2^4  ^8^re2^4  
+^8^re2^4  ^8^rd4^8^rd+4  ^8^re2^4  ^8^re2^8^r  
+d8^re4^8^rd8^r  e1  ^8^re2^4  ^8^rd2^4  
+^8^re2^8^r  d8^re2^4  ^8^re2^4  ^8^rd2^4  
+^8^re2^4  ^8^re2^4  ^8^re2^4  ^8^re2^4  
+^8^rd4^8^rd+4  ^8^re2^4  ^8^re2^8^r  d8^re4^8^rd8^r  
+e1  ^8^re2^4  ^8^rd2^4  ^8^re2^8^r  
+d8^re2^4  ^8^re2^4  ^8^rd2^4  ^8^re2^4  
+^8^re2^4  ^8^re2^4  ^8^re2^4  ^8^rd4^8^rd+4  
+^8^re2^4  ^8^re2^8^r  d8^re4^8^rd8^r  e1  
+^8^re2^4  ^8^rd2^4  ^8^
+;2
+
+l16
+{3}
+l16%e1 $3 v80p64|1o5g1  f+1  
+g1  a1  a1  g1  
+f+2f+2  g1  g2^4f+4  g2f+4g1  
+^4g1  f+1  g2^4f+4  g1  
+g1  f+1  g1  a1  
+a1  g1  f+2f+2  g1  
+g2^4f+4  g2f+4g1  ^4g1  
+f+1  g2^4f+4  g1  g1  
+f+1  g1  a1  a1  
+g1  f+2f+2  g1  g2^4f+4  
+g2f+4g1  ^4g1  f+1  
+
+;3
+
+l16
+{4}
+l16%e1 $4 v80p64|1o5r32b2^4^8^^  b2^4^8^^  b2^4^8^^  
+<c2^4^8^^  c2^4^8^^  >b2^4^8^^  b4^8^^b4^8^^  
+b2^4^8^^  b2^8^^b8^^  b4^8^^b8^^b1  ^8^^b2^4  
+^8^^b2^4  ^8^^b2^8^^  b8^^b2^4  ^8^^b2^4  
+^8^^b2^4  ^8^^b2^4  ^8^^<c2^4  ^8^^c2^4  
+^8^^>b2^4  ^8^^b4^8^^b4  ^8^^b2^4  ^8^^b2^8^^  
+b8^^b4^8^^b8^^  b1  ^8^^b2^4  ^8^^b2^4  
+^8^^b2^8^^  b8^^b2^4  ^8^^b2^4  ^8^^b2^4  
+^8^^b2^4  ^8^^<c2^4  ^8^^c2^4  ^8^^>b2^4  
+^8^^b4^8^^b4  ^8^^b2^4  ^8^^b2^8^^  b8^^b4^8^^b8^^  
+b1  ^8^^b2^4  ^8^^b2^4  ^8^^32
+;4
+
+l16
+{5}
+l16%e1 $5 v80p24|2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  %r8e4e8f+8g4a4  f+8g8f+8d8>b2  
+<e4e8f+8g8g8g8b8  a8b8a8g8a2  <c4^8>b8a4e4  b4^8a8g4b4  
+a4g4f+4^8e8  e1  e8e8e8b8a8g8f+8d8  e4e8e8e8d8e1  
+^4e8e8e8b8a8g8  f+4d2^4  r1  ^1  
+^4e4e8f+8g4  a4f+8g8f+8d8>b2  <e4e8f+8g8g8g8b8  a8b8a8g8a2  
+<c4^8>b8a4e4  b4^8a8g4b4  a4g4f+4^8e8  e1  
+e8e8e8b8a8g8f+8d8  e4e8e8e8d8e1  ^4e8e8e8b8a8g8  f+4d2^4  
+r4
+;5
+
+l16
+{6}
+l16%e1 $6 v80p34|2o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  %r8>e1  
+b2f+8g8f+8d8  e1  a1  a1  
+e1  d2d+2  e4>b4<e2  e2^4d4  
+e2e8d8e1  ^4e1  >b2^4r1  
+^1  ^4<e1  b2f+8g8f+8d8  e1  
+a1  a1  e1  d2d+2  
+e4>b4<e2  e2^4d4  e2e8d8e1  ^4e1  
+>b2^4r4  
+;6
+
+l16
+{7}
+l16%e1 $7 v80p84|2o5r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2%r8o3b8a8g8f+8  
+e4g4b4g4  d4f+4b4f+4  e4g4b4g4  a4<c4e4c4  
+>a4<c4e4c4  >e4g4b4g4  d4f+4b4f+4  e1  
+e4g4b4b4  e2d4e1  ^4e4g4b4  g4>b2^4  
+r1  ^2^4<b8a8  g8f+8e4g4b4  g4d4f+4b4  
+f+4e4g4b4  g4a4<c4e4  c4>a4<c4e4  c4>e4g4b4  
+g4d4f+4b4  f+4e1  e4g4b4b4  e2d4e1  
+^4e4g4b4  g4>b2^4  r4
+;7
+
+l16
+{8}
+l16%e1 $8 v100p54|3o4r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^4o4bagf+  
+e8g8b8<e8>e8g8b8<e8  >d8f+8b8<d8>d8f+8b8<d8  >e8g8b8<e8>e8g8b8<e8  
+>e8a8<c8e8>e8a8<c8e8  >e8a8<c8e8>e8a8<c8e8  >e8g8b8<e8>e8g8b8<e8  
+>d8f+8b8<d8>d+8f+8b8<d+8  >e8g8b8<e8>b8g8e4  e8g8b8<e8>e8g8d8f+8  
+e8g8b8<e8>b8a8b1  ^4e8g8b8<e8>e8g8  b8<e8>d2^4  r4
+;8
+
+l16

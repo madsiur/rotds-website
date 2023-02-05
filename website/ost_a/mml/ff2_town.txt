@@ -1,0 +1,48 @@
+#TITLE Town
+#ALBUM Final Fantasy II
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x08 ## french horn (FF6)
+#WAVE 0x21 0x32 ## acoustic guitar (FF6)
+#WAVE 0x22 0x13 ## synth strings (FF4)
+#WAVE 0x23 0x18 ## acoustic bass (FF6)
+
+{1}
+l16t75%v32%e1%b0,70%f0,0 $1 v100p60|0o5m24,18,201f8g8a4a8a+8<c4  
+d8e8f4c4a8g8  f8e8f4d4c8>g8  a8a+8a4^8a+ag4  f8g8a4a8a+8<c4  
+d8e8f4c4a8g8  f8e8f4d2  e8f8f2^4  r8^32>f32g+32<c+32f4^8f8d+8>a+8  
+<c8c+8c2>g+4  a+8<c8c+4d+8c+8c4  ^8>a+8<c2^8c8  c+8d+8f4^8f8d+8>a+8  
+<c8c+8c2^8c8  c+8d+8f4g+4g4  f8d+8f2e4  m
+;1
+
+l16
+{2}
+l16%e1 $2 v104p60|1o5r4f8c8>a+8<c8e8c8  
+e8g8a8f8c8f8a8a+8  a8g8f8d8>a+8<d8e8c8  >a+8<c8f8c8>a+8<c8e8c8  
+>a+8<c8f8c8>a+8<c8e8c8  e8g8a8f8c8f8a8a+8  a8g8f8d8>a+8<d8c8e8  
+g8a+8a8a+8a24a+24a24g8a4  r4g+8f8c+8c8>a+8g8  <g4g+8a+8g+8g8f8d+8  
+c+8c8>a+8<c+8f8g+8g8e8  c8g8g+8f8c8>g+8a8<c8  f8a8g+8f8c+8c8>a+8g8  
+<g4g+8a+8g+8g8f8d+8  c+8c8g+8f8c+8c8>a+8g8  <g4c8f8g8a+8<c4  
+;2
+
+l16
+{3}
+l16%e1 $3 v50p80|2o5%a7r4>v80,80f2v50v80,80e2  
+v50v80,80d2v50v80,80c2  v50>v80,80a+2v50<v80,80c2  v50v80,80f2v50v80,80c2  
+v50v80,80f2v50v80,80e2  v50v80,80d2v50v80,80c2  v50>v80,80a+2v50<v80,80c2  
+v50v80,80f2v50>v80,80f2  v50<v80,80c+2v50v80,80d+2  v50>v80,80g+2v50<v80,80f2  
+v50>v80,80a+2v50<v80,80c2  v50v80,80f2v50>v80,80f2  v50<v80,80c+2v50v80,80d+2  
+v50>v80,80g+2v50<v80,80f2  v50v80,80c+2v50v80,80d+2  v50v80,80c2v50<v80,80c4
+;3
+
+l16
+{4}
+l16%e0 $4 v127p34|3o6r4  
+>f2e2  d2c2  >a+2<c2  f2c2  
+f2e2  d2c2  >a+2<c2  f2>f2  
+<c+2d+2  >g+2<f2  >a+2<c2  f2>f2  
+<c+2d+2  >g+2<f2  c+2d+2  c2<c4
+;4
+
+l16

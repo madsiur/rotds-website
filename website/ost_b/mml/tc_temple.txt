@@ -1,0 +1,54 @@
+#TITLE Cloud Temple
+#ALBUM Treasure Conflix
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x22 0xB2 ## drum sequence (TC)
+#WAVE 0x24 0x8B ## e.piano (TC)
+
+{1}
+l16t120%b0,70%f0,0 $1 |0v64p1%l1o3a1  ^1  ^1  g+1  
+^1  ^1  <c1  ^1  
+^1  >e1  ^1  ^1  
+
+;1
+
+l16
+{2}
+l16 $2 |0v64p127%l1o2a1  ^1  ^1  g+1  
+^1  ^1  <c1  ^1  
+^1  >e1  ^1  ^1  
+
+;2
+
+l16
+{3}
+l16 $3 |4v15p64o7c8>f+8b8d+8a8c+8r4  
+;3
+
+l16
+{4}
+l16 $4 |2v127p44o2a8a2^8r4  
+
+;4
+
+l16
+{5}
+l16 $5 |2v127p84o3c8c4c8c4r4  
+;5
+
+l16
+{6}
+l16 $6 |0v1p64o7v144,4d+2^4v144,8^2  
+^4v144,12^2^4  v144,16^2^4v144,20^2  ^4v144,24^2^4  v144,28^2^4v144,32^2  
+^4v144,36^2^4  v144,28^2^4v144,24^2  ^4v144,20^2^4  v144,16^2^4v144,8^2  
+^4v144,4^2^4  v144,1^2^4
+;6
+
+l16
+{7}
+l16r8. $7 |4v7p127o7c8  >f+8b8d+8a8c+8r4
+;7
+
+l16

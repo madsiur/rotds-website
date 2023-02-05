@@ -1,0 +1,100 @@
+#TITLE Believe in Victory
+#ALBUM Sword of Mana
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x0E ## trumpet (FF6)
+#WAVE 0x23 0x1C ## bass (FF6)
+#WAVE 0x24 0x22 ## kick drum (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x0F ## hihat closed (FF6)
+#WAVE 0x27 0x11 ## hihat opened (FF6)
+
+{1}
+l16t142%v32%e1%b0,70%f0,0v60p63|0o5<[8bgec>b8<bgec>b8r4  <bgec>b8<bgec>bab<ceg  
+]r2 $1 o6r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+bgec>b8<bgec>b8r4  <bgec>b8<bgec>b8r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^4<bgec>b8<bgec>b8  r4<bgec>b8<bgec>b8  r4
+;1
+
+l16
+{2}
+l16%e1v60p54|0o5<[8ec>bge8<ec>bge8  
+r4<ec>bge8<ec>bged  egb<c]r2 $2 o6r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ec>bge8<ec>bge8r4  <ec>bge8<ec>bge8r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^4<ec>bge8<ec>bge8  r4<ec>bge8<ec>bge8  
+r4
+;2
+
+l16
+{3}
+l16%e1r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2 $3 v120p44|1o5a8^<e8^c8  g2^4^8f+g  f+8^e8^d8e8^c8^e8  a2^8g4a8  
+e8^32%l1ff+32%l0g4f+4^8d4  ^8e4f8e8f8e4  dc>b4a8^<e8^c8g2  ^4^8f+gf+8^e8^d8  
+e8^c8^e8a2  ^8g4a8e8^32%l1ff+32%l0g4  f+4^8d4^8e4  f8e8f8e4dc>b4  
+r1  ^1  o6c4^8>ba+a4^8ab  <c8>ba+a2g8a8  
+e4^8ff+g4^8f+f  e8ff+g2^4  <c4^8>ba+a4^8ab  <c8>ba+a2g8a8  
+e4^8ff+g4^8f+f  e8ff+g2^4  r1  ^1  
+
+;3
+
+l16
+{4}
+l16%e1r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2 $4 v120p74|2o5e4g4  a8^b8^<c8d4c4  >b8^a8^g8a4g4  a8^b8^<c8d4c4  
+>b8^<c8^>b8a4^8f+4  ^8g4a4<c8>b4  a8g4e4g4a8  ^b8^<c8d4c4>b8  
+^a8^g8a4g4a8  ^b8^<c8d4c4>b8  ^<c8^>b8a4^8f+4  ^8g4a4<c8>b4  
+a8g4r1  ^1  v100<e2c2  e4c2d4  
+>b2<c2  >b4<c2^4  e2c2  e4c2d4  
+>b2<c2  >b4<c2^4  r1  ^1  
+
+;4
+
+l16
+{5}
+l16%e0v60p64|3r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+o4[2e8a8e8a8e8a8e8a8  e8a8e8a8e8a8e8a8  e8a8e8a8e8a8e8a8  e8a8e8a8e8a8a+24a24g+24g24f+24f24  
+]r2 $5 o4e8a8e8a8  e8a8e8a8e8a8e8a8  e8a8e8a8e8a8e8a8  e8a8e8a8e8a8e8a8  
+e8a8e8a8a8<d8>a8<d8  >a8<d8>a8<d8>d8f8d8f8  d8f8d8f8e8a8e8a8  e8a8e8a8e8a8e8a8  
+e8a8e8a8e8a8e8a8  e8a8e8a8e8a8e8a8  e8a8e8a8a8<d8>a8<d8  >a8<d8>a8<d8>d8f8d8f8  
+d8f8d8f8r1  ^1  >a8<e8>a8<e8>a8<e8>a8<e8  >a8<e8>a8<e8>a8<e8>a8<e8  
+>b8<e8>b8<e8>b8<e8>b8<e8  >b8<e8>b8<e8>b8<e>b8<e>b8  <a8<d8>a8<d8>a8<d8>a8<d8  
+>a8<d8>a8<d8>a8<d8>a8<d8  >b8<e8>b8<e8>b8<e8>b8<e8  >b8<e8>b8<e8>b<de8>b24a+24a24g+24g24f+24  
+r1  ^4^8^^r2  
+;5
+
+l16
+{6}
+l16%e0v120p64|4o5br8^<|5dr>|4br8^<|5dr>|4b<|5dr8  
+[5>|4br8^<|5dr>|4br8^<|5dr>|4b<|5dr8  ]>|4br8^<|5dr>|4br8^<|5dr>|4b<|5dr2  
+^4^8%g1d32d32d32d32d32d32d32d32%g0[7>|4br8^<|5dr  >|4br8^<|5dr>|4b<|5dr8]v60v192,120dddddd  
+dddddd%g1d32d32d32d32d32d32d32d2  ^32%g0 $6 o5|4br8^<|5dr8^[11>|4br<|5dr>|4b<|5dr8  
+>|4br8^<|5dr8^]>|4br<|5dr>|4b<|5dr8  >|4br8^<|5dr>|4br8^<|5dr>|4b<|5dr8  
+>|4br8^<|5dr>|4br8^<|5dr%g1d32d32d32d32d32d32d32d32  %g0>|4br8^<|5dr8^[7>|4br<|5dr>|4b<|5dr8  
+>|4br8^<|5dr8^]>|4br<|5drdddd  >|4br8^<|5dr>|4br8^<|5dr>|4b<|5dr8  
+>|4br8^<|5dr>|4br8^<|5dr%g1d32d32d32d32d32d32d32d32  %g0
+;6
+
+l16
+{7}
+l16%e1v60p64|6o5[7|6g+g+|7a+r|6g+g+|7a+r|6g+g+|7a+r|6g+|7a+|6g+|7a+  
+]r1  [8|6g+g+|7a+r|6g+g+|7a+r|6g+g+|7a+r|6g+|7a+|6g+|7a+  ]r2 $7 [26|6g+g+|7a+r|6g+g+|7a+r  
+|6g+g+|7a+r|6g+|7a+|6g+|7a+]
+;7
+
+l16

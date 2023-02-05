@@ -1,0 +1,27 @@
+#TITLE Please, God
+#ALBUM Breath of Fire 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x25 ## pipe organ (FF6)
+#WAVE 0x21 0x3B ## pipe organ 2 (FF6)
+
+{1}
+l16%v50%e1%b0,70%f0,0 $1 t34v50p96|0o5<c+d>bg+a8e8<e8^dc+4  
+a8^g+f+8a8g+8f+8e4  f+edc+d8^dedc+>b<c+8>a8  <dc+>bag+8a<dt33c+8>b8a4  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v50p32|0o5abg+ee8c+8g+8b8a8e8  <f+8^ed8f+8e8>b8g+4  
+<dc+>bab8^b<c+>bag+a8e8  f+8g+f+e8f+ae8d8c+4  
+;2
+
+l16
+{3}
+l16%e1 $3 v60p64|1o5>a4<c+>bag+e8b8a8e8  
+d4^8f+8e4^g+bg+  b4^ag+f+e4ag+f+e  d4e8d8e4aef+g+  
+;3
+
+l16

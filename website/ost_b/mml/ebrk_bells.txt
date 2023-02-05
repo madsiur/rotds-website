@@ -1,0 +1,151 @@
+#TITLE The Prayer Bells do not Toll
+#ALBUM Energy Breaker
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x02 ## electric bass (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x06 ## chorus (FF6)
+#WAVE 0x23 0x35 ## melodic tom (UNK)
+#WAVE 0x24 0x61 ## kick drum (CT)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x0F ## hihat closed (FF6)
+#WAVE 0x27 0x12 ## cymbal (FF6)
+#WAVE 0x28 0x11 ## hihat opened (FF6)
+
+{1}
+l16t135%v32%e1%b0,70%f0,0 $1 v100p64|0%x224o5[2g+rg+rg+8^g+rg+r8g+4  
+][2f+rf+rf+8^f+rf+r8f+4  ][2erere8^erer8e4  ][2d+rd+rd+8^d+rd+r8d+4  
+][2g+rg+rg+8^g+rg+r8g+4  ][2f+rf+rf+8^f+rf+r8f+4  ][2erere8^erer8e4  
+][2d+rd+rd+8^d+rd+r8d+4  ]erere8^erer8e4  f+rf+rf+8^f+rf+r8f+4  
+g+rg+rg+8^g+rg+r8g+4  g+rg+rg+8^f+rf+r8f+4  erere8^erer8e4  f+rf+rf+8^f+rf+r8f+4  
+g+rg+rg+8^g+rg+r8g+4  g+rg+r<g+8^>f+r<f+r8f+8>f+8  erere8^erer8e4  
+f+rf+rf+8^f+rf+r8f+4  d+rd+rd+8^d+rd+r8d+4  erere8^erer8e4  <c+rc+rc+8^c+rc+r8c+4  
+d+rd+rd+8^d+rd+r8>d+4  erere8^f+rf+r8f+4  [2g+rg+rg+8^g+rg+r8g+4  
+]g+1  <g+2r>g+r8g+4  f+1  <f+2r>f+r8f+4  
+e1  <e2r>er8e4  d+1  <d+2r>d+r8d+4  
+[2g+rg+rg+8^g+rg+r8g+4  ][2f+rf+rf+8^f+rf+r8f+4  ]erere8^erer8e4  
+f+rf+rf+8^f+rf+r8f+4  [2g+rg+rg+8^g+rg+r8g+4  g+rg+rg+8^erer8f+4  
+]
+;1
+
+l16
+{2}
+l16%e1 $2 v100p62@5o4m24,18,201<g+8d+a+8d+b2^8  g+8d+a+8d+b4b8<c+8d+8  
+>a+4^8g+a+f+1  g+4%l1a32a+8^^32%l0g+8d+a+8d+b2  ^8g+8d+a+8d+b4b8<c+8  
+d+8d+4^8c+d+>a+1  <c+8^>b8^a+8g+8d+a+8d+b2  ^8g+8d+a+8d+b4b8<c+8  
+d+8c+4^8>b<c+>a+1  <%l1c32c+8^32%l0>b8^a+8g+8d+a+8d+b2  ^8g+8d+a+8d+b4b8a+8  
+g+8g+4^8gg+a+1  ro3ga+<d+ga+<d+gg+<d+c+d+>b<d+>a+<d+  >g+<d+c+d+>b<d+>a+<d+>g+<d+c+d+>b<d+>a+<d+  
+>g+<d+>f+<d+>g+<d+>a+<d+>g+<d+c+d+>b<d+>a+<d+  >g+<d+c+d+>b<d+>a+<d+o3g+b<d+g+<d+>bg+d+  
+<bg+d+>bo6d+>bg+d+eba+bg+bf+b  ebd+bebf+bf+<c+>b<c+>a+<c+>g+<c+  
+>f+<c+>g+<c+>a+<c+>b<c+>g+<d+c+d+>b<d+>a+<d+  >g+<d+c+d+>b<d+>a+<d+>g+<d+c+d+>b<d+>a+<d+  
+>g+<d+>f+<d+>g+<d+>a+<d+>g+<d+c+d+>b<d+>a+<d+  >g+<d+c+d+>b<d+>a+<d+>f+<c+>b<c+>a+<c+>g+<c+  
+>f+<c+>b<c+>a+<c+>g+<c+o4d+ga+<c+d+ga+g  <d+>a+gd+gd+ga+eba+bg+bf+b  
+ebd+bebf+bc+ba+bg+bf+b  ebd+bebf+bd+ba+bg+bgb  fbgbg+bd+be<c+>b<c+>a+<c+>g+<c+  
+>f+<c+>g+<c+>a+<c+>f+<c+>g+<d+c+d+>b<d+>a+<d+  >g+<d+>a+<d+>b<d+c+d+>b<d+>a+<d+>g+<d+>a+<d+  
+>g+<d+>f+<d+>g+<d+>a+<d+r2  >d+2g+2  ^4d+4d+2  ^4^8c+>b<c+2  
+^4>g+8a+8b2  ^8b8a+8b8<c+2  ^8c+8>b8<c+8d+2  ^4>g+4a+2  
+b4<c+4d+1  ^2g+8^a+8^b8  a+4^8d+1  ^8a+8^b8^<c+8>b8^a+8^  
+g+4^8g+4a+8^b8^  a+8<c+8^>b8^a+8a+4^8  g+1  ^1  
+v255,0^1  ^8r2
+;2
+
+l16
+{3}
+l16%e1 $3 v50p24|1o5r1  ^1  ^1  
+^4<c+4>b4a+4  g+1  ^1  g1  
+^4g+4a+4<c+4  >g+1  ^1  a+1  
+^2<c+8^>b8^a+8  b1  ^1  <c+1  
+^4>d+2<c+4  >b2<d+2  c+2>a+2  b1  
+^4<c+4d+4f+4  e2>b2  <c+2>a+2  b1  
+^4g+4<g+4f+4  e2^8e8f+8g+8  f+2c+2  >a+2<c+2  
+e2>b2  <c+2^4>g+4  g2a+2  b2<c+2  
+>b1  b1  g+1  b1  
+a+1  f+2g+4a+4  g+1  f+1  
+d+1  ^1  >g+4^8<d+2^8  g+4^8<d+2^8  
+o4a+4^8<f+2^8  a+4^8<f+2^8  e2^4d+4  c+2>f+2  
+g+1  ^1  >g+1  ^2^4r4  
+
+;3
+
+l16
+{4}
+l16%e1 $4 v50p104|1o5<g+1  ^1  f+1  ^1  
+e1  ^1  d+1  ^4f4g4a+4  
+g+1  ^1  f+1  ^4c+4f+2  
+e1  ^1  d+1  ^2>a+2  
+<e1  f+1  g+2^4a+4  b2^4a+4  
+g+1  f+1  g+2^4a+4  b2^4a+4  
+g+2<d+2  c+2>a+2  g2d+2  g+2^4f+4  
+e2^4e4  d+2a+2  g+2f+2  d+1  
+^1  d+1  ^1  c+1  
+^1  >b1  a+1  g+1  
+g1  g+1  ^1  a+1  
+^1  b1  a+1  b1  
+^1  v200,24^1  v100,0^2^4r4  
+;4
+
+l16
+{5}
+l16%e1 $5 v70p104|2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2<%r10f4g4  g+2g+8a+8b8g+8  
+a+2f+2  g+4^8d+c+d+1  d+8e8f+8a+8g+2  g+8a+8b8<d+8c+2  
+f+2d+1  ^2^4>g+8a+8  b2^rg+8<d+8c+4  ^8>b4a+4g+4g2  
+g8g+8a+8g8b8a+8g+2  a+4b2^rg+8  <d+8c+4^8>b4a+4  g8g+2^8a+8g+8  
+f+8g+1  ^1  ^8v100p62|3r2^4^8  o4fffr2fr8fr1  
+^aagr8br8ar8br8b  r1  ^gfr2^gr8f  r1  
+^aaar8gr4^fr8f  r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^8^
+;5
+
+l16
+{6}
+l16%e1 $6 v120p62|4o6[5|4crcr|5dr|4ccrcr8|5d  
+r|4crcrcr|5dr|4ccrccr|5d  r|4crcrcr|5dr|4ccrcr8|5d  r|4crcrcr|5dr|4ccrccr|5d  
+r|4c|5d]|4crcr|5dr|4ccrcr8|5d  r|4crcrcr|5dr|4ccrccr|5d  r|4c|5d|4crcr|5dr|4ccrcr8|5d  
+r|4c|5d|4c|5d|4cr|5dr|4ccr|5d|4cr|5d  r|4c|5d[2|4crcr|5dr|4ccrcr8|5d  
+r|4crcrcr|5dr|4ccrccr|5d  r|4c|5d]|4crcr|5dr|4ccrcr8|5d  r|4cr[3|4crcr|5dr|4ccrccr|5d  
+r|4c|5d]|4c|5d|4cr|5drd|4cr|5d|4cr|5d  d|4cr2^4^8  ^cccr2|5dr8d  
+r8^|4cr1  ^4^|5d|4cr|5dr8dr1  ^1  
+ddr1  ^4^8^d|4cr|5d|4cr|5dr8  d|4crcr|5dr|4ccrcr8|5dr|4c  rcrcr|5dr|4ccrccr|5dr|4c  
+r[4|4crcr|5dr|4ccrcr8|5dr|4c  rcrcr|5dr|4ccrccr|5dr|4c  |5d]
+;6
+
+l16
+{7}
+l16%e1 $7 v34p62|6o5[16|6v34f+g+f+g+f+g+f+f+g+f+g+g+f+g+f+  
+g+][8|6v34f+g+|8v60a+r|6v34f+g+|8v60a+|6v34g+f+g+|8v60a+r|6v34f+g+|8v60a+  
+r]<|7%r18v100c+^4>|6v34g+|8v60a+|6v34g+f+g+|8v60a+r|6v34f+g+|8v60a+  
+r[8|6v34f+g+|8v60a+r|6v34f+g+|8v60a+|6v34g+f+g+|8v60a+r|6v34f+g+|8v60a+  
+r]<|7%r18v100c+^4^8^>|6v34g+r1  ^|8v60a+|6v34g+r8g+g+<|7%r18v100c+^4^8^>|6v34g+  
+r2^4^8^|8v60a+  |6v34g+r|8v60a+|6v34g+r|8v60a+r<|7%r18v100c+^4^8^>|6v34g+  
+r4^8^<|7%r18v100c+^4^8^>|6v34f+  g+|8v60a+|6v34g+g+rg+g+<|7%r18v100c+^4^8^>|8v60a+  
+r4^bb<|7%r18v100c+^4^8^>|8v60a+  |6v34g+r|8v60a+|6v34g+r|8v60a+r<|7%r18v100c+^8^>|6v34f+g+f+f+g+  
+f+g+g+f+g+f+g+[3|6v34f+g+f+g+f+g+f+f+g+  f+f+g+f+g+f+g+][2<|7%r18v100c+^8^>|6v34f+g+f+f+g+  
+f+g+g+f+g+f+g+f+g+f+g+f+g+f+f+g+  f+f+g+f+g+f+g+]<|7%r18v100c+^8^>|6v34f+g+f+f+g+  
+f+g+g+f+g+f+g+f+g+f+g+f+g+f+f+g+  |8v60a+|6v34g+g+f+g+f+g+
+;7
+
+l16
+{8}
+l16%e1 $8 v100p62|3o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^>crc>bbbr1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^v0|9o6g+2  
+d+1  ^2a+2  d+1  ^2b2  
+a+2f+2  g+1  g2g+4a+4  r2g+2  
+d+1  ^2a+2  d+2a+8^b8^<c+8  d+2^4d+4  
+c+2>a+2  b1  ^1  r1  
+^1  
+;8
+
+l16

@@ -1,0 +1,114 @@
+#TITLE Vulpes (day)
+#ALBUM Final Fantasy: The 4 Heroes of Light
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0A ## oboe (FF6)
+#WAVE 0x21 0x5E ## flute (FF6)
+#WAVE 0x22 0x32 ## acoustic guitar (FF6)
+#WAVE 0x23 0x1F ## ocarina (FF6)
+#WAVE 0x24 0x01 ## spanish guitar (FF6)
+#WAVE 0x25 0x1B ## harp (FF6)
+
+{1}
+l16 $1 t80%v41%b0,70%f0,0v127o5|0p63v63%e1efe4c8d4efg4  a8c4>ab<c4e8d4  
+>g8a8^2<dc>b8  g8b8<d8.ec+8>b8<d8e8  f+8.ga8b8e8b8a8.g  a8f+8^4^r>b<cd>b<e4  
+c8d4efg4a8c4  >ab<c4e8d4>g8a8  ^2<dc>b8g8b8  <d8.ec+8>b8<d8e8f+8.g  
+a8b8e8b8a8.ga8f+8  ^2|1o5p63v47%e1r8>b8<e8f+8  g4f+8>b8g8a8b4  <e8d4e8>g4<d8c8  
+>b8<d8c4|2o4p63v111%e1%g1r8b8<e8f+8  g4a8b8<c8d8d8c8  >g8b4a8<c4>b8g4.  
+e8f+8g8<d2c8  >g8e8f+8g8c4.<e4.  ^8>b8a8g+8a8b8e4  
+;1
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{2}
+l16 $2 v127o5|3p111v31%e1[6r1  
+]r4.e4c8d4  efg4a8c4>ab<c4  e8d4>g8a8^4^4  <dc>b8g8b8<d8.ec+8>b8  
+<d8e8f+8.ga8b8e8b8  a8.ga8f+8^4^8>b8  <e8f+8g4f+8>b8g8a8  b4<e8d4e8>g4  
+<d8c8>b8<d8c4^8e4.  g4f+8g8^4g4.  e4.g4f+8g4.  |3o5p111v47%e1%g1>b4g8crergr<crer  
+gr<c8^4>grercr>dr  ar<drf+rar<dre4r8  c4
+;2
+
+l16c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+
+{3}
+l16 $4 v127o5|4p79v63%e1%g1r4[2e8e8r8e8e8r8  e8e8r8c8c8r8c8c8  
+r8d8d8r8c8c8r8d8  d8r8d8d8r8f+8f+8r8  d8d8r8f+8f+8r8e8e8  r8e8e8j2,3 r8e8e8d+4  
+d8r8] $3 r8>a8<e8d8r1  r1  r1  r4.g8g8r8a8a8  
+r8b8b8r8<c8c8r8>e8  e8r8d+8d+8r8g8g8r8  g8g8r8>g8<c8e8g8<c8  e8r4c8r4r8>>f+8  
+a8<d8f+8a8b8r4g+8  r8
+;4
+
+l16c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  
+{4}
+l16 $6 v127o5|4p79v63%e1%g1r4[2c8c8r8>b8b8r8  a8a8r8g8g8r8f8f8  
+r8g8g8r8a8a8r8b8  b8r8g8g8r8a8a8r8  g8g8r8a8a8r8a8a8  r8a+8a+8j2,5 r8a8a8a4  
+g+8r8<] $5 r8f+8a8a8r1  r1  r1  <r4.e8e8r8d8d8  
+r8d8d8r8d+8d+8r8>a8  a8r8a8a8r8<e8e8r8  e8e8r8>e8g8<c8e8e4  r4g8r4r8>d8f+8  
+a8<d8f+8g+8r4d8r8  
+;6
+
+l16c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+
+{5}
+l16 $8 v127o3|4p47v79%e1%g1r8[2a4r8g4r8f4  r8e4r8d4r8e4  r8f4r8f4r8e4  
+r8b4r8e4r8b4  r8<c4r8>f+4r8j2,7 b4  r4.e8] $7 b4r4  b4r2r4  
+r1  r1  r4e4r8f+4r8  g4r8g4r8f+4  
+r8b4r8c4r8c+4  r8a4r8r2  r2r8e4r8  r4.e4r8e4  
+
+;8
+
+l16c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{6}
+l16 $9 v127o2|4p47v127%e1[6r1  ]r8a4r8g4r8f4  r8e4r8<d4r8e4  
+r8f4r8f4r8e4  r8>b4r8<e4r8>b4  r8<c4r8f+4r8>b4  r4.b8<c+4r8d+4  
+r8e4r8g4r8c4  r8c4r8f4r8f4  r8e4r8f+4r8g4  r8g4r8f+4r8b4  
+r8c4r8c+4r8a4  r8r2r2  r8e4r8r4.e4  r8e4
+;9
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{7}
+l16 $10 v127o5|5p79v63%e1[6r1  
+]r4a4r8b4r8  <c4r8>b4r8a4  r8b4r8<c4r8d4  r8>b4r8a4r8b4  
+r8a4r8b4r8a4  r8a4a4r8e4  r8f+4r8g4r8f4  r8e4r8d+4r8e4  
+r8d+4r4g8g8r8  a8a8r8b8b8r8<c8c8  r8>e8e8r8d+8d+8r8g8  g8r8g8g8r8>g8<c8e8  
+g8<c8e8r4c4r4  >>f+8a8<d8f+8a8b8r4  g+4
+;10
+
+l16c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{8}
+l16 $11 v127o5|3p63v79%e1[5r1  
+]r2r4.b<c  d>b<e4c8d4efg4  a8c4>ab<c4e8d4  >g8a8^2<dc>b8  
+g8b8<d8.ec+8>b8<d8e8  f+8.ga8b8e8b8a8.g  a8f+8^2r8[8er  >brer<]>>b8<e8f+8g4a8  
+b8<c8d8d8c8>g8b4  a8<c4>b8g4.e8  f+8g8<d8^2^4  ^2^8e8^4  
+^1  
+;11
+
+l16c1  c1  c1  

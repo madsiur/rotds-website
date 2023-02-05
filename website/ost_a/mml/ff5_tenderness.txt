@@ -1,0 +1,113 @@
+#TITLE Tenderness in the Air
+#ALBUM Final Fantasy V
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x0A ## oboe (FF6)
+#WAVE 0x22 0x58 ## french horn (RS3)
+#WAVE 0x23 0x0D ## strings (FF6)
+#WAVE 0x24 0x01 ## spanish guitar (FF6)
+
+{1}
+l16%b0,70%v50%x248v80p60|0%e1m12,20,195o5t85e4t82d4t79c4t76>g+4  
+t85|1%a10%r3r8o6c8>b8<c8>a8<c8>g8<c8  >g4f4e2  r8f8e8f8g8d8e8f8  
+e1  r8<c8>b8<c8>a8<c8>g8<c8  >g4f4e4.de  f4.<c8c4.>de  
+f4.<c8c2  t79r4t76r4t73r4t70r4  t85 $1 >g8<g8f8e8d8c8>b8<c8  e2>b2  
+e8<e8d8c8>b8a8g+8a8  <c2>f4g8f8  e4.f8g8e8g8<c8  e2>b4g+8a8  
+<f2>a4g+8a8  <e2>b2  <c1  r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  
+;1
+
+l16
+{2}
+l16v80p60|0%e1o5c8>e8g+8f8g8e8f8d8  r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+ $2 r1  r1  r1  r1  
+r1  r1  r1  r1  
+|2m12,20,195o5v104e4<e2^4  ^2^4^8>ef  e4<e2^4  ^1  
+r8c8>b8<c8>a8<c8>g8<c8  >g4f4e2  r8f8e8f8g8d8e8f8  e1  
+r8<c8>b8<c8>a8<c8>g8<c8  >g4f4e4.de  f4.<c8c4.>de  f4.<c8c2  
+
+;2
+
+l16
+{3}
+l16v80p60|0%e1o4c4>g+4g4f4  c8g8<c8e8>c8a8<c8f8  >d8g+8<d8f8>c8g8<c8e8  
+>d8a8<d8f8>d8b8<d8g8  >c8g8<c8e8>c8g+8<d8f8  >c8g8<c8e8>c8a8<c8f8  
+>d8g+8<d8f8>c8g8<c8e8  >d8a8<d8f8a2  >d8g+8<d8f8g+2  r1  
+ $3 >c8<c8e8g8<c2  >>>b8<b8<e8g+8b2  >e8a+8<d8g8a4c+4  >f8<c8f8a8<c2  
+>c8e8g8>b8a8<e8g8>g8  f+8<c8f+8a8<d2  >>f8<c8f8a8<c2  >>g8b8<d8g8b2  
+>c8g8<c8e8a2  >c8g8<c8e8g+2  >c8g8<c8e8a2  >c8g8<c8e8g+2  
+>c8g8<c8e8>c8a8<c8f8  >d8g+8<d8f8>c8g8<c8e8  >d8a8<d8f8>d8b8<d8g8  
+>c8g8<c8e8>c8g+8<d8f8  >c8g8<c8e8>c8a8<c8f8  >d8g+8<d8f8>c8g8<c8e8  
+>d8a8<d8f8a8r4.  >d8g+8<d8f8g+8r4.  
+;3
+
+l16
+{4}
+l16v30p30|3%a7%r4%e1m24,20,195r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+o6e4d4c4>g+4   $4 g2<e2  >b1  a+2a4<c+4  
+e4d4g4f4  e2c2  c2d2  f1  
+e2d+2  e2f2  e2d2  e2f2  
+e2d2  c1  ^1  d1  
+c2d4e4  ^2f2  d4f4e2  f1  
+^1  >
+;4
+
+l16
+{5}
+l16v34p50|3%a7%r4%e1m24,20,195r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  o5a2g4f4   $5 e2g2  
+g+1  g1  a2g+2  g1  
+a1  a1  b1  <c1  
+^1  c1  ^1  >e2f2  
+^2e2  f1  e2f2  g2f2  
+^2e2  a1  g+1  
+;5
+
+l16
+{6}
+l16v50p70|3%a7%r4%e1m24,20,195r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+o5g4f2d4   $6 c1  e2d2  d2c+2  
+c1  c2>a2  f+1  f1  
+^1  g2a2  g2g+2  g2a2  
+g2g+2  g2a2  g+2g2  <d2c4>b4  
+<c2>a+2  <c2>a2  g+2g2  <c1  
+^1  
+;6
+
+l16
+{7}
+l16v50p90|3%a7%r4%e1m24,20,195r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  o4f1   $7 c1  
+>b1  <e2>a2  <f2d2  c2>a2  
+f+1  f1  g1  <c1  
+^1  c1  ^1  c1  
+d2c2  d2>g2  <c1  c1  
+d2c2  f1  d1  
+;7
+
+l16
+{8}
+l16v80p60|4%a12%r10m24,8,199r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+r1   $8 o4c2^4c4  >b1  <e4.e8>a4.a8  
+<f2d2  c4.c8>a4.a8  f+1  f2^4f4  
+g1  r1  r1  r1  
+r1  r1  r1  r1  
+r1  r1  r1  r1  
+r1  
+;8
+
+l16

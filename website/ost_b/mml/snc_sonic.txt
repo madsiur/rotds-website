@@ -1,0 +1,85 @@
+#TITLE Sonic
+#ALBUM Sonic
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x20 ## marimba (FF6)
+#WAVE 0x21 0xA6 ## piano (FM)
+#WAVE 0x22 0x49 ## violin (RS3)
+#WAVE 0x23 0x06 ## chorus (FF6)
+#WAVE 0x24 0x24 ## tubular bell (FF6)
+
+{1}
+l16t60%v25%e1%b0,70%f0,0 $1 v70p63|0o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^8%r12f+8<f+8e8m12,22,215d2  mr8>f+8<e8d8c+4>b4  <b4a4g4f+4  m12,22,215a4^8mg8f+4m12,22,215e4  
+mr8>f+8b8<c+8d8c+8>b8f+8  r8f+8<c+8d8b8a8g8f+8  r8>b8<e8f+8g8f+8a8g8  
+f+4e4d4c+4  r1  ^1  ^8e8f+8e8g8f+8a8g8  
+f+4e4c+4d4  r1  ^1  ^1  
+^1  
+;1
+
+l16
+{2}
+l16%e1r1   $2 v120p63|2o3r1  ^1  
+^1  ^1  ^1  ^1  
+^1  %r12<c+8>b8<c+8d8g8d8c+8>b8  <c+4^8>g+8a+4b4  <d2c+4^8>b8  
+f+2^4r8f+8  <f+4^8e8d4c+4  e4d4>f+4g+4  <d2c+4^8>f+8  
+b4a+4g4a4  v100,0f+1  r1  ^1  
+^1  %yv100|4p62o5%r16b8^2^8^4  b8^2^8^4  b8^2^8^4  
+r1  %y%r14p63|3o4<b8d8f+8d8<c+8>d8f+8d8  <d8>d8f+8d8<e8>f+8<d8c+8  
+>v80,0b8^2r1  ^4^8v80<c+8>b8d8a8g4  f+4<f+8e8>f+8<d8c+4  >b4<g8f+8a8g8f+8e8  
+g8f+8e8d8c+8>f+8b4  a+4v60v150,0e1  
+;2
+
+l16
+{3}
+l16%e1 $3 v100p83|1o5%r16e4e4d+4d+4  
+d4d4c+4c+4  >b4b4a+4a+4  a4a4g+4g+4  <c+4c+4c+4c+4  
+e4e4f+4e4  d4d4c+4c+4  >b4b4a+4b4  <e4e4d+4d+4  
+d4d4c+4c+4  >b4b4a+4a+4  a4a4g+4g+4  b4b4a+4a+4  
+b4b4<c+4c+4  c+4c+4e4e4  c+4c+4d4d4  >b4b4b4b4  
+b4b4b4b4  b4b4<c4c4  d4d4c+4c+4  >b4b4b4b4  
+b4b4b4b4  b4b4<c4c4  d4d4c+4c+4  >b2b2  
+b2b4b4  b2<c4c4  d4d4c+4c+4  >b2b2  
+b2b4b4  b2<c4c4  d4d4c+2  
+;3
+
+l16
+{4}
+l16%e1 $4 v104p73|1o5%r16>b4b4b4b4  
+b4b4b4b4  f+4f+4f+4f+4  f+4f+4f+4f+4  b4b4a+4a+4  
+b4b4b4a+4  f+4f+4f+4f+4  g4g4g4f+4  b4b4b4b4  
+b4b4b4b4  [4f+4f+4f+4f+4  ]b4b4b4b4  g4g4g+4a+4  
+[2f+4f+4g4g4  g+4g+4a4g+4  g4g4g4g4  b4b4b4a+4  
+]f+2g2  g+2a4g+4  g2g4g4  b4b4b4a+4  
+f+2g2  g+2a4g+4  g2g4g4  b4b4a+2  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v104p53|1o5%r16>g4g4g4g4  g4g4g4g4  d4d4d4d4  
+d4d4d4d4  g4g4g4g4  g4g4g4f+4  d4d4e4e4  
+e4e4e4e4  g4g4g4g4  g4g4g4g4  d4d4d4d4  
+d4d4d4d4  d4d4d4d4  d4d4d4d4  f+4f+4g4g4  
+e4e4e4f4  d4d4d4d4  d4d4d4d+4  e4e4e4f4  
+g4f+4f4e4  d4d4d4d4  d4d4d4d+4  e4e4e4f4  
+[2g4f+4f4e4  d2d2  d2d4d+4  e2e4f4  
+]g4f+4e2  
+;5
+
+l16
+{6}
+l16%e1 $6 v100p43|1%r16o3e4e4e4e4  e4e4e4>a+4  
+b4b4b4b4  b4b4b4<d+4  >g4g4g4g4  g4g4g4f4  
+f+4f+4f+4f+4  f+4f+4d4>a+4  <e4e4e4e4  e4e4e4>a+4  
+b4b4b4b4  b4b4b4<d+4  c+4c+4c+4c+4  c+4c+4c+4f4  
+f+4f+4f+4f+4  f+4f+4d4>a+4  b4b4b4b4  b4b4b4<d+4  
+[3e4e4g4f4  f+4f+4d4>a+4  b4b4b4b4  b4b4b4<d+4  
+]e4e4g4f4  f+4f+4d4>a+4  
+;6
+
+l16

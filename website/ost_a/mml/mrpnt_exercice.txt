@@ -1,0 +1,91 @@
+#TITLE Creative Exercise
+#ALBUM Mario Paint
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x18 ## acoustic bass (FF6)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x0A ## oboe (FF6)
+#WAVE 0x24 0x30 ## wood block (FF6)
+
+{1}
+l16t66%v20%e0 $1 v120p64|0o4[4a+8f8a+8d+8g+8d+8g+8d+8  ]d+8a+8g+8<d+8c+8>g+8<c+8>g+8  
+<c8>g8f8<c8>a+8f8a+8f8  d+8a+8g+8<d+8c+8>g+8a+8f8  g8<c+8c8>g8f8e8d+g+r^  
+d+^g+^<d+^>g+^d+^g+^<d+^>g+^  <c+^>g+^f+^c+^f^<c^>a+^f^  d+^g+^<d+^>g+^<c+^>g+^a+^f^  
+d+^a+^g+^<d+^c+^>g+^a+^f^  d+^a+^g+^<d+^c+^>g+^<c+^>g+^  <d+^>g+^<d+^>g+^<c+^>g+^<c+^>g+^  
+<d+^>g+^<d+^>g+^
+;1
+
+l16
+{2}
+l16%e1 $2 v80p84|1o5r<c+32r^32c+32r^32c+32r^32c+32r  
+^32c32r^32c32r^32c32r^32c32[3r^32c+32r^32c+32r^32c+32r^32c+32r  
+^32c32r^32c32r^32c32r^32c32]r^32c+32r^32c+32r^32c32r^32c32r  ^32c32r^32c32r^32>a+32r^32a+32r^32a+32r^32a+32r^32a32r^32a32r  
+^32g+32r^32g+32r^32g32r^32g32r^32f+32r^32f+32r^32f+32r^32f+32r  
+^32f32r^32f32r^32g+32r^32g+32r^32<c+32r^32c+32r^32c32r^32c32r  ^32c32r^32>b32r32a+32r32a+32r8^^32f+32r^32f+32r^32f+32r^32f+32r  
+^32f+32r^32f+32r^32f+32r^32f+32r^32f32r^32f32r^32e32r^32e32r  ^32d+32r^32d+32r^32d32r^32d32r^32f+32r^32f+32r^32f+32r^32f+32r  
+^32f32r^32f32r^32g+32r^32g+32r^32g32r^32g32r^32f+32r^32f+32r  ^32f32r^32f32r^32g+32r^32g+32r^32f+32r^32f+32r^32f+32r^32f+32r  
+^32f32r^32f32r^32f32r^32f32r^32f+32r^32f+32r^32f+32r^32f+32r  ^32f32r^32f32r^32f32r^32f32r^32f+32r^32f+32r^32f+32r^32f+32r32
+;2
+
+l16
+{3}
+l16%e1 $3 v80p44|1o5r  
+g+32r^32g32r^32g+32r^32g32r^32g32r^32f32r^32g32r^32f32[3r^32  g+32r^32g32r^32g+32r^32g32r^32g32r^32f32r^32g32r^32f32]r^32  
+<f+32r^32f+32r^32f+32r^32f+32r^32f32r^32f32r^32f32r^32f32r^32  f+32r^32f+32r^32d+32r^32d+32r^32c+32r^32c+32r^32c+32r^32c+32r^32  
+c+32r^32c+32r^32c32r^32c32r^32c32r^32c32r^32c+32r^32c+32r^32  >a+32r^32a+32r^32a+32r^32a+32r^32g+32r^32g+32r32f+32r32f+32r8^^32  
+o6c+32r^32c32r^32c+32r^32c32r^32c+32r^32c32r^32c+32r^32c32r^32  
+c32r^32o5a+32r^32g+32r^32g+32r^32g+32r^32g+32r^32g+32r^32g+32r^32  
+o6c+32r^32c32r^32c+32r^32c32r^32c32r^32c32r^32d32r^32d32r^32  c+32r^32c+32r^32c32r^32c32r^32c32r^32c32r^32d32r^32d32r^32  
+c+32r^32c+32r^32c32r^32c32r^32c32r^32o5a+32r^32o6c32r^32o5a+32r^32  
+o6c+32r^32c32r^32c+32r^32c32r^32c32r^32o5a+32r^32o6c32r^32o5a+32r^32  
+o6c+32r^32c32r^32c+32r^32c32r32
+;3
+
+l16
+{4}
+l16%e1 $4 v50p74|2o5r1  
+^1  <d+4^8cc+d+4^8fc  d+4^8cc+d+2  v50%a8o4a+4<c4>g+4f4  
+a+4a4<c4>a+4  <c+4c4d+4c+4  f4e4d+8d8c+8%yr1  ^8^32v60>f8^^e8^^d+8^^d8  
+^^32r1  a+8^^<c8^^>g+8^^f8^^  a+8^^o5v80c32c+32d32d+32e32f32f+32g32g+4^a+32r32f32r32c+32r32  
+g+4^a+32r32<c+32r32>a+32r32g+4^a+32r32f32r32c+32r32  g+4^8^^
+;4
+
+l16
+{5}
+l16%e1 $5 v80p64|3o5%r8[2a+r<crc+rfr  
+d+32r32f32r32d+32r32c32r4^32c+32r32d+32r32c+32r32>a+32r4^32  <c32r32c+32r32c32r32>g+32r4^32]v70<g+rf+ra+rf+r  
+e^f32r32g+8^r8d^d+32r32f+8^f8  c^c+32r32f8^r8f32r32d+32r32d32r32d+32r32g+32r^32f32r^32  
+d+8c+32r^32c32r32c+32r32f32r32g+32r32<c8>a+32r32a^a+32r32<d+32r32c32r32  
+>m12,22,239g+4^32mr^32v80o4g+[2aa+8g+aa+8g+a  a+8g+aa+o5fo4g+]aa+8g+aa+8g+a  
+a+8g+aa+8v90<g+32r32a32r32a+o6c+o5a+e32r32fg+fm12,22,239c+4  ^mr8g+32r32a32r32a+o6c+o5a+e32r32fg+fm12,22,239c+4  
+mr1  ^2^4^
+;5
+
+l16
+{6}
+l16%e1 $6 v60p54|4o4[4dgd  gdgdgdgdgdgdg]<[2c32r32c32r32c32r32  
+c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32r32]c32r32c32r32c32c32c32r32  
+c32r32c32r32c32r32c32r32c32r32c32r32c32c32c32r32c32r32c32r32c32r32c32r32c32r32c32r32c32c32c32r32  
+c32r32c32r32c32r32c32r32c32r32c32r32c32c32c32r32c32r32c32r32>g<cr^32^32>d32d32g32d32  
+d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32[2g32r32d32d32g32d32  
+d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32r32d32r32]g32r32d32d32g32d32  
+d32r32g32r32d32r32g32r32d32r32g32r32d32d32g32d32d32r32g32r32d32r32g32r32d32r32g32r32d32d32g32d32  
+d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32g32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32g32  
+d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32g32d32r32g32r32d32r32g32r32d32r32g32r32d32r32g32g32  
+d32r32g32r32d32r32g32r32d32r32g32r32
+;6
+
+l16
+{7}
+l16%e1 $7 v24p64|3o5%r8r32[2a+r<crc+rfrd+32r32f32  
+r32d+32r32c32r4^32c+32r32d+32r32c+32r32>a+32r4^32<c32r32c+32  r32c32r32>g+32r4^32]v14<g+rf+ra+rf+re^32  
+r32f32r32g+8^r8d^d+32r32f+8^f8c^  c+32r32f8^r8f32r32d+32r32d32r32d+32r32g+32r^32f32r^32d+8  
+c+32r^32c32r32c+32r32f32r32g+32r32<c8>a+32r32a^a+32r32<d+32r32c32r32>m12,22,239g+4  
+mr^32^32v24o4g+[2aa+8g+aa+8g+aa+8g+a  a+o5fo4g+]aa+8g+aa+8g+aa+8g+a  
+a+8<g+32r32a32r32a+o6c+o5a+e32r32fg+fm12,22,239c+4^  mr8v34g+32r32a32r32a+o6c+o5a+e32r32fg+fm12,22,239c+4^32mr1  
+^2^4
+;7
+
+l16

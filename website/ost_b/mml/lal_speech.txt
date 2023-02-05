@@ -1,0 +1,43 @@
+#TITLE Uranus' Speech
+#ALBUM Live A Live
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+
+{1}
+l16t91%v50%e1%b0,70%f0,0 $1 v60p64|0o5>d+8a+8<d+8f8f+8a+8<d+8>a+8  
+>c+8g+8<c+8d+8f8g+8<c+8>g+8  o3b8<f+8b8<c+8d+8f+8b8f+8  o3a+8<f8a+8<c8c+8f8a+8<c8  
+o3g+8<d+8g+8a+8b8<d+8g+8a+8  o3a+8<f8a+8<c8d8f8a+8g+8  >d+8a+8<d+8f8f+8a+8<d+8f8  
+f+8d8d+8>a+8g+8f+8f^12d+12>a+12  >b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>bf+  
+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+>g+  d+a+<d+ff+a+<fd+f+dd+>a+f+fd+>a+  
+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+<d+ff+  >b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>bf+  
+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+>g+  d+a+<d+ff+a+<fd+f+dd+>a+f+fd+>a+  
+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+12<d+12f+12  
+;1
+
+l16
+{2}
+l16%e1 $2 o5v10p0|0r8>d+8a+8<d+8f8f+8a+8<d+8  
+>a+8>c+8g+8<c+8d+8f8g+8<c+8  >g+8o3b8<f+8b8<c+8d+8f+8b8  f+8o3a+8<f8a+8<c8c+8f8a+8  
+<c8o3g+8<d+8g+8a+8b8<d+8g+8  a+8o3a+8<f8a+8<c8d8f8a+8  g+8>d+8a+8<d+8f8f+8a+8<d+8  
+f8f+8d8d+8>a+8g+8f+8f12d+12  >a+12>b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>b  
+f+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+  >g+d+a+<d+ff+a+<fd+f+dd+>a+f+fd+  
+>a+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+<d+f  f+>b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>b  
+f+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+  >g+d+a+<d+ff+a+<fd+f+dd+>a+f+fd+  
+>a+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+8r  
+;2
+
+l16
+{3}
+l16%e1 $3 v10p127|0o5r8^>d+8a+8<d+8f8f+8a+8<d+8  
+>a+8>c+8g+8<c+8d+8f8g+8<c+8  >g+8o3b8<f+8b8<c+8d+8f+8b8  f+8o3a+8<f8a+8<c8c+8f8a+8  
+<c8o3g+8<d+8g+8a+8b8<d+8g+8  a+8o3a+8<f8a+8<c8d8f8a+8  g+8>d+8a+8<d+8f8f+8a+8<d+8  
+f8f+8d8d+8>a+8g+8f+8f12d+12  >a+12>b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>b  
+f+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+  >g+d+a+<d+ff+a+<fd+f+dd+>a+f+fd+  
+>a+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+<d+f  f+>b<f+b<c+d+f+<c+>b<d+>a+bf+d+c+>b  
+f+c+g+<c+d+fg+<d+c+fcc+>g+fd+c+  >g+d+a+<d+ff+a+<fd+f+dd+>a+f+fd+  
+>a+o6f12d+12>a+12f+12f12d+12>a+12f+12f12>a+8
+;3
+
+l16

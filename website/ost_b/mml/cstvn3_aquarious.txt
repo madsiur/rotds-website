@@ -1,0 +1,112 @@
+#TITLE Aquarious
+#ALBUM Castlevania 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x36 ## sawtooth (UNK)
+#WAVE 0x21 0x34 ## strings (TOTR)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x12 ## cymbal (FF6)
+#WAVE 0x24 0x11 ## hihat opened (FF6)
+#WAVE 0x25 0x4F ## closed hihat (RS3)
+#WAVE 0x26 0x22 ## kick drum (FF6)
+#WAVE 0x27 0x56 ## snare drum 2 (RS3)
+#WAVE 0x28 0x9A ## overdrive guitar (GH)
+#WAVE 0x29 0x25 ## pipe organ (FF6)
+
+{1}
+l16t138%v25%e1%b0,70%f0,0[2v50p63|8o6m24,16,215d>a<e>a<f>a<g>a<a>a<g>a<f>a<e>a  
+<d>a<e>a<f>a<g>a<a>a<g>a<f>a<e>a  <d>a<e>a<f>a<g>a<a>a<g>a<f>a<e>a  
+<d>fa+<cd>fa+<ce8e8%l1e32f^32%l0g8  v100p63|0o6%l1e32f32%l0e8d8>ga4<d8e8f8  
+%l1e32f32%l0e8c8ga4>a8<c8e8  %l1e32f32%l0e8d8^%l1c32d32%l0c8>a+8^a+a+<dd  
+%l1g32a8^32%l0g4^>aa<c+c+eegg  %l1e32f32%l0e8d8>ga4<d8e8f8  %l1e32f32%l0e8c8ga4>a8<c8e8  
+%l1e32f32%l0e8d8^%l1c32d32%l0c8>a+8^a+a+<dd  %l1g32a8^32%l0g4^>aa<c+c+eegg  
+%l1e32f32%l0e8f8e8f8^e8%l1f32g^32%l0f8  %l1e32f32%l0e8f8e8f8^e8%l1a32a+^32%l0a8  
+a4^gfg%l1g32a4^32%l0fgf  %l1g32a8^32%l0g8^%l1g32a^32%l0g8^f8^e8  
+%l1e32f32%l0e8f8e8f8^e8%l1f32g^32%l0f8  %l1e32f32%l0e8f8e8f8^e8%l1a32a+^32%l0a8  
+a4^gfg%l1g32a4^32%l0fgf  %l1g32a8^32%l0g8^%l1g32a^32%l0g8^f8^e8  
+]d2v100,24^4^
+;
+
+l16
+{2}
+l16%e1v60p63|9o5m48,18,227[2r1  ^1  ^1  
+^1  >a2^<def%l1d32e32%l0d>a8  a2^<def%l1d32e32%l0d>a8  <%l1c32d32%l0c8>a+8^%l1a32a+32%l0a8g8^gga+a+  
+<%l1e32f8^32%l0d4^c+c+eegga+a+  >a2^<def%l1d32e32%l0d>a8  a2^<def%l1d32e32%l0d>a8  
+<%l1c32d32%l0c8>a+8^%l1a32a+32%l0a8g8^gga+a+  <%l1e32f8^32%l0d4^c+c+eegga+a+  
+r1  ^1  ^1  <%l1c32d8^32%l0f8^%l1f32g^32%l0d8^%l1e32f8^32%l0e8  
+mm24,16,227v192,0d1  mm48,18,227v60r1  ^1  d+8^%l1d32d+8^32%l0d+8>a8^%l1g32a8^32%l0a8  
+]
+;
+
+l16
+{3}
+l16%e1v100p74|1o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^4edefefgfga+aa+  a4edefefgfgaga  aa+<cd4^>a<def4^  r1  
+^4>edefefgfga+aa+  a4edefefgfgaga  aa+<cd4^>a<def4^  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^4>edefefgfga+aa+  a4edefefgfgaga  aa+<cd4^>a<def4^  r1  
+^4>edefefgfga+aa+  a4edefefgffaga  aa+<cd4^>a<def4^  
+;
+
+l16
+{4}
+l16%e0v100p54|2[2o6d4r8ddef<c>b8a8^  
+c4r8ccef<c>b8a8^  >b4r8gga<dfd8>a8^  a+2<c8g<c>c+8a<c+  >d8<dd>d8<dd>d8<dd>d8<dd  
+>c8<cc>c8<cc>c8<cc>c8<cc  o5g8<gg>g8<gg>g8<gg>a8<aa  >a+8<a+a+>a+8<a+a+>a8<aa>a8<ae  
+d8<dd>d8<dd>d8<dd>d8<dd  >c8<cc>c8<cc>c8<cc>c8<cc  o5g8<gg>g8<gg>g8<gg>a8<aa  
+>a+8<a+a+>a+8<a+a+>a8<aa>a8<ae  g+8g+8g+8g+8g+8g+8g+<g+>g+g+  g8g8g8g8g8g8g<gfe  
+f8f8f8f8>a+8a+8<c8d8  d+8<d+>d+8<d+>d+<d+o6a<agfedc>a  g+8g+8g+8g+8g+8g+8g+<g+>g+g+  
+g8g8g8g8g8g8g<gfe  f8f8f8f8>a+8a+8<c8d8  d+8<d+>d+8<d+>d+<d+o6a<a>a<a>b<ac+a  
+]>d4
+;
+
+l16
+{5}
+l16%e1v100p64|3[2o5v110|3c+4v40|4a+4a+4  a+v110|3c+8^c+4v40|4a+4a+4  
+a+v110|3c+8^c+4v40|4a+4a+4  a+v110|3c+8^c+4v40|4a+4a+4  a+4v80c+^v40|5[15f+f+f+r]f+f+v80|4c+^v40|5f+f+  
+f+rf+f+f+rf+f+f+rf+f+f+rf+f+  f+rf+f+f+rf+f+f+rf+f+f+rf+f+  f+rf+f+f+rf+f+f+rf+f+f+rf+f+  
+f+rf+f+f+rf+f+f+r8^v80|4c+^v40[14a+a+  a+r]a+a+a+r8^v80c+^v40a+a+a+ra+a+  
+a+ra+a+a+ra+a+a+ra+a+a+ra+a+  a+ra+a+a+ra+a+a+ra+a+a+ra+a+  a+ra+a+a+ra+a+a+ra+a+a+ra+a+  
+r2]v110|3c+4
+;
+
+l16
+{6}
+l16%e0v127p64|6o5[2|6c4  r2^c8^c4  r2^c8^c4  
+r2^c8^c4  r4c4%g1|7d32d32d32d32%g0|6c|7d|6c4  |7d8^|6cr8cr|7d4|6c4  
+|7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7drdd|6c4  
+|7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  
+|7d8^|6cr8cr%g1|7d32d32d32d32%g0|6c|7d|6c4  |7d8^|6cr8cr|7d4|6c4  
+|7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7drdd|6c4  
+|7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  |7d8^|6cr8cr|7d4|6c4  
+|7d8^|6c%g1|7d32d32d32d32%g0dddddd]|6c4  
+;
+
+l16
+{7}
+l16%e1[2|9v60p44o5d2^4^d8^  
+c2^4^c8^  >b2^4^b8^  a+2<c4c+4  v51p43|8d8ddd8ddd8ddd8dd  
+c8ccc8ccc8ccc8cc  >g8ggg8ggg8gga8aa  a+8a+a+a+8a+a+a8aaa8ae  <d8ddd8ddd8ddd8dd  
+c8ccc8ccc8ccc8cc  >g8ggg8ggg8gga8aa  a+8a+a+a+8a+a+a8aaa8ae  g+8g+g+g+8g+g+g+8g+g+g+<g+>g+g+  
+g8ggg8ggg8ggg<gfe  f8fff8ff>a+8a+a+<c8dd  d+8<d+>d+8<d+>d+<d+o4a<agfedc>a  
+g+8g+g+g+8g+g+g+8g+g+g+<g+>g+g+  g8ggg8ggg8ggg<gfe  f8fff8ff>a+8a+a+<c8dd  
+d+8<d+>d+8<d+>d+<d+o4a<a>a<a>b<ac+a  ]d2^4^
+;
+
+l16
+{8}
+l16%e1v40p84|8[2o4a2  
+^4^a8^g2  ^4^g8^g2  ^4^g8^f2  g4g+4a8aaa8aa  
+a8aaa8aag8ggg8gg  g8ggg8ggd8ddd8dd  d8dde8eef8fff8ff  e8eee8e>b<a8aaa8aa  
+a8aaa8aag8ggg8gg  g8ggg8ggd8ddd8dd  d8dde8eef8fff8ff  e8eee8e>b<d+8d+d+d+8d+d+  
+d+8d+d+d+<d+>d+d+d8ddd8dd  d8ddd<dc>b<c8ccc8cc  >f8ffg8aaa+8<a+>a+8<a+>a+<a+  
+>e<edc>baged+8d+d+d+8d+d+  d+8d+d+d+<d+>d+d+d8ddd8dd  d8ddd<dc>b<c8ccc8cc  
+>f8ffg8aaa+8<a+>a+8<a+>a+<a+  >e<e>e<e>f+<e>g+<e]>a2  ^4^
+;
+
+l16

@@ -1,0 +1,92 @@
+#TITLE Palm Brinks
+#ALBUM Dark Cloud 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xB7 ## accordion (SMRPG)
+#WAVE 0x21 0x18 ## acoustic bass (FF6)
+#WAVE 0x2B 0xBA ## piano (SMRPG)
+#WAVE 0x2C 0xF0 ## piano 2 (SMRPG)
+#WAVE 0x2D 0xF1 ## piano 3 (SMRPG)
+
+{1}
+l16t153%v25%e1%b0,70%f0,0v80p63|0o5r1  ^1  ^2^4^8^ $1 o5%l1g32a+32  
+%l0<c8>b8<c8d8d+8^r32c32d2  ^8r%l1d32d+32%l0f2^r32e32d+^  d2^r32>a+32b^<c2  
+^8r%l1d32d+32%l0f4^8^r32d32d+^d^  c1  v50,24^8^v80r4>%l1b32<c32%l0d8c8d8d+8  
+a+8^r32c32d2^4  c2^8r>%l1b32a+32%l0a2  ^8r%l1a+32b32%l0<c2^8r%l1d32d+32  
+%l0f4^8^r32d32d+^d^c1  v50,24^8^v80r4%l1c32d32%l0e8d8e8f8  f4e4^8^%l1d32d+32%l0e8d+8  
+d2^8g8c+2  ^8>a8r8<frfr8^fr4  ^grgr8^gr8^f4^8  ^%l1d32d+32%l0e8d+8d4^8^>%l1a32a+32%l0b8  
+<c8g8d8e8f8g8a8e4  ^8^%l1d32d+32%l0e8d+8d2  ^8g8c+2^8>a8  r8<frfr8^fr4^gr  
+gr8^gr8^f2  e4d2r8^>%l1g32a+32  %l0<c8>b8<c8d8d+8^r32c32d2  ^8r%l1d32d+32%l0f2^r32e32d+^  
+d2^r32>a+32b^<c2  ^8r%l1d32d+32%l0f4^8^r32d32d+^d^  c1  v50,24^8^v80r4>%l1b32<c32%l0d8c8d8d+8  
+a+8^r32c32d2^4  c2^8r>%l1b32a+32%l0a2  ^8r%l1a+32b32%l0<c2^8r%l1d32d+32  
+%l0f4^8^r32d32d+^d^c1  v50,24^8^v80r4%l1c32d32%l0e8d8e8f8  f4e4^8^%l1d32d+32%l0e8d+8  
+d2^8g8c+2  ^8>a8r8<frfr8^fr4  ^grgr8^gr8^f4^8  ^%l1d32d+32%l0e8d+8d4^8^>%l1a32a+32%l0b8  
+<c8g8d8e8f8g8a8e4  ^8^%l1d32d+32%l0e8d+8d2  ^8g8c+2^8>a8  r8<frfr8^fr4^gr  
+gr8^gr8^f2  e4d2r8^
+;1
+
+l16
+{2}
+l16%e1v70p63|0o5r4  [3gr8^g8^r4^] $2 gr8^  
+g8^rr4o5[20gr8^g8^r4  ^][3ar8^a8^r4^][5gr8  ^g8^r4^][3ar8^a8^  r4^][21gr8^g8^r4  
+^][3ar8^a8^r4^][5gr8  ^g8^r4^][3ar8^a8^  r4^]
+;2
+
+l16
+{3}
+l16%e1v60p63|0o5>c2r4  
+>g2r4<c2  r4>g2r4   $3 o4c2r4>b2  r4a+2r4  
+a2r4g+2  r4g2r4  <c2r4>g2  r4<c2r4  
+>b2r4a+2  r4a2r4  g+2r4g2  r4<c2r4  
+>g2r4<c2  r4>b2r4  a+2r4a2  r4<d2r4  
+c+2r4c2  r4>g2r4  <c2r4>b2  r4a+2r4  
+a2r4<d2  r4c+2r4  c2r4>g2  r4<c2r4  
+>b2r4a+2  r4a2r4  g+2r4g2  r4<c2r4  
+>g2r4<c2  r4>b2r4  a+2r4a2  r4g+2r4  
+g2r4<c2  r4>g2r4  <c2r4>b2  r4a+2r4  
+a2r4<d2  r4c+2r4  c2r4>g2  r4<c2r4  
+>b2r4a+2  r4a2r4  <d2r4c+2  r4c2r4  
+>g2r4
+;3
+
+l16
+{4}
+l16%e1v120p64|1o5c2  r4>g2r4  <c2r4>g2  r4 $4 o5c2r4  
+>b2r4[2a+2  r4a2r4  g+2r4g2  r4<c2r4  
+>g2r4<c2  r4>b2r4  ]a+2[2r4a2  r4<d2r4  
+c+2r4c2  r4>g2r4  <c2r4>b2  r4a+2][2r4  
+a2r4g+2  r4g2r4  <c2r4>g2  r4<c2r4  
+>b2r4a+2  ]r4a2r4  <d2r4c+2  r4c2r4  
+>g2r4<c2  r4>b2r4  a+2r4a2  r4<d2r4  
+c+2r4c2  r4>g2r4  
+;4
+
+l16
+{5}
+l16%e1v70p63|0o5r4[3d+r8^d+8^r4^  
+]d+r8^d+8^r $5 r4o5[5d+r8^  d+8^r4^]dr8^d8^r4  ^[7d+r8^d+8^r4^]dr8  
+^d8^r4^d+r8^d+8^  r4^[5er8^d8^r4  ^][3fr8^f8^r4^]dr8  ^d8^r4^[4er8^e8^  
+r4^][3fr8^f8^r4  ^]dr8^d8^r4^[5d+r8  ^d+8^r4^]dr8^d8^  r4^[7d+r8^d+8^r4  
+^]dr8^d8^r4^d+r8  ^d+8^[5r4^er8^d8^  ][3r4^fr8^f8^]r4  ^dr8^d8^[4r4^er8  
+^e8^][3r4^fr8^f8^  ]r4^dr8^d8^r
+;5
+
+l16
+{6}
+l16%e1v80p63|0r1  ^1  
+^1   $6 r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^8o6drdr8^dr4^c+r  c+r8^c+r8^c4^8^r1  ^1  ^1  
+^1  ^8^drdr8^dr4^c+  rc+r8^c+r8^c2  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^8drdr8^dr4^c+r  
+c+r8^c+r8^c4^8^r1  ^1  ^1  ^1  
+^8^drdr8^dr4^c+  rc+r8^c+r8^c2  r1  
+;6
+
+l16

@@ -1,0 +1,147 @@
+#TITLE Bared Fangs
+#ALBUM Tales of Destiny
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x08 ## french horn (FF6)
+#WAVE 0x21 0x02 ## electric bass (FF6)
+#WAVE 0x22 0x82 ## strings (SOM)
+#WAVE 0x23 0x83 ## chorus (SOM)
+#WAVE 0x24 0x5E ## flute (FF6)
+#WAVE 0x25 0x12 ## cymbal (FF6)
+#WAVE 0x27 0x4A ## hard snare drum (RS3)
+#WAVE 0x28 0x35 ## melodic tom (UNK)
+#WAVE 0x29 0x22 ## kick drum (FF6)
+#WAVE 0x2A 0x0F ## hihat closed (FF6)
+#WAVE 0x2B 0x11 ## hihat opened (FF6)
+#WAVE 0x2C 0x2B ## rimshot (FF6)
+
+{1}
+l16t150%v32%e1%x224%b0,70%f0,0v120p63|0o5>b<dfg+dfg+bfg+b<d>g+b<df  
+ $1 m48,21,201%r10o6c2r8c8>b8<c8  e2>a4b4  <c4^8>f1  ^2^8a2  
+r8a8b8<c8d2  >g4<g4f2  ^4r8ede2  ^4r8dc>b1  
+b1  <c2r8c8>b8<c8  e2>a4b4  <c4^8>f1  
+^2^8a2  r8a8b8<c8d2  >g4<g4f2  ^4r8ede2  
+^4r8dc>b2  r8b8<e8f+8d+4r8d+8  e4f+4>e4^8f+4  ^8g4f+4^8a4  
+^8<d4>b1  f+2^4r4  e4^8f+4^8g4  f+4^8a4^8<d4  
+>b4^8<c4^8d4  c+4^8d4^8e4  >a1  a2g2  
+g4^8a+4^8<d4  d4^8e4^8f4  g1  f1  
+>a2e2  e2^4e4  a1  a2g2  
+g4^8a+4^8<d4  d4^8e4^8f4  g1  f1  
+>a2e2  e2^4e4  
+;1
+
+l16
+{2}
+l16%e0v110p64|1o6bg+fdg+fd>b<fd>bg+<d>bg+f  
+ $2 o5a8a8a8a8a8a8a8a8  a8a8a8a8a8a8aaga  a8a8a8a8a8a8a8a8  a8a8a8a8a8a8aagg  
+f8f8f8f8f8f8f8f8  g8g8g8g8g8g8gab<c  d8d8d8d8d8d8d8d8  c8c8c8c8c8c8>f+gaa+  
+b8b8b8b8b8b8b8b8  b8b8b8b8b8b8f+f+gg+  a8a8a8a8a8a8a8a8  g8g8g8g8g8g8ggfg  
+f8f8f8f8f8f8f8f8  f8f8f8f8f8f8ffff  f8f8f8f8f8f8f8f8  g8g8g8g8g8g8gab<c  
+d8d8d8d8d8d8d8d8  c8c8c8c8c8c8>f+gaa+  b8b8b8b8b8b8b8b8  b8b8b8b8b8b8bb<b>b  
+<c8c8c8c8c8c8cc>b<c  d8d8d8ddd8d8dc>gf+  e8e8e8eee8e8e<ede  d8d8d8d8ddd8d8dc+  
+c8c8c8c8c8c8cc>b<c  d8d8d8ddd8d8dc>gf+  g8g8g8ggg8g8gggg  aa<a>aaa<a>aaa<a>aaa<a>a  
+<d8d8d8d8d8d8dddd  c8c8c8c8c8c8cccc  >g8g8g8g8g8g8gggg  <d8d8d8d8d8d8dddd  
+c8c8c8c8c8c8cccc  >a+8a+8a+8a+8a+8a+8a+a+a+a+  a8a8a8<a>aa8a8<aaga  
+>a8a8a8<a>aa8a8<aaga  d8d8d8d8d8d8dddd  c8c8c8c8c8c8cccc  >g8g8g8g8g8g8gggg  
+<d8d8d8d8d8d8dddd  c8c8c8c8c8c8cccc  >a+8a+8a+8a+8a+8a+8a+a+a+a+  
+a8a8a8<a>aa8a8<aaga  >a8a8a8<a>aa8a8<aaga  
+;2
+
+l16
+{3}
+l16%e1r1  
+ $3 v60p63|2%r2%a10o6[3e1  ]d1  e1  d1  
+d1  c1  >b1  b1  
+<e1  e1  c1  c1  
+e1  d4^4g4^4  f4^4d4^4  c4^4e4^4  
+e1  d+1  v100p47|3%a12%r4>e1  d1  
+e1  d1  e1  d1  
+d1  e1  <v80p63|2%r2%a10d1  c1  
+d1  d1  g1  f1  
+d1  c+1  >f1  e1  
+d1  f1  e1  f1  
+a1  a1  
+;3
+
+l16
+{4}
+l16%e1r1   $4 v50p80|4m16,16,223o6c2r8c8>b8<c8  
+e2>a4b4  <c4^8>f1  ^2^8a2  r8a8b8<c8d2  
+>g4<g4f2  ^4r8ede2  ^4r8dc>b1  b1  
+<c2r8c8>b8<c8  e2>a4b4  <c4^8>f1  ^2^8a2  
+r8a8b8<c8d2  >g4<g4f2  ^4r8ede2  ^4r8dc>b2  
+r8b8<e8f+8d+4r8d+8  e4f+4mv80p63|3%a12%r4o5c1  >a1  b1  
+a1  <c1  >a1  b1  
+<c+1  v50p80|4o5m16,16,223<d2^8d8c8>a8  <c4^8>g4^8<c4  >a+2^8a+8a8g8  
+<d4^8>a4^8f4  <cdc>b<c2^4  >a+<c>a+aa+2^4  <d2^4^8c+d  
+c+1  d2^8d8c8>a8  <c4^8>g4^8<c4  >a+2^8a+8a8g8  
+<d4^8>a4^8f4  <cdc>b<c2^4  >a+<c>a+aa+2^4  <d2^4^8c+d  
+c+1  
+;4
+
+l16
+{5}
+l16%e1r1   $5 v100p63|2%r2%a10o6c1  >b1  
+a1  a1  <c1  >b1  
+a1  g1  f+1  f+1  
+<c1  >b1  a1  a1  
+a1  b4^4<d4^4  d4^4>a4^4  g4^4<c4^4  
+>b1  b1  v80p79|3%a12%r4o5g1  f+1  
+g1  f+1  g1  f+1  
+g1  a1  v100p64|5%r16o5c+1  v100p63|2%r2%a10r1  
+^1  ^1  o6c1  d1  
+>a1  a1  d1  c1  
+>a+1  <d1  c1  d1  
+e1  e1  
+;5
+
+l16
+{6}
+l16%e1r1   $6 v100p64|5%r16o5c+1  
+r1  ^1  ^1  c+1  
+c+1  c+1  r1  c+1  
+r1  c+1  r1  ^1  
+^1  c+1  c+1  c+1  
+r1  c+1  r1  c+1  
+r1  ^1  ^1  c+1  
+r1  c+1  c+1  v60p63@5%r8o5f2^8f8e8d8  
+e4^8c4^8e4  g2^8g8f8e8  f4^8d4^8>a4  <efede2^4  
+fgfef2^4  e1  ^1  f2^8f8e8d8  
+e4^8c4^8e4  g2^8g8f8e8  f4^8d4^8>a4  <efede2^4  
+fgfef2^4  e1  ^1  
+;6
+
+l16
+{7}
+l16%e1v120p64o5|7dddd|8v60p94bbbbv80p64aaaav60p34ffff  
+ $7 o5v120p64[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1dddd  
+[5|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d%e1v80|8v60p94bbbv80p64aaav60p34ff  
+v120p64[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1dddd  
+[5|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d%e1v80|8v60p94bbbv80p64aaav60p34ff  
+v120p64|9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1d^8^  |9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1dd32^8^32  
+|9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1d^8^  |9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1dd%e1v80|8v80p64av60p34f  
+v120p64|9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1d^8^  |9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1dd32^8^32  
+|9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1d^8^  |9%e0c^cc|7%e1d^8^|9%e0c^c^|7%e1dddd  
+[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1dddd  
+[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d%e1v80|8v60p94bbbv80p64aaav60p34ff  
+v120p64[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1dddd  
+[3|9%e0c^c^|7%e1d^|9%e0c|7%e1d|9%e0c^c^|7%e1d^8^  ]|9%e0c^c^|7%e1d^|9%e0c|7%e1d%e1v80|8v60p94bbbv80p64aaav60p34ff  
+
+;7
+
+l16
+{8}
+l16%e1v30p64r1   $8 o5[3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  
+]f+^f+f+|Ba+^|Af+f+f+f+f+|Ba+32^4^32  [5|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  
+]f+^f+f+|Ba+^|Af+f+^2  [3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  
+]f+^f+f+|Ba+^|Af+f+f+f+f+|Ba+32^4^32  [5|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  
+]f+^f+f+|Ba+^|Af+f+^2  |Cv60[7d+^d+^d+^d+^d+^d+^d+^d+^  ]d+^d+^d+^d+^d+^d+32^4^^32  
+v30[3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  ]f+^f+f+|Ba+^|Af+f+f+f+f+|Ba+32^4^32  
+[3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  ]f+^f+f+|Ba+^|Af+f+^2  
+[3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  ]f+^f+f+|Ba+^|Af+f+f+f+f+|Ba+32^4^32  
+[3|Af+^f+f+|Ba+^|Af+f+f+f+f+f+|Ba+^|Af+f+  ]f+^f+f+|Ba+^|Af+f+^2  
+
+;8
+
+l16

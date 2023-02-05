@@ -1,0 +1,137 @@
+#TITLE The Last Duel
+#ALBUM Lufia II
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0E ## trumpet (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+#WAVE 0x24 0x0F ## hihat closed (FF6)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x11 ## hihat opened (FF6)
+#WAVE 0x28 0x12 ## cymbal (FF6)
+#WAVE 0x29 0x5F ## hard snare (FF6)
+#WAVE 0x2A 0x35 ## melodic tom (UNK)
+
+{1}
+l16t145%v32p74%e1%b0,70%f0,0r1  ^1  ^1  ^2^4 $1 o6v80|0>a<dag  
+m16,16,207a2^4^8mgf  g4^8fef4<c4  >m16,16,207a1  ^2magfgfedc  
+d4^8>m16,16,207a1  ^4^8^ma<daa2  ^4^a<dam48,18,215a1  
+^1  v239,0^1  ^1  mr2^4v100p60|1%r2o4a<dag  
+a2^4^8gf  g4^8fef4<c4  >a1  ^2agfgfedc  
+d4^8>a1  ^4^8^a<daa1  ^1  
+d1  e1  f1  g2a4<c4  
+d2^8d8e8f8  e2c4>g4  g4^8<c8>a1  ^2<d2  
+^8d8e8f8g2  f4g4g4^8<c8  >a1  ^2a2  
+^8a8g8f8g2  e4g4g1  f1  f2^8f8e8d8  
+e2c4>a4  <d1  v255,0^1  r1  
+^2^4
+;1
+
+l16
+{2}
+l16v80p24%e1 $2 |1o5>drar  [2<d8>ar<er>ar<f8>ar<gr>ar  
+<fr>ar<er>ar<d8>crdrar  ]<d8>ar<er>ar<f8>ar<gr>ar  <fr>ar<er>ar<d8>cr>a+r<fr  
+a+8fr<cr>fr<d8>fr<er>fr  <dr>fr<cr>fra+8drdrar  <d8>ar<er>ar<f8>ar<gr>ar  
+<fr>ar<er>ar<d8>cr>a+r<fr  a+8fr<cr>fr<d8>fr<er>fr  <dr>fr<cr>fra+8drdrar  
+<d8>ar<er>ar<f8>ar<gr>ar  <fr>ar<er>ar<d8>crdrar  <d8>ar<er>ar<f8>ar<gr>ar  
+<fr>ar<er>ar<d8>crd8a8  <d8>a8<e8>a8<f8>a8<g8>a8  <f8>a8<e8>a8<d8>c8>a+8<f8  
+a+8f8<c8>f8<d8>f8<e8>f8  <d8>f8<c8>f8a+8d8d8a8  <d8>a8<e8>a8<f8>a8<g8>a8  
+<f8>a8<e8>a8<d8>c8>a+8<f8  a+8f8<c8>f8<d8>f8<e8>f8  <d8>f8<c8>f8a+8d8d8a8  
+<d8>a8<e8>a8<f8>a8<g8>a8  <f8>a8<e8>a8<d8>c8d8a8  <d8>a8<e8>a8<f8>a8<g8>a8  
+<f8>a8<e8>a8<d8>c8a+8<f8  a+8f8<c8>f8a+8f8c8g8  <c8>g8<d8>g8<c8>g8d8a8  
+<d8>a8<e8>a8<f8>a8<e8>a8  <d8>a8<c8>g8c8g8>a+8<f8  a+8f8<c8>f8a+8f8c8g8  
+<c8>g8<d8>g8<c8>g8d8a8  <d8>a8<e8>a8<c8>g8d8a8  <d8>a8<e8>a8<c8>g8>a+8<f8  
+a+8f8<c8>f8<d8>f8c8g8  <c8>g8<d8>g8<e8>g8d8a8  <d8>a8<e8>a8<f8>a8d8a8  
+<d8>a8<e8>a8<c8>g8>a+8<f8  a+8f8<c8>f8a+8f8c8g8  <c8>g8<d8>g8<c8>g8
+;2
+
+l16
+{3}
+l16v120p64%e0 $3 |2o6d1  
+^2^4^8c8  d1  ^1  d1  
+^2^4c4  >a+1  ^2^4<c4  d1  
+^2^4c4  >a+1  ^2^4<c4  d1  
+^2^4^8c8  d1  ^2^4c4  d8d8d8d8d8d8d8dd  
+d8d8d8d8f8d8e8c8  >a+8a+8a+8a8<c8d8d8d8  d8d8d8d8d8d8d8d8  d8d8d8d8f8d8e8c8  
+>a+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8a+8a+8a+8b8a+8<c8  [5d8d8d8d8d8d8d8d8  
+]>a+8a+8a+8a+8a+8a+8a+8a+8  <c8c8c8c8c8c8c8c8  d8d8d8d8d8d8d8d8  
+d8d8d8d8d8d8c8c8  >a+8a+8a+8a+8a+8a+8a+8a+8  <c8c8c8c8c8c8c8c8  
+d8d8d8d8d8d8c8c8  d8d8d8d8d8d8c8c8  >a+8a+8a+8a+8a+8a+8a+8a+8  <c8c8c8c8c8c8c8c8  
+d8d8d8d8d8d8d8d8  d8d8d8d8d8d8c8c8  >a+8a+8a+8a+8a+8a+8a+8a+8  <c8c8c8c8c8c8c8c8  
+
+;3
+
+l16
+{4}
+l16%e1 $4 |3v50p63o5>dfa<dfa<dfafd>afd>af  [5dfa<dfa<dfafd>afd>af  
+][2>a+<dfa+<dfa+<dfd>a+fd>a+fd  ][10dfa<dfa<dfafd>afd>af  ][2>a+<dfa+<dfa+<dfd>a+fd>a+fd  
+][8dfa<dfa<dfafd>afd>af  ]v60[3>a+<dfa+<dfa+<dfd>a+fd>a+fd  ceg<ceg<cegec>gec>ge  
+dfa<dfa<dfafd>afd>af  dfa<dfa<dfafd>gec>ge  ]>a+<dfa+<dfa+<dfd>a+fd>a+fd  
+ceg<ceg<cegec>gec>ge  
+;4
+
+l16
+{5}
+l16v90p94%e1 $5 |1o5[2frfr8^frerer8^er  
+grgr8^grerer8^er  ][2frfr8^frfrfr8^fr  frfr8^frfrdrercr  drdr8^drdrdr8^dr  
+drdr8^drdrdrerer  ][2frfr8^frerer8^er  grgr8^grerer8^er  ][2frfr8^frfrfr8^fr  
+frfr8^frfrdrercr  drdr8^drdrdr8^dr  drdr8^drdrdrerer  ]>a1  
+a1  a1  a1  <f1  
+e2g2  f1  a4g4e4c4  f1  
+e2g2  f1  a4g4e4c4  f1  
+e1  f1  d1  >a+2^8a+8<c8d8  
+e2g2  
+;5
+
+l16
+{6}
+l16v90p94%e1 $6 |1o5[5arar8^ararar8^ar  ]arar8^ararfrgrer  
+frfr8^frfrfr8^fr  frfr8^frfrfrgrgr  arar8^ararar8^ar  arar8^ararfrgrer  
+frfr8^frfrfr8^fr  frfr8^frfrfrgrgr  [5arar8^ararar8^ar  ]arar8^ararfrgrer  
+frfr8^frfrfr8^fr  frfr8^frfrfrgrgr  arar8^ararar8^ar  arar8^ararfrgrer  
+frfr8^frfrfr8^fr  frfr8^frfrfrgrgr  d1  d1  
+d1  d1  a1  g2<c2  
+>a1  f4e4c4>a4  <a1  g2<c2  
+>a1  f4e4c4>a4  <a1  g1  
+a1  f1  d2^8d8e8f8  g2<c2  
+
+;6
+
+l16
+{7}
+l16v24p64%e1|4o5[2g+rg+rg+rg+rg+rg+rg+rg+r  ] $7 g+rg+rg+rg+rg+rg+rg+rg+r  
+[13g+rg+rg+rg+rg+rg+rg+rg+r  ]v127p80|8%r17c+4v24p64|4g+g+g+g+g+g+g+g+g+g+g+g+  
+g+g+g+g+g+g+g+g+g+g+g+g+g+g+v60|7a+8  [3v24|4g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+  
+g+g+g+g+g+g+g+g+g+g+g+g+g+g+v60|7a+8  ]v127p80|8%r16c+2v24p64|4g+g+g+g+g+g+g+g+  
+v127p80|8%r16c+2v24p64|4g+g+g+g+g+g+v60|7a+8  v127p80|8%r16c+2v24p64|4g+g+g+g+g+g+g+g+  
+v127p80|8%r17c+4v24p64|4g+g+g+g+g+g+g+g+g+g+v60|7a+8  v127p80|8%r16c+2v24p64|4g+g+g+g+g+g+g+g+  
+[6g+g+g+g+g+g+g+g+g+g+g+g+g+g+v60|7a+8  v24p60|4g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+  
+]g+g+g+g+g+g+g+g+g+g+g+g+g+g+v60|7a+8  v127p80|8%r15c+1  ^1  v24p64|4
+;7
+
+l16
+{8}
+l16v100p64%e0|5^2^4^8 $8 o4b^  
+b^4^8^|6<e^4^>|5v100b^  b^2^4^b^  b^4^8^|6<e^4^>|5v100b^  b^2^4^b^  
+b^4^8^|6<e^8^>|5v100b^8^  b^2^4^b^  b^4^8^|6<e^8^>|5v100b^8^  b^2^4^b^  
+b^4^8^|6<e^8^>|5v100b^8^  b^2^4^b^  b^4^8^|6<e^8^>|5v100b^8^  b^4^8^|6<e^8^>|5v100b^8^  
+b^2^4^b^  b^4^8^|6<e^8^>|5b^8^  b^4^8^b|9v80o6%g1d32d32d32%g0^32do5|Av120cc|5v100bb  
+o6>b^8^|9v80<d8^4|5v100>b^|9v80<d8>|5v100bb  b^bb|9v80<d8^4|5v100>b^|9v80<d8>|5v100bb  
+b^8^|9v80<d8^4|5v100>b^|9v80<d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^|9v80<d8>|5v100bb  
+[2b^8^|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  
+]b^8^|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  
+b^8^<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb<|9v80d8^8>|5v100b|9v80<dd^d8dd  
+|5v100>b^8^o5|9v80<d8^4>|5v100b^|9v80<d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^|9v80<d8>|5v100bb  
+b^8^|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  
+b^8^<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^|9v80<d8>|5v100bb  
+b^8^|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  
+b^8^<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb|9v80<d8^4>|5v100b^<|9v80d8>|5v100bb  
+b^8^<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  
+b^8^<|9v80d8^4>|5v100b^<|9v80d8>|5v100bb  b^bb<|9v80d8^8>|5v100b<|9v80dd8d8dd  
+|5v100>b^2^4^
+;8
+
+l16

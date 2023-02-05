@@ -1,0 +1,51 @@
+#TITLE Back to Sleep
+#ALBUM Xenogears
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x0A ## oboe (FF6)
+
+{1}
+l16t107%v32%e1%b0,70%f0,0v60p63|3o5d+4|3g+4a+4<m24,18,201c2  
+^4m>a+8<c8d+2  d4^8c8c1  m16,16,207v192,0^2^4m
+;
+
+l16
+{2}
+l16%e1v24p0|1o5r2  
+^4v80,40<c1  v24v80,40d+2v24v80,40d2  v24v80,40c1  v192,0^1  
+
+;
+
+l16
+{3}
+l16%e1v24p0|1o5r2^4v80,40g+1  v24v80,40a+1  v24v80,40g1  
+v192,0^1  
+;
+
+l16
+{4}
+l16%e1v24p0|1o5r2^4o3v80,40g+1  v24v80,40a+1  
+v24<v80,40c1  v192,0^1  
+;
+
+l16
+{5}
+l16%e1v34p127|2o5r2^4o4g+8<d+^  
+r8a+8<d+8d24d+24d24c^>a+^>a+^<f^  a+^<c^f4^r^8>c8g^  <c^d8g^f24g24f24e8d^e1  
+
+;
+
+l16
+{6}
+l16%e1v34p127|2o5r1  g+8^32
+;
+
+l16b4^8b4<c+4  c+4c+8r4c+4>b8  
+r8b4^8b4<c+4  c+4c+2^8
+;
+
+l16

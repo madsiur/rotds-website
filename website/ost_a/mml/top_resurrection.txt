@@ -1,0 +1,82 @@
+#TITLE Resurrection
+#ALBUM Tales of Phantasia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x16 ## timpani (FF6)
+#WAVE 0x23 0x3C ## metal sound (RS3)
+#WAVE 0x24 0x68 ## grand piano (CT)
+
+{1}
+l16t61%v32%e1%b0,70%f0,0v80p60|0o5egf+ef+gaebeaegf+ef+   $1 geaegef+gaebeagef+  
+gf+eaegf+ebeaegf+eb  eaegf+ef+g<d>def+gab<c  >gf+gaef+geaef+ge<ed>f+  
+gebeaf+gaef+gebega  ag+f+bf+ag+f+<c+>f+bf+abf+<c+  >f+bf+ag+f+g+abef+g+ab<c+>a  
+<c+>g+abf+g+af+bf+g+af+<f+>g+a  bg+<d>g+<c+>g+b<c+>g+abg+<d>g+b<c+  
+>a+ag<c>ga+ag<d>g<c>ga<c>g<d  >g<c>ga+agaa+<c>fgaa+<cd>a+  <d>aa+<c>gaa+g<c>gaa+g<g>ga  
+a+g<d>g<c>ga+<c>gaa+g<d>ga+<c  >egf+ef+gaebeaegf+ef+  
+;1
+
+l16
+{2}
+l16%e1v80p50|1o5r1  
+^1  b2<c4>a4  b2<d4c4  >b2a4f+4  
+g2a2  a1  ^2e2   $2 a4b2<c+4  
+d4^8>b8<c+2  >a+2<c4>a4  a+2a+4a4  a+2<c4>a4  
+a+2a2  r1  ^1  b2<c4>a4  
+b2<d4c4  >b2a4f+4  g2a2  a1  
+^1  
+;2
+
+l16
+{3}
+l16%e1v80p50|1o5r1  ^1   $3 g2a4f+4  
+g2a4a4  g2f+4d4  e2f+2  c+2d2  
+d+2r2  f+4g+2a4  b4^8g+8a2  d2d+4c4  
+d2g4f4  d2d+4c4  d2c2  r1  
+^1  
+;3
+
+l16
+{4}
+l16%e1v60p0 $4 |2o3ee8^r4ee8er4  ^ee8r4e8eere8^  
+ee8^r4ee8er4  ^ee8r4e8eere8^  ee8^r4ee8er4  ^ee8r4e8eerf8^  
+f+f+8^r4f+f+8f+r4  ^f+f+8r4f+8f+f+rf+8^  f+f+8^r4f+f+8f+r4  ^f+f+8r4f+8f+f+rf+8^  
+gg8^r4gg8gr4  ^gg8r4g8ggrg8^  gg8^r4gg8gr4  ^gg8r4g8ggrg8^  
+
+;4
+
+l16
+{5}
+l16%e1v80p127 $5 |2o2ee8^r4ee8er4  ^ee8r4e8eere8^  
+ee8^r4ee8er4  ^ee8r4e8eere8^  ee8^r4ee8er4  ^ee8r4e8eerf8^  
+f+f+8^r4f+f+8f+r4  ^f+f+8r4f+8f+f+rf+8^  f+f+8^r4f+f+8f+r4  ^f+f+8r4f+8f+f+rf+8^  
+gg8^r4gg8gr4  ^gg8r4g8ggrg8^  gg8^r4gg8gr4  ^gg8r4g8ggrg8^  
+
+;5
+
+l16
+{6}
+l16%e1v100p94|3o5r1  ^1  ^1  ^2^4 $6 d8^r1  
+^2^4^
+;6
+
+l16
+{7}
+l16%e1v104p64 $7 |4o3e1  e1  e1  e1  
+e1  e1  f+1  f+1  
+f+1  f+1  g1  g1  
+g1  g1  
+;7
+
+l16
+{8}
+l16%e1v104p64 $8 |4o2e1  e1  
+e1  e1  e1  e1  
+f+1  f+1  f+1  f+1  
+g1  g1  g1  g1  
+
+;8
+
+l16

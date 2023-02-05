@@ -1,0 +1,77 @@
+#TITLE Headquarters
+#ALBUM Journey to Silius
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x36 ## sawtooth (UNK)
+#WAVE 0x22 0x40 ## slap bass (RS3)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x4A ## hard snare drum (RS3)
+#WAVE 0x25 0x2F ## shaker (FF6)
+#WAVE 0x26 0x11 ## hihat opened (FF6)
+#WAVE 0x27 0x35 ## melodic tom (UNK)
+
+{1}
+l16t151%v20%e1%b0,70%f0,0 $1 v20p54|0o5%a12%r4v60,100a+1  v20v60,100a1  
+v20v60,100g1  v20v50,100a2v20v50,100f2  v20v60,100a+1  v20v60,100a1  
+v20v60,100g1  a2a+4<c4  %y%r21|1>g2^8g8a+8<c2  ^4c8>a+8a4^8a+8  
+a4f4<d2  ^8c2>g2  ^8g8a+8<c2^4  c8>a+8a4^8a+8a4  
+f4m48,18,217g1  m%l1g+32b32v70<d32f32%l0m48,18,217g1  ^4mf4d8^c8^m48,18,217d1  
+^1  ^8mm48,18,217g1  ^4mf4a+8^a8^m48,18,217g1  
+^2^4mv60grar  a+r<c4r8d4>grar  a+r<c4r8d4>grar  a+r<c4^8d8r8c8r8  
+>a+8r8a8r8a+8r8<c4  ^8c4r8d4>grar  a+r<c4r8d4>g8a8  a+8<c4^8d4^8v50m48,18,217g1  
+^4m
+;1
+
+l16
+{2}
+l16%e1 $2 v20p74|0o5%a12%r4v60,100g1  v20v60,100f1  
+v20v60,100e1  v20v50,100f2v20v50,100c2  v20v60,100g1  v20v60,100f1  
+v20v60,100e1  f2g4a4  %y%r21|1v50r8^g2^8g8a+8  <c2^4c8>a+8  
+a4^8a+8a4f4  <d2^8c2  >g2^8g8a+8<c2  ^4c8>a+8a4^8a+8  
+a4f4m48,18,217g1  m%l1g+32b32v30<d32f32g1  ^4%l0f4d8^c8^m48,18,217d1  
+^1  ^8mm48,18,217g1  ^4mf4a+8^a8^m48,18,217g1  
+^2^4mv20grag4  r8g4r8^grag4  r8g4r8^grar8^<c4  ^8d8r8c8r8>a+8r8a8  
+r8a+8r8o7c8^>g4r8g4  r8^grag4r8g4  r8^g8a8a+8<c4^8d4  ^8v10m48,18,217g1  
+^m
+;2
+
+l16
+{3}
+l16%e0 $3 v100p64|2o5g8g8<g8>g8g8<d8f8g8  >g8g8<g8>g8a+8<a+8c8<c8  
+o5g8g8<g8>g8g8<d8f8g8  >g8g8<g8>g8f8<f8>f+8<f+8  >g8g8<g8>g8g8<d8f8g8  
+>g8g8<g8>g8a+8<a+8c8<c8  o5g8g8<g8>g8g8<d8f8g8  >g8g8<g8>g8f8<f8>f+8<f+8  
+>g8g8<g8>g8g8<f8>g8<a+8  >d+8d+8<d+8>d+8d+8<d8>d+8<f8  >f8f8<f8>f8f8<d8>f8<g8  
+>d8d8<d8>d8f8<f8>f+8<f+8  >g8g8<g8>g8g8<f8>g8<a+8  >d+8d+8<d+8>d+8d+8<d8>d+8<f8  
+>f8f8<f8>f8f8<d8>f8<g8  >g8g8<g8>g8g8<f8>g8<a+8  >d+8d+8<d+8>d+8d+8<d+8>d+8<d+8  
+>f8f8<f8>f8f8<f8>f8<f8  >g8g8<g8>g8g8<g8>g8<g8  >g8<g8>a8<a8>a+8<a+8c8<c8  
+o5d+8d+8<d+8>d+8d+8<d+8>d+8<d+8  >f8f8<f8>f8f8<f8>f8<f8  >g8g8<g8>g8g8<g8>g8<g8  
+>g8<g8>a8<a8>a+8<a+8>g8<g8  >g8g8<g8>g8g8<g8>g8<g8  >d+8d+8<d+8>d+8d+8<d+8>d+8<d+8  
+>f8f8<f8>f8f8<f8>f8<f8  >d8d8<d8>d8d8<d8>d8<d8  >g8g8<g8>g8g8<g8>g8<g8  
+>d+8d+8<d+8>d+8d+8<d+8>d+8<d+8  >f8f8<f8>f8f8<f8>f8<f8  >g8g8<g8>g8g8<g8>g8<g8  
+
+;3
+
+l16
+{4}
+l16%e0 $4 p64o5[7v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  
+]b^b^v120|4d^v100|3b^b^v120|4d^d^dd  v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  
+[6v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  ]b^v120|4d^d^d^2^  
+v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  [6v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  
+]b^b^v120|4d^v100|3b^b^v120|4d^d^dd  v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  
+[6v100|3b^b^v120|4d^v100|3b^b^b^v120|4d^v100|3b^  ]b^b^v120|4d^v100|3b^v120|4ddd^dddd  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v100p64|5o5[3v40|5f+^f+^8^f+^f+^f+^8^f+^  
+]f+^f+^8^f+^f+^f+^8^v50|6a+8  [3v40|5f+^f+^8^f+^f+^f+^8^f+^  ]f+^f+^8^f+^f+^4^8^  
+f+^f+^8^f+^f+^f+^8^f+^  [3v40|5f+^f+^8^f+^f+^f+^8^v50|6a+8  v40|5f+^f+^8^f+^f+^f+^8^f+^  
+]f+^4^8^v80|7cba^cba^  [7v40|5f+^f+^8^f+^f+^f+^8^f+^  ]f+^f+^8^f+^f+^4^8^  
+[7v40|5f+^v50|6a+4a+8v40|5f+^v50|6a+4a+8  ]v40|5f+^v50|6a+4a+2^8  
+
+;5
+
+l16

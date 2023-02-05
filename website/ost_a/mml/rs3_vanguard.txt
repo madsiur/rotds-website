@@ -1,0 +1,79 @@
+#TITLE Vanguard Take Off 2
+#ALBUM Romancing SaGa 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x22 ## kick drum (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1C ## bass (FF6)
+#WAVE 0x24 0x12 ## cymbal (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x02 ## electric bass (FF6)
+
+{5}
+l16t144%v23%v23%v23 $1 o5|0p64%e0%y[30v90b4v78b4]v80o3|1%e1%r18p38p38p96,56g<c+ega+<c+eg  
+a+2
+;1
+
+l16
+{1}
+l16|2p45%e1 $2 v78o5f2  r8erf8.ga4r8aa+  <c4>a4<d4r8de  
+f4erdrd4.c+>b  <c+8r8>a4f2  r8erf8.ga4r8aa+  <c4>a4<d4r8de  
+f4erdre4r8ef  g4frerf4.de  fr8.a4gfefg4  r8a+8a8g8f2  
+e6c6>a6<d2  c6>a+6a6a+2  b6<c+6d6e2  d6g6f6e4r8ef  
+g4r8gav192,62%l1a+gec+gec+>a+  <ec+>a+g<c+>a+ge%l0
+;2
+
+l16
+{6}
+l16v73|2p78%e1 $3 o4a4a+4  
+argra4<c4d4  e4c4f4g4  a4grfra8gagrfr  erdrc+4>a4a+4  
+argra4<c4d4  e4c4f4g4  a4grfrg4a4  a+4argra2  
+^r8.<d4c2  >a+8<e8c+8>a+8a2  g2f2  d+2d4f4  
+e2a4g4  g+2<c+4>a4  <e4c+4e8>a+8<c+8>g8  a+8e8g8c+8
+;3
+
+l16
+{4}
+l16v75|2p88%e1 $4 o4d1  
+f1  >a+1  a1  <d1  
+f1  >a+2b2  <c2c+2  >a+1  
+<c2c+2  d2c2  >a+2a2  g2g+2  
+a2g+2  a1  r1  
+;4
+
+l16
+{3}
+l16v50|3p64 $5 o5d8ddd8ddd8ddd8dd  
+f8fff8fff8fff8ff  >a+8a+a+a+8a+a+a+8a+a+a+8a+a+  a8aaa8aaa8aaa8aa  
+<d8ddd8ddd8ddd8dd  f8fff8fff8fff8ff  >a+8a+a+a+8a+a+b8bbb8bb  <c8ccc8ccc+8c+c+c+8c+c+  
+>a+8a+a+a+8a+a+a+8a+a+a+8a+a+  <c8ccc8ccc+8c+c+c+8c+c+  d8ddd8ddc8ccc8cc  
+>a+8a+a+a+8a+a+a8aaa8aa  g8ggg8ggg+8g+g+g+8g+g+  a8aaa8aag+8g+g+g+8g+g+  
+a8aaa8aaa8aaa8aa  a2^8<gagec+>a  
+;5
+
+l16
+{7}
+l16v78|4p50%e1 $6 [3o5e1  
+^1  r1  r1  ]r1  
+r1  e2e2  e1  
+;6
+
+l16
+{2}
+l16o6|5p70%r20 $7 [15[3v62c8v42cc]v62cv42cc8]v62c8^2  
+cv42cv62ccv42c8
+;7
+
+l16
+{8}
+l16v82|6p60%r22 $8 o6d8ddd8ddd8  ddd8ddf8fff8fff8  
+fff8ff>a+8a+a+a+8a+a+a+8  a+a+a+8a+a+a8aaa8aaa8  aaa8aa<d8ddd8ddd8  
+ddd8ddf8fff8fff8  fff8ff>a+8a+a+a+8a+a+b8  bbb8bb<c8ccc8ccc+8  c+c+c+8c+c+>a+8a+a+a+8a+a+a+8  
+a+a+a+8a+a+<c8ccc8ccc+8  c+c+c+8c+c+d8ddd8ddc8  ccc8cc>a+8a+a+a+8a+a+a8  
+aaa8aag8ggg8ggg+8  g+g+g+8g+g+a8aaa8aag+8  g+g+g+8g+g+a8aaa8aaa8  
+aaa8aaa2^8  <gagec+>a
+;8
+
+l16

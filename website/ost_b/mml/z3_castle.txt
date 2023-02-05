@@ -1,0 +1,142 @@
+#TITLE Majestic Castle
+#ALBUM The Legend of Zelda: A Link to the Past
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x16 ## timpani (FF6)
+#WAVE 0x21 0x1A ## trombone (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1F ## ocarina (FF6)
+#WAVE 0x24 0x0E ## trumpet (FF6)
+#WAVE 0x25 0x12 ## cymbal (FF6)
+#WAVE 0x26 0x2C ## contrabass (FF6)
+
+{1}
+l16t96%v40%e1%b0,70%f0,0v100p64|0t96o3g32r32g32g2^4[4g+]v80,80[8g]v80,100[8g  
+]t134g^g^8^g^f4^8g^   $1 ^8[5g^g^ggg^g^g+^f+^  g^g^8^g^f4^8g^8  
+^]g^g^ggg^g^g+^f+^<c  ^c^8^c^>a+4^8<c^8  ^c^c^ccc^c^c+^>b^<c  ^c^8^c^>a+4^8<c^8  
+^c^c^ccc^c^c+^>b^g  ^g^8^g^f4^8g^8  ^g^g^ggg^g^g+^f+^g  ^g^8^g^f4^8g^8  
+^g^g^ggg^g^g+^f+^g+  ^4^g+g+g+^g+^g+^g+^g  ^4^ggg^g^g12g12g12g  
+^4^g+g+g+^g+^g+^g+^g  ^4^ggg^g^g12g12g12a+  ^4^a+a+a+^a+^a+^a+^g+  
+^4^g+g+g+^g+^g+12g+12g+12a  ^4^aaa^a^a^a^<d  ^4^ddd^d^d12d12d12>g  
+^2^4^aaa  ^2^4^f+f+f+  ^2^4^ggg  ^2^4^ddg  
+^2^4^aaa  ^2^4^f+f+f+  ^2^4^ggg  ^2^4^gg<c  
+^8^c12c12c12c^4^>a+a+a+  ^8^a+12a+12a+12a+^4^aaa  ^8^a12a12a12a^4^ggg  
+^8^g12g12g12g^4^<ccc  ^4^ccc^c^c12c12c12>a+  ^4^a+a+a+^a+^a+12a+12a+12a  
+^4^aaa^a^g12g12g12g  ^g^8^g^f4^8g^
+;1
+
+l16
+{2}
+l16%e1v50p64|1%r8o7r  
+^8^^32g24g24g24rfrg4g+8^b  m48,18,208g2^4^8^mr1  ^ $2 r1  
+^1  ^1  v120|2o5%a15%y4%s6%r7%l1g4^8^32f32e32d+32d2  ^4^%l0rg8g+8a+4f+a+  
+%l1g4^8^32f32e32d+32d2  ^4^%l0r2^8^  %l1g4^8^32f32e32d+32d2  ^4^8%l0g8g+8a+4f+a+  
+%l1g4^8^32f32e32d+32d2  ^4^%l0r2^8^  %l1<c4^8^32>a+32a32g+32g2  
+^4^%l0r<c8f8d+4c+>b  %l1<c4^8^32>a+32a32g+32g2  ^4^%l0r2^8^  %l1g4^8^32f32e32d+32d2  
+^4^%l0rg8g+8a+4f+a+  %l1g4^8^32f32e32d+32d2  ^4^%l0%yr2^8^  f4^8d+dc8d8f8<c8  
+>g2^4^8^r  f4^8d+dc8d8f8<c8  >g2^4^8^r  f4^8d+dc8d8f8g8  
+a+4^8g+gf8g8g+8a+8  <c4^8>a+ag8a8a+8<c8  d2^4^8^r  >%a10%r15grdrgr32ggr32grdrgrdr  
+grergr32ggr32grergrer  ard+rar32aar32ard+rard+r  grdrgr32ggr32grdrgrdr  
+grdrgr32ggr32grdrgrdr  grergr32ggr32grergrer  ard+rar32aar32ard+rard+r  
+grdrgr32ggr32grdrgrdr  grd+rgr32ggr32grd+rgrd+r  grdrgr32ggr32grdrgrdr  
+grd+rgr32ggr32grd+rgrd+r  grdrgr32ggr32grdrgrdr  grd+rgr32ggr32grd+rgr32ggr32  
+grdrgr32ggr32grdrgr32ggr32  v100,24f+rd+rf+r32f+f+r32f+rd+rf+r32f+f+%yr1  
+^32
+;2
+
+l16
+{3}
+l16%e1v100p64|0o3r32g32r32r2^4^32[4g+]v80,80[8g  
+]v80,100[8g]|2v80o4g2f2   $3 o4[5g2g+4f+4  g2f2  ]g2g+4f+4  
+<c2>a+2  <c2c+4>b4  <c2>a+2  <c2c+4>b4  
+g2f2  g2g+4f+4  g2f2  g2g+4f+4  
+r1  ^1  ^1  ^1  
+^1  v120<d4^8c>a+g+8a+8<c8d8  d+4^8dc>a+8<c8d8d+8  g2f+2  
+>g2^^a^a+^<d^  c+2>a2  <c2>a+8r32f+8^a+8r32  g2^4^8^r  
+g2^^a^a+^<d^  c+2>a2  <c2>a+8r32f+8^a+8r32  g2^4^8^r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^g2f2  
+;3
+
+l16
+{4}
+l16%e1v50p64|1%r6o7r^8^^32>a24a24a24rgra4a+8^  
+<cm48,18,208>a2^4^8^  mr1  ^ $4 r1  ^1  
+^1  ^1  ^1  ^2^4o6v60|4%r7a32a+32<c32c+32d8  
+r8drdrddfrfrd+dc+c  r1  ^1  ^2^4>a32a+32<c32c+32d8  
+r8drdrddfrfrd+dc+c  r1  ^1  ^2^4d32d+32f32f+32g4  
+^8r8gga+ra+rg+gf+fr1  ^1  ^2^4>a32a+32<c32c+32d8  r8drdrddfrfrd+dc+c  
+r1  ^4^8dddrd+rf12d+12d12  r1  ^4^8dddrd+rf12d+12d12  
+r2^8v50fffrff  g2r8gggrgg  g2r8gggrgg  %a10%y4%s6a2^4^8^%yr1  
+^1  ^1  ^1  ^v80|3%r8m12,24,201o5g2^^a^a+^<d  
+^c+2>a2  <c2>a+8r32f+8^a+8r32  g2^4^32mo6v120p54|4%r7>m18,16,224dg32a32a+32<c32d32  
+d+4^^d+d+d+rcr>gr<d+r  d2^4^8^r  c4^^cccr>grd+r<cr  >a+2^4^8^r  
+<d+4^^d+d+d+rcr>gr<d+r  d4^^dddr>a+rgr<dr  c4^^cccr>grd+r<cr  >a+2^4^8^r  
+m
+;4
+
+l16
+{5}
+l16%e1v50p64|1%r6o7r^8^^32d24d24d24rcrd8^^d+8^  fd2^4^8^  
+r8^ $5 o7v60|6dr8^drm2,-2dr8^crd  rr8drdrdddrdrd+rc+  r8^[5gr8^grm2,-2gr8^frg  
+r8^grgrgggrgrg+rf+  r8^]o6|4%r7<cr8^cr>a+r8^a+r<c  r8^crcrcccrcrc+r>b  
+r8^<cr8^cr>a+r8^a+r<c  r8^crcrcccrcrc+r>b  r8^gr8^grfr8^frg  r8^grgrgggrgrg+rf+  
+r8^gr8^grfr8^frg  r8^grgrgggrgrg+rf+  r1  ^4^8^bbbr<crd12c12>b12  
+r1  ^4^8bbbr<crd12c12>b12  r2^8<dddrdd  d2r8dddrdd  
+d2r8dddrdd  %a10%y4%s6c2^4^8^r  %yv30|2%a10%r15>a+r8^a+r32a+a+r32a+r8^a+r8^  
+<c+r8^c+r32c+c+r32c+r8^c+r8^  cr8^cr32ccr32cr8^cr8^  >a+r8^a+r32a+a+r32a+r8^a+r8^  
+a+r8^a+r32a+a+r32a+r8^a+r8^  <c+r8^c+r32c+c+r32c+r8^c+r8^  cr8^cr32ccr32cr8^cr8^  
+>a+r8^a+r32a+a+r32a+r8^a+r8^  <cr8^cr32ccr32cr8^cr8^  >a+r8^a+r32a+a+r32a+r8^a+r8^  
+<cr8^cr32ccr32cr8^cr8^  >a+r8^a+r32a+a+r32a+r8^a+r8^  <cr8^cr32ccr32cr8^cr32ccr32  
+v100,24>a+r8^a+r32a+a+r32a+r8^a+r32a+a+r1  ^8^32%y
+;5
+
+l16
+{6}
+l16%e1v100p64|2%a12r^32o3g2^4  
+g+4g1  grgr8^grf4r8gr   $6 r8o3grgrgggrgrg+rf+r  grgr8^grf4r8gr8  
+^grgrgggrgrg+rf+rg  rgr8^grf4r8gr8  ^grgrgggrgrg+rf+rg  rgr8^grf4r8gr8  
+^grgrgggrgrg+rf+rg  rgr8^grf4r8gr8  ^grgrgggrgrg+rf+rg  rgr8^grf4r8gr8  
+^grgrgggrgrg+rf+r<c  rcr8^cr>a+4r8<cr8  ^crcrcccrcrc+r>br<c  rcr8^cr>a+4r8<cr8  
+^crcrcccrcrc+r>brg  rgr8^grf4r8gr8  ^grgrgggrgrg+rf+rg  rgr8^grf4r8gr8  
+^grgrgggrgrg+rf+rg+2  o5d+2o3g2  o5d2o3g+2  o5d+2o3g2  
+o5d2o3a+2  <a+2>g+2  <g+2>a2  <a2d2  
+d2%y>grgrgrgr  grgrgrararararar  arararf+rf+rf+rf+rf+r  f+rf+rf+rgrgrgrgrgr  
+grgrgrdrgrgrgrgr  grgrgrararararar  arararf+rf+rf+rf+rf+r  f+rf+rf+rgrgrgrgrgr  
+grgrgr<crcrcrcrcr  crcrcr>a+ra+ra+ra+ra+r  a+ra+ra+rararararar  
+ararargrgrgrgrgr  grgrgr<crcrcrcrcr  crcrcrcr>a+ra+ra+ra+r  a+ra+ra+ra+rarararar  
+arargrgrgrgr8^gr  f4r8gr
+;6
+
+l16
+{7}
+l16%e1v60p64|5o5r^32a1  r1  
+^8o6v50p94|6dr8^drm2,-2dr8^crdr  v50p94|6o6 $7 r8drdrdddrdrd+rc+r8  
+^<dr8^drm2,-2dr8^crdr8  ^[5drdrdddrdrd+rc+r8  ^dr8^drm2,-2dr8^crdr8  
+^]grgrgggrgrg+rf+r8  ^gr8^grm2,-2gr8^frgr8  ^grgrgggrgrg+rf+r8  
+^dr8^drm2,-2dr8^crdr8  ^drdrdddrdrd+rc+r8  ^dr8^drm2,-2dr8^crdr8  
+^drdrdddrdrd+rc+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^v80p64|2o5ar8^ar32aar32ar8^ar32aa  r8^32v50p94|6o6dr8^drm2,-2dr8^crdr  
+
+;7
+
+l16
+{8}
+l16%e1r1  ^1  ^1  ^^32 $8 v50p34|6r1  
+^8o6[5dr8^drm2,-2dr8^crdr8  ^drdrdddrdrd+rc+r8  ^]gr8^grm2,-2gr8^frgr8  
+^grgrgggrgrg+rf+r8  ^gr8^grm2,-2gr8^frgr8  ^grgrgggrgrg+rf+r8  ^dr8^drm2,-2dr8^crdr8  
+^drdrdddrdrd+rc+r8  ^dr8^drm2,-2dr8^crdr8  ^drdrdddrdrd+rc+r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^v100p74|4%r7o5m18,16,224<g4^^gggrd+rcrg  rf4^^fffrdr>a+r<f  
+rd+4^^d+d+d+rcr>gr<d+  rd2^4^8^  rm
+;8
+
+l16

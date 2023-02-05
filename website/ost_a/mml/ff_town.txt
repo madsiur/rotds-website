@@ -1,0 +1,75 @@
+#TITLE Town
+#ALBUM Final Fantasy I
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0A ## oboe (FF6)
+#WAVE 0x21 0x1C ## bass (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+#WAVE 0x24 0x19 ## pizzo string (FF6)
+#WAVE 0x25 0x0C ## piano (FF6)
+#WAVE 0x26 0x1B ## harp (FF6)
+
+{1}
+l16t90%v50v60p60%e1%b0,70%f0,0|0o5<e8^^g8^^ $1 d8^^e8f8  e8d8m48,18,215c2mc4  
+a4^^a8g8d8e8f8  m48,18,215e2^8^mre4  <c4^^c8c8^^>b8a8  g8d8e8f8e8^^c8^^  
+m48,18,215d2^8m>a+8<c8d8  m48,18,215c4^8^mr>b8^^<c8d8  e8^^g8^^
+;1
+
+l16
+{2}
+l16v40p80%e0|1o6>c4^8^^  
+ $2 >b4^8^^a4^8^^  g4^8^^f2  ^4^8^r<c4^8^^  >e4^8^^a8<e8a8e8  
+d4f+4>g8<d8e8d8  c4>c4>a+8<f8a+8<c8  d4^8^^o3g8<d8g8a8  b8a8g4<c4^8^^  
+
+;2
+
+l16
+{3}
+l16v10p50%e1|2o5v100,80e2v10 $3 v100,80d2  v10v100,80e2v10v100,80e2  
+v10v100,80f2v10v100,80f2  v10v100,80e2v10v100,80g+2  v10v100a2v10v100,80f+2  
+v10v100,80g2v10v100,80g2  v10v100,80f1  v10v100,80g2v10v100,80g2  
+v10v100,80e2v10
+;3
+
+l16
+{4}
+l16v10p50%e1|2o5v100,80c2  v10 $4 v100,80>b2v10v100,80<c2  
+v10v100,80c2v10v100,80c2  v10v100,80d2v10v100,80c2  v10v100,80e2v10v100,80e2  
+v10v100,80d2v10v100,80d2  v10v100,80e2v10v100,80d1  v10v100,80d2v10v100,80d2  
+v10v100,80c2v10
+;4
+
+l16
+{5}
+l16v10p50%e1|2o5v100,80>g2  v10 $5 v100,80g2v10v100,80a2  
+v10v100,80g2v10v100,80a2  v10v100,80b2v10v100,80g2  v10v100,80<d2v10v100,80c2  
+v10v100,80c2v10v100,80>b2  v10v100,80<c2>v10v100,80a+1  v10v100,80<c2v10v100,80>b2  
+v10v100,80g2v10
+;5
+
+l16
+{6}
+l16v60p74%e1|3o5c8e8g8e8   $6 >b8<d8g8d8>a8<c8e8c8  
+>g8<c8e8c8>f8a8<c8>a8  f8g8b8g8e8g8<c8>g8  e8g+8b8g+8a8<c8e8c8  
+d8^^c8^^>b4^8^r  <c8^^>c8^^>a+8<f8a+8<c8  d4^8^ro3g8<d8g8a8  b8a8g8r8<c8e8g8e8  
+
+;6
+
+l16
+{7}
+l16v50p24%e1|4o4er<cr>grer $7 drgrbrdr  crarercrergr<cr>er  
+crarfrcr>br<drgrbr  er<cr>grerdrerg+rbr  <e4^8^^f+4d4  >b4^8^^<c8>b8a8g8  
+f2^4^8^r  g2^8^^f4  er<cr>grer
+;7
+
+l16
+{8}
+l16v60p68%e1|5o5r1  ^1  
+^1  <g4^^f+g $8 g+4^^f+g+  a4^^r4^8|6o4f+8^^  g4^8^r1  
+^1  ^1  ^1  ^1  
+^2^o6|5g4^^f+  g
+;8
+
+l16

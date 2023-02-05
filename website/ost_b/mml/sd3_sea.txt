@@ -1,0 +1,98 @@
+#TITLE Innocent Sea
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x98 ## acoustic guitar (SD3)
+#WAVE 0x21 0x03 ## wind flute (FF6)
+#WAVE 0x22 0xA7 ## choir (GH)
+
+{1}
+l16t156%x240%v72%b0,70%f0,0 $1 |0v80o5%e1p40m48,18,199rr64v56f+^64v51f+v60&21f+8v71f+v58f+32^64r64v64f+^32r64v68f+r64v64f+v64f+^32r64v71f+r64v58f+32^64v64&21f+8  
+r32v68ev58e32^64r64v64e^32r64v60ev56er64v53e32^64rr64v56a^64v51av60&21a8v71av58a32^64^64v64a^32  
+r64v68ar64v64av64a^32r64v71ar64v58a32^64v64&21a8r32v68g+v58g+32^64r64v64g+^32r64v60g+v56g+r64v53g+32^64[2r  
+r64v56f+^64v51f+v60&21f+8v71f+v58f+32^64r64v64f+^32r64v68f+r64v64f+v64f+^32r64v71f+r64v58f+32^64v64&21f+8  
+r32v68f+v58f+32^64r64v64f+^32r64v60f+v56f+r64v53f+32^64]rr64v56d^64v51dv60&21d8v71dv58d32^64r64v64d^32  
+r64v68dr64v64dv64d^32r64v71dr64v58d32^64v64&21d8r32v68c+v58c+32^64r64v64c+^32r64v60dv56dr64v53d32^64r  
+r64v56e^64v51ev60&21e8v71ev58e32^64^64v64e^32r64v68f+r64v64f+v64f+^32r64v71f+r64v58f+32^64v64&21f+8  
+r32v68dv58d32^64r64v64d^32r64v60dv56dr64v53d32^64>[2rr64v56b^64v51bv60&21b8v71bv58b32^64r64v64b^32  
+r64v68br64v64bv64b^32r64v71br64v58b32^64v64&21b8r32v68bv58b32^64r64v64b^32r64v60bv56br64v53b32^64]r  
+r64v56b^64v51bv60&21b8v71bv58b32^64r64v64b^32r64v68br64v64bv64b^32r64v71br64v58b32^64v64&21b8  
+r32v68av58a32^64r64v64a^32r64v60bv56br64v53b32^64<rr64v56e^64v51ev60&21e8v71ev58e32^64^64v64e^32  
+r64v68er64v64ev64e^32r64v71er64v58e32^64v64&21e8r32v68f+v58f+32^64r64v64f+^32r64v60f+v56f+r64v53f+32^64[2r  
+r64v56d^64v51dv60&21d8v71dv58d32^64r64v64d^32r64v68dr64v64dv64d^32r64v71dr64v58d32^64v64&21d8  
+r32v68dv58d32^64r64v64d^32r64v60dv56dr64v53d32^64]rr64v56d^64v51dv60&21d8v71dv58d32^64r64v64d^32  
+r64v68c+r64v64c+v64c+^32r64v71c+r64v58c+32^64v64&21c+8r32>v68bv58b32^64r64v64b^32r64v60bv56br64v53b32^64<r  
+r64v56c+^64v51c+v60&21c+8v71c+v58c+32^64^64v64c+^32r64v68c+r64v64c+v64c+^32r64v71c+r64v58c+32^64v64&21c+8  
+r32>v68av58a32^64r64v64a^32r64v60av56ar64v53a32^64[2rr64v56b^64v51bv60&21b8v71bv58b32^64r64v64b^32  
+r64v68br64v64bv64b^32r64v71br64v58b32^64v64&21b8r32v68bv58b32^64r64v64b^32r64v60bv56br64v53b32^64]
+;1
+
+l16
+{2}
+l16 $2 |0v64o3%e1p40m48,18,199[4b1  
+^2][4g1  ^2]<c1  ^2>a1  
+^2b1  ^2b1  ^2g1  
+^2a1  ^2b1  ^2b1  
+^2|1v24o4%e1p88m18,18,223%a6%r9b1  a2<d1  c+2>b1  
+^1  ^1  g1  f+4g4a2  
+b2g2  f+1  ^1  ^1  
+g1  ^2a1  ^2b1  
+^1  ^1  <d2c+2  >b2a1  
+<c+2>b1  ^1  ^1  
+;2
+
+l16
+{3}
+l16 $3 |0v64o4%e1p40m48,18,199r4[5f+2]a2  
+[5f+2]f+4r4  [11d2]d4r4  [6e2][5d2  ]d4r4d2  
+d2d2  e2e2  c+2d2  e2d2  
+d2e2  d4
+;3
+
+l16
+{4}
+l16 $4 |0v64o5%e1p40m48,18,199r2d2  c+2^2  
+d2e2  r2d2  c+2^2  d2c+2  
+r2>g2  a2^2  g2e2  r2g2  
+a2^2  g2f+2  r2g2  f+2^2  
+g2a2  r2e2  a2^2  f+2a2  
+r2g2  a2^2  f+2f+2  ^2f+2  
+a2^2  f+2a2  
+;4
+
+l16
+{5}
+l16 $5 [16r1  ^2]|0v64o3%e1p40m48,18,199[4b1  
+^2][4g1  ^2]<c1  ^2>a1  
+^2b1  ^2b1  ^2g1  
+^2a1  ^2b1  ^2b1  
+^2
+;5
+
+l16
+{6}
+l16 $6 [16r1  ^2]|1v24o4%e1p88m18,18,223%a6%r9%l1f+2  
+f+2%l0e2  %l1a2a2  %l0g+2%l1[6f+2  ]%l0%l1d2d2  
+%l0c+4d4e2  f+2d2  >%l1[6b2]%l0<%l1d2  d2d2  
+%l0%l1e2e2  e2%l0%l1[6f+2  ]%l0b2a2  f+2%l1e2  
+e2%l0a2  %l1[6f+2]%l0
+;6
+
+l16
+{7}
+l16 $7 [16r1  ^2]|2v16o4%e1p64m48,18,207%a6%r3%l1f+2  
+f+2%l0e2  %l1a2a2  %l0g+2%l1[6f+2  ]%l0%l1d2d2  
+%l0c+4d4e2  f+2d2  >%l1[6b2]%l0%l1b2  b2%l0a4b4  
+<%l1e2e2  %l0f+2%l1[6d2  ]%l0d2c+2  >b2<%l1c+2  
+c+2%l0>a2  %l1[6b2]%l0
+;7
+
+l16
+{8}
+l16 $8 [16r1  ^2]|2v16o3%e1p64m48,18,207%a6%r3%l1[12b2  
+]%l0%l1[12g2]%l0[2%l1g2  g2g2  %l0%l1a2a2  a2%l0%l1[6b2  
+]%l0]
+;8
+
+l16

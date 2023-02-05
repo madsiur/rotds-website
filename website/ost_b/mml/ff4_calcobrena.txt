@@ -1,0 +1,98 @@
+#TITLE Dancing Calcobrena
+#ALBUM Final Fantasy IV
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x3B ## pipe organ 2 (FF6)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x5E ## flute (FF6)
+#WAVE 0x24 0x63 ## bottle blow (FF6)
+#WAVE 0x2A 0x14 ## snare (FF6)
+
+{1}
+l16t163%x224%v50%b0,70%f0,0 $1 |3v64o4%r11m48,18,223<%e1p64r1  
+^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>|1v64o5%r11m48,18,239p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>r1  ^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  
+p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  
+p192,25%l1g8f+8%l0f4e8r4.  p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  
+%l0p192,25%l1<c8>a8%l0<f2^4  >|4v56o5%r11m48,18,231<p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>r1  ^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  
+p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  
+p192,25%l1g8f+8%l0f4e8r4.  p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  
+%l0p192,25%l1<c8>a8%l0<f2^4  >|3v64o4%r11m48,18,223<p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>
+;1
+
+l16
+{2}
+l16 $2 |2v56o6%r13m12,18,209%e1p66a2<e4a2  g4f2^4  
+>f2g4a2  <e4a2g4  f2^4<c2  ^4>>[2a4.<d+8e4  
+>a4<g8r4f+8f2  ^4>f2g4  a4.<d+8e4>a4  <c8r8e8r8g2  
+f+4f4>f2  ]
+;2
+
+l16
+{3}
+l16 $3 |0v40o6%e1p21p192,48>a4<e8r8e8r8>a4  
+<p192,77e8r8e8r8>f4<f8r8  p192,105f8r8>f4<f8r8f8r8  
+;3
+
+l16
+{4}
+l16[6r1  
+]v64 $4 |Ap41o5a4a2a4  a2v72,16[9a24]v72,64[9a24]a4a2  
+;4
+
+l16
+{5}
+l16 $5 |1v64o5%r11m48,18,239v48%e1<p21p192,48r4c8r8c8r8r4  
+p192,77c8r8c8r8r4c8r8  p192,105c8r8r4c8r8c8r8  
+;5
+
+l16
+{6}
+l16 $6 |0v40o6%e1p21p192,48r4a8r8a8r8r4  
+p192,77a8r8a8r8r4a8r8  p192,105a8r8r4a8r8a8r8  
+;6
+
+l16
+{7}
+l16t163%x224%v50%b0,70 $7 |1v64o5%r11m48,18,239<v24%e1p64r1  
+^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>|4v56o5%r11m48,18,231<v24p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>r1  ^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  
+p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  
+p192,25%l1g8f+8%l0f4e8r4.  p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  
+%l0p192,25%l1<c8>a8%l0<f2^4  >|1v64o5%r11m48,18,239<v24p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>r1  ^2[4%l1d+8d8%l0]%l1c8>a8  <%l0c8d8r1  ^2[5%l1f8e8%l0]f8g8  
+p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  
+p192,25%l1g8f+8%l0f4e8r4.  p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  
+%l0p192,25%l1<c8>a8%l0<f2^4  >|1v64o5%r11m48,18,239v24<p118p192,87<d4%l1c+8c8%l0>%l1b8a+8%l0a8g+8  
+p192,56g8f+8%l1f8e8%l0d+8%l1e8f8%l0e8  p192,25%l1g8f+8%l0f4e8r4.  
+p118p192,87d+4e8r4g8f4  p192,56e8r4.%l1d8d+8%l0%l1a8d+8  %l0p192,25%l1<c8>a8%l0<f2^4  
+>
+;7
+
+l16
+{8}
+l16 $8 |1v64o5%r11m48,18,239v32%e1p21p192,48r4e8r8e8r8r4  
+p192,77e8r8e8r8r4f8r8  p192,105f8r8r4f8r8f8r8  
+;8
+
+l16

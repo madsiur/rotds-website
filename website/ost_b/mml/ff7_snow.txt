@@ -1,0 +1,142 @@
+#TITLE Buried in the Snow
+#ALBUM Final Fantasy VII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x18 ## acoustic bass (FF6)
+#WAVE 0x22 0x19 ## pizzo string (FF6)
+#WAVE 0x23 0x20 ## marimba (FF6)
+
+{1}
+l16t103%x224%v50%b0,70%e1 $1 |0%a12%r20o5mp10v64<[2^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  
+]^4[2p10v64d8p40v32d8]^4[5p10v64c+8p40v32c+8  ]p10v64e8p40v32e8[2p10v64c+8p40v32c+8]^4[2p10v64c+8p40v32c+8  
+]^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  ]^4[2p10v64d8p40v32d8]>^4[5p10v64a8p40v32a8  
+]<p10v64c+8p40v32c+8>[2p10v64a8p40v32a8]^4[2p10v64a8p40v32a8  ]<]^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  
+]^4[2p10v64d8p40v32d8]^4[5p10v64c+8p40v32c+8  ]p10v64e8p40v32e8[2p10v64c+8p40v32c+8]^4[2p10v64c+8p40v32c+8  
+]>^4[5p10v64b8p40v32b8]<p10v64d8p40v32d8>[2p10v64b8p40v32b8  ]^4[2p10v64b8p40v32b8]^4[5p10v64a8p40v32a8  
+]<p10v64c+8p40v32c+8>[2p10v64a8p40v32a8]^4[2p10v64a8p40v32a8  ]<^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  
+]^4[2p10v64d8p40v32d8]^4[5p10v64c8p40v32c8  ]p10v64e8p40v32e8[2p10v64c8p40v32c8]^4[2p10v64c8p40v32c8  
+]^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  ]^4[2p10v64d8p40v32d8]^4[5p10v64c+8p40v32c+8  
+]p10v64e8p40v32e8[2p10v64c+8p40v32c+8]^4[2p10v64c+8p40v32c+8  ]^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  
+]^4[2p10v64d8p40v32d8]^4[5p10v64c8p40v32c8  ]p10v64e8p40v32e8[2p10v64c8p40v32c8]^4[2p10v64c8p40v32c8  
+]^4[5p10v64d8p40v32d8]p10v64f+8p40v32f+8[2p10v64d8p40v32d8  ]^4[2p10v64d8p40v32d8]^4[5p10v64c+8p40v32c+8  
+]p10v64f+8p40v32f+8[2p10v64d+8p40v32d+8]^4[2p10v64d+8p40v32d+8  
+]
+;1
+
+l16
+{2}
+l16%e1 $2 |0%a12%r20o5m[4p50v64b8p80v32b8p50v64g8p40v32g8^4][4p50v64a8p80v32a8  
+p50v64f+8p40v32f+8^4][4p50v64b8p80v32b8p50v64g8p40v32g8  ^4][4p50v64f+8p80v32f+8p50v64d8p40v32d8^4  
+]|2o5mp50v112r1  ^2r4g4  e4r4b4g4  r1  
+^2r4f+4  d4r4a4f+4  r1  ^2r4g4  
+e4r4b4g4  r1  ^2r4g4  d4r4b4g4  
+r1  ^2r4g4  e4r4b4g4  r1  
+^2r4f+4  d4r4a4f+4  r1  ^2r4e4  
+c4r4g4e4  r1  ^2r4d4  >b4<r4g4d4  
+r1  ^2r4g4  e4r4b4g4  r1  
+^2r4f4  d4r4a4f4  r1  ^2r4g4  
+e4r4b4g4  r1  ^2r4f+4  d4r4a4f+4  
+r1  ^2r4g4  e4r4b4g4  r1  
+^2r4f4  d4r4a4f4  r1  ^2r4g4  
+e4r4b4g4  r1  ^2r4f+4  d+4r4a4f+4  
+
+;2
+
+l16
+{3}
+l16%e1 $3 |0%a12%r20o5m[2[4p90v64c8p120v32c8p90v64e8p120v32e8>p90v64c8p120v32c8<][4>p90v64b8p120v32b8  
+<p90v64d8p120v32d8>>p90v64b8p120v32b8<<][4p90v64c8p120v32c8p90v64e8p120v32e8  
+>p90v64c8p120v32c8<]>[4p90v64g8p120v32g8p90v64b8p120v32b8>p90v64g8p120v32g8  
+<]<][4p90v64c8p120v32c8p90v64e8p120v32e8>p90v64c8p120v32c8<][4>p90v64b8p120v32b8  
+<p90v64d8p120v32d8>>p90v64b8p120v32b8<<][4>p90v64a8p120v32a8<p90v64c8p120v32c8  
+>>p90v64a8p120v32a8<<]>[4p90v64g8p120v32g8p90v64b8p120v32b8>p90v64g8p120v32g8  
+<]<[4p90v64d8p120v32d8p90v64e8p120v32e8>p90v64e8p120v32e8<][4p90v64c8p120v32c8  
+p90v64d8p120v32d8>p90v64d8p120v32d8<][4p90v64c8p120v32c8p90v64e8p120v32e8  
+>p90v64c8p120v32c8<][4>p90v64b8p120v32b8<p90v64d8p120v32d8>>p90v64b8p120v32b8  
+<<][4p90v64d8p120v32d8p90v64e8p120v32e8>p90v64e8p120v32e8<][4p90v64c8p120v32c8  
+p90v64d8p120v32d8>p90v64d8p120v32d8<][4p90v64c8p120v32c8p90v64e8p120v32e8  
+>p90v64c8p120v32c8<]>[2p90v64f+8p120v32f+8p90v64a8p120v32a8>p90v64f+8p120v32f+8  
+<][2p90v64b8p120v32b8<p90v64d+8p120v32d+8>>p90v64b8p120v32b8<]
+;3
+
+l16
+{4}
+l16%e1 $4 [2|1o6mp64v96r2  
+c2^1  ^1  >r2b2  ^1  
+^1  <r2c2  ^1  ^1  
+>r2g2  ^1  ^1  <]r2c2  
+^1  ^1  >r2b2  ^1  
+^1  r2a2  ^1  ^1  
+r2g2  ^1  ^1  <r2e2  
+^1  ^1  r2d2  ^1  
+^1  r2c2  ^1  ^1  
+>r2b2  ^1  ^1  <r2e2  
+^1  ^1  r2d2  ^1  
+^1  r2c2  ^1  ^1  
+>r2f+1  r2b1  
+;4
+
+l16
+{5}
+l16%e1 $5 [16r2^4]|3o6m48,18,223%y0%s1%r7v64p20e2  
+g4b4^1  ^1  d2f+4b4  ^1  
+^1  e2g4b4  ^1  ^1  
+d2g4b4  ^1  ^1  e2g4b4  
+^1  ^1  d2f+4b4  ^1  
+^1  c2e4b1  ^1  a4f+1  
+^1  ^1  b2<d4f+4  ^1  
+^1  >b2<d4f4  ^1  ^1  
+>b2<d4a4  ^1  ^1  >b2<d4a4  
+^1  ^1  >b2<d4f+4  ^1  
+^1  >b2<d4f4  ^1  ^1  
+>b2<d4a1  ^1  g4f+1  
+^1  ^1  
+;5
+
+l16
+{6}
+l16%e1 $6 [16r2^4]|0%a12%r20o5m[4p50v64b8p80v32b8  
+p50v64g8p40v32g8^4][4p50v64a8p80v32a8p50v64f+8p40v32f+8  ^4][4p50v64b8p80v32b8p50v64g8p40v32g8^4  
+][4p50v64f+8p80v32f+8p50v64d8p40v32d8^4][4p50v64b8p80v32b8  p50v64g8p40v32g8^4][4p50v64a8p80v32a8p50v64f+8p40v32f+8  
+^4][4p50v64g8p80v32g8p50v64e8p40v32e8^4  ][4p50v64f+8p80v32f+8p50v64d8p40v32d8^4][2[4p50v64b8p80v32b8  
+p50v64g8p40v32g8^4][4p50v64a8p80v32a8p50v64f8p40v32f8  ^4][4p50v64b8p80v32b8p50v64g8p40v32g8^4  
+][4p50v64a8p80v32a8p50v64f+8p40v32f+8^4]]
+;6
+
+l16
+{7}
+l16%e1 $7 [17r2  
+^4]|3o6m48,18,223%y0%s1%r7v32p100e2g4  b4^1  ^1  d2f+4b4  
+^1  ^1  e2g4b4  ^1  
+^1  d2g4b4  ^1  ^1  
+e2g4b4  ^1  ^1  d2f+4b4  
+^1  ^1  c2e4b1  ^1  
+a4f+1  ^1  ^1  b2<d4f+4  
+^1  ^1  >b2<d4f4  ^1  
+^1  >b2<d4a4  ^1  ^1  
+>b2<d4a4  ^1  ^1  >b2<d4f+4  
+^1  ^1  >b2<d4f4  ^1  
+^1  >b2<d4a1  ^1  g4f+4^1  
+^1  
+;7
+
+l16
+{8}
+l16%e1 $8 [16r2^4]|2o5mp50v112r1  ^2r4e4  c4r4g4e4  
+r1  ^2r4d4  >b4<r4f+4d4  r1  
+^2r4e4  c4r4g4e4  r1  ^2r4d4  
+>b4<r4g4d4  r1  ^2r4e4  c4r4g4e4  
+r1  ^2r4d4  >b4<r4f+4d4  r1  
+^2r4c4  >a4<r4e4c4  r1  ^2r4>b4  
+g4r4<d4>b4  <r1  ^2r4e4  >b4<r4g4e4  
+r1  ^2r4d4  >a4<r4f4d4  r1  
+^2r4e4  c4r4g4e4  r1  ^2r4d4  
+>b4<r4f+4d4  r1  ^2r4e4  >b4<r4g4e4  
+r1  ^2r4d4  >a4<r4f4d4  r1  
+^2r4e4  c4r4g4e4  r1  ^2r4d+4  
+>b4<r4f+4d+4  
+;8
+
+l16

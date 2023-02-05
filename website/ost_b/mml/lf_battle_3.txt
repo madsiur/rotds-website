@@ -1,0 +1,98 @@
+#TITLE Battle 3
+#ALBUM Lufia 1
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x9A ## overdrive guitar (GH)
+#WAVE 0x21 0x34 ## strings (TOTR)
+#WAVE 0x22 0x92 ## english horn (TOTR)
+#WAVE 0x23 0xC9 ## bass (FF6T)
+#WAVE 0x26 0xD1 ## orchit (TOTR)
+#WAVE 0x28 0x22 ## kick drum (FF6)
+#WAVE 0x29 0x56 ## snare drum 2 (RS3)
+#WAVE 0x2A 0xD8 ## tom (SMRPG)
+#WAVE 0x2C 0xCD ## crash (FF5)
+#WAVE 0x2F 0xDF ## oh (CT)
+
+{1}
+l16t86%x232%v50%b0,70%f0,0%e1|1o5v96p40m48,18,207%k248%r6d2e2  
+f4g4a4<c+4  > $2 [2|1o5v96p40m48,18,207%k248%r6a4d4a8.g32a32<d^32>a^32f  
+g+1  a4d4a8.g32a32<d^32>a^32f  <c1  >a+4^a+<cdc+4.de  
+f12e12c12>g12f12e12d4^efa  a+4^a+<cdc+4.de  f12e12c12>g12f12e12a2  
+^4<c+4>][2[2a4.g<c  >]a2d2  [2a4.g<c>]j2,1 <d2  d2>] $1 <d1  
+
+;2
+
+l16
+{2}
+l16%e1|0o6v56p80m48,18,239%k246%y4%s5%r9[2ef+gf+agf+g]e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32  
+>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32 $6 |0o6v56p80m48,18,239%k246[2%y4%r9[2[3%s2ee%s5b%s2ej3,3 e%s5<e>] $3 [3%s2d+d+  
+%s5a+%s2d+j3,4 d+%s5<d+>] $4 ][2%s2cc%s5g%s2cc%s5<c>%s2cc>bb%s5<f+>%s2b  
+b%s5<b>%s2bb%s5<<g12f+12d12>a12g12f+12j2,5 e4  ^f+gb] $5 <d+1  >]%y%r9e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32  
+b32a32g32f+32a32g32f+32e32g32f+32e32d32f+32e32d32c32e32d32c32>b32<d32c32>b32a32<c32>b32a32g32b32a32g32f+32  
+e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32  
+<e32d32c32>b32<d32c32>b32a32<c32>b32a32g32b32a32g32f+32a32g32f+32e32g32f+32e32d32f+32e32d32c32>b32<c32d32d+32  
+e32f+32g32a32<e32d32c32>b32a32b32<c32d32g32f+32e32d32e32f+32g32a32<e32d32c32>b32a32b32<c32d32a32g32f+32e32  
+e8.>b8.e8>b8.e8.>b8  <e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32  
+<e2^4mm48,-12^4  
+;6
+
+l16
+{3}
+l16|3o6v96p72m%y1%s5[8f+c+dc+] $7 [2|3o6v96p72m%y1%s5[2[16f+][16f]][8d][8c+][10f+]g+g+aa<c+c+>[8d  
+][8c+]>[6b12]<c+2^4.  c+8][4[8d][8e][6f+]eef+f+g+g+aa<c+c+>]
+;7
+
+l16
+{4}
+l16[12|8v112p64%k0%e0o5f8  
+]|9%e1b|8%e0ff|9%e1b|8%e0ff|9%e1b32b32b32b32 $8 [2[2|8v112p64%k0%e0o5f8|9%e1b8.|8%e0f|9%e1b|8%e0f  
+ff|9%e1b|8%e0f8f32f32|9%e1b8|Av127p88g64g32^64|8v112p64%e0ff|Av127p70%e1e64e32^64|8v112p64%e0ff|Av127p52%e1c64c32^64|8v112p64%e0f  
+f|9%e1b|8%e0ff|9%e1b|8%e0f32f32|9%e1b8]|8%e0f8|9%e1b8.|8%e0f|9%e1b|8%e0f  
+ff|9%e1b|8%e0f8f32f32|9%e1b8b|8%e0ff|9%e1b|8%e0ff|9%e1b|8%e0f  ff|9%e1b|8%e0f8f32f32|9%e1b8|8%e0f8|9%e1b8.|8%e0f|9%e1b|8%e0f  
+ff|9%e1b|8%e0f8f32f32|9%e1b8b|8%e0ff|9%e1b|8%e0ff|9%e1b|8%e0f  f8f8f8f8f8f8ff32f32|9%e1b8  
+][7|8%e0f8|9%e1b8.|8%e0f|9%e1b|8%e0fff|9%e1b|8%e0f8f32f32|9%e1b8  
+]|Av127p88g64g32^64|8v112p64%e0ff|Av127p70%e1e64e32^64|8v112p64%e0ff|Av127p52%e1c64c32^64|8v112p64%e0ff|9%e1b|8%e0ff|9%e1b|8%e0f32f32|9%e1b8  
+
+;8
+
+l16
+{5}
+l16[12|Fv72p96%s0%y0%k0%e1o5a8]|Cv112p52%r17e8.e8.e8 $9 [2[2|6o5v127p48m%k253e8|2o4v127p56m48,18,223%k4%r5a4.  
+a4a^32a^32ag+2  <d+2>]<d2  f4c+4d2  a2d2  
+f4c+4g2  a2^4%l1d64c+64c64>b64a+64a64g+64g64f+64f64e64d+64d64c+64c64>b64  
+<<%l0][4d2e2  f1  ]
+;9
+
+l16
+{6}
+l16%e1|1o4v96p40m48,18,207%k2%r6[2ef+gf+agf+g]e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32  
+>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32 $10 [2[2|2o4v127p56m48,18,223%k4%r5f2  
+^4f^32f^32fd+2  g+2]a+2  <c+4>a4a2  <d2>a+2  
+<c+4>a4a+2  a2<c+4%l1c+64c64>b64a+64a64g+64g64f+64f64e64d+64d64c+64c64>b64a+64  
+<%l0][4a+2<c2  d1  >]
+;10
+
+l16
+{7}
+l16r1  r1  
+ $12 [2[2|Cv112p76%k0%e1%r18o5e8[7|Fv80p96%s0%y5%e0av48a]|Cv112p52%e1%r17e8.e8.e8.e8.  
+e8e8][2|Cv112p76%e1%r18e8[7|Fv80p96%s0%y5%e0av48a]|Cv112p52%e1%r17e8.e8.e8  
+p76%r18e8j2,11 [3|Fv80p96%s0%y5%e0av48a]] $11 [6|Fv72p96%s0%y0a8]|Cv112p76%r18e8][3|Cv112p76%e1%r18e8[15|Fv80p96%s0%y5%e0av48a]]|Cv112p76%e1%r18e8[7|Fv80p96%s0%y5%e0av48a  
+]|Cv112p52%e1%r17e8.e8.e8.e8.e8e8  
+;12
+
+l16
+{8}
+l16r1  r1  %e1 $16 [2|1o4v72p40m48,18,207%k2%r6%s2%r9[2[3%s2ee%s5b%s2ej3,13 e%s5<e>] $13 [3%s2d+d+%s5a+%s2d+j3,14 d+%s5<d+>] $14 ][2v72%s2cc%s5g%s2c  
+c%s5<c>%s2cc>bb%s5<f+>%s2bb%s5<b>%s2bb%s5v48<<<g12f+12d12  >a12g12f+12j2,15 e4^f+gb>] $15 b1  
+>]%y%s7%l1v72e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32  
+%l0%l1b32a32g32f+32a32g32f+32e32g32f+32e32d32f+32e32d32c32e32d32c32>b32<d32c32>b32a32<c32>b32a32g32b32a32g32f+32  
+%l0%l1e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32e32g32e32e32<e32>e32g32e32  
+%l0%l1<e32d32c32>b32<d32c32>b32a32<c32>b32a32g32b32a32g32f+32a32g32f+32e32g32f+32e32d32f+32e32d32c32>b32<c32d32d+32  
+%l0%l1e32f+32g32a32<e32d32c32>b32a32b32<c32d32g32f+32e32d32e32f+32g32a32<e32d32c32>b32a32b32<c32d32a32g32f+32e32  
+%l0e8.>b8.e8>b8.e8.>b8  <%l1e32f+32g32a32f+32g32a32b32g32a32b32<c32>a32b32<c32d32>b32<c32d32e32c32d32e32f+32d32e32f+32g32e32f+32g32a32  
+%l0<e2^4mm48,-12^4  
+;16
+
+l16

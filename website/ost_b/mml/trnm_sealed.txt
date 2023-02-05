@@ -1,0 +1,76 @@
+#TITLE Sealed
+#ALBUM Terranigma
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x5E ## flute (FF6)
+#WAVE 0x22 0x20 ## marimba (FF6)
+#WAVE 0x23 0x18 ## acoustic bass (FF6)
+#WAVE 0x24 0x32 ## acoustic guitar (FF6)
+
+{1}
+l16t120%v32%e1%b0,70%f0,0 $1 v80p34|0o5%a3%r8g+1  ^1  ^1  a+1  
+^1  ^1  g+1  ^1  
+^1  a+1  ^2<d1  ^2c+1  
+d+2f1  ^2d+1  f2d+1  
+^2c+1  d+2f1  ^2d+1  
+f2g1  >g2
+;1
+
+l16
+{2}
+l16%e1 $2 v80p94|0o5%a3%r8c1  ^1  
+^1  d1  ^1  ^1  
+c1  ^1  ^1  d1  
+d+2f1  ^2f1  g2g+1  
+^2g1  g+2g1  ^2f1  
+g2g+1  ^2g1  g+2a+1  
+c2
+;2
+
+l16
+{3}
+l16%e1 $3 v60p63|1%r5o5m72,18,215f4c4  <c1  ^1  d+2mm48,24,215d4>a+4  
+f1  ^1  v128,10^2mv60m72,18,215f4c4  <c1  
+^1  d+2d4d+4  f1  v255,0^1  
+^2mv50p63|2o5<g+8g+8g8g8  f8f8d+8d+8v192,0f8f8f8f8  f8f8f8f8f8f8f8f8  
+f8f8f8f8v50g+8g+8g8g8  f8f8d+8d+8v192,0f8f8f8f8  c8c8c8c8c8c8c8c8  
+c8c8c8c8v50g+8g+8g8g8  f8f8d+8d+8v192,0f8f8f8f8  f8f8f8f8f8f8f8f8  
+f8f8f8f8v50g+8g+8g12g+12g12  f8f8d+8d+8v192,0f8f8f8f8  >d+8d+8d+8d+8d+8d+8d+8d+8  
+d+8d+8d+8d+8
+;3
+
+l16
+{4}
+l16%e1 $4 v80p64|3o5f1  <c2>f1  f2>a+1  
+<f2>a+1  a+2<f1  <c2>f1  
+f2>a+1  <f2>a+1  a+4<c4c+1  
+g+2c+1  ^2d+1  >a+2d+1  
+^2<c+1  g+2c+1  ^2d+1  
+>a+2d+1  ^2
+;4
+
+l16
+{5}
+l16%e1 $5 v80p63|4o5o3f4<c4  g+1  >f4<c4g+1  
+>a+4<f4<d1  o3a+4<f4<c1  o3f4<c4g+1  
+>f4<c4g+1  >a+4<f4<d1  o3a+4<f4<c1  
+c+4g+4<d+2  >g+2c+4g+4  <f1  >d+4a+4<f2  
+^4>a+4d+4a+4  <g4g+4g4d+4  >c+4g+4<d+2  >g+2c+4g+4  
+<f1  >d+4a+4<f2  ^4>a+4d+4a+4  <g4g+4g4d+4  
+
+;5
+
+l16
+{6}
+l16%e1 $6 v24p63|2o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2<g+8g+8g8g8  v192,0f8f8d+8d+8f8f8f8f8  f8f8f8f8f8f8f8f8  v60r2g+8g+8g8g8  
+v192,0f8f8d+8d+8d+8d+8d+8d+8  d+8d+8d+8d+8d+8d+8d+8d+8  v60r2g+8g+8g8g8  
+v192,0f8f8d+8d+8f8f8f8f8  f8f8f8f8f8f8f8f8  v60r2g+8g+8g8g8  v192,0f8f8d+8d+8a+8a+8a+8a+8  
+a+8a+8a+8a+8a+8a+8a+8a+8  
+;6
+
+l16

@@ -1,0 +1,65 @@
+#TITLE Salvage Ship
+#ALBUM Treasure Conflix
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x79 ## synth strings (TC)
+#WAVE 0x22 0x16 ## timpani (FF6)
+#WAVE 0x23 0x78 ## brass (TC)
+
+{1}
+l16t115%v20%v20%v20 $1 |3v64p34o2a+1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+
+;1
+
+l16
+{2}
+l16 $2 |3v64p98o2a+1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+
+;2
+
+l16
+{3}
+l16 $3 |2v84p1o3a+4f4a+fa+f<c+8>f8  
+;3
+
+l16
+{4}
+l16 $4 |2v84p127o3a+4f4a+fa+f<c+8>f8  
+
+;4
+
+l16
+{5}
+l16t115 $5 |0v44p74o3a+1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+
+;5
+
+l16
+{6}
+l16t115 $6 |1v44p54o3a+1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+>a+2^8<c8d8f8  e4.c4.g4  f4d4a+8a8g8e8  c1  
+
+;6
+
+l16

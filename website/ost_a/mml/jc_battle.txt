@@ -1,0 +1,96 @@
+#TITLE Battle ~ Drill
+#ALBUM Jade Cocoon
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x5B ## orch hit (THG)
+#WAVE 0x21 0x33 ## bagpipe (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x56 ## snare drum 2 (RS3)
+#WAVE 0x25 0x2F ## shaker (FF6)
+#WAVE 0x26 0x17 ## conga (FF6)
+#WAVE 0x27 0x1C ## bass (FF6)
+
+{1}
+l16t95%v25%e1%b0,70%f0,0 $1 v90p63|0o4[2f+8^f+f+8f+gag8a8gf+8  
+f+8^f+f+8f+gf+eef+ede8  ]f+8^f+f+8f+8f+4f+4  [3f+8^f+f+8f+gag8a8gf+8  
+f+8^f+f+8f+gf+eef+ede8  ]f+8^f+f+8f+gag8a8gf+8  f+4f+4e4e4  r4v70|1o4g4o6c32%r2%l1d4^^32c8  
+%l0g1  e32f+2^4^8^^32  %l1e32f32f+2^4^8^  r2c4^8>a+8  
+<f1  %l1f32g32e2^4^8^  %l0>%l1a32a+32v192,24b2^4^8^  %l0v90|0o4[6f+8^f+f+8f+f+f+8^f+f+8f+f+  
+][2f+8^f+f+8f+gag8a8gf+8  f+8^f+f+8f+gf+eef+ede8  ]f+8^f+f+8f+8f+4f+4  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v120p63|2o5r1  ^1  ^1  ^1  
+^1  >d4c+2^4  b4a2^4  <c+4>f+2^4  
+<e4d+2^4  c+r8>f+f+8f+gag8a8gf+8  a4a8^bag+g+ag+f+g+r  <f+4f+8^gagga8gf+8  
+<c+2d+2  %r1e1  ^1  d+1  
+^1  d1  ^1  c+1  
+o4g1  %yo6f+2e2  c+2c+2  c+2>b2  
+g2g2  g2e2  c+2>b2  >v192,0f+1  
+^2r1  ^1  ^1  ^2
+;2
+
+l16
+{3}
+l16%e1 $3 v120p63|2o6r1  
+^1  ^1  ^1  ^1  
+^1  o3b4a2^4  <c+4>f+2^4  <e4d+2^4  
+c+r8>f+f+8f+gag8a8gf+8  <f+4f+8^g+f+eef+eder  <c+4c+8^dedde8dc+8  
+>a2b2  %r1<c1  ^1  >b1  
+^1  a+1  ^1  a1  
+d+1  %yr2<b2  b2b2  r2f+2  
+f+2e2  r2>b2  g2f+2  >v192,0f+1  
+^2r1  ^1  ^1  ^2
+;3
+
+l16
+{4}
+l16%e1 $4 v120p63|2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  >f+2e2  
+d1  ^1  %r1c+1  ^1  
+c1  ^1  e1  >f1  
+%yr1  o5g2e2  r1  e2c+2  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;4
+
+l16
+{5}
+l16%e0 $5 v120p64|3o6[2>|3b^8b<|4d^8^>|3b^8b<|4d^8^  
+>|3b^8b<|4d^8^>|3b^8b^8<|4d^  ]>|3b^8b<|4d^d^>|3b<|4dddddd>|3b  
+b^8b<|4d^8^>|3b^8b<|4d^8^  [7>|3b^8b<|4d^8^>|3b^8b^8<|4d^  >|3b^8b<|4d^8^>|3b^8b<|4d^8^  
+]>|3b^8b<|4d^d^>|3b^<|4d>|3b<|4ddd^  [2>|3b^8b<|4d^8^>|3b^8b<|4d^8^  
+>|3b^8b<|4d^8^>|3b^8b^8<|4d^  ]>|3b^8b<|4d^8^>|3b^8b<|4d^8^  >|3b^8b<|4d^8^>|3b^<|4d>|3b^<|4dd^  
+[2>|3b^8b<|4d^8^>|3b^8b<|4d^8^  >|3b^8b<|4d^8^>|3b^8b^8<|4d^  ]>|3b^8b<|4d^d^>|3b<|4dddddd>|3b  
+
+;5
+
+l16
+{6}
+l16%e0 $6 v50p64|5o5ra+v80|6ev50|5a+ra+v80|6ev50|5a+ra+v80|6ev50|5a+ra+v80|6ev50|5a+  
+
+;6
+
+l16
+{7}
+l16%e0 $7 v50p64|7o4[2f+8^f+f+8f+gag8a8gf+8  f+8^f+f+8f+gf+eef+ede8  
+]f+8^f+f+8f+8f+4f+4  f+8^f+f+8f+gag8a8gf+8  [3f+8^f+f+8f+gf+eef+ede8  
+f+8^f+f+8f+gag8a8gf+8  ]f+4f+4e4e4  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  [6f+8^f+f+8f+f+f+8^f+f+8f+f+  ][2f+8^f+f+8f+gag8a8gf+8  
+f+8^f+f+8f+gf+eef+ede8  ]f+8^f+f+8f+8f+4f+4  
+;7
+
+l16
+{8}
+l16%e0 $8 v24p64|5o5arararararararar  
+
+;8
+
+l16

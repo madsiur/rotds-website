@@ -1,0 +1,120 @@
+#TITLE Days of Sadness
+#ALBUM Dragon Quest VII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x31 ## bright piano (FF6)
+#WAVE 0x23 0x19 ## pizzo string (FF6)
+
+{1}
+l16t78%v50%e1%b0,70%f0,0 $1 p0|0o5r4^8v10e32v15e32v20e32v25e32v30e32v35e32v40e32v45e32v50e32v55e32v60e32v65e32r4  
+^8v10e32v15e32v20e32v25e32v30e32v35e32v40e32v45e32v50e32v55e32v60e32r32%v30<v60p60|1e2  
+^4r32b8^^a8^^e8^^  d8^^g8^^a8^^e4  ^8^^32c4r4>b8<c8>b8  <c8d8^^>b4g4a4  
+<e4g8^^e2  ^4r32f2^8^^  g8^^a8^^b8^^b8^^  <c8^^e8^^>a2  
+^8^^32r4f32<f^32e8d8c8r32  >b8^^g8^^e8^^a1  ^4^8^^32r4g+4a4  f+4g4e4r4  
+g+4a4f+4g4  e4r4f2  f4g4a4b2  ^4b2b4  
+<c4>b8<c8d8e8>f2  ^4a4g8a8b8<e8  >g2^4r4  >a4<a4g8f8e8d8  
+c8>b8a+4b4<e4  d8c8>b8<c8e8g8f4  <e8d8>b8a8g2  egb<d>e4<c8>b8a8g8  
+f2dfa<cr4  o5f4<f4e8f8c+8d8  >g+8a8a+4b4<e4  d4c2r4  
+f4<f4e8f8c+8d8  >g+8a8a+4b4g+4  g+4a2
+;1
+
+l16
+{2}
+l16%e1 $2 v60p64|1o5r4  
+c8^re^g^r4c8^r  e^g^>a^<c^e^a^e^c^  >a^<c^e^g^e^c^r8>b^  <d^g^d^>b^a^b^<c^e^  
+g^e^>f^a^<c^e^c^>a^  r8b^<d^g^d^>b^a^<c^  e^a^e^c^>a^b^<c^g^  e^c^r8>a^<c^f^c^>a^  
+g^b^<d^f^a^f^r8e^  g^e^g^e^f^>a^<c^e^  a^f^>b^<d^a^g^f^e^  r8>b^<d^g^b^g^>a^<d^  
+e^a^e^d^>a^<c+^e^a^  e^c+^f^a^f^a^f^a^  g^b^g^b^g^b^f^a^  f^a^f^a^g^b^g^b^  
+g^b^f^a^f^a^f^a^  d^f^d^f^d^f^d+^f+^  a^b^<d+^f+^>e^g+^b^<e^  g+^e^>e^g^<c4^8^r  
+>d^f^<c^>f^a^f^b^>b^  <d^f^a^b^e^g^b^g^  e^d^>a^<c^e^f^e^c^  >b^<a^g^f^e^d^>g+^<d^  
+g+^d^g+^d^ee>e<egg>g<g  a+c+eg>a<dcdfafacfcf  >b<d>b<d>b<d>b<d>b<dfdc>a<c>a  
+<gegec>a<c>aa<c>a<c>a<c>a<c  >a<c>af<d2^^r8  d8^ra8^rf8^r>g+8^r  
+<d8^rg+8^r>b^<c^e^b^  a^e^d2^^r8  d8^ra8^rf8^rg+8^r  <d8^r>b8^r>b^<c^e^b^  
+a^e^
+;2
+
+l16
+{3}
+l16%e1 $3 v60p68|1o3a^<e^b^a^<c8^r  o3a^<e^b^a^<c8^ro3a2  
+^^r8a2^^r8  e2^^r8a2  ^^r8f2^^r8  e2^^r8a2  
+^^r8a2^^r8  <d2^^r8>g2  ^^r8<c2^^r8  >f2^^r8b2  
+^^r8e2^^r8  a2^^r8a2  ^^r8<d^<c^d^c^d^c^  >e^<d^e^d^e^d^>d^<c^  
+d^c^d^c^>e^<d^e^d^  e^d^>d^<c^d^c^d^c^  o3b^<a^b^a^b^a^>d+^<d+^  
+f+^a^b^<d+^o3e^<e^g+^b^  <e^g+^o3a^o5e^a4^8^r  o3d^<d^a^<d^f^d^o3g^<g^  
+b^<d^f^g^>c^e^g^b^  <c^e^o3f^<f^<c^>a^<c^>a^  >b^<f^b^<d^>a^b^>e^<e^  
+<d^>b^<d^>b^>a<a^a>ao5e^e  g>a+<c+eo3d<fafd<fef>a<c>a<c  o3e<bgbebgbgb<d>b>a<cec  
+<ecec>ae>a<e>d<afafafa  fafd>b2^^r8  b8^r<f8^rb8^r>e8^r  <e4^8^r>a^<e^<c4  
+^8^ro3b2^^r8  b8^r<f8^rb8^r>e8^r  <e4^8^r>a^<e^<c4  ^8^r
+;3
+
+l16
+{4}
+l16%e1 $4 v104p74|0o5r4^8g32g32g32g32g32g32g32g32g32g32g32g32  
+r4^8g32g32g32g32g32g32g32g32g32g32g32g32r1  ^1  ^1  ^1  
+^1  ^2^4^8%r2o3a+32b32<c32c+32  d2^4r1  ^4^8b32<c32d32e32f4e4  
+d8o3g32g+32a32a+32b2^4  r1  ^1  ^8o5c+32d32d+32e32v50f2^4  
+g2^4f2  ^4g2^4  f1  ^4v80>b32a32g32f32<g32>d+32<f32>c+32v60<f+2  
+^4g+2^4  r1  ^4^8v104f32f+32g32a32b4r1  ^8d32c32>b32a+32a4r1  
+^1  %a8<ee>e<egg>g<ga+c+eg>a<dcd  fafacfcf>b<d>b<d>b<d>b<d  >b<dfdc>a<c>a<gegec>a<c>a  
+a<c>a<c>a<c>a<c>a<c>af%y%r4r1  ^1  ^2^4v76<agf+32f32e32d+32  v60d2^4r1  
+^1  ^4
+;4
+
+l16
+{5}
+l16%e1 $5 p127|0o5r4^8v10c32v15c32v20c32v25c32v30c32v35c32v40c32v45c32v50c32v55c32v60c32v65c32  
+r4^8v10c32v15c32v20c32v25c32v30c32v35c32v40c32v45c32v50c32v55c32v60c32r32v60p64|2%r12e2  
+^4r32b8^ra8^re8^r  d8^rg8^ra8^re4  ^8^32rc4r4>b8<c8>b8  <c8r32d8^r32>b8^rg8^ra8  
+^r<e8^r^32g8^r32e2  ^4r32f2^8r8  g8^ra8^rb8^rb8^r  <c8^re8^r>a2  
+^8r4^^32f32<f^32e8d8c8r32  >b8^rg8^re8^ra1  ^4^8^^32r4g+4a4  f+4g4e4r4  
+g+4a4f+4g4  e4r4f2  f4g4a4b2  ^4b2b4  
+<c4>b8<c8d8e8>f2  ^4a4g8a8b8<e8  >g2^4r4  >a4<a4g8f8e8d8  
+c8>b8a+4b4<e4  d8c8>b8<c8e8g8f4  <e8d8>b8a8g2  egb<d>e4<c8>b8a8g8  
+f2dfa<cr4  o4f4<f4e8f8c+8d8  >g+8a8a+4b4<e4  d4c2r4  
+f4<f4e8f8c+8d8  >g+8a8a+4b4g+4  g+4a2
+;5
+
+l16
+{6}
+l16%e1 $6 v60p50|0o3a8<e8  
+b8a8<e8g8o3a8<e8b8a8  <e8g8%a8%r2a2^4  g2^4g2  ^4a2^4  
+f2^4g2  ^4a2^4  a2^4f2  ^4g2^4  
+g2^4f2  ^4f2^4  e2^4a2  ^4a2^4  
+f2^4g2  ^4f2^4  g2^4f1  
+^2f+2  ^4g+2^4  a2^4f2  ^4g2^4  
+e2^4f2  ^4g2^4  e2^4e4  g4a+4f2  
+^4g2^4  e2^4f2  ^4f2^4  e2^4>b2  
+^4<d2^4  d2^4d2  ^4a2^4  a2^4%y
+;6
+
+l16
+{7}
+l16%e1 $7 v80p60|3o5r1  
+^1  ^4b32r8^^32a32r8^^32e32r8^^32  d32r8^^32g32r8^^32a32r8^^32e32r2  
+^4^8^^32g8a8g8a8d32  r1  ^4o6c2^4  ^8^^32>f32r2^8^^32g32  
+r8^^32a32r8^^32b32r8^^32b32r8^^32<c32  r8^^32e32r8^^32>a32r1  ^4^8^^32b32r8^^32g32r8^^32e32  
+r8^^32a32r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^4^8^^32
+;7
+
+l16
+{8}
+l16%e1 $8 v60p64|2%r12o4r1  ^1  
+^4b4a4e4  d4g4a4e1  g^a^g^a^d1  
+^4o5c1  o4f2^4g4  a4b4b4o5c4  e4o4a1  
+^2b4g4  e4a1  ^2r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;8
+
+l16

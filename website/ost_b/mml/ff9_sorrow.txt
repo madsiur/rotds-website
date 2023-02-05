@@ -1,0 +1,95 @@
+#TITLE Unforgettable Sorrow
+#ALBUM Final Fantasy IX
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x01 ## spanish guitar (FF6)
+#WAVE 0x21 0x06 ## chorus (FF6)
+#WAVE 0x22 0x05 ## cello (FF6)
+#WAVE 0x23 0x8D ## pan flute (FF6)
+#WAVE 0x24 0x0D ## strings (FF6)
+
+{1}
+l16 $3 t97%v41%b0,70%f0,0o5|0p79v95%e1r32[2g4.f+8e4f+4.  g8a4b4.<d8>b4  
+a4.g8e4g4.  f+8e4f+2b4  g4.f+8e4d4.  >b8<d4g4.f+8e4  
+f+4.g8a4b4.  <d8>b4a4.g8e4  g4.f+8e4f+4  e4d4e2  
+^4j2,1 e2^4  ] $1 e2[2g8a8b4.  <d8>b4b4.a8g4  f+4.e8f+8g8a4.  
+a8b8a8g4e4g4  f+4.f+8e8d8j2,2 f+4  g4a4f+2  ] $2 e2^4^2  
+d4e2^4  ^2^4
+;3
+
+l16c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{2}
+l16 $6 |1o4p95v47%e1r32[16r2r4][2r8b8  <e8g8f+8e8d2  ^4r8d8g8b8a8g8  
+a2^4r8c8  e8g8f+8e8j2,4 d4>b2  r8<c8e8a8g8e8f+4  e4d4>] $4 d4>b4  
+<f+4e2^4  ^2^4|2o4p47v47%e1[2g2  ^4e2^4  f+2^4<c2  
+>j2,5 a4b2^4  b2^4b4  <d4c4>b2  ^4] $5 v80,0a4r2  
+r4r2r4  v47a2^4b2  ^4<c2v80,0^4  r2r4
+;6
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  
+{3}
+l16|0o5p31v79%e1r32 $9 [2e2^4d2  ^4g2^4  c2^4e2  
+^4d2^4  c2^4d2  ^4e2^4  d2^4g2  
+^4c2^4  e2^4d2  ^4>a2^4  j2,7 g2^4<] $7 g+2  
+^4%g1r32[2g2^4  e2^4d2  ^4r32f+2^^8r32  e2^4d2  
+^4j2,8 e2r32a8.r32  f+2^4] $8 c2  ^4d2^4  e2^4r2  
+r4<
+;9
+
+l16c1  
+{4}
+l16 $12 |0o4p31v63%e1[2g2^4a2  ^4b2^4  a2^4<c2  
+^4>b2^4  a2^4b2  ^4g2^4  a2^4b2  
+^4a2^4  <c2^4>b2  ^4>b2^4  j2,10 <e2^4] $10 d2  
+^4r32%g1[2b2^4  <c2^4>b2  ^4r32<d32^2^8^  >g2^4b2  
+^4j2,11 <c2r32f32^8.  >b2^4] $11 a2  ^4b2^4  <c2^4r2  
+r4
+;12
+
+l16c1  c1  c1  c1  
+c1  c1  c1  c1  
+
+{5}
+l16 $14 |0o3p21v63%e1[2b2^4<f+2  ^4d2^4  e2^4c2  ^4f+2^4  
+e2^4f+2  ^4>b2^4  <f+2^4d2  ^4e2^4  
+c2^4f+2  ^4>e2^4  b2^4]r32[2d2  ^4g2^4  
+f+2^4b2  ^4>b2^4  <f+2^4j2,13 g2  <d+4>b2^4  
+] $13 e2^4f+2  ^4g2^4  r2r4
+;14
+
+l16c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+
+{6}
+l16 $16 |3o5p63v95%e1r32[24r2r4]g4.  f+8e4f+4.g8a4  b4.<d8>b4a4.  
+g8e4g4.f+8e4  f+4e4d4e2  ^4^2^4  |4o5p95v21%e1[2b2^4^2  
+^4f+2^4  <c2>a4j2,15 b2  ^4^2^4  b4<d4c4>b2  
+^4] $15 b4<e4g4  b2^4^2  ^4^2^4  ^2^4v240,0^2  
+^4
+;16
+
+l16
+{7}
+l16 $18 |4o5p95v21%e1r32[32r2r4  ][2g2^4^2  ^4d2^4  
+a2f+4j2,17 g2  ^4f+2^4  f+4g4a4f+2  ^4] $17 >b4<e4g4  
+b2^4^2  ^4^2^4  ^2^4v240,0^2  ^4
+;18
+
+l16c1  
+c1  c1  c1  
+{8}
+l16 $19 |3o5p63v95%e1r32[39r2r4]r2  
+g8a8b4.<d8>b4  b4.a8g4f+4.  e8f+8g8a4.a8b8  a8g4e4g4f+4.  
+f+8e8d8e2^4  ^2d4e2  ^4^2^4  
+;19
+
+l16

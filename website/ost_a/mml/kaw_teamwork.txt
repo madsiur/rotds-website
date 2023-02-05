@@ -1,0 +1,81 @@
+#TITLE Teamwork
+#ALBUM King Aurther's World
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x02 ## electric bass (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+
+{1}
+l16%x192t107%v32v100p64%e0%b0,70%f0,0|0 $1 o5g4^8g8g8a8b8<c8  
+>d4^8d8d4b4  g4^8g8g8a8b8<c8  >d4^8d8d4b8<d8  >e4^8d8e8f+8g8a8  
+b4^8a8b4a4  e4^8d8e8f+8g8a8  b4a4b4a4  <c4^8>b8a8g8a8b8  
+<d4^8c8d4>a4  <c4^8>b8a8g8a8b8  d4d12d12d12d4d4  
+;1
+
+l16
+{2}
+l16v50p0%e1|1 $2 o5<g8d8>b8g8b8a8b8<c8  
+d8>a8f+8d8f+8e8f+8b8  <g8d8>b8g8b8a8b8<c8  d8>a8f+8d8f+8e8f+8b8  
+g8f+e>b8<e8f+8g8f+8e8  f+8d+>b<d+8f+8b8a8g8f+8  g8f+e>b8<e8f+8g8f+8e8  
+f+8d+>b<d+8f+8b8a8g8a8  <c8>g8e8c8e8d8e8g8  f+8ede8>a8<e8d8e8f+8  
+<c8>g8e8c8e8d8e8g8  d4d12d12d12d4d4  
+;2
+
+l16
+{3}
+l16v50p60%e1|2%a14%r2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  c1  
+r1  c1   $3 r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  c1  
+r1  c1  
+;3
+
+l16
+{4}
+l16v50p127%e1|1r $4 o5[2<g8d8>b8g8b8a8b8<c8  
+d8>a8f+8d8f+8e8f+8b8  ]g8f+e>b8<e8f+8g8f+8e8  f+8d+>b<d+8f+8b8a8g8f+8  
+g8f+e>b8<e8f+8g8f+8e8  f+8d+>b<d+8f+8b8a8g8a8  <c8>g8e8c8e8d8e8g8  
+f+8ede8>a8<e8d8e8f+8  <c8>g8e8c8e8d8e8g8  d4d12d12d12d4d4  
+;4
+
+l16
+{5}
+l16v50p60%e1|2%a14%r2o5d1  
+d1  d1  d1   $5 r1  
+^1  ^1  ^1  ^1  
+d1  r1  d1  d1  
+d1  d1  d1  
+;5
+
+l16
+{6}
+l16v50p60%e1|2%a14%r2o5 $6 [12g1  
+f+1  ]
+;6
+
+l16
+{7}
+l16v50p60%e1|2%a14%r2o4>b1  a1  b1  
+a1  b1  b1  b1  
+b1  r1   $7 >d1  r1  
+<a1  b1  a1  b1  
+a1  b1  b1  b1  
+b1  r1  
+;7
+
+l16
+{8}
+l16v50p60%e1|2%a14%r2 $8 o5r1  ^1  
+^1  ^1  e1  d+1  
+e1  d+1  e1  a1  
+e1  o3d1  r1  ^1  
+^1  ^1  o5e1  d+1  
+e1  d+1  e1  a1  
+e1  o3d1  
+;8
+
+l16

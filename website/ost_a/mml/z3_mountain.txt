@@ -1,0 +1,131 @@
+#TITLE Death Mountain
+#ALBUM The Legend of Zelda: A Link to the Past
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x0E ## trumpet (FF6)
+#WAVE 0x22 0x16 ## timpani (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x1A ## trombone (FF6)
+
+{1}
+l16t137%v32v120p50%e1%b0,70%f0,0|0o5^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+e2c4e4  f2^4^^32ed+^32  d2c2  >a+2^4b4  
+<c2^4^8c+8  d2^4^^32c+c^32  >b2g2  g2^4^8^32 $1 r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^^32<e2c4e4  f2^4^^32ed+^32  
+d2c2  >a+2^4b4  <c2^4^8c+8  d2^4^^32c+c^32  
+>b2g2  g2^4^8^32
+;1
+
+l16
+{2}
+l16v120p63%e1|0o5^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  <c4^^32cc^32c4>g8<c8  >a+4^^32g+g^32g+4^8^r  a+4^^32a+a+^32a+4f8a+8  
+g+4^^32gf+^32g4^8^r  f4^^32ff^32f4g8g+8  g4^^32fe^32f4^8^r  g4^^32f+g+^32g8d+8>br32g<d+^32  
+c2^4^ $2 r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^8^<c4^^32cc^32c4>g8  
+<c8>a+4^^32g+g^32g+4^8  ^ra+4^^32a+a+^32a+4f8  a+8g+4^^32gf+^32g4^8  
+^rf4^^32ff^32f4g8  g+8g4^^32fe^32f4^8  ^rg4^^32f+g+^32g8d+8>br32g  
+<d+^32c2^4^
+;2
+
+l16
+{3}
+l16v127p100%e1|1o6^1  ^1  ^1  ^1  
+ $3 c8^^32r8>g<d+r32c8^^32r8>g<d+r32  c8r8>g4^8r8<cr32d+gr32  a+4^8^rg+4^^32f+g+r32  
+m24,18,201g2^4^8^mr  c8^^32r8>g<d+r32c8^^32r8>g<d+r32  c8r8>g4^8r8gr32<cd+r32  
+g4^^32f+g+r32grd+r>br32g<d+r32  m24,18,201c2^4^8^mr  c8^^32r8>g<d+r32c8^^32r8>g<d+r32  
+c8r8>g4^8r8<cr32d+gr32  a+4^8^rg+4^^32f+g+r32  m24,18,201g2^4^8^mr  
+c8^^32r8>g<d+r32c8^^32r8>g<d+r32  c8r8>g4^8r8gr32<cd+r32  g4^^32f+g+r32grd+r>br32g<d+r32  
+m24,18,201c2^4^8^mr1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^
+;3
+
+l16
+{4}
+l16v127p92%e1|1^1  
+^1  ^1  ^1   $4 o6>d+8^^32r8cgr32d+8^^32r8cgr32  
+d+8r8c4^8r8d+r32g<cr32  d+4^8^rc+4^^32>b<c+r32  m24,18,201c2^4^8^mr  
+>d+8^^32r8cgr32d+8^^32r8cgr32  d+8r8c4^8r8cr32d+gr32  <c4^^32>b<c+r32cr>grdr32>b<fr32  
+m24,18,201d+2^4^8^mr  d+8^^32r8cgr32d+8^^32r8cgr32  d+8r8c4^8r8d+r32g<cr32  
+d+4^8^rc+4^^32>b<c+r32  m24,18,201c2^4^8^mr  >d+8^^32r8cgr32d+8^^32r8cgr32  
+d+8r8c4^8r8cr32d+gr32  <c4^^32>b<c+r32cr>grdr32>b<fr32  m24,18,201d+2^4^8^mr1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^
+;4
+
+l16
+{5}
+l16v127p84%e1|1o5>[3g8^rg8^rg8^ra+ra+  a+g8^rg8^rg8^ra+r32a+a+  
+r32]g+8^rg+8^rg+8^rg+rg+g+  g8^rg8^rg8^ra+r32a+a+r32  g8^rg8^rg8^ra+ra+a+  
+g8^rg8^rg8^ra+r32a+a+r32   $5 <c8^rc8^rc8^rdrdd  >g8^rg8^rg8^ra+r32a+a+r32  
+g8^rg8^rg8^ra+ra+a+  g8^rg8^rg8^ra+r32a+a+r32  g+8^rg+8^rg+8^rg+rg+g+  
+g8^rg8^rg8^ra+r32a+a+r32  g8^rg8^rg8^ra+ra+a+  g8^rg8^rg8^ra+r32a+a+r32  
+<c8^rc8^rc8^rdrdd  >g8^rg8^rg8^ra+r32a+a+r32  g8^rg8^rg8^rgrgg  
+g+8^rg+8^rg+8^rg+r32g+g+r32  f8^rf8^rf8^rfrff  g8^rg8^rg8^rgr32ggr32  
+d+8^rd+8^rd+8^rd+rd+d+  f8^rf8^rf8^rfr32ffr32  f8^rf8^rf8^rfrff  
+[3g8^rg8^rg8^ra+ra+a+  g8^rg8^rg8^ra+r32a+a+r32  ]g+8^rg+8^rg+8^rg+rg+g+  
+g8^rg8^rg8^ra+r32a+a+r32  g8^rg8^rg8^ra+ra+a+  g8^rg8^rg8^ra+r32a+a+r32  
+
+;5
+
+l16
+{6}
+l16v120p20%e1|2o5>c4c4c4d+12d+12d+12  c4c4c^32^c^32d+^8^  
+c4c4c4d+12d+12d+12  c4c4c^32^c^32d+^8^  c2^4d+^8^  c^2^^32c^32d+^8^  
+c+2^4c+^8^  c2^8^32c^32d+4  c2^4d+^8^  c^2^^32c^32d+^8^  
+>g2^4b4  <c2^8^32c^32d+^8^  c2^4d+^8^  c2^8^32c^32d+^8^  
+c+2^4c+4  c2^8^32c^32d+^8^  c2^4d+^8^  c^2^^32c^32d+^8^  
+>g2^4b4   $6 <c1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  c4c4c4d+12d+12d+12  c4c4c^32^c^32d+^8^  c4c4c4d+12d+12d+12  
+c4c4c^32^c^32d+^8^  c2^4d+^8^  c^2^^32c^32d+^8^  c+2^4c+^8^  
+c2^8^32c^32d+4  c2^4d+^8^  c^2^^32c^32d+^8^  >g2^4b4  
+<c2^8^32c^32d+^8^  c2^4d+^8^  c2^8^32c^32d+^8^  c+2^4c+4  
+c2^8^32c^32d+^8^  c2^4d+^8^  c^2^^32c^32d+^8^  >g2^4b4  
+
+;6
+
+l16
+{7}
+l16v80p64%e1 $7 |3o5a4a4a4a8aa  a4a4a4a12a12a12  
+;7
+
+l16
+{8}
+l16v104p64%e1|4o5[3c8^rc8^rc8^rd+rd+d+  
+c8^rc8^rc8^rd+r32d+d+r32  ]c+8^rc+8^rc+8^rc+rc+c+  c8^rc8^rc8^rd+r32d+d+r32  
+c8^rc8^rc8^rd+rd+d+  c8^rc8^rc8^rd+r32d+d+r32  >g8^rg8^rg8^rgrbb  
+<c8^rc8^rc8^rd+r32d+d+r32  c8^rc8^rc8^rd+rd+d+  c8^rc8^rc8^rd+r32d+d+r32  
+c+8^rc+8^rc+8^rc+rc+c+  c8^rc8^rc8^rd+r32d+d+r32  c8^rc8^rc8^rd+rd+d+  
+c8^rc8^rc8^rd+r32d+d+r32  >g8^rg8^rg8^rgrbb  <c8^rc8^rc8^rd+r32d+d+r32  
+e8^re8^re8^reree  f8^rf8^rf8^rfr32ffr32   $8 >a+8^ra+8^ra+8^ra+ra+a+  
+<d+8^rd+8^rd+8^rd+r32d+d+r32  >g+8^rg+8^rg+8^rg+rg+g+  <d8^rd8^rd8^rdr32ddr32  
+g8^rg8^rg8^rgrgg  [3c8^rc8^rc8^rd+rd+d+  c8^rc8^rc8^rd+r32d+d+r32  
+]c+8^rc+8^rc+8^rc+rc+c+  c8^rc8^rc8^rd+r32d+d+r32  c8^rc8^rc8^rd+rd+d+  
+c8^rc8^rc8^rd+r32d+d+r32  >g8^rg8^rg8^rgrbb  <c8^rc8^rc8^rd+r32d+d+r32  
+c8^rc8^rc8^rd+rd+d+  c8^rc8^rc8^rd+r32d+d+r32  c+8^rc+8^rc+8^rc+rc+c+  
+c8^rc8^rc8^rd+r32d+d+r32  c8^rc8^rc8^rd+rd+d+  c8^rc8^rc8^rd+r32d+d+r32  
+>g8^rg8^rg8^rgrbb  <c8^rc8^rc8^rd+r32d+d+r32  e8^re8^re8^reree  
+f8^rf8^rf8^rfr32ffr32  
+;8
+
+l16

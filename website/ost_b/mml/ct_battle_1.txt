@@ -1,0 +1,109 @@
+#TITLE Battle 1
+#ALBUM Chrono Trigger
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x22 ## kick drum (FF6)
+#WAVE 0x21 0x21 ## hard snare (SOM)
+#WAVE 0x22 0x0F ## hihat closed (FF6)
+#WAVE 0x23 0x11 ## hihat opened (FF6)
+#WAVE 0x24 0x12 ## cymbal (FF6)
+#WAVE 0x25 0x17 ## conga (FF6)
+#WAVE 0x26 0x02 ## electric bass (FF6)
+#WAVE 0x27 0x06 ## chorus (FF6)
+#WAVE 0x28 0x3E ## xylophone (FF6)
+#WAVE 0x29 0x0B ## organ (FF6)
+
+{1}
+l16t160%v20%x192%b0,70%f0,0v127|1p81o5bbb8%e1|6v120p64o6d4f8dr8.d8  
+f8d8d4f8dr8.d8  a<cd8>d4f8dr8.d8  f8d8d4f8d8<d8c8  >agf8 $1 [7d4f8dr8.d8  
+f8d8d4f8dr8.d8  a<cd8>d4f8dr8.d8  f8d8d4f8d8<d8c8  >agf8]
+;1
+
+l16
+{2}
+l16%e1rrr8[4r1  
+] $2 |7v120p64o5%r6[2d1  e1  f1  g1  
+]a1  ^1  ^1  ^1  
+|8%a14%r24v48p64o6p0,192,127[8<d8>dgca<c>dgcad<c>dgc  ad<d>dgcad<c>dgcad<c>d  
+]p
+;2
+
+l16
+{3}
+l16%e1r4[4r1  ] $3 |7v90p34o5%r6[2>a1  <c1  c1  
+d1  ]e1  ^1  ^1  
+^1  |9v80p44o7m6,16,201d2c2  >b4<c4>b4g4  a2g2  
+f4g4e4c4  >a1  ^1  ^1  
+^1  <<d2c2  >b4<c4>b4g4  a2g2  
+f4g4e4c4  d1  ^1  ^1  
+^1  m
+;3
+
+l16
+{4}
+l16%e1r4[4^1  ]%e1 $4 |7v80p94o4%r6[2f1  g1  
+a1  b1  ]<d1  ^1  
+^1  ^1  |9v70p84o6m6,16,201a2a2  g4g4g4d4  
+e2d2  c4d4c4>a4  f1  ^1  
+^1  ^1  <a2a2  g4g4g4d4  
+e2d2  c4d4c4>a4  a1  ^1  
+^1  ^1  m
+;4
+
+l16
+{5}
+l16r4v127|0p64o5g4|1p81b8|0p64g4g8  |1p81b8|0p64g8^8g8|1p81b8|0p64g8g|1p81b8|0p64g  
+|1p81b8|0p64g8g4|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  
+|1p81b8|0p64g|1p81b $5 |0p64g4|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  
+|1p81b8|0p64g|1p81b|0p64g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  
+|1p81b8|0p64g|1p81b|0p64g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8.g  |1p81b8|0p64g8^8g8|1p81b8|0p64g8g|1p81b8|0p64g  
+|1p81b8|0p64g|1p81b|0p64g8.g|1p81b8|0p64g8g8g8  |1p81b8|0p64g|1p81b|0p64g4|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8.g  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  |1p81b8|0p64g|1p81b|0p64g4|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  |1p81b8|0p64g8g8.g|1p81b8|0p64g4g8  
+|1p81b8|0p64g8g8.g|1p81b8|0p64g8g8.g  |1p81b8|0p64g8^8g8|1p81b8|0p64g8g|1p81b8|0p64g  
+|1p81b8|0p64g|1p81b
+;5
+
+l16
+{6}
+l16r4v120|2p121o5g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v100|3g8v120|2g8v100|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv120g8v70gg $6 v120g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v100|3g8v120|2g8v100|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv127|5p10>d4v120|2p121<g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv127|5p10>d4v120|2p121<g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70g32v80g32v90g  v120g8v70ggv100g8|3g8v120|2g8v70ggv120g8v70gg  
+v120g8v70ggv120g8v70ggv120g8v70ggv120g8v70gg  v120g8v70ggv120g8v70gg
+;6
+
+l16
+{7}
+l16|0p64o5g4v127|4g1  
+^1  ^1  r2|5p71ee8e8p40>aa8   $7 |4p64<g1  
+^1  ^1  r1  g1  
+^1  ^1  r2|5p71ee8e8p40>aa8  |4p64<g1  
+^1  ^1  r4|5p71e4p40>a4|4p64<g4  ^1  
+^1  ^1  r2|5p71ee8e8p40>aa8  |4p64<g1  
+r1  r1  r4|5p71e4p40>a4|4p64<g4  ^1  
+^1  ^1  r2|5p71ee8e8p40>aa8  |4p64<g1  
+r1  r1  r4|5p71e4p40>a4p10d4  
+;7
+
+l16

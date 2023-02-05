@@ -1,0 +1,104 @@
+#TITLE Terrible Plan of the Vambees
+#ALBUM Brave Fencer Musashi
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x25 ## pipe organ (FF6)
+#WAVE 0x21 0x18 ## acoustic bass (FF6)
+#WAVE 0x22 0x48 ## trumpet (RS3)
+#WAVE 0x23 0x06 ## chorus (FF6)
+#WAVE 0x24 0x3E ## xylophone (FF6)
+
+{1}
+l16t80%v25%e1%b0,70%f0,0 $1 v60p60|0o5c+2^4d2  ^4d+2e8d+8  
+c2^8^^d+2  e8d+8f+2^8^^  d+2e8d+8c2  ^8^^d+2e8d+8  
+f+2^8^^e2  f8e8c+2^8^^  e2f8e8g2  ^8^^e2f8e8  
+c+2^8^^e2  f8e8g2^8^^  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  
+;1
+
+l16
+{2}
+l16%e0 $2 v104p24|1o5c+8<e8c+8>c+8<e8c+8>d8<f8  
+d8>d8<f8d8>d+8<f+8d+8o4d+8  <f+8d+8>e8<g8e8>e8<g8e8  >d+8<f+8d+8o4d+8<f+8d+8>f+8<a8  
+>f+8<a8<c+8>a8>d+8<f+8d+8>d+8  <f+8d+8>e8<g8e8>e8<g8e8  >d+8<f+8d+8>d+8<f+8d+8>f+8<a8  
+>f+8<a8<c+8>a8>e8<g8e8>e8  <g8e8>f8<a8f8>f8<a8f8  >e8<g8e8>e8<g8e8>g8<a+8  
+>g8<a+8<d8>a+8>e8<g8e8>e8  <g8e8>f8<a8f8>f8<a8f8  >e8<g8e8>e8<g8e8>g8<a+8  
+>g8<a+8<d8>a+8r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+
+;2
+
+l16%e1
+{3}
+l16 $3 v60p60|2o5r1  ^2d+2  e8d+8c2^8^^  d+2e8d+8f+2  
+^8^^d+2e8d+8  c2^8^^d+2  e8d+8f+2^8^^  e2f8e8c+2  
+^8^^e2f8e8  g2^8^^e2  f8e8c+2^8^^  e2f8e8g2  
+^8^^r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+
+;3
+
+l16
+{4}
+l16%e1 $4 v60p60|3o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2<%r10c+4^8>f4  ^8a+4^8<c+4^8d4  ^8>g4^8a+4^8<d4  
+^8c+4^8>a+4^8<c+4  ^8f4^8g4^8d4  ^8g4^8a+4^8<c+4  ^8>f4^8a+4^8<c+4  
+^8d4^8>g4^8a+4  ^8<d4^8c+4^8>a+4  ^8<c+4^8f4^8g2  ^4r2^4  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v32p80|4o5r1  ^2<d+8a+8f+8d+8  a+8f+8e8g8b8e8g8b8  
+d+8a+8f+8d+8a+8f+8f+8a+8  <c+8>f+8a+8<c+8>d+8a+8f+8d+8  a+8f+8e8g8b8e8g8b8  
+d+8a+8f+8d+8a+8f+8f+8a+8  <c+8>f+8a+8<c+8>e8b8g8e8  b8g8f8a8<c8>f8a8<c8  
+>e8b8g8e8b8g8g8a+8  <d8>g8a+8<d8>e8b8g8e8  b8g8f8a8<c8>f8a8<c8  
+>e8b8g8e8b8g8g8a+8  <d8o6gfed+dcc+4^8r2  ^4^8>a+8<c+8d4^8  r2^4^8>a+8  
+<d8c+4^8r2  ^4^8c+8f8g4^8  r2^4^8g8  a+8<c+4^8r2  
+^4^8>a+8<c+8d4^8  r2^4^8>g8  a+8<c+4^8r2  ^4^8c+8f8g8>c+8f8  
+g8<c+8f8g8c+8f8g8r4  
+;5
+
+l16
+{6}
+l16%e1 $6 v34p60|0o5r32c+2^4d2  
+^4d+2e8d+8  c2^8^^d+2  e8d+8f+2^8^^  d+2e8d+8c2  
+^8^^d+2e8d+8  f+2^8^^e2  f8e8c+2^8^^  e2f8e8g2  
+^8^^e2f8e8  c+2^8^^e2  f8e8g2^8^^32r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;6
+
+l16
+{7}
+l16%e1 $7 v24p60|3o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^32<%r10c+4^8>f4  ^8a+4^8<c+4^8d4  ^8>g4^8a+4^8<d4  ^8c+4^8>a+4^8<c+4  
+^8f4^8g4^8d4  ^8g4^8a+4^8<c+4  ^8>f4^8a+4^8<c+4  ^8d4^8>g4^8a+4  
+^8<d4^8c+4^8>a+4  ^8<c+4^8f4^8g2  ^4r2^8^^32
+;7
+
+l16
+{8}
+l16%e1 $8 v16p80|4o5r1  
+^2^32<d+8a+8f+8d+8  a+8f+8e8g8b8e8g8b8  d+8a+8f+8d+8a+8f+8f+8a+8  
+<c+8>f+8a+8<c+8>d+8a+8f+8d+8  a+8f+8e8g8b8e8g8b8  d+8a+8f+8d+8a+8f+8f+8a+8  
+<c+8>f+8a+8<c+8>e8b8g8e8  b8g8f8a8<c8>f8a8<c8  >e8b8g8e8b8g8g8a+8  
+<d8>g8a+8<d8>e8b8g8e8  b8g8f8a8<c8>f8a8<c8  >e8b8g8e8b8g8g8a+8  
+<d8>gfed+dcc+4^8r2  ^4^8>a+8<c+8d4^8  r2^4^8>a+8  <d8c+4^8r2  
+^4^8c+8f8g4^8  r2^4^8g8  a+8<c+4^8r2  ^4^8>a+8<c+8d4^8  
+r2^4^8>g8  a+8<c+4^8r2  ^4^8c+8f8g8>c+8f8  g8<c+8f8g8c+8f8g4  
+^^32
+;8
+
+l16

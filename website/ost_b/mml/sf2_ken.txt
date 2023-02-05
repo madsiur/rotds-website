@@ -1,0 +1,134 @@
+#TITLE Ken's Theme
+#ALBUM Street Fighter 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x9A ## overdrive guitar (GH)
+#WAVE 0x21 0x1C ## bass (FF6)
+#WAVE 0x22 0x9F ## brass (SD3)
+#WAVE 0x23 0xC3 ## synth (TOTR)
+#WAVE 0x24 0x94 ## clarinet (TOTR)
+#WAVE 0x25 0x49 ## violin (RS3)
+#WAVE 0x28 0x22 ## kick drum (FF6)
+#WAVE 0x29 0x4A ## hard snare drum (RS3)
+#WAVE 0x2A 0xCD ## crash (FF5)
+#WAVE 0x2B 0xD8 ## tom (SMRPG)
+
+{1}
+l16t187%x255%v50%b0,70%f0,0%e1|0o5p45v48m48,18,207%y1%s5%r5f1  
+^4.r8f8d+8d32r32d32r32d+4  c+8c+32r32c+32r32c+1  ^4c+8d+8p59f4.f8  
+frfrf4f32r32f32r32f8frf32r32f32r32  f4f8frp69g4.g8  grgrg4g32r32g32r32g8grg32r32g32r32  
+g4g32r32g32r32g8 $3 %e1|3o5p50v40m48,18,239[2r4.[2c4  f4a+8g+4g8f4.  
+d+8r8f8r4]c4f4  a+8<c4c+8c8>a+4g+8  j2,1 a+8<c2>a+4.  g+4g8r8f8e2  
+] $1 g8<c8v32c8v24c8v40>a+2  g+4g4g+8g2  %e1|2o5p50v64m48,18,239r8f4.[2g2  
+^8g+4.a+4g+8g8  f8c+4.<c1  ^4.>a+8<c1  
+^2^4.>j2,2 r8  f2] $2 ^8%e1|3o5p50v40m48,18,239r4.  c4f4a+8<c4.  
+>a+8g+8r8g8r8g+4.  g8f8r8d+8r8f2  f8g8g+8v26g8g+8v13g8g+8v40a+4  
+g+4g8a+8r8a+8g+4  g8r8g+8g4.f4  e8r8f8<c8r8c8v52c8v28c8  v40c8v40c8r8v40c4.>a+8r8  
+g+4a+8g+4g8r8f8  r8c4g+4.g8f8  r8d+8r8f2f8  g8g+8v26g8g+8v13g8g+8v40a+4  
+<c4c+8c8r8c8>a+4  g+8r8e8g4.f2  ^4r2^4.  
+;3
+
+l16
+{2}
+l16%e1|0o5p64v48m48,18,207%y1%s5%r5c1  
+^4.>g+8<c8c8cr>g+4  g+8g+rg+1  ^4g+8a+8<c+4.c+8  c+rc+rc+4c+rc+8c+rc+r  
+c+4c+rc+8e4.e8  erere4ere8erer  e4ere8 $5 [2%e1|0o5p85v48m48,18,207%y1%s5%r5[2a+4.g+8  
+r4a+8a+8g+8r8g+8r4  g+4r8]<c4.>a+8r4  <c8c8>a+8r8a+8r4a+4  r8f4.g8r4f8  
+f8g8r8j2,4 g8r4g4  g8] $4 [5g8]r8%e1@3o5p85v64m48,18,203%y3%s2%r15r4c+8f8<c2  
+^4>c+8f8<c4>a+8g+8  g4>a+8<c+8g+2  ^4>a+8<c+8g+4g8%e1|0o4p85v48m48,18,207%y1%s5%r5fr  
+<a+4.g+8r4a+8a+8  g+8r8f8r4f8f8r8  %e1@3o5p85v64m48,18,203%y3%s2%r15r4c+8f8<c2  
+^4>c+8f8<c4>a+8g+8  g4d+8g8<d+2  ^4>d+8g8<d+4c+8%e1|0o5p85v48m48,18,207%y1%s5%r5cr  
+g+4.g8r4g+8g+8  g8r8g8r4g8g8r8  [2a+4.g+8r4a+8a+8  g+8r8g+8r4g+4r8  
+]<c4.>a+8r4<c8c8  >a+8r8a+8r4a+4r8  f4.g8r4f8f8  g8r8[5g8]r8[2a+4.g+8  
+r4a+8a+8g+8r8g+8r4  g+4r8]g+4.g8r4  g+8g+8g8r8g8r4g8  r8g8a+4.g+2  
+^8.rv48f32r32f32r32f8frf32r32f32r32f8f8  f32r32f32r32
+;5
+
+l16
+{3}
+l16%e0|1o5p64v64m%y1%s3%r8>f1  
+^4.f8<f8d+8r8c+1  ^2^4c+8c8  >a+8.r[14a+r]<c8.r[14cr] $6 %e0|1o5p64v64m%y1%s3%r8[2f8.r  
+[10fr]>fr<f8d+r8.c+8.r[12c+r  ]c+8cr>a+8.r[11a+r]a+8gr8.  <c8.r[13cr]r8]r8c+8r4  
+c+2^8c+8r4  c+4c+8c4>a+8r4  a+2^8a+8r4  a+4a+8<cr>f8r8[2f8g+8  
+<c8d+8d8r8>]r8f8<c+4  r4c+2^8c+8  r4c+4c+8c+4d+8  r4d+2^8d+8  
+r4d+4d+8d+rc8r8  c8e8g8<c8>a+8r8<c4  >[5cr]r8f8.r[10fr]>fr<f8d+r8.  
+c+8.r[12c+r]c+8cr>a+8.r[11a+r  ]a+8gr8.<c8.r[10cr]c8cr  r4f8.r[10fr]>fr<f8d+r8.  
+c+8.r[14c+r]d+8.r[7d+r][4er]e8  er8.f1  ^2^8>f8<fr8.  
+;6
+
+l16
+{4}
+l16r4|8v96p64%e0o5f2f2  
+f4f8f4f4.  f2f2  f4.f8f8f4f8  |9a4|8f4|9a4|8f4  
+|9a8|8f4f8|9a8|8f4f8  |9a4|8f4|9a4|8f4  |9a4|8f8f8|9a8 $8 [4|8v96p64%e0o5f4f8  
+|9a4|8f4|9a4|8f4  |9a8|8f4f8|9a8j4,7 |8f4f8  |9a4|8f4|9a4|8f4  |9a4|8f8f8|9a8] $7 |8f4f8  
+|9a4|8f4|9a4|8f8|9v66a8  v76a8v86a8v96a8v106a48v96a24^8.^8|8f4.  
+f4.|9a4|8f4.  f4|Bv127p80%e1g+8p50e4|8v96p64%e0f4.  f4.|9a4|8f4.  
+f4|Bv127p80%e1g+8p50e8|8v96p64%e0f4f8|9a4  |8f4|9a8|8f8f4|9a8|8f4  
+|9a8a8|8f2f4.  |9a4|8f4.f4|Bv127p80%e1g+8  p50e4|8v96p64%e0f4.f4.  
+|9a4|8f4.f4|Bv127p80%e1g+8  p50e8|8v96p64%e0f4f8|9a4|8f4  |9a4|8f4|9a4|8f8f8  
+|9a8|8f4f8|9a4|8f4  |9a4|8f4|9a8|8f4f8  |9a8|8f4f8|9a4|8f4  |9a4|8f4|9a4|8f8f8  
+|9a8|8f4f8|9a4|8f4  |9a4|8f4|9a8|8f4f8  |9a8|8f4f8|9a4|8f4  |9a4|8f8|9a8a8a8|Bv127p80%e1g+8p50e4  
+|8v96p64%e0f4f8|9a4|8f4|9a4  |8f4|9a8|8f8f8f8|9a8|8f4  f8|9a4|8f4|9a4|8f4  
+|9a4|8f8f8|9a8|8f4f8  |9a4|8f4|9a4|8f4  |9a8|8f4f8|9a8|8f4.  f4f4f4f4  
+f4|9a8a4
+;8
+
+l16
+{5}
+l16%e1|0o4p64v48m48,18,207%y1%s5%r5f1  ^4.c8f8d+8r8d+4  
+c+8r8c+1  ^4<c+8c8>a+1  ^2^4r8a+8  <c1  
+^2^8.r8.c8   $10 [2%e1|0o5p64v48m48,18,207%y1%s5%r5[3f4.f8frfrf8f8  
+f8frf8frfrf4fr  ]v34f4.g8grgrf8f8  g8v48crj2,9 e8erere4e8  ] $9 [5e8]r8r8c+1  
+&180^r>a+1  ^2^4.<f4.  f8frfrf8f8f8frg+8  g+rg+rg+8g+8g+rc+1  
+^1  ^rd+1  ^2^4.e4.  e8erere8e8e8ere8  
+erere8e8er[3f4.  f8frfrf8f8f8frf8  frfrf4fr]v34c4.  v48c8crcrc8c8e8er[5e8  
+]er[2f4.f8frfrf8  f8f8frf8frfrf4  fr]d+4.d+8d+rd+rd+8  d+8[2e8er][2ere8]g4.  
+f2^8.r8.v48c8  crcrc8c8r8
+;10
+
+l16
+{6}
+l16|Av96p57%e1o5f1  ^2^4.p104e1  
+^1  p18f1  ^1  p104e1  
+^1   $12 [2%e1|0o5p64v48m48,18,207%y1%s5%r5c1  ^r8.c8r4c4r8  c+1  
+^r8.c+8r4c+8r4  >a+1  ^r8.a+8r4a+4r8  <c1  
+^r8.j2,11 cr8.r8crcr8.  ] $11 [5cr]r8>r8g+1  &180^rf1  ^2^4.<c4  
+[8cr]c8crcrc8c8cr>g+1  ^1  ^ra+1  
+^2^4.<c4  [8cr]c8crcrc8c8r8c4  [8cr][2c8crcr]c+4[8c+r][2c+8  c+rc+r]>a+4[8a+r]a+8a+ra+r  
+a+4&25r8<c4[7cr]&23r8[5cr  ]r8c4[8cr][2c8crcr]c+4  [8c+r][2c+8c+rc+r]&1rd+4[6d+r]e4  
+[5er]r8f1  ^r8.v48f8frfrf8f8&23r8  
+;12
+
+l16
+{7}
+l16%e1|5o4p51v32m48,18,223%r9f1  
+^4.r8f8d+8d32r32d32r32d+4  c+8c+32r32c+32r32c+1  ^4c+8d+8p59f4.f8  
+frfrf4f32r32f32r32f8frf32r32f32r32  f4f8frp69g4.g8  grgrg4g32r32g32r32g8grg32r32g32r32  
+g4g32r32g32r32g8 $15 %e1|4o5p70v40m48,18,223%r11[2r4.[2c4  f4a+8g+4g8f4.  
+d+8r8f8r4]c4f4  a+8<c4c+8c8>a+4g+8  j2,13 a+8<c2>a+4.  g+4g8r8f8e2  
+] $13 g8<c8v26c8v13c8v40>a+2  g+4g4g+8g2  %e1|5o4p70v32m48,18,223%r9r8f4.[2g2  
+^8g+4.a+4g+8g8  f8c+4.<c1  ^4.>a+8<c1  
+^2^4.>j2,14 r8  f2] $14 ^8v44r4.  c4f4a+8<c4.  >a+8g+8r8g8r8g+4.  
+g8f8r8d+8r8f2  f8g8g+8v21g8g+8v10g8g+8v38a+4  g+4g8a+8r8a+8g+4  
+g8r8g+8g4.f4  e8r8f8%e1|2o7p50v32m48,18,239c8r8[5c8]r8%e1|5o5p70v44m48,18,223%r9c4.  
+>a+8r8g+4a+8g+4g8  r8f8r8c4g+4.  g8f8r8d+8r8f2  f8g8g+8v21g8g+8v10g8g+8v32a+4  
+<c4c+8c8r8c8>a+4  g+8r8e8g4.f2  ^4r2^4.  
+;15
+
+l16
+{8}
+l16%e1|3o5p50v8m48,18,239c1  
+^4.>g+8<c8c8cr>g+4  g+8g+rg+1  ^4g+8a+8<c+4.c+8  c+rc+rc+4c+rc+8c+rc+r  
+c+4c+rc+8e4.e8  erere4ere8erer  e4ere8 $16 m|Av96p57%e1o5f1  [7^1  
+]p104e1  [6^1  ]r4.p18f4.p104e4  ^8p57f1  
+^1  p104e1  ^2^4.p57f1  ^1  
+p104e1  ^1  ^8p18f1  ^2^4.p104e1  
+^1  p57f1  [6^1  ]r2r8p104e8p18f4  
+p104e1  ^1  ^1  ^1  
+p57f1  p104e1  p18f1  ^2^8p104e8p57f4  
+
+;16
+
+l16

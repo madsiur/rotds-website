@@ -1,0 +1,35 @@
+#TITLE Blackbird Interior
+#ALBUM Chrono Trigger
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+
+{1}
+l16t120%b0,70%f0,0%v50v50p100o1@4v0,72,191m0,8,127c64 $1 ^1  
+
+;1
+
+l16
+{2}
+l16v10p64o7@16m0,1,127b64 $2 ^1  
+;2
+
+l16
+{3}
+l16v50p27o0@4v0,72,191m0,8,127a+64 $3 ^1  
+
+;3
+
+l16
+{4}
+l16v7p64%p1o6@8c+64 $4 ^1  
+;4
+
+l16
+{5}
+l16v80p64o1|0%a13 $5 e1  
+^3
+;5
+
+l16

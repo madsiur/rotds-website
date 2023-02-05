@@ -1,0 +1,135 @@
+#TITLE Bramble Blast
+#ALBUM Donkey King Country 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x0C ## piano (FF6)
+#WAVE 0x22 0x20 ## marimba (FF6)
+#WAVE 0x23 0x33 ## bagpipe (FF6)
+#WAVE 0x24 0x0A ## oboe (FF6)
+#WAVE 0x25 0x61 ## kick drum (CT)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x0F ## hihat closed (FF6)
+#WAVE 0x28 0xA5 ## synth bass (FM)
+
+{1}
+l16t100%v36p63%e1%b0,70%f0,0 $1 v0|0o5v255,60<e1  v255,0^1  
+v10v255,60g1  v255,0^1  v10v255,60e1  v255,0^1  
+v10v255,60g1  v255,0^1  v10v255,60e1  v255,0v10v255,60d1  
+v10v255,60g1  [3v10v255,60e1  v10v255,60e1  v10v255,60d1  
+v10v255,60g1  ]v10v255,60e1  v10v255,60c1  v10v255,60e1  
+v10v255,60f1  ^2v10v255,60g2  v10v255,60e1  v255,0^1  
+v10v255,60e1  v255,0^1  v10v255,60e1  v255,0^1  
+v10v255,60e1  v255,0^1  v10v255,60e1  v10v255,60d1  
+v10v255,60g1  v10v255,60e1  v10v255,60e1  v10v255,60d1  
+v10v255,60g1  v10v255,60e1  v10v255,60c1  v10v255,60e1  
+v10v255,60f1  ^2v10v255,60g2  v10v255,60c1  v10v255,60e1  
+v10v255,60f1  ^2v10v255,60g2  v10
+;1
+
+l16
+{2}
+l16p63%e1 $2 v0|0o5v255,60<c1  
+v255,0^1  v10v255,60e1  v255,0^1  v10v255,60c1  
+v255,0^1  v10v255,60e1  v255,0^1  v10v255,60c1  
+[3v10v255,60>b1  v10v255,60<e1  v10v255,60c1  v10v255,60c1  
+]v10v255,60>b1  v10v255,60<e1  v10v255,60c1  v10v255,60>a1  
+v10v255,60<c1  v10v255,60d1  ^2v10v255,60e2  v10v255,60c1  
+v255,0^1  v10v255,60c1  v255,0^1  v10v255,60c1  
+v255,0^1  v10v255,60c1  v255,0^1  v10v255,60c1  
+v10v255,60>b1  v10v255,60<e1  v10v255,60c1  v10v255,60c1  
+v10v255,60>b1  v10v255,60<e1  v10v255,60c1  v10v255,60>a1  
+v10v255,60<c1  v10v255,60d1  ^2v10v255,60e2  v10v255,60>a1  
+v10v255,60<c1  v10v255,60d1  ^2v10v255,60e2  v10
+;2
+
+l16
+{3}
+l16p63 $3 %e1v80|0o5v16,16,32o3a1  
+^1  o4c1  ^1  o3a1  
+^1  c1  ^1  f1  
+>b1  <e1  a2g2  f1  
+>b1  <e1  a2g2  f1  
+>b1  <e1  a2g2  f1  
+>b1  <e1  a2g2  vr1  
+^1  ^1  ^1  v100o5%e0|5>br4^8brbbr%e1|6<er8%e0|5>b  
+[22br4^8brbbr%e1|6<er8%e0|5>b  ]r1  
+;3
+
+l16
+{4}
+l16p63%e1 $4 v80|1o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^8b8<c8g8  
+v44g8>b8<c8g8g8v24>b8<c8g8  g8r2v80g8a8e8  v44e8r1  ^2v80b8<c8g8g8  
+>b8<c8g8v44g8>b8<c8g8v30g8  r4v80<c8>b8g8e8a8v44a8  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^4^8v80>d8e8d8cd8^  
+v44e8d8cd8^v24e8d8cd8^  v10e8d8cdv80d8e8g8e8d4  ^8edc4>b8<c8a2  
+^8a4e8d2  ^8>g4<g8g2  g8^a8^b8b4<c8>b4  g8e8a2r1  
+r1  r1  r1  r1  
+r1  r1  r2r8
+;4
+
+l16
+{5}
+l16v65p63%e1|2o5r8bv50bv218<cv50c  v30cv60>bv50bv30bv60<cv50cv60>gv50gv30gv10g $5 ggv60bv50bv60<cv50c  
+v30cv60>bv50bv30bv60<cv50cv60>gv50gv30gv10gggv60bv50bv60<cv50c  
+v30cv60>bv50bv30bv60<cv50cv60>gv60gv30gv10gggv60bv50bv60<cv50c  
+v30cv60>bv50bv30bv60<cv50cv60>gv60gv30<gv10gggv60>bv50bv60<cv50c  
+v30cv60>bv50bv30bv60<cv50cv60>gv50gv30gv10g
+;5
+
+l16
+{6}
+l16v24p63%e1 $6 |8o6r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  v192,50[4>ffffffffffff<fcfc  
+>bbbbbbbbbbbb<bfbf  >eeeeeeeeeeee<e>b<e>b  aaaaaa<ae>gggggg<gd  
+]>dddddddddddd<d>a<d>a  eeeeeeeeeeee<e>b<e>b  ffffffffffff<fcfc  
+>gggggggggggg<gdgd  >aaaaaaaaaaaa<aeae  >aaaaaaaaaaaa<aeae  >cccccccccccc<c>g<c>g  
+cccccccccccc<c>g<c>g  aaaaaaaaaaaa<aeae  >aaaaaaaaaaaa<aeae  >cccccccccccc<c>g<c>g  
+cccccccccccc<c>g<c>g  ffffffffffff<fcfc  >bbbbbbbbbbbb<bfbf  >eeeeeeeeeeee<e>b<e>b  
+aaaaaa<ae>gggggg<gd  >ffffffffffff<fcfc  >bbbbbbbbbbbb<bfbf  >eeeeeeeeeeee<e>b<e>b  
+aaaaaa<ae>gggggg<gd  >dddddddddddd<d>a<d>a  eeeeeeeeeeee<e>b<e>b  
+ffffffffffff<fcfc  >gggggggggggg<gdgd  >dddddddddddd<d>a<d>a  eeeeeeeeeeee<e>b<e>b  
+ffffffffffff<fcfc  >gggggggggggg<gdgd  
+;6
+
+l16
+{7}
+l16p63%e1 $7 v65|4o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^4^8m24,18,201<e8  
+d2^4>g8<g8  g2g8^f8^e8  d4^8edc8^>b8^o6c8  a2^8a4e8  
+d8m|3v40a4e8d4m24,18,201|4v65>g8<g8  g2g8^a8^b8  b4<c8>b4g4e8  a2m|3v40c8^d8^e8  
+g4^8m24,18,201|4v65c8>b8^<c8^e8  a4^8m|3v40c8>a8^b8^o6c8  e4f8e4d4c8  
+mm16,16,206v255,0e1  mr1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2v28c8^d8^e8  g4^8m24,18,201|4v65c8>b8^<c8^e8  a4^8m|3v50c8>a8^b8^o6c8  
+e4f8e4d4c8  m24,18,201e2mc8^d8^e8  g4^8m24,18,201|4v65c8>b8^<c8^e8  
+a4^8m|3v50c8>a8^b8^o6c8  e4f8e8r8v16f8v10d8r8  
+;7
+
+l16
+{8}
+l16p63 $8 %e0o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  [24|5v100cv50%e1|7f+f+rv100|6ev50|7f+f+v100%e0|5crccv50%e1|7f+f+f+f+r  
+]
+;8
+
+l16

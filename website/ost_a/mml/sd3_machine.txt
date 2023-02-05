@@ -1,0 +1,77 @@
+#TITLE Faith Total Machine
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x28 0x7A ## kick (SOM)
+#WAVE 0x29 0x21 ## hard snare (SOM)
+#WAVE 0x2A 0x8C ## metal bang (SMRPG)
+#WAVE 0x2B 0xB6 ## strings (SMRPG)
+#WAVE 0x2C 0xC9 ## bass (FF6T)
+#WAVE 0x2D 0x97 ## overdrive guitar (SD3)
+#WAVE 0x2E 0x9E ## bass synth hit (SOM)
+
+{1}
+l16t111%b0,70%f0,0%v32%e1r1  r1  r1  r1  
+[2p96|D%y2%s4%r8o5v60e8.f4^g8.g+8a+8b  e8.f4^g8.g+ra+8.  ] $1 p96%e1|D%y2%s4%r8o5v60[2a2^4garg  
+a2^8.%l1e32f32%l0d>a<d+g  a2^4garg  a2^8.fe>a<ab  <c2^4>a+<d+r>a+  
+g+ra+<cr>g+bgra+f+4.  a2^8.%l1e32f32%l0d>a<fg  ara+<cr>a+<c>gr<c>a4.  
+]%y[4r[2o5ae>a<d+r8]ad+d>a<ae>a<d+r8  ae>a<d+r4r]%e0p64|E[2v80o5gv60g+av80gv60a<ad  
+>gv80gv60g+ar<v60%l1f+g8.%l0>v80gv60g+av80gv60a<ad  >gv80gv60g+a<c>v80av60eff+v80gv60g+av80gv60a<ad  
+>gv80gv60g+ar<v60%l1f+g8.%l0>v80gv60g+av80gv60a<ad  >gv80gv60g+a<c>v80av60egg+]
+;1
+
+l16
+{2}
+l16|Bp80%e1[4o5v80b8.<c+4  
+^d8.e8f8g>b8.<c+4  ^d8.erf8.] $2 |Bo6[2>v80ea<e[3>o5dref  ]gea<e[2>o5dref]dr4ea<e  
+[3>o5dref]gea<e>drefdr2  f<cf>frgg+frga+frgg+a+  f<cf>frgg+fr2  
+ea<e[3>o5dref]gea<e>drefd  r2]r[2<v25o6av39av56av74ar8][3o6a  v56av39arv25av39av56av74ar8v25av39av56av74ar4  
+rr[2v25o6av39av56av74ar8]]av56av39arv25av39av56av74a  r8v25av39av56av74ar4r[4o4v69a1  
+^1  ]
+;2
+
+l16
+{3}
+l16|Bp48%e1[4o5v80f8.g+4^g+8.b8b8<d  >f8.g+4^g+8.brb8.  
+] $3 o5|B[2>v80a<ea[3>o4graa+]<c>a<ea[2>o4graa+]g  r4a<ea[3>o4graa+]<c>a<ea>g  
+raa+gr2a+<f<c[3o4a+  r<cd+]f>a+<f<co4a+r<cd>a+r2  a<ea[3>o4graa+]<c>a<ea>graa+g  
+r2]r[2o6v25cv39cv56cv74cr8][3o6c  v56cv39crv25cv39cv56cv74cr8v25cv39cv56cv74cr4  
+rr[2v25o6cv39cv56cv74cr8]]cv56cv39crv25cv39cv56cv74c  r8v25cv39cv56cv74cr4r[2o4v69d+1  
+^2<d+2  >d+1  ^1  ]
+;3
+
+l16
+{4}
+l16|B%e1p32[4o5v80c+8.d4^e8.f8g8g+  
+c+8.d4^e8.frg8.  ] $4 p64|C%e0o4[2<v80ara[2o5graa+]gra+<c>a+ara[2o5g  
+raa+]gr4ara[2o5graa+]g  ra+<c>a+aragraa+gr2  <crc[2>o5a+r<cc+]>a+r<c+d+c+crc[2>o5a+  
+r<cc+]>a+r4ara[2o5graa+]g  ra+<c>a+aragraa+gr2  ]%e1p32|Br[2>v25o5av39av56av74ar8][3o5av56av39arv25av39av56av74ar8  
+v25av39av56av74ar4rr[2v25o5av39av56av74ar8  ]]av56av39arv25av39av56av74ar8v25av39av56av74ar4  
+r[4o3v69a1  ^1  ]
+;4
+
+l16
+{5}
+l16r1  r1  
+r1  r2^4v80|8p64o5a32a32|9a8v28|8a  [3v80a32v60a32v43a32v28a32v15a32r32v80ar8v28av80ar8.av43av80|9a8|8a  
+]a32v60a32v43a32v28a32v15a32r32v80ar8v28av80ara32v60a32v43a32r32v80|9a|8a32v60a32v80a32v60a32v80|9a8  
+ $5 [3v80|8ar8.|9a4|8av50ar8v80|9a4  ]|8ar8.|9a8.v50|8arav80ar[3v80|9a4  
+|8ar8.|9a4|8av50ar8]v80|9a4  |8ar8.|9a8.v50|8arav80ar|9a8.v60a  
+[3v80|8ar8.|9a4|8av50ar8v80|9a4  ]|8ar8.|9a8.v50|8arav80ar[3v80|9a4  
+|8ar8.|9a4|8av50ar8]v80|9a4  |8ar8.|9a8.v50|8arav80a32v69a32v60a32v50a32v80|9a4  
+[4|8p64o5ar4.v50av80arar4r  ar4.v50av80av50av80ar4r  ][3|8p64o5ar8.|9a4|8av50ar8v80|9a4  
+]|8ar8.|9a8.v50|8arav80a32v69a32v60a32v50a32[3v80|9a4  |8ar8.|9a4|8av50ar8]v80|9a4  
+|8ar8.|9a8.v50|8arav80a32v69a32v60a32v50a32v80|9aaaa  
+;5
+
+l16
+{6}
+l16%e1p64|A[2o5v80av28aa][7o5av80av28aaaav80a32[5v28o5a32]v80a[2v80o5av28aa]]av80a  
+v28aav50av60av80a32v28a32a32a32v60ar $6 |Ao5[7v80av28aaa][7v80o5a24v69a24v60a24v50a24v43a24v35a24  
+[7v80o5av28aaa]]v80a24v69a24v60a24v50a24v43a24v35a24r[3v28o5aaav80ar8v28a  
+aaar8aaaraaav80ar8v28a  aaar4rr]aaav80ar8v28a  aaar8aaaraaav80ar8v28a  
+aaar4r[31v80o5d8v50aa]v80aaaa  
+;6
+
+l16

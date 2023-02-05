@@ -1,0 +1,135 @@
+#TITLE World 4
+#ALBUM Mario Land
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x8D ## pan flute (FF6)
+#WAVE 0x21 0x1C ## bass (FF6)
+#WAVE 0x22 0x04 ## sitar (FF6)
+#WAVE 0x23 0x01 ## spanish guitar (FF6)
+#WAVE 0x24 0x0D ## strings (FF6)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x2F ## shaker (FF6)
+
+{1}
+l16t122%v32%e1%b0,70%f0,0v127p62|0r1   $1 o5d4^8e8g4e4  d4e8d8>b4a8g8  
+<d4^8e8g4e8d8  m24,16,227e2^mr4^8^  d4^8e8g4e4  d4e8d8>b4a8g8  
+a4^8b8a8g8e8d8  m24,16,227e2^32mr4^8^^32  <d4^8e8g4e4  d4e8d8>b4a8g8  
+<d4^8e8g4e8d8  m24,16,227e2^mr4^8^  d4^8e8g4e4  d4e8d8>b4a8g8  
+a4^8b8a8g8e8d8  m24,16,227e2^32mr4^8^^32  a4^8b8<d4d8ed  >b4<d8>b8a8bag8ed  
+<m24,16,227d2d4^8>mb8  <m24,16,227d2^4^8mr8  e4^8g8a4g4  e4^8d8>b4a8g8  
+a4^^b8<d4e4  m24,16,227g2^32mr4^8^^32  d4^8e8g4e4  d4e8d8>b4a8g8  
+<d4^8e8g4e8d8  m24,16,227e2^mr4^8^  d4^8e8g4e4  d4e8d8>b4a8g8  
+a4^8b8a8g8e8d8  m24,16,227e2^32mr4^8^^32  <d4^8e8g4e4  d4e8d8>b4a8g8  
+<d4^8e8g4e8d8  m24,16,227e2^mr4^8^  d4^8e8g4e4  d4e8d8>b4a8g8  
+a4^8b8a8g8e8d8  m24,16,227e2^32mr4^8^^32  a4^8b8<d4d8ed  >b4<d8>b8a8bag8ed  
+<m24,16,227d2d4^8>mb8  <m24,16,227d2^4^8mr8  e4^8g8a4g4  e4^8d8>b4a8g8  
+a4^^b8<d4e4  m24,16,227g2^32mr4^8^^32  
+;1
+
+l16
+{2}
+l16%e0v34p64|1%r8o4r1  
+ $2 g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  
+>c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  
+>d8<d>ad8<d8>d8<d>ad8<d8  >e8<e>be8<e8>e8<e>be8<e8  >g8<gd>g8<g8>g8<gd>g8<g8  
+>c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  
+>g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  >d8<d>ad8<d8>d8<d>ad8<d8  
+>e8<e>be8<e8>e8<e>be8<e8  >d8<d>ad8<d8>d8<d>ad8<d8  >c8<c>gc8<c8>c8<c>gc8<c8  
+>b8<b>f+b8<b8>b8o5b>f+b8<b8  >d8<d>ad8<d8>d8<d>ad8<d8  >e1  c1  
+d1  e1  g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  
+>g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  
+>c8<c>gc8<c8>c8<c>gc8<c8  >d8<d>ad8<d8>d8<d>ad8<d8  >e8<e>be8<e8>e8<e>be8<e8  
+>g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  
+>c8<c>gc8<c8>c8<c>gc8<c8  >g8<gd>g8<g8>g8<gd>g8<g8  >c8<c>gc8<c8>c8<c>gc8<c8  
+>d8<d>ad8<d8>d8<d>ad8<d8  >e8<e>be8<e8>e8<e>be8<e8  >d8<d>ad8<d8>d8<d>ad8<d8  
+>c8<c>gc8<c8>c8<c>gc8<c8  >b8<b>f+b8<b8>b8o5b>f+b8<b8  >d8<d>ad8<d8>d8<d>ad8<d8  
+>e1  c1  d1  e1  
+
+;2
+
+l16
+{3}
+l16%e1v50p44|2o7ddd^>brbrararb8^r   $3 |3o5v50p44a4^8b8<d4>b4  
+a4b8a8g4e8d8  a4^8b8<d4>b8a8  r1  a4^8b8<d4>b4  
+a4b8a8g4e8d8  e4^8f+8e8d8>b8a8  b1  <a4^8b8<d4>b4  
+a4b8a8g4e8d8  a4^8b8<d4>b8a8  r1  a4^8b8<d4>b4  
+a4b8a8g4e8d8  e4^8f+8e8d8>b8a8  b1  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  <a4^8b8<d4>b4  
+a4b8a8g4e8d8  a4^8b8<d4>b8a8  r1  a4^8b8<d4>b4  
+a4b8a8g4e8d8  e4^8f+8e8d8>b8a8  b1  <a4^8b8<d4>b4  
+a4b8a8g4e8d8  a4^8b8<d4>b8a8  r1  a4^8b8<d4>b4  
+a4b8a8g4e8d8  e4^8f+8e8d8>b8a8  |4o4v50p44b1  <d1  
+e1  d1  d2^4r1  ^1  
+^1  ^1  ^4
+;3
+
+l16
+{4}
+l16%e1v50p84|2o5o7ggg^ererdrdr  e8^r $4 v60r1  
+^1  ^1  o6gagregerdedr>bagr1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^<gagregerdedr>bag  r1  ^1  
+^1  ^1  ^a4^8b8<d4d8e  d>b4<d8>b8a8bag8e  
+d<d2d4^8>b8  <d2^4^8r8  e4^8g8a4g4  e4^8d8>b4a8g8  
+a4^^b8<d4e4  g2^32r1  ^1  ^1  
+^4^8^^32gagregerd  edr>bagr1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^<gagregerdedr>bag  r1  ^1  ^1  
+^1  ^a4^8b8<d4d8e  d>b4<d8>b8a8bag8e  d<d2d4^8>b8  
+<d2^4^8r8  e4^8g8a4g4  e4^8d8>b4a8g8  a4^^b8<d4e4  
+g2^32r4^8^^32  
+;4
+
+l16
+{5}
+l16%e1v50p62|4r1   $5 r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  o4d1  e1  
+>b2^4<d4  e1  d1  e4g4<c4e4  
+f+2d4>a4  b1  d1  e1  
+>b2^4<d4  e1  d1  e4g4<c4e4  
+f+2d4>a4  b1  a1  b1  
+b1  a2^4d4  >g1  ^2^4e4  
+f+2^4a4  g1  
+;5
+
+l16
+{6}
+l16%e1v50p84|4r1   $6 o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  >b1  
+<c1  >g2^4b4  <c1  >b1  
+<c4e4g4<c4  d2>a4f+4  e1  >b1  
+<c1  >g2^4b4  <c1  >b1  
+<c4e4g4<c4  d2>a4f+4  e1  f+1  
+g1  f+1  f+2^4>a4  e1  
+^2^4c4  d2^4f+4  e1  
+;6
+
+l16
+{7}
+l16v80p64r1  
+ $7 o6[20%e0|5cr8^%e1|6dr8^%e0|5cr8^%e1|6dr8^  ]%e0|5cr1  ^1  ^1  
+^8^%e1|6dr8^%e0|5cr8^%e1|6drdr[20%e0|5c  r8^%e1|6dr8^%e0|5cr8^%e1|6dr8^]%e0|5c  
+r1  ^1  ^1  ^8^%e1|6dr8^%e0|5cr8^%e1|6drdr
+;7
+
+l16
+{8}
+l16%e0v24p64|7r1  
+ $8 o5[20f+rf+f+f+rf+f+f+rf+f+f+rf+f+  ][28f+rf+f+f+rf+f+f+f+f+f+f+f+rf+  
+]
+;8
+
+l16

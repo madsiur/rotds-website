@@ -1,0 +1,49 @@
+#TITLE Minstrel's Song
+#ALBUM Romancing Saga
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x01 ## spanish guitar (FF6)
+#WAVE 0x21 0x3E ## xylophone (FF6)
+#WAVE 0x22 0x03 ## wind flute (FF6)
+#WAVE 0x23 0x0C ## piano (FF6)
+#WAVE 0x24 0x1C ## bass (FF6)
+
+{1}
+l16t80%v20%e1%b0,70%f0,0%k0 $1 v104p60|0o5g+8e8g+8a32b^32a2  
+f+8d+8f+8g+32a^32g+2  e8c+8e8f+32g+^32f+4^8e8  e2d+4e8f+8  g+8e8g+8a32b^32a2  
+f+8d+8f+8g+32a^32g+4f+4  e8c+8e8g+8a32b^32a4g+f+  e4d+4e2  <c+4c+12d+12e12d+4c+4  
+>b2^8f+32g+^32f+8e8  g+32a8^^32a12b12<c+12>b8f+8g+8a8  g+1  <c+4c+12d+12e12d+4c+4  
+>b2^8a32b^32a8g+8  c+4a12g+12f+12e4d+8e8  e1  
+;1
+
+l16
+{2}
+l16%e1%k0 $2 v104p80|0o5r4>g+8r4^8a8r4  
+^8f+8r4^8g+8r4  ^8g+8r4^8a+8r4  ^8<c+8r4^8d+8r4  ^8>g+8r4^8a8r4  
+^8f+8r4b8r8<d+8r4  >g+8r4^8a8r4^8  f+8r4^8g+8r4^8  <c+8r4^8d+8r4^8  
+d+8r4^8e8r4^8  e8r4^8d+8r4^8  >b8r4^8b8r4^8  <c+8r4^8d+8r4^8  
+d8r4^8f8r4^8  e8r4^8>b8r4^8  b8r4^8b8r8
+;2
+
+l16
+{3}
+l16%e1%k0 $3 v104p74|0o5r8>g+8  
+b8g+8r8a8<c+8>a8r8f+8  a8f+8r8g+8b8g+8r8g+8  b8g+8r8a+8<c+8>a+8r8e8  
+a8e8r8f+8b8f+8r8g+8  b8g+8r8a8<c+8>a8r8f+8  a8f+8r8g+8r8<c8r8>g+8  
+b8g+8r8a8<c+8>a8r8f+8  b8f+8r8g+8b8g+8r8e8  a8e8r8f+8b8f+8r8g+8  
+b8g+8r8g+8b8g+8r8a8  <c+8>a8r8f+8b8f+8r8e8  g+8e8r8d8g+8d8r8e8  
+a8e8r8f+8b8f+8r8g+8  b8g+8r8g+8b8g+8r8a8  <c+8>a8r8f+8a8f+8r8e8  
+a8e8r8e8g+8e8
+;3
+
+l16
+{4}
+l16%e1%k0 $4 v104p34|0o3e2  f+2>b2  <e2c+2  
+f+2>b2  b2<e2  f+2>b2  <e4g+4c+2  
+f+2>b2  <e2a2  b2g+2  <c+2>f+2  
+b2e2  e2a2  b2g+2  <c+2>f+2  
+b2e2  e2
+;4
+
+l16

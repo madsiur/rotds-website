@@ -1,0 +1,231 @@
+#TITLE Kingdom Of Tantal (Day)
+#ALBUM Xenoblade Chronicles 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xA7 ## choir (GH)
+#WAVE 0x21 0x49 ## violin (RS3)
+#WAVE 0x22 0x34 ## strings (TOTR)
+#WAVE 0x23 0x68 ## grand piano (CT)
+#WAVE 0x24 0xAC ## harp (GH)
+#WAVE 0x25 0x4C ## e.piano (RS3)
+#WAVE 0x2A 0x22 ## kick drum (FF6)
+#WAVE 0x2B 0x56 ## snare drum 2 (RS3)
+#WAVE 0x2C 0x12 ## cymbal (FF6)
+#WAVE 0x2F 0x0F ## hihat closed (FF6)
+
+{1}
+l16%e1|0o2v127p88m48,18,239%a4a1  ^1  g+1  ^1  
+p64[3|Cv96o5f1  ^2^4%a4f4  ]%yf1  %a3f1  
+[2|2o2v127p96m48,18,239a1  ^1  g1  ^1  
+f1  ^1  d1  j2,1 p64|C%a3v127o3f1  
+] $1 e1   $7 |2o2v127p96m48,18,239f1  ^1  e1  
+^1  d1  ^1  e1  
+^4p64|C%a3v96o5f2^4  %y%yf1  |2o6v72m48,18,239p52%a1e1  ^1  
+^2^4%l1%yedc>b  %l0b2^4a8%r5a8  ^1  ^1  
+o3v127p88%a12%r15f4<c4>b4a+4  o6v72p52%ym1,18,239%a8e1  ^1  ^2%yd2  
+g2b2  b2<c2  d2e2  e1  
+f2^4%g1ec>fc  %g0p64|Cv96o5f1  ^1  ^1  
+^1  |1o5p36%r3m48,18,239v24v192,96f8r8f8f8r8g8e8r4  [2j2,2 
+;3
+
+l16 $2 p64|C%a3v60o5f1  
+%g1[2[4|Av127c4|Bv112b8|Av127c8c4|Bv112b4  j4,4 |Av127c4|Bv112b8|Av127c4c8|Bv112b4  
+] $4 |Av127c8c8|Bv112b8|Av127c@4%r26v76>d|Bv112<b8b8v96bv104bv112bv127b  
+]|1o4v96p20m48,18,239%r11b1  ^1  r1  p64m|Bv127o5c8c8c8c8r2  
+|Cv96f1  [11r1  ]|4o3v96p96[5b4.]r8o5p64[2j2,5 
+;6
+
+l16 $5 @3o5v68%a13%y6%s3%r12p92[15r1  
+]r2f4^<d8.  
+;7
+
+l16
+{2}
+l16t162%v70%x224%b0,70%f0,0%e1|0o3v127p80m48,18,239%a4a1  
+^1  g+1  ^1  r1  
+r1  r1  ^2^4|0o5v80p64m48,18,239%y%r11e8f8  e4.d4.c1  
+^1  ^2e4c4  d4|1o2v40p24m48,18,239a1  ^1  
+g1  ^1  f1  ^1  
+d1  e1  |0o5v80p64m48,18,239%r11[4r1  ]g4g8g4f4e8  
+d4e1  ^1  ^2^4 $13 |0o5v80p64m48,18,239%r11g4  g8g4f4e8d4  
+e8f8e4>b1  ^8|4o4v96p96meab1  |0<v80p64g4g8a4f4e8  |1>v80p36%r11%a4f1  
+%a15a2b2  g+2e2  |2o2v127p96[2a1  ^1  
+^1  ^1  f1  ^1  
+^1  j2,8 %r15f4f4g4g+4  %y] $8 ^1  <%a10%r20%k5 $21 [2[4v127c8v96c8v64c8][2v127c8v96c8]]j1,73 %k11[2j2,10 
+;21
+
+l16 $10 %k0r4p64p0,24,96|C%a3v60o5f2  
+^4p|2o2v127p96m48,18,239[2a1  ^1  g1  ^1  
+f1  ^1  d1  e1  
+]%a11%r19a4.a4.<c4.  >b4.b4b8b8a4.  a4.<c4>g8g8g8  g8r2%r13[2[5f4.  
+]^8[5d4.]^8j2,12 [5b4.  ]^8[4a+4.]g4<c4  >] $12 [5b4.]^8a4.a4.  
+g+4.g+4.g+2  |0o3v96p58%a8%r7m48,18,239[13r2]f2  e1  a1  
+^1  g1  ^1  f1  
+^1  d1  e1  
+;13
+
+l16
+{3}
+l16%e1|0o4v80p72m48,18,239f2^4e4  
+d2c2  e2^4d4  c2>b2  |1o4v80p36%r11[7r1  
+ $73 ]r4 $54 [2[2<e4c4d4  >b1  ^4]a4b4<c4  j2,14 >b4a8g4.f8e4.  
+a1  ^2^4r4  ] $14 g8r8g8g4f4e8  d4e2^4  
+j1,73 ^1  ^1   $27 |1o5v80p36%r11 $56 g4g8g4f4e8  d4e8f8e4>b4  
+^1  ^1  <g4g8a4f4e8  d1  
+f2e2  d2e2  j1,73 |0o4v100p48%r10[2<r4c4>b4<c4  d4c4>b4<f8e1  
+^4c8>b8<c8d8c8>b8  <c8>b2^4a8  a8^1  ^1  
+j2,17 ^1  ] $17 ^4|C%a3v96o5f2^4  |2o4%a10%r20p80%k9[2j2,18 
+;21
+
+l16 $18 %k4[2j2,20 
+;21
+
+l16 $20 %k0|2o7v0m1,9,255%p1m96,-12a2m96,-24^2  
+%p0|1o4v96p20m48,18,239 $36 [2[2%r20b8b8[3a8b4]a8b8b8  b8<c8%r11j2,22 d4e8>b2  
+^4%r20b8b8b8b8%r11a4.  ] $22 j2,23 d4e8f4.g8e8  ^2d8c4.  >] $23 g4f8e4d4.  
+f4e8d4c4.  j1,73 |2o4v96p72%a11%r20b4.<c4.>g4.  a4.a4a8a8b4.  <c4.>g4a8a8a8  
+a8r2o6p100 $63 %r19[2[2e8e8[3d8  e4]d8e8e8f8g8]j2,25 [2a4  a8a4g8f4.%r11f4  
+e8d8e8f8g8%r19]] $25 b4b8  b4a8g4.%r11g4  f8e8f8g8a8%r19b4b8  b4a8%r11g+2f4  
+e4d4j1,73 |0o5v96p68%a7%r9m48,18,239c1  ^1  >b1  ^1  
+a1  ^1  %r13f1  ^1  
+%r9g1  ^1  d1  ^1  
+%y%r19c4c8f4c4c8  %r9c1  >%a7a1  g+1  
+
+;27
+
+l16
+{4}
+l16%e1|0o5v80p64m48,18,239f2^4e4  d2c2  e2^4d4  c2>b2  
+|2o4v96p48%r18[4b4.<c4.>g4.  a4.a4a8a8]|4o3v96p96m $30 a8  b8<c8e8a8b8<c8e8a1  
+>>g8a8b8<d8g8a8b8<e8  d1  j1,73 |0o4v24p72v192,127f1  v24,0^1  
+|4v96p96mf1  b1  >[2j2,29 j1,30  $29 >r1  r1  
+f1  b1  r2^4. $38 |4o4v96p96mda  <c1  
+|1o4v80p36%r11m48,18,239f2e2  d2e2  |4v96p96mf1  ^1  
+a2b2  g+2e2  |0o4v48p70m48,18,239%r10 $60 r4e4d4e4  f4e4d4a8g1  
+^4e8d8e8g8e8d8  e8d2^4c8  c8^1  j1,73 ^1  
+^1  [2j2,32 
+;60
+
+l16 $32 ^4.|4o4v96p96mf8^1  ^2|0o5p64m48,18,239%r3[2v127e8r8v96e8v127e8  
+r8v96d8v127d8r4d8r8v96d8  c+8v127d8r4]v127f8r8v96f8v127f8  r8v96g8v127e8r4 $3 e8r8v96e8  
+d8v127e8r8v96e8v255,96f4e8f4  g8e4^1  j1,73 @3o3v96p0%a11m%p1m96,-5a2m96,-7^2  
+%p0|2o5v80p107m48,18,239%a11[2j2,35 
+;36
+
+l16 $35 %r11>b1  ^1  |4>v96p96mb4.<c4.c4  
+d8d8d8d8r2  |1o4v64p36m48,18,239[2[2c8c8[3>b8<c8r8]>b8<c8c8  d8e8]j2,37 f8r8f8f8r8d8  
+>b8r4b4a8g8b8  <c8d8f8r8f8f8r8d8  >a+8r4a+4a8g8b8  <c8d8] $37 |4o5v96p96m[5f4.]^8[5e4.  
+]^8|3o3v96p76a1  ^1  g1  ^1  
+f1  ^1  f1  e1  
+|0o5v44p96%a4%r10a1  ^1  g1  ^1  
+%a12%r19f4f8a4f4f8  %r10e1  %a5>a1  g+1  
+@3o7v68%a13%y5%s3%r11p92g2^4.
+;38
+
+l16
+{5}
+l16%e1|2o2v64p96m48,18,239%a4r1  
+r1  g+4v48,127^1  ^2^4p80%y%r17[4a4.  a4.<c4.>b4.  
+b4b8b8]|3o3v96p76[2a1  ^1  g1  ^1  
+f1  ^1  <d1  e1  
+>] $45 |3o3v96p76f1  ^1  e1  ^1  
+d1  ^1  e1  ^1  
+[2a1  ^1  a1  ^1  
+f1  ^1  f1  j2,39 %r17f4<c4>b4a+4  
+%y] $39 ^1  |4o5p96%k9 $50 [2[4v76c8v52c8v32c8][2v76c8v52c8]]j1,73 %k11[2j2,41 
+;50
+
+l16 $41 %k0@4o5v0m4,11,255%p1m96,-12d+2  
+m96,-24^2%p0|3o3v96p76m%r11[2[4a4.]a4  a4[4g4.]g4g4  [4f4.]f4f4d4.  
+d4.d4e4.  j2,43 e4.e4] $43 g+8e4  g+4%r13a4.a4.  a4.a4.a4  
+a8a8a4.a4.  a4b8b8b8b8r2  |2o4v96p88%a12%r20[2[5f4.]^8][5b4.]^8  
+[4a+4.]g4<c4>[3[5f4.  ]^8][5e4.]^8|4o5v72p52r1  r4e4c4d4  >b1  
+^4a4b4<c4  >b4a8g4.f8e4.  a1  ^2^4|0o4v96p80m48,18,239%r11 $65 [2<^4  
+e4c4d4>b1  ]^4a4b4<c4  g4g8g4f4e8  d4e1  
+^2^4j1,73 @3o4v68%a13%y5%s3%r11p92r4  b4^<g4^<e8
+;45
+
+l16
+{6}
+l16%e1|2o5v32p64m48,18,239%a2r1  
+r1  g+1  v96,127^1  |0o5v80p72m48,18,239%r11[5r1  
+]r2^4e8f8  e4.d4.c1  ^4>b1  
+^4<e4c4d4  >b1  ^1  |2o5v16p56%a8%r17v255,34[4e8>a8<e8f8][2d8>a8<e8f8  
+]e8>a8<f8g8<c8>b8a8e8  [4a8>a8<a8b8][4g8>b8<a8b8  ][4e8>a8<e8f8][2d8>a8<e8f8  
+][2>b8a8<d8e8]> $52 |2o4v34p56%a8%r17v255,52[2[4a4b8<c8  >]j2,46 [4g+4a8b8]] $46 a4a8b8  
+[3g+4a8b8]|4o3v96p96m[2a8b8<c8e8  ^1  ^2>]a8b8<c8g8  ^2^4|2o4v72p72m48,18,239%r10b4  
+a4g4f1  ^1  |4o3v96p96m[2a8b8<c8e8^1  
+^2>][2a8b8<c8g8  ^1  ^2>]|4o5p92%k4[2j2,47 
+;50
+
+l16 $47 %k5[2j2,49 
+;50
+
+l16 $49 %k0@3o3v96p127%a11%p1m96,-5a2  
+m96,-7^2%p0|4o4v96p96m[2v80[4e4.]e4  e4[4d4.]d4d4  [4c4v64c8v80][2c8v64c8v80]>[2a8v64a8a8  
+v80]a8v64a8v80[2b8v64b8b8v80]b8v64b8<]v80<b4.  <c4.>g4.a4.  a4a8a8b4.<c4.  
+>g4b8b8b8b8r2  |2o3v112p88%a11%r18[2[5f4.]^8[5d4.]^8  j2,51 [5f4.]^8[4f4.]g4  
+g4] $51 |4o4v96p96[5b4.]^8a4.  a4.g+4.g+4.  g+4g+4@3o5v68%a13%y5%s3%r11p92b4<c8>a8  
+a8b4<e1  ^8>g8a8r8g8g8b4  <e1  ^8>f8g8b8f4.f8  
+a1  ^8f8g8a8<e2  ^8>e4a4<e2  >b4<c8>a8a8b4<e1  
+^8>g8a8g+8g4b4  <e1  ^8>f8g8<c8>f4a4  <c8c1  
+>f8g8a8<c2^8  >e4^c4^a4^<f  
+;52
+
+l16
+{7}
+l16%e1|2o6v32p56m48,18,239%a2r1  
+r1  g+1  v96,127^1  |5o6v48p48m[7r1  
+]r4[2j2,53 
+;54
+
+l16 $53 |4o4v96p96d1  e1   $66 |5o7v48p48m[2j2,55 
+;56
+
+l16 $55 v24>%a10[2j2,57 
+;60
+
+l16 $57 |4o3v96p96a8b8<c8g8^1  
+^2|5o6v24%a10p48[2j2,59 
+;60
+
+l16 $59 |2o6v64p56m48,18,239%a3a1  
+^1  |5o6p48m[2v48e8r8v32e8v48e8r8v32d8v48d8r4  d8r8v32d8c+8v48d8r4]v48f8  
+r8v32f8v48f8r8v32g8v48e8r4  e8r8v32e8d8v48e8r8v32e8v255,48f4  e8f4g8e4^1  
+|3o3v80p64m48,18,239%p1m96,-5a2m96,-7^2  %p0|0o5v80p72%a11%r20[2e4.f4.e4.  
+f4.e4f4f4.  d4.f4.d4.  c4d4c4.f4.  c4.g4.f4  
+c4j2,61 >b4<c8d4e8  f4g8a4b8%r11e2  %r20] $61 d4c8d4.d4  e4e8g+4.b4  
+%r11a1  ^1  r1  r4p64|C%a3v96o5f2^4  
+|0o5v96p26[2j2,62 
+;63
+
+l16 $62 @3o5v68%a13%y6%s3%r12p92m[4r1  ]r4.a2r1  
+r1  r8|5o6v32p48[2j2,64 
+;65
+
+l16 $64 @3o5v68%a13%y6%s3%r12p92^4.d4^b4  
+^
+;66
+
+l16
+{8}
+l16%e1|4o6v48p104r1  ^2^4.d24f24g24  a1  ^4p64|C%a3v96o5f2^4  
+%g1> $75 [4@4%r24a8%r28v56f8f8%r24v96a4%r28v56fv66gv76av56fv66gv76a  
+%r24v96a8%r28v56fv66gv56f8%r24v96a8%r28v56fv66gv76av56fv76av56fv66gv76a  
+]j1,73 |C%yv96<f1  p64p0,24,96[3r4|Fv52e8v40e8e8v64ev52e8ev40ee  
+j3,68 r1  ] $68 p|4o4v96p96d1  e1  p64 $72 [2[2|Av127o5c4.c8@4%r24v96>a2  
+j2,69 |Av127<c4.c8c4c4  ] $69 |Av127<c4c4c8c4.  ]j1,73  $76 [2j2,71 
+;72
+
+l16 $71 [8|Av127o5c8|Fv64e8e8e8@4%r24v96>a8|Fv64<e8e8e8  
+|Av127c8@4%r28v66>g8gv46ev66g8|Fv68<f8|Av127c8|Fv64e8e8  ][6@4%r28v76>a8|Fv68<fv52ev68f8@4%r28v76>a8|Fv52<e8v64ev68f@4%r28v76>a|Fv68<fv52ev68f  
+] $6 v32v192,80[2[16|Bb]v192,127]j1,73 |Av127c2^4|Bc4  |Cf1  [60|Fv68f8v52e8]|Bv127b4.b4.  
+b4.b4.b4  b4b4.b4.  b4b8b8b8b8r2  [3[2j2,74 
+;75
+
+l16 $74 ]@3o5v68%a13%y6%s3%r12p92[7r1  
+]r4.^e4^<c4  
+;76
+
+l16

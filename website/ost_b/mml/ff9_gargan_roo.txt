@@ -1,0 +1,74 @@
+#TITLE Gargan Roo
+#ALBUM Final Fantasy IX
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x04 ## sitar (FF6)
+#WAVE 0x21 0x19 ## pizzo string (FF6)
+#WAVE 0x22 0x1D ## picked string (FF6)
+#WAVE 0x23 0xB5 ## plucked string (FF6)
+#WAVE 0x28 0x22 ## kick drum (FF6)
+#WAVE 0x29 0x2E ## conga 2 (FF6)
+#WAVE 0x2A 0x21 ## hard snare (SOM)
+#WAVE 0x2B 0x11 ## hihat opened (FF6)
+#WAVE 0x2C 0x2D ## guiro (FF6)
+
+{1}
+l16t90%v50%b0,70%x224 $3 %e1[2|0v80o4p44%r21f4a+4<c4>c+4  <c4>d+4<c8>d+8%r11c+4  
+%r21<c4>a+4f4<d4  %r11c1  ]|0v72o6p74[2aa+g8<c>f+d+f+f8f+24f24d+24a+8d+8  
+j2,1 <d+>bg+b<c>fd+f+f8f+24f24d+24a+8r8  ] $1 f+d+fd+a+d+f+d+fdd+cd>a+g+f  
+|2<[2r8d+>g<d8>drag<d+>g<d8>dr  r8ag<g>a+<d+>gf+dar<dj2,2 >dar  
+<] $2 ^8.^2
+;3
+
+l16
+{2}
+l16 $6 %e1[2|0v80o4p44%r21<c4>d+4  f4g+4f4a+4  
+f8a+8%r11g+4%r21f4d+4  <c4>g4%r11f1  ]|0v72o6p74[2<dr8.>fr8.r2  
+j2,4 a+r8.f+r8.r2  ] $4 r1  |2<>>[2r8arf+8r8<d+r>arf+8r8  r8<d+rcr>ar<dr8.>f+j2,5 r8.  
+] $5 ^8.^2
+;6
+
+l16
+{3}
+l16 $8 %e1[2|2v80o5p74%r21k1^8d+4  d+4a+4d+4d+4  
+d+4d+4a4a+4  d+4d+4a4d+4  d+4a4d+8]|0v48o6p44k0[2f8d+8c+8  c8>a+r<dr>a+r<c+rj2,7 f+8f8d+8  
+c8[2>a+r<dr]] $7 c8>b8a+8a8g+8  f+8f8d8|0v80o4p44%r21[15d+8<d+8>]%r11d+4^2  
+
+;8
+
+l16
+{4}
+l16 $9 %e1[2|2v80o5p74%r21^8a+4a+4d+4a+4  a+4a4a4d+4  
+a4a4a4d+4  a4a4d+4a8][4r1  ]|0v80o4p44%r21[15a+4]%r11a+4^2  
+;9
+
+l16
+{5}
+l16 $10 %e1[2|2v80o5p74%r21k2^8a4a4a4a4  
+a4a+4a+4a+4  d+4a+4a+4a+4  a+4a+4a+4a+8][4r1  ]|3v96o5%r19p64p64[15d+4]%r11d+4^2  
+
+;10
+
+l16
+{6}
+l16 $12 %e1[2|3v96o5%r19p64f4d+8|1v80o4a+8|3v96o5%r19p64f4c+8|Cv50%r17o4f8  
+|3v96o5%r19p64f4d+8|1v80o4a+8|3v96o5%r19p64f8d+8c8|Cv50%r17o4f8  
+|3v96o5%r19p64f4d+8|1v80o4a+8|3v96o5%r19p64f4g8|Cv50%r17o4f8  |3v96o5%r19p64%yf4.|1v80o4a+8|3v96o5%r19p64r4.|1v80o4a+8  
+|3v96o5%r19p64][4r1  ]r8%e0[2|9v80p64o4b4p32a+4p96gg8.|Ap64<b4  
+|9>b4p32a+4p96gg8.j2,11 p32a+a+8.  ] $11 r2r8
+;12
+
+l16
+{7}
+l16 $13 %e1[32|8v100p64o5f8|Bv60%r29g8][4r1  
+]r8[8|Bv60%r29o5g4%yf4]%r29g4%yf8  
+;13
+
+l16
+{8}
+l16 $14 %e1[2[6|Cv26%r14p16o5c4@7v10%a9%r26p114>c4]|Cv26%r14p16<c1  
+][4r1  ][18|8v100p64o5f4]
+;14
+
+l16

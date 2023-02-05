@@ -1,0 +1,25 @@
+#TITLE Funeral March
+#ALBUM Chopin
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xA6 ## piano (FM)
+#WAVE 0x21 0x68 ## grand piano (CT)
+
+{1}
+l16t80%v32%e1%b0,70%f0,0v120p64|0o5%r16>a8^^a8^aa4^8^r  a8^^a8^aa4^8^r  
+a8^^a8^aa8^^<c8^>b  <c32>b8^32aa8^aa4^8^r  %yv100|1o3a1  
+;
+
+l16
+{2}
+l16%e1v120p64|0o4%r16[4e8^^f8^^e8^^f8^^  
+]
+;
+
+l16
+{3}
+l16%e1v120p64|0o4%r16[4>a8^^<c8^^>a8^^<c8^^  ]
+;
+
+l16

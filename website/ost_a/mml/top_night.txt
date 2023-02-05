@@ -1,0 +1,77 @@
+#TITLE Bright Moonlit Night
+#ALBUM Tales of Phantasia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+#WAVE 0x21 0x4C ## e.piano (RS3)
+#WAVE 0x22 0x1C ## bass (FF6)
+#WAVE 0x23 0x0D ## strings (FF6)
+#WAVE 0x24 0x06 ## chorus (FF6)
+#WAVE 0x25 0x1B ## harp (FF6)
+
+{1}
+l16%v32t90v80p34%e1%b0,70%f0,0 $1 |0o5e2^4g2  ^4e2^4  e2d4e2  
+f4g2^4  c4d4e4f2  ^4e2^4  d2^4c2  
+^4>b2<f4  e2f4g2  ^4f4f2  f4e2e2  
+^4g2^4  e2^4e2  d4e2f4  g2^4c4  
+d4e4f2  ^4e2^4  d2^4c2  ^4>b2<f4  
+e2f4g2  ^4f4f2  f4e2
+;1
+
+l16
+{2}
+l16v50p50%e1|1o7 $2 o6e4  d4e4g4f4  
+e4e4d4c4  e4d4e4c4  >b4<c4d4>g4  <g4g4f4e4  
+e4d4c4c4  d4e4g4f4  e4e4d4c4  f4e4f4e4  
+d4e4f4>g4  <g4g8f8e8f8e8d8  d4c4>g4<e4  d4e4g4f4  
+e4e4d4c4  e4d4e4c4  >b4<c4d4>g4  <g4g4f4e4  
+e4d4c4c4  d4e4g4f4  e4e4d4c4  f4e4f4e4  
+d4e4f4>g4  <g4g8f8e8f8e8d8  d4c4>g4
+;2
+
+l16
+{3}
+l16v50p64%e0|2%r8o5c2  
+^8^r>b2^8^r  a2^8^rg+4  ^8^rg+8^^a4^8^r  <f8^^e2^8^r  
+d+2^8^r>g+2  ^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+8^^  
+a4^8^r<f8^^e2  ^8^rd8^^g4^8^r  c2^8^ $3 rc2  ^8^r>b2^8^r  
+a2^8^rg+4  ^8^rg+8^^a4^8^r  <f8^^e2^8^r  d+2^8^r>g+2  
+^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+8^^  a4^8^r<f8^^e2  
+^8^rd8^^g4^8^r  c2^8^
+;3
+
+l16
+{4}
+l16v80p60%e1 $4 |3o5e2  ^4g2a8b8  
+<c2^4>b2  f4a2^4  <c4d4e4>e4  f4g4a2  
+g+4g2^4  g4a4b4<c2  ^4>b4<e4d4  c4>b4a4g4  
+b4a4g4<c4  e4d4c2  >e2^4g2  a8b8<c2^4  
+>b2f4a2  ^4<c4d4e4  >e4f4g4a2  g+4g2^4  
+g4a4b4<c2  ^4>b4<e4d4  c4>b4a4g4  b4a4g4<c4  
+e4d4c2  
+;4
+
+l16
+{5}
+l16v80p74%e1 $5 |4o5>g2^4b2  ^4<c2^4  >b2^4a2  
+^4g2^4  f4b4<c4c4  d2>g2  ^4b2^4  
+a2^4g+2  ^4a2^4  g2^4b4  a4g4a4g2  
+g2^4b2  ^4<c2^4  >b2^4a2  ^4g2^4  
+f4b4<c4c4  d2>g2  ^4b2^4  a2^4g+2  
+^4a2^4  g2^4b4  a4g4a4g2  
+;5
+
+l16
+{6}
+l16v60p94%e1|5o5>g8g8<c8c8e8g8>g8g8  
+<d8d8f8a8>a8a8<e8e8  a8<c8o4g+8g+8<d8d8f8a8  >a8a8<e8e8f8a8>g8g8  
+<c8c8a8b8>f8f8b8b8  <d8e8>g8g8<d8d8e8f8  >g8g8<d8d8e8g8>g8g8  <c8c8g8a8>a8a8<c8c8  
+g8a8>a8a8<d8d8f8b8  >g8g8<c8c8e8g8>g8g8  <c8c8f8g8g8f8e8f8   $6 e8d8d8^^c8^^>g8^^  
+g8g8<c8c8e8g8>g8g8  <d8d8f8a8>a8a8<e8e8  a8<c8o4g+8g+8<d8d8f8a8  
+>a8a8<e8e8f8a8>g8g8  <c8c8a8b8>f8f8b8b8  <d8e8>g8g8<d8d8e8f8  >g8g8<d8d8e8g8>g8g8  
+<c8c8g8a8>a8a8<c8c8  g8a8>a8a8<d8d8f8b8  >g8g8<c8c8e8g8>g8g8  <c8c8f8g8g8f8e8f8  
+
+;6
+
+l16

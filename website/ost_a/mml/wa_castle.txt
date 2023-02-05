@@ -1,0 +1,113 @@
+#TITLE Adlehyde Castle
+#ALBUM Wild Arms
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x5E ## flute (FF6)
+#WAVE 0x22 0x1F ## ocarina (FF6)
+#WAVE 0x23 0x1C ## bass (FF6)
+#WAVE 0x24 0x58 ## french horn (RS3)
+#WAVE 0x25 0x20 ## marimba (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x12 ## cymbal (FF6)
+
+{1}
+l16%x248t131%v40v120p60%e1%b0,70%f0,0|0o5%r2^4c4f4<c4  >a+4a4f4d4  
+c1  ^1  r4c4f4<c4  >a+4a4f4g4  
+a1  ^2r8fga8<c4  r8>c4f4<c4 $1 >a+4  ^8<c8d+8c8>a+8d+4r8  
+d+4<d+4>a+4g+4  ^8a+8<c8>g+8f8d+8g+4  g+8f4f8g+4g4  f4f4d+4f1  
+^1  r4c4f4<c4  >a+4^8<c8d+8c8>a+8d+4  r8d+4<d+4>a+4g+4  
+^8a+8<c8>g+8f8d+8g+4  g+8f4f8g+4g4  f4f4d+4f1  ^1  
+r4c4f4<c4  >a+4a4f4d4  c1  ^1  
+r4c4f4<c4  >a+4a4f4g4  a1  ^2r8fga8<c4  
+r8>c4f4<c4
+;1
+
+l16
+{2}
+l16v120p68%e1|1^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+ $2 o5c4c8>a+8<c8>m24,18,239f2  mr8<c8>a+8<c8>m24,18,239f4^8ma+4  
+a+8g+8a+8m24,18,239d+2mr8  a+8<c8>a+8m24,18,239g4^8mg+4  g+8f4f8g+4g4  
+f4f4d+4m24,18,239f1  ^2mr2  <c4c8>a+8<c8>m24,18,239f2  mr8<c8>a+8<c8>m24,18,239f4^8ma+4  
+a+8g+8a+8m24,18,239d+2mr8  a+8<c8>a+8m24,18,239g4^8mg+4  g+8f4f8g+4g4  
+f4f4d+4m24,18,239f1  ^1  mr1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  
+;2
+
+l16
+{3}
+l16v60p50%e1|2o5^1  ^1  
+< $3 ararar%l1a32a+32a32a+32a32a+32a32a+32%l0ararar  a+ra+ra+r<%l1d32e32d32e32d32e32d32r32cr>a+rfr  
+ar1  ^2^4^8^a  rarar%l1a32a+32a32a+32a32a+32a32r32ararar<c  rcrcr>%l1a32a+32a32a+32a32a+32a32r32a+r<cr>fr1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4^fga32o7c  ^32f2^4^8^32r1  ^1  
+^^32>
+;3
+
+l16
+{4}
+l16v50p64%e0|3o5f4^rf8r2  f4^rf8r2  f4^rf8r2  
+f4^rf8r2  f4^rf8r2  f4^rf8r2  f4^rf8r2  
+ $4 f4^rf4^rf8^r  c+4^rc+4^rc+8^r  c+4^rc+4^rc+8^r  c4^rc4^rc8^r  
+f4^rf4^rf8^r  >a+4^ra+4^ra+8^r  <c4^rc4^rc8^r  f4^rf4^rf8^r8  
+^>a+8<f8d+8>a+8<c8d8>a+8<c+4  ^rc+4^rc+8^rc+4  ^rc+4^rc+8^rc4  ^rc4^rc8^rf4  
+^rf4^rf8^r>a+4  ^ra+4r8a+4<c4  ^rc4^rc8^rf4  ^rf4^rf8^rf4  
+^rf4^rf8^rf4  ^rf8r2f4  ^rf8r2f4  ^rf8r2f4  
+^rf8r2f4  ^rf8r2f4  ^rf8r2f4  ^rf8r2
+;4
+
+l16
+{5}
+l16v80p80%e1|4o5c4  
+c8c4c8c4d4  d8>a+4<c8d4e4  ^8e4^8r4d4  ^8d8r2c4  
+c8c4c8c4d4  d8>a+4<c8d4e4  ^8e8r2d+4  ^8d+4^8d+4c+4  
+^8c+4^8c+4c+4  ^8c+4^8c+4c4  ^8c4^8c4f4  ^8f4^8f4>a+4  
+^8a+4^8a+4<d+4  c4c4>a+4 $5 a1  r8<c8g8f8d+8f8r4  c+4^8c+4^8c+4  
+c+4^8c+4^8c+4  c4^8c4^8c4  f4^8f4^8f4  >a+4^8a+4^8a+4  
+<d+4c4c4>a+4  a1  <c2r2  c4c8c4c8c4  
+d4d8>a+4<c8d4  e4^8e4^8r4  d4^8d8r2  c4c8c4c8c4  
+d4d8>a+4<c8d4  e4^8e8r2  d+4^8d+4^8d+4  c+4^8c+4^8c+4  
+c+4^8c+4^8c+4  c4^8c4^8c4  f4^8f4^8f4  >a+4^8a+4^8a+4  
+<d+4c4c4>a+4  
+;5
+
+l16
+{6}
+l16v24p24%e1|5o7^1  ^1  ^1  
+^2^4fga<c  cr1  ^1  ^1  
+^2^4^8^c4  c8>a+8<c8>f4^8r4  <c8>a+8<c8>f4^8a+4  a+8g+8a+8d+4^8r4  
+a+8<c8>a+8g4^8g+4  g+8f4^8g+4g4  f4f4d+4 $6 f1  r1  
+<c4c8>a+8<c8>f4^8  r4<c8>a+8<c8>f4^8  a+4a+8g+8a+8d+4^8  r4a+8<c8>a+8g4^8  
+g+4g+8f4^8g+4  g4f4f4d+4  f1  r1  
+^1  ^1  ^1  ^2^4fga<c  
+cr1  ^1  ^1  ^2^4^8^c4  
+c8>a+8<c8>f4^8r4  <c8>a+8<c8>f4^8a+4  a+8g+8a+8f4^8r4  a+8<c8>a+8g4^8g+4  
+g+8f4^8g+4g4  f4f4d+4
+;6
+
+l16
+{7}
+l16v80p64%e1|6o5 $7 [15e8ee  ere8r8ererer]e8ee  
+ere8r8ereeee[7e8ee  ere8r8ererer]e8ee  ere8r8ereeee
+;7
+
+l16
+{8}
+l16v120p64%e1|7o5>a1  
+r1  ^1  ^1  a1  
+r1  ^1  ^1  a1  
+ $8 r1  ^1  ^1  ^1  
+^1  ^1  ^1  a1  
+r1  ^1  ^1  ^1  
+^1  a1  r1  a1  
+r1  ^1  ^1  a1  
+r1  ^1  ^1  a1  
+
+;8
+
+l16

@@ -1,0 +1,59 @@
+#TITLE Enter the Place
+#ALBUM Koi Ha Balance
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0E ## trumpet (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x12 ## cymbal (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x16 ## timpani (FF6)
+
+{1}
+l16t87%v20%v20%v20r4r1  r1  v87|0p60%e1m16,18,207 $1 r8o6c24c24c24c32^64r64>g32^64r64<c32^64r64g32^64r64a+4a24a+24a24gf  
+gr8cg2fd+c+8  cr8>g<c2^4  r1  r8c24c24c24c32^64r64>g32^64r64<c32^64r64g32^64r64a+4a24g24a24a+<c  
+>gr8<c>g2fd+c+8  c4r8c24c24c24c+4g4  <c2^4r4  
+;1
+
+l16
+{2}
+l16v70o6|1p32%e1>c+24d+24f24f+24g+24a+24<cr2r4.  
+rr2r4>c+24d+24f24f+24g+24  a+24 $2 <cr2r4.r  r2r4>c+24d+24f24f+24g+24a+24  
+
+;2
+
+l16
+{3}
+l16v85o5|1p58%e1>c+24d+24f24f+24g+24a+24<cr2r4.  rr2r4>c+24d+24f24f+24g+24  
+a+24 $3 <cr2r4.r  r2r4>c+24d+24f24f+24g+24a+24  
+;3
+
+l16
+{4}
+l16v87o3|1p70%e1r4 $4 c2c+2  
+
+;4
+
+l16
+{5}
+l16v85o2|1p96%e1r4 $5 c2c+2  
+;5
+
+l16
+{6}
+l16v85o5|2p70%e1r4 $6 e1  
+^1  
+;6
+
+l16
+{7}
+l16r4 $7 v70o5|3p64%r18b8b24b24b24bbbbb8b8  v48,15b48b48b48b48b48b48b48b48b48b48b48b48
+;7
+
+l16
+{8}
+l16v100o3|4p57r4 $8 c4c4  
+c+4c+4
+;8
+
+l16

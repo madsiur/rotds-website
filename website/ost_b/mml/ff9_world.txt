@@ -1,0 +1,116 @@
+#TITLE Crystal World
+#ALBUM Final Fantasy IX
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x09 ## atma synth (FF6)
+
+{1}
+l16t75%v32%e1%b0,70%f0,0 $1 v34p34|0o5>cd+gb<cd+gb<cd+gb<cd+gb  
+r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o4cd+gb<cd+gb<cd+gb<cd+gb  
+r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  
+r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  
+r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  r1  o4cdd+g<cdd+g<cdd+g<cdd+g  
+<c>gd+dc>gd+dc>gd+dc>gd+d  cdd+g+<cdd+g+<cdd+g+<cdd+g+  <c>g+d+dc>g+d+dc>g+d+dc>g+d+d  
+cdd+g<cdd+g<cdd+g<cdd+g  <c>gd+dc>gd+dc>gd+dc>gd+d  cdd+g+<cdd+g+<cdd+g+<cdd+g+  
+<c>g+d+dc>g+d+dc>g+d+dc>g+d+d  >g+<cdfg+<cdfg+<cdfg+<cdf  g+fdc>g+fdc>g+fdc>g+fdc  
+>g<cdfg<cdfg<cdfg<cdf  gfdc>gfdc>gfdc>gfdc  >g+<cdfg+<cdfg+<cdfg+<cdf  
+g+fdc>g+fdc>g+fdc>g+fdc  >gb<c+fgb<c+fgb<c+fgb<c+f  gfc+>bgfc+>bgfc+>bgfc+>b  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v31p62|0o5r8>cd+gb<cd+gb<cd+gb<cd+  gbr1  
+o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o4cd+gb<cd+gb<cd+gb<cd+gb  r1  
+o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  
+r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  
+r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  r1  o4cdd+g<cdd+g<cdd+g<cdd+g  
+<c>gd+dc>gd+dc>gd+dc>gd+d  cdd+g+<cdd+g+<cdd+g+<cdd+g+  <c>g+d+dc>g+d+dc>g+d+dc>g+d+d  
+cdd+g<cdd+g<cdd+g<cdd+g  <c>gd+dc>gd+dc>gd+dc>gd+d  cdd+g+<cdd+g+<cdd+g+<cdd+g+  
+<c>g+d+dc>g+d+dc>g+d+dc>g+d+d  >g+<cdfg+<cdfg+<cdfg+<cdf  g+fdc>g+fdc>g+fdc>g+fdc  
+>g<cdfg<cdfg<cdfg<cdf  gfdc>gfdc>gfdc>gfdc  >g+<cdfg+<cdfg+<cdfg+<cdf  
+g+fdc>g+fdc>g+fdc>g+fdc  >gb<c+fgb<c+fgb<c+fgb<c+f  gfc+>bgfc+>bgfc+>bgf
+;2
+
+l16
+{3}
+l16%e1 $3 v24p80|0o5r4  
+>cd+gb<cd+gb<cd+gb<cd+gb  r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  
+o4cd+gb<cd+gb<cd+gb<cd+gb  r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  
+o3a+<c+faa+<c+faa+<c+faa+<c+fa  r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  
+r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  
+r1  o4cdd+g<cdd+g<cdd+g<cdd+g  <c>gd+dc>gd+dc>gd+dc>gd+d  cdd+g+<cdd+g+<cdd+g+<cdd+g+  
+<c>g+d+dc>g+d+dc>g+d+dc>g+d+d  cdd+g<cdd+g<cdd+g<cdd+g  <c>gd+dc>gd+dc>gd+dc>gd+d  
+cdd+g+<cdd+g+<cdd+g+<cdd+g+  <c>g+d+dc>g+d+dc>g+d+dc>g+d+d  >g+<cdfg+<cdfg+<cdfg+<cdf  
+g+fdc>g+fdc>g+fdc>g+fdc  >g<cdfg<cdfg<cdfg<cdf  gfdc>gfdc>gfdc>gfdc  
+>g+<cdfg+<cdfg+<cdfg+<cdf  g+fdc>g+fdc>g+fdc>g+fdc  >gb<c+fgb<c+fgb<c+fgb<c+f  
+gfc+>bgfc+>bgfc+>b
+;3
+
+l16
+{4}
+l16%e1 $4 v18p50|1o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+[8d+8f8d+8f8d+8f8d+8f8  ][2g+8f8g+8f8g+8f8g+8f8  g+8f8g+8f8g+8f8g+8f8  
+g8f8g8f8g8f8g8f8  g8f8g8f8g8f8g8f8  ]
+;4
+
+l16
+{5}
+l16%e1 $5 v50p74|1o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  >c1  
+^1  >g+1  ^1  <c1  
+^1  >g+1  ^1  f1  
+^1  g1  ^1  f1  
+^1  g1  ^1  
+;5
+
+l16
+{6}
+l16%e1 $6 v34p127|2o5r1  
+<c>bgd+c>bgd+c>bgd+c>bgd+  r1  o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  r1  
+o6c>bgd+c>bgd+c>bgd+c>bgd+  r1  o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  
+r1  o5a+afc+>a+afc+>a+afc+>a+afc+  r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  
+r1  o5a+afc+>a+afc+>a+afc+>a+afc+  r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  
+v18p50|1o5[2g8d8g8d8g8d8g8d8  g8d8g8d8g8d8g8d8  g+8c8g+8c8g+8c8g+8c8  
+g+8c8g+8c8g+8c8g+8c8  ][2d8c8d8c8d8c8d8c8  ]d8>b8o5d8>b8o5d8>b8o5d8>b8  
+o5d8>b8o5d8>b8o5d8>b8o5d8>b8  o5d8c8d8c8d8c8d8c8  d8c8d8c8d8c8d8c8  
+c+8>b8o5c+8>b8o5c+8>b8o5c+8>b8  o5c+8>b8o5c+8>b8o5c+8>b8o5c+8>b8  
+
+;6
+
+l16
+{7}
+l16%e1 $7 v31p62|2o5r1  ^8<c>bgd+c>bgd+c>bgd+c>b  gd+r1  
+o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  r1  o6c>bgd+c>bgd+c>bgd+c>bgd+  
+r1  o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  r1  o5a+afc+>a+afc+>a+afc+>a+afc+  
+r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  r1  o5a+afc+>a+afc+>a+afc+>a+afc+  
+r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4^8
+;7
+
+l16
+{8}
+l16%e1 $8 v24p0|2o5r1  ^4<c>bgd+c>bgd+c>bgd+  
+c>bgd+r1  o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  r1  o6c>bgd+c>bgd+c>bgd+c>bgd+  
+r1  o6c+c>g+ec+c>g+ec+c>g+ec+c>g+e  r1  o5a+afc+>a+afc+>a+afc+>a+afc+  
+r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  r1  o5a+afc+>a+afc+>a+afc+>a+afc+  
+r1  o5g+gd+>bg+gd+>bg+gd+>bg+gd+>b  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4
+;8
+
+l16

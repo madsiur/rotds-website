@@ -1,0 +1,89 @@
+#TITLE Bonds of Sea and Fire
+#ALBUM Xenogears
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x5E ## flute (FF6)
+#WAVE 0x21 0x19 ## pizzo string (FF6)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x2C ## contrabass (FF6)
+#WAVE 0x24 0x20 ## marimba (FF6)
+#WAVE 0x25 0x0D ## strings (FF6)
+#WAVE 0x26 0x08 ## french horn (FF6)
+
+{1}
+l16%v40%e1%b0,70%f0,0 $1 t80v60p60|0o4r1  ^1  ^1  <[2m12,22,223e8r8e8d8e8>a8<e8r8  
+e8d8e8a8g8r8g8f+8  g8e8f+8%l1e24f+24e24%l0d8e8>a8g8  <e8r8e8d8e8>a8<e8r8  
+e8d8e8a8g8r8g8f+8  g8a8a8b8g8a4^8  ]v120p60|6%r4o5<c2>b8a8b4  ^8^%l1a32b32a8%l0g8a2  
+g8f+8g8e8f+8g8a8b8  <c4^8^>%l1b32<c32>b8%l0a8b4  ^8^%l1a32b32a8%l0g8a1  
+^8^rb4<c2  >b8a8b4^8^%l1a32b32a8%l0g8  a2g8f+8g8e8  f+8g8a8b8<c4^8^>%l1b32<c32  
+>b8%l0a8b4^8^%l1a32b32a8%l0g8  a1  ^8^rg8a8b1  ^4^8^r
+;1
+
+l16
+{2}
+l16%e1 $2 v60p94|1o4<[20er>br<dr>ar  
+br<dr]v60p94o5|5c2^4  >b2^4a1  ^2<c2  ^4>b2<d4  
+>a1  ^2<c2  ^4>b2^4  a1  
+^2<c2  ^4>b2<d4  >a1  ^2<e1  
+^2
+;2
+
+l16
+{3}
+l16%e1 $3 v60p34|1o4r<[19er>br<dr>a  rbr<dr]er>br<dr>arbr<d  
+>v60p34o5|5e2^4g2  ^4d1  ^2e2  ^4g2^4  
+a1  ^2e2  ^4g2^4  d1  
+^2e2  ^4g2^4  a1  ^2a2  
+^4g+2^4  
+;3
+
+l16
+{4}
+l16%e1 $4 v50p60|2o5[9r1  ]>ar<gr8^>ar<drer>ar<gr8  
+^>ar<drer>ar<gr8^>ar<d  rer>ar<gr8^>ar<drer>a  r<gr8^>ar<drer>ar<gr8  
+^>ar<drer>ar<gr8^>ar<d  rer>ar<gr8^>ar<drer1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^
+;4
+
+l16
+{5}
+l16%e1 $5 v40p24|2o5[20>ar<e8^re  rdrer]>ar<erarbr<cre  
+ro4gr<drgrarbr<dro4drg  rar<drerf+rgrerf+rd  rer>arar<erarbr<cre  
+ro4gr<drgrarbr<dro4dra  r<drerf+rargrf+rerf+  rdrer>ar<erarbr<cre  
+ro4gr<drgrarbr<dro4drg  rar<drerf+rgrerf+rd  rer>arar<erarbr<cre  
+ro4gr<drgrarbr<dro4dra  r<drerf+rargrf+rerf+  rdrer>erarbr<erarb  
+re32b32<e2^8^
+;5
+
+l16
+{6}
+l16%e1 $6 v68p74|3o4a1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^4g2  
+^4<d1  ^2>a2  ^4g2^4  <d2^8e8f+8g8  
+e8f+8d8e8>a2  ^4g2^4  <d1  ^2>a2  
+^4g2^4  <d1  ^2e1  ^2
+;6
+
+l16
+{7}
+l16%e1 $7 v24p24|4o5r8[19e^b^g^  
+a^e^32r8^32]e^b^g^a^e^  o7c4c4>b8a8b4  b8^a32b32a8g8a4a4  g8f+8g8e8f+8g8a8b8  
+<c4c8^>b32<c32>b8a8b4  b8^a32b32a8g8a1  ^4b4<c4c4  >b8a8b4b8^a32b32a8g8  
+a4a4g8f+8g8e8  f+8g8a8b8<c4c8^>b32<c32  >b8a8b4b8^a32b32a8g8  a1  
+^4g8a8b2  ^4r2^4  
+;7
+
+l16
+{8}
+l16%e1 $8 v68p60|2o5[8r1  ]^1  
+^8er2^8^er2  ^8^er2^8^e  r2^8^er2  ^8^er2^8^e  
+r2^8^e[11r1  ]^1  ^2^v80p63|5v10v128,50b1  
+^2
+;8
+
+l16

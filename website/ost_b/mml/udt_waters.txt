@@ -1,0 +1,43 @@
+#TITLE Quiet Waters
+#ALBUM Undertale
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x20 ## marimba (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+
+{1}
+l16t81%v50%e1%b0,70%f0,0 $1 v40p62|0o5r1  ^1  o7%r15c4^^32f4^g+4^^32  
+f4^^32g8^32g+8^32a+8^f8^32  g1  ^4^^32g8^32g+8^32a+8^<c8^32  >g+4^^32g4^c4^^32  
+f4^^32d+4^>g+4^^32  a+1  r1  
+;1
+
+l16
+{2}
+l16%e1 $2 v40p62|0o5r1  
+^1  %r15<c4^^32f4^g+4^^32  f4^^32g8^32g+8^32a+8^f8^32  g1  
+^4^^32g8^32g+8^32a+8^<c8^32  >g+4^^32g4^c4^^32  f4^^32d+4^>g+4^^32  
+a+1  r1  
+;2
+
+l16
+{3}
+l16%e1 $3 v50p0|1o5r32o4a+32o5f1  f1  
+f1  f1  d+1  d+1  
+f1  f1  d+1  d+2^4^8^
+;3
+
+l16
+{4}
+l16%e1 $4 v50p62|1o5r32[9c1  
+]c2^4^8^^32
+;4
+
+l16
+{5}
+l16%e1 $5 v50p127|1o5o4f1  f1  f1  f1  
+d+1  d+1  f1  f1  
+d+1  d+1  
+;5
+
+l16

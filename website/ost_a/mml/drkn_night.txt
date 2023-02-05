@@ -1,0 +1,139 @@
+#TITLE Earth Night
+#ALBUM Drakkhen
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x20 ## marimba (FF6)
+
+{1}
+l16t78%v32v80p80%e1%b0,70%f0,0 $1 |0o5<e2^8d8c8d8  e2^8d8c8>b8  
+<d2^8c8>b8g8  a2^8g8e8f8  e4^8>a8a1  ^8b8<c8d8e4^8>g8  
+g1  ^4<e4<e2  ^8d8c8d8e2  ^8d8c8>b8<d2  
+^8c8>b8g8a2  ^8g8e8f8e4^8>a8  a1  ^8b8<c8d8e4^8>g8  
+g1  ^2<c2  ^8d8e8f8>a2  ^8b8<c8d8e2  
+^8d8c8d8e2  ^4e4<c2  ^8>b8a8b8<c2  ^8d8e8f8e2  
+^8d8c8d8e2  ^4e4e2  ^8f8e8f8e2  ^8f8e8f8e2  
+^8d8c8d8e2  ^4e8f8g2  ^8a8g8f8g2  ^8f8e8d8e2  
+^8d8c8d8e2  r4e2^8d8  c8d8e2^8d8  c8>b8<d2^8c8  
+>b8g8a2^8g8  e8f8e4^8>a8a1  ^8b8<c8d8e4^8>g8  g1  
+^4<e4<e2  ^8d8c8d8e2  ^8d8c8>b8<d2  ^8c8>b8g8a2  
+^8g8e8f8e4^8>a8  a1  ^8b8<c8d8e4^8>g8  g1  
+^2<c2  ^8d8e8f8>a2  ^8b8<c8d8e2  ^8d8c8d8e2  
+^4e4<c2  ^8>b8a8b8<c2  ^8d8e8f8e2  ^8d8c8d8e2  
+^4e4e2  ^8f8e8f8e2  ^8f8e8f8e2  ^8d8c8d8e2  
+^4e8f8g2  ^8a8g8f8g2  ^8f8e8d8e2  ^8d8c8d8e2  
+
+;1
+
+l16
+{2}
+l16v50p34%e1|1r32 $2 o5<e2^8d8c8d8  e2^8d8c8>b8  <d2^8c8>b8g8  
+a2^8g8e8f8  e4^8>a8a1  ^8b8<c8d8e4^8>g8  g1  
+^4<e4<e2  ^8d8c8d8e2  ^8d8c8>b8<d2  ^8c8>b8g8a2  
+^8g8e8f8e4^8>a8  a1  ^8b8<c8d8e4^8>g8  g1  
+^2<c2  ^8d8e8f8>a2  ^8b8<c8d8e2  ^8d8c8d8e2  
+^4e4<c2  ^8>b8a8b8<c2  ^8d8e8f8e2  ^8d8c8d8e2  
+^4e4e2  ^8f8e8f8e2  ^8f8e8f8e2  ^8d8c8d8e2  
+^4e8f8g2  ^8a8g8f8g2  ^8f8e8d8e2  ^8d8c8d8e2  
+r4e2^8d8  c8d8e2^8d8  c8>b8<d2^8c8  >b8g8a2^8g8  
+e8f8e4^8>a8a1  ^8b8<c8d8e4^8>g8  g1  ^4<e4<e2  
+^8d8c8d8e2  ^8d8c8>b8<d2  ^8c8>b8g8a2  ^8g8e8f8e4^8>a8  
+a1  ^8b8<c8d8e4^8>g8  g1  ^2<c2  
+^8d8e8f8>a2  ^8b8<c8d8e2  ^8d8c8d8e2  ^4e4<c2  
+^8>b8a8b8<c2  ^8d8e8f8e2  ^8d8c8d8e2  ^4e4e2  
+^8f8e8f8e2  ^8f8e8f8e2  ^8d8c8d8e2  ^4e8f8g2  
+^8a8g8f8g2  ^8f8e8d8e2  ^8d8c8d8e2  
+;2
+
+l16
+{3}
+l16v60p40%e1 $3 |2o5r2g2  
+r2g2  r2g2  r2g2  r2e2  
+r2e2  r2g2  r2g2  r2g2  
+r2g2  r2g2  r2g2  r2e2  
+r2e2  r2g2  r2g2  r2c2  
+r2c2  r2d2  r2d2  r2c2  
+r2c2  r2d2  r2d2  r2c2  
+r2c2  r2d2  r2d2  r2c2  
+r2c2  r4^8>f4r4<f2  ^8r2^4g2  r2g2  
+r2g2  r2g2  r2e2  r2e2  
+r2g2  r2g2  r2g2  r2g2  
+r2g2  r2g2  r2e2  r2e2  
+r2g2  r2g2  r2c2  r2c2  
+r2d2  r2d2  r2c2  r2c2  
+r2d2  r2d2  r2c2  r2c2  
+r2d2  r2d2  r2c2  r2c2  
+r4^8>f4r4<f2  ^8
+;3
+
+l16
+{4}
+l16v60p68%e1 $4 |2o5r4^8c2  ^8r4^8c2  
+^8r4^8>b2  ^8r4^8b2  ^8r4^8a2  ^8r4^8a2  
+^8r4^8b2  ^8r4^8b2  ^8r4^8<c2  ^8r4^8c2  
+^8r4^8>b2  ^8r4^8b2  ^8r4^8a2  ^8r4^8a2  
+^8r4^8b2  ^8r4^8b2  ^8r4^8[3f2  ^8r4^8f2  
+^8r4^8g2  ^8r4^8g2  ^8r4^8]f2  ^8r4^8f2  
+^8r4e2<e2  ^4r2^8c2  ^8r4^8c2  ^8r4^8>b2  
+^8r4^8b2  ^8r4^8a2  ^8r4^8a2  ^8r4^8b2  
+^8r4^8b2  ^8r4^8<c2  ^8r4^8c2  ^8r4^8>b2  
+^8r4^8b2  ^8r4^8a2  ^8r4^8a2  ^8r4^8b2  
+^8r4^8b2  ^8r4^8f2  ^8r4^8[3f2  ^8r4^8g2  
+^8r4^8g2  ^8r4^8f2  ^8r4^8]f2  ^8r4e2<e2  
+^4
+;4
+
+l16
+{5}
+l16v60p60%e1 $5 |2o5r4>b2  ^4r4b2  ^4r4a2  ^4r4a2  
+^4r4g2  ^4r4g2  ^4r4a2  ^4r4a2  
+^4r4b2  ^4r4b2  ^4r4a2  ^4r4a2  
+^4r4g2  ^4r4g2  ^4r4a2  ^4r4a2  
+^4[14r4e2  ^4]r8>b2o5c2  ^4^8r2>b2  ^4r4b2  
+^4r4a2  ^4r4a2  ^4r4g2  ^4r4g2  
+^4r4a2  ^4r4a2  ^4r4b2  ^4r4b2  
+^4r4a2  ^4r4a2  ^4r4g2  ^4r4g2  
+^4r4a2  ^4r4a2  ^4r4[13e2  ^4r4]e2  
+^4r8>b2o5c2  ^4^8
+;5
+
+l16
+{6}
+l16v60p50%e1 $6 |2o5r8>e2  ^4^8r8e2  
+^4^8r8d2  ^4^8r8d2  ^4^8r8c2  ^4^8r8c2  
+^4^8r8d2  ^4^8r8d2  ^4^8r8e2  ^4^8r8e2  
+^4^8r8d2  ^4^8r8d2  ^4^8r8c2  ^4^8r8c2  
+^4^8r8d2  ^4^8r8d2  ^4^8r8>[3a2  ^4^8r8a2  
+^4^8r8b2  ^4^8r8b2  ^4^8r8]a2  ^4^8r8a2  
+^4^8r2<b2  <b2r4^8>e2  ^4^8r8e2  ^4^8r8d2  
+^4^8r8d2  ^4^8r8c2  ^4^8r8c2  ^4^8r8d2  
+^4^8r8d2  ^4^8r8e2  ^4^8r8e2  ^4^8r8d2  
+^4^8r8d2  ^4^8r8c2  ^4^8r8c2  ^4^8r8d2  
+^4^8r8d2  ^4^8r8>a2  ^4^8r8[3a2  ^4^8r8b2  
+^4^8r8b2  ^4^8r8a2  ^4^8r8]a2  ^4^8r2<b2  
+<b2
+;6
+
+l16
+{7}
+l16v60p24%e1 $7 |2o3a1  a1  g1  g1  
+f1  f1  g1  g1  
+a1  a1  g1  g1  
+f1  f1  g1  g1  
+d1  d1  e1  e1  
+d1  d1  e1  e1  
+d1  d1  e1  e1  
+d1  d1  e1  r2^4a1  
+a1  g1  g1  f1  
+f1  g1  g1  a1  
+a1  g1  g1  f1  
+f1  g1  g1  d1  
+d1  e1  e1  d1  
+d1  e1  e1  d1  
+d1  e1  e1  d1  
+d1  e1  r1  
+;7
+
+l16

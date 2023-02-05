@@ -1,0 +1,116 @@
+#TITLE Mint's Theme
+#ALBUM Tales of Phantasia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x06 ## chorus (FF6)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x0A ## oboe (FF6)
+#WAVE 0x24 0x05 ## cello (FF6)
+#WAVE 0x25 0x08 ## french horn (FF6)
+#WAVE 0x26 0x02 ## electric bass (FF6)
+#WAVE 0x2A 0x22 ## kick drum (FF6)
+#WAVE 0x2B 0x2A ## finger snap (FF6)
+#WAVE 0x2C 0x11 ## hihat opened (FF6)
+
+{1}
+l16t108%v64%b0,70%x224 $1 |3%a7%r10p72o6v64%e1m48,18,231[2[2>g+8a+8<c2^4  
+f4d+2^4  >a+8<c8c+2^4  >g+4<c2^4  ]>a+8<c8c+4>g+2  
+g8g+8a+2^4  g8g+8a+4g2  <d+8c+8c2^4  >f8g8g+4f2  
+g8g+8a+4g2  g+8a+8<d+4c+4>g+4  a+4<c2^4  ]^4|4%a8%r10p64o5v64%e1m48,18,231&172>f8r24<c+12&92r8&40c8r6&28d+8  
+>&164r8g12r24&172g8r24g12&92r8m20,+2&196b8<r6&40d+8  &20r8&124c8>&20r8&28e8&164r8|5%a8%r10p80o5v80%e1m48,18,231f8g8g+1  
+^2g+8.a+8.<c8  >a+1  g2^4.g+g  f2<c2  
+d+4c+4>g+4a+4  <c1  ^2^4
+;1
+
+l16
+{2}
+l16r4   $3 |2%r12p76o5v56%e1m[2[2f8c8f8g8g+4<c4  
+>a+8d+8g8g+8a+4g4  g+8c+8f8g8g+4a+4  g8c8e8g8<c8>a+8g+8a+8  ]<c+8>c+8f8g+8<c+8>c+8f8<c+8  
+[2c+8>c+8e8g8<]c8>c8e8g8  <c8>c8e8<c8>f8c8f8g+8  <c8>f8g+8<c8>[2a+8>a+8<c+8f8  
+]a+8c8d+8g8a+8c8d+8a+8  <d+8c+8>g+8e8c+8e8g+8<c+8  c8c+8>a+8<c8j2,2 >g+8a+8g8g+8  
+] $2 <v50c12>v47g+12v45f12v43c+12>v40a+12v37g12|4%a8%r10p64o5v64%e1m48,18,231&168r12c12r24&100c12r6&40c+12  
+&20r12>&172a+12r24g+12&164r12g+12r24&100f12<&188r12&40c+12r6&28c+12  
+&116r12>&28g12&20r12<&172c12&20r12|5%a8%r10p20o5v30%e1m48,18,231f8|0%a13%r10p84o5v80%e1m[4<v64cr>v58g+rv52frv46cr  
+][4<v64cr>v58g+rv52d+rv46cr][4<v64cr>v58g+rv52frv46c+r  ][4<v64cr>v58grv52erv46cr]
+;3
+
+l16
+{3}
+l16r4 $4 |6%r12p64o6v80%e0mf1  
+d+1  c+1  c1  f1  
+d+1  c+1  c2m24,+3a2  c+1  
+c+1  c1  f1  a+1  
+<c1  c+2c+2  c2c8>a+8g+8g8  f2^4.f8  
+d+1  c+2^4.c+8  c2e2  f2^4.f8  
+d+1  c+2^4c+4  c2m24,+3a2  c+1  
+c+1  c1  f1  a+1  
+<c1  c+1  c1  |0%a13%r10p84o5v80%e1m>>[2f1  
+f1  d+1  d+1  c+1  
+c+1  c1  c1  ]
+;4
+
+l16
+{4}
+l16r4 $6 |1%a8%r7p20o5v40%e1m48,18,207[2f1  
+d+1  f1  g2e2  f1  
+d+1  f1  f2e2  j2,5 c+1  
+e1  e1  f1  >a+1  
+<c1  e2c+2  g1  ] $5 c+1  
+e1  c1  f1  >a+1  
+<c1  e1  g2|2%r12p76o5v56%e1mr48<v45a+12v42g12v40d+12v38c12>v35g+12v32f  
+|1%a8%r7p20o5v40%e1m48,18,207v28<c1  ^1  d+1  ^1  
+c+1  ^1  c1  c1  
+c1  ^1  d+1  ^1  
+c+1  ^1  c1  c1  
+
+;6
+
+l16
+{5}
+l16r4 $7 |1%a8%r7p107o5v40%e1m48,18,207g+1  g1  a+2^4<c4  
+c2>g2  g+1  g1  a+2^4<c4  
+>g+2g2  f1  g1  g1  
+g+1  c+1  d+1  g+2e2  
+<c1  |0%a6%r10p84o5v40%e1m48,18,207<c2^4>g+4  a+2^4<d+4  c+2^4>g+4  
+g+2g2  f2^4<c4  >a+2^4<d+4  c+2d+4c+4  
+c+2c2  >g+1  a+1  a+1  
+<c1  >c+1  f2d+2  g+2e2  
+g2<c2  |1%a8%r7p107o5v40%e1m48,18,207v28<f1  ^1  g1  
+^1  g+1  ^1  a+1  
+<c1  >f1  ^1  g1  
+^1  g+1  ^1  f1  
+e1  
+;7
+
+l16
+{6}
+l16r4 $9 [15|Av96p64%e0o5f2|Cv64%r28p90%e1g8v52g8  
+v40g8v28g8]|Av96p64%e0f4.|Cv64%r28p90%e1g4.  |Bv24p64a4[16|Av96p64%e0o5f8|Cv64%r28p90%e1g8v48%yb8v64%r28g8j16,8 |Bv24p64a2  
+] $8 |Bv24p64a|2%r12p76o5v56%e1m<v35g12v32d+12v30c12>v28g+12v25f12v22c+48|0%a13%r10p84o5v80%e1m[4<v64cr>v58g+rv52frv46cr  
+][4<v64cr>v58g+rv52d+rv46cr][4<v64cr>v58g+rv52frv46c+r  ][4<v64cr>v58grv52erv46cr]|5%a8%r10p20o5v30%e1m48,18,231g8g+1  
+^2g+8.a+8.<c8  >a+1  g2^4.g+g  f2<c2  
+d+4c+4>g+4a+4  <c1  ^2^4.
+;9
+
+l16
+{7}
+l16r4.   $11 |2%r12p50o5v30%e1m[2[2f8c8f8g8g+4<c4  
+>a+8d+8g8g+8a+4g4  g+8c+8f8g8g+4a+4  g8c8e8g8<c8>a+8g+8a+8  ]<c+8>c+8f8g+8<c+8>c+8f8<c+8  
+[2c+8>c+8e8g8<]c8>c8e8g8  <c8>c8e8<c8>f8c8f8g+8  <c8>f8g+8<c8>[2a+8>a+8<c+8f8  
+]a+8c8d+8g8a+8c8d+8a+8  <d+8c+8>g+8e8c+8e8g+8<c+8  c8c+8>a+8<c8j2,10 >g+8a+8g8g+8  
+] $10 v28v24,14<c48>a+48g+48g48v26v24,13g+48g48f48d+48v24v24,12f48d+48c+48c48v22v24,11c+48c48>a+48g+48v20v24,10a+48g+48g48f48v18v24,9g48f48d+48c+48|0%a13%r10p84o5v80%e1mp40[2[4<v24cr>v21g+rv18frv15cr  
+][4<v24cr>v21g+rv18d+rv15cr][4<v24cr>v21g+rv18frv15c+r  ][4<v24cr>v21grv18erv15cr]]
+;11
+
+l16
+{8}
+l16r8 $13 |3%a7%r10p30o6v16%e1m48,18,231[2[2>g+8a+8<c2  
+^4f4d+2  ^4>a+8<c8c+2  ^4>g+4<c2  ^4]>a+8<c8c+4>g+2  
+g8g+8a+2^4  g8g+8a+4g2  <d+8c+8c2^4  >f8g8g+4f2  
+g8g+8a+4g2  g+8a+8<d+4c+4>g+4  a+4<j2,12 c2^4  ] $12 &80c8|2%r12p76o5v56%e1m<v40g+12v37f12v35c+12>v33a+12v30g12v27d+24[15r1  
+]r2^4.
+;13
+
+l16

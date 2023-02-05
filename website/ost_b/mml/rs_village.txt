@@ -1,0 +1,70 @@
+#TITLE Deserted Village
+#ALBUM Romancing Saga
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0A ## oboe (FF6)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x14 ## snare (FF6)
+
+{1}
+l16t68%v50%e1%b0,70%f0,0v60p34|0%r4r4^8 $1 r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^4o6g+8a8  b4^8a8g+8a8b8<c+8  >a2^8r8f+8g+8  a4^8g+8f+8g+8a8b8  
+g+2^4^8r8  g+8f+8f8f+8a4^8e8  d+2g+8f+8e8f+8  g+1  
+^4^8r8f+8e8d+8e8  f+2^8e8d+8c+8  c4^8c+8d+4^8r8  
+;1
+
+l16
+{2}
+l16%e1v60p44|0%r4r4^8 $2 o5e1  
+f+1  g+2^8a8b8g+8  a2^8g+8f+8e8  f+2^8g+8a4  
+b2^8a8g+4  f+4e2^4  c+2^8e8d+8c+8  c+2c2  
+f+2f8c+8d+8f8  f+4^8g+8a8g+8f+8e8  d+2c+2  >b4<d+4f+4f4  
+c+2^8e8d+8c+8  c2^4c+8d+8  e2d+1  c+2r8c+8f+8g+8  
+a8g+8f+4d+4^8e8  f+4g+4
+;2
+
+l16
+{3}
+l16%e1v70p74|0%r4r4^8 $3 r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+o4a2g+2  a4^8b8<c+8>b8a8g+8  f+2e2  g+4f+4g+2  
+a1  d+2^4f+8g+8  g+1  ^2f+2  
+a1  <c1  
+;3
+
+l16
+{4}
+l16%e1v80p84|0%r4r4^8 $4 o4c+1  c1  
+>b1  <f+1  >b2^8<c+8d+4  e2^4>b4  
+a2^4g+4  f+1  g+1  <d2c+2  
+>f+4^8<c+8f+4c+4  >b2a2  g+2<c+2  >f+1  
+g+2^4a+8<c8  c+2c2  >b2a+2  r1  
+<g+2d+4>g+4  
+;4
+
+l16
+{5}
+l16%e1v60p84|1o5r4^8 $5 r8o4c+8e8g+8<c+2  
+r8>c8d+8g+8<c2  r8o3b8<f8g+8b2  r8>a8<c+8f+8a8b8a8g+4  >b8<d+8f+8b2r8  
+e8g+8b8<e2r8  o3a8<c+8e8a2r8  >a8<c+8f+8a2r8  g+8<d+8c+8>d+32g+32<c4^8^r8  
+>d8b8a8g+8f8f+8g+4  >a8<c+8f+8a8f+8c+8>a4  b8<d+8f+8a8e8c+8>a4  
+g+8b8<d+8>g+32<c+32f+8^>g+32<c+32f1  ^8^r1  ^8g+8<c+8e8r8>g+8<c8d+4  
+>g+8b8<d+8>f+32a+32<c+4^8^r1  ^2o3g+32<c32d+32g+32c32d+32g+32<c32>d+32g+32<c32d+32>g+32<c32d+32g+32  
+
+;5
+
+l16
+{6}
+l16%e1v60p63|2o5g+8<e8d+8 $6 v60m12,22,215o6c+2r8  
+>g+8<e8c+8d+2r8  >g+8<f+8d+8f2r8  f+8g+8f8f+2r8  e8d+8c+8d+2r8  
+e8f+8>b8<a4g+4^8  f+8e8d+8d+4c+4g+8  f+8e8f+8e4d+4b8  a8g+8a8g+2^8  
+r4^8v80p64|3o5a4r8a8a4  m[6|4a4|3a4r8a8a4  ]r4a4r8a8a4  v100p64|2r1  
+^2^4^8g+8  <e8d+8
+;6
+
+l16

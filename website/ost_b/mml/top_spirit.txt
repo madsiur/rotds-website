@@ -1,0 +1,119 @@
+#TITLE Fighting of the Spirit
+#ALBUM Tales of Phantasia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x9D ## halo (FM)
+#WAVE 0x21 0x36 ## sawtooth (UNK)
+#WAVE 0x22 0x9A ## overdrive guitar (GH)
+#WAVE 0x24 0x02 ## electric bass (FF6)
+#WAVE 0x25 0x3A ## female voice (FF6)
+#WAVE 0x28 0x22 ## kick drum (FF6)
+#WAVE 0x29 0x67 ## hard snare (CT)
+#WAVE 0x2A 0x0F ## hihat closed (FF6)
+#WAVE 0x2B 0x12 ## cymbal (FF6)
+#WAVE 0x2C 0x9C ## ride cymbal (GH)
+
+{1}
+l16t88%x224%v50%b0,70%f0,0|1o5v102%e1m48,18,239p54>>v50a1  
+&136^8v56,90b24<d24f+24a24<c+24e24g+24 $2 |1o5v102%e1m48,18,239p54 $18 m6,+1b8.b8.a4.  
+^b<cde8.>a4.^b8  <c8d8c>b12r24g12r24g12r24g8.b8  <c8d8c>b12r24a^4%l1m12,+4c4  
+^m12,-4^e%l0rm6,+1b8.b8.a4.  ^b<cde4^d8c>b8.a  ^4a8b<crdre8.dr  
+cr>br<c>br%l1a4.m48,-5a4  m24,+5e8.%l0<%l1m32,+2d4^d8%l0c>b4b12  
+<c12d12c4>b4a4g4  <%l1m32,+2d4^d8%l0cc8>b8<f8e8  d4^c8>b32<c32>b4a8g8  
+[2a4ab<cd8dc8>b8a8  ]a4ab<cg8gf8e8d8  >b4^<cde8dc>b8abr  b8.a^2ab<cd  
+e8.>a^2ab<ce  dcr>br<cr>brarggegb  a2^egeaebe  b8.a^2ab<cd  
+e8.>a^2ab<ce  dcr>br<cr>brarggegb  a2^edcdc>bg  j1,1 <[2[2cc>b<cr>br<drc>br<c8r8  
+]ddcdrcrerdcrd8r8  cc>b<cr>br<drc>br<c8r8   $1 ]
+;2
+
+l16
+{2}
+l16[2|2o5%e1v50m12,9,239p94>a[2v44e8v50g8]v44ev50<c>v37ev50bv37ev50av37e] $3 |0o5v56%e1m48,18,207p64<e8.d8.  
+c2>g8f2  ^8g8a8b8<e4d4  >b4g4a2  ea<c>a<ec>ae<e8.d8.c2  
+>g8f4a4<c4f4  e4d4>b4g4  a2ea<c>a<ec>ae  f2^4g8a8  
+g2a4b4  a2f8.g8.a8  g4.b8<d8.c8.>b8  [2f4fgab8ba8g8f8  
+]f4fga<e8ed8g8f8  e8>b8<e8g+8b8g+8e8b8  e4d4c4>b4  a4b4<c4e4  
+d4>b4g4b4  a4e4a4<c4  e4d4c4>b4  a4b4<c4e4  
+d4>b4g4b4  <c1  |1o5v102%e1m48,18,239p54>[2aaaarararaara8r8  ]bbabrar<cr>barb8r8  
+[3aaaarararaara8r8  ]bbabrar<cr>barb8r8  aaaarararaara8r8  
+;3
+
+l16
+{3}
+l16|4o6v112%e0mp64>v120a2^4.^v100a32v110a32  
+v120a1   $5 |4o6v112%e0mp64[2aega8ega8egeaege  fcef8cef8cecfcec  
+gdfg8dfg8dfdgdfg  aega8ega8e<c>ebeae  ][2f^32r^32f8cdcffrf8cdc  
+g^32r^32g8dedggrg8bag  j2,4 [2ffrf8cdc]g^32r^32g8ded  gdbdadgd] $4 f^32r^32f8cdc  
+ffrf8cfce8re8rg+e  g+8g+a8.b8[2a[2ega8]e<c>e  beaef[2cdf8]cacgcfc  
+g[2dfg8]dbdadgda[2ega8  ]egeae<c>e]aagarg12r24ar  aara6r12ffefre12r24fr  
+ffrf6r12ggfgrf12r24gr  ggrg6r12aagargra12r24  aara6r12aagargra12r24  
+aara8g8ffefre12r24fr  ffrf6r12ggfgrf12r24gr  ggrg8g+8aagarg12r24ar  
+aarab<c>a
+;5
+
+l16
+{4}
+l16|8v100%e0p64o5f4f4f4  f4|9v63f+|8v72ff|9v63f+|8v72ff|9v63f+|8v72f|9v70f+v74f+v84f+v94f+  
+v104f+v114f+v120f+v127f+ $10 [4|8v100%e0p64o5f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f8f|9%e1f+8  
+|8%e0fj4,6 f|9%e1f+8] $6 |9%e1f+f+f+[4|8v100%e0p64o5f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f8  
+j4,7 f|9%e1f+8|8%e0ff|9%e1f+8] $7 |9%e1f+8|8%e0f|9%e1f+8f+f+[7|8%e0f8  
+|9%e1f+|8%e0f8.|9%e1f+8]|8%e0f8|9%e1f+|8%e0f8|9%e1f+8f+[2|8%e0f8  
+|9%e1f+8|8%e0ff|9%e1f+8]|8%e0f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f8f  |9%e1f+8|8%e0ff|9%e1f+8[3|8%e0f8|9%e1f+8|8%e0ff|9%e1f+8]f+|8%e0f  
+f|9%e1f+|8%e0ff|9%e1f+f+[4|8v100%e0p64o5f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f8f  
+|9%e1f+8|8%e0fj4,8 f|9%e1f+8] $8 |9%e1f+f+f+[4|8v100%e0p64o5f8|9%e1f+8|8%e0ff|9%e1f+  
+|8%e0f8j4,9 f|9%e1f+8|8%e0ff|9%e1f+8] $9 |9%e1f+|8%e0ff|9%e1f+f+f+f+  
+|8v100%e0p64o5f8|9%e1f+8|8%e0ff|9%e1f+8|8%e0f8|9%e1f+8|8%e0ff32f32|9%e1f+8  
+|8%e0f8|9%e1f+8|8%e0ff|9%e1f+8|8%e0f8|9%e1f+8|8%e0ff|9%e1f+8  |8%e0f8|9%e1f+8|8%e0ff|9%e1f+8|8%e0f8|9%e1f+8|8%e0ff32f32|9%e1f+8  
+|8%e0f8|9%e1f+8|8%e0ff|9%e1f+8|8%e0f8|9%e1f+8|8%e0f|9%e1f+f+f+  
+|8%e0f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f^f|9%e1f+8|8%e0ff|9%e1f+8  |8%e0f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f^f|9%e1f+8|8%e0ff|9%e1f+8  
+|8%e0f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f^f|9%e1f+8|8%e0ff|9%e1f+8  |8%e0f8|9%e1f+8|8%e0ff|9%e1f+|8%e0f^f|9%e1f+8f+4  
+
+;10
+
+l16
+{5}
+l16@6o5%e1%y6%s1%r13v24mp34[4<e>a<c>a<d>a<c>g] $13 |2o5%e1v50m12,9,239p94>[3aega[3^ega  
+]]aega8ega8<c>babag8  [2aega[3^ega]]aega8ega8  ege<c>ebeaega8eae<c  
+>ebeaeg8[4f8v32fv50a8v32av50<c8v32c  v50e8v32ev50d8c8>j4,11 g8v32gv50b8v32bv50<c8v32c  
+v50d8v32dv50c8>b8] $11 e8v32ev50g+8v32g+v50b8v32b  v50<e8v32ev50g+8b8>[2a[3ega8]egaf  
+[3cfa8]cfab[3dgb8]dgba  [2ega8]j2,12 ega<c>bag] $12 bbaba  ge|B%r17%y3%s3v112%e1p64o5a8|Cv48%e0%y4%s2a8%s4a8%s1a8%s2a8%s1a8%s4a8  
+|B%r17%s2v112%e1a8%y3%s3a8|Cv48%e0%y4%s1a8%s4a8%s1a8%s4a8%s1a8%s4a8  
+%s1a8|B%r17%y3%s3v112%e1a8|Cv48%e0%y4%s1a8%s4a8%s1a8%s4a8%s1a8%s4a8  
+|B%r17%s2v112%e1a8%y3%s3a8|Cv48%e0%y4%s1a8%s4a8%s1a8%s4a8%s1a8%s4a8  
+%s1a8|5o4v56%e1mp64>a2^4<c8  e8>f2<e4d4  >g2<c4d4  >a2^<<c>aeaec>a  
+
+;13
+
+l16
+{6}
+l16|B%r17%y3%s3v112%e1p64o5a1  &136a8|1o5v102%e1m48,18,239p54>v50v56,90r48c+24e24g+24b24<d24f+24a48 $15 @6o5%e1%y6%s1%r13v24mp34[2eab<c>bae<c>eb  
+eaebe<c>fafbf<c>f<d>f<c  >fbfafbgbg<c>g<d>g<e>g<d  >g<c>gbgbeaebe<c>e<d>e<c  
+>ebeaeb][4<e>af<ec>a<e>af<e  c>a<e>af<ej4,14 d>bg<fd>b<d>bg<f  d>b<d>bg<f>] $14 d>bg+eg+b<d>bg+b  
+<d>b<g+e>b<g+[2[2[5ec>a<]e][5e>bg<]e[5ec  >a<]e]@6o5%e1%y6%s1%r13v24mp34[16v24<c>v19a][8v24<d>v19b][7v24<c>v19a]v24<cv19c|B%r17%y3%s3v112%e1p64o5a8|Cv48%e0%y4%s1a8%s4a8  
+%s1a8%s4a8%s1a8%s4a8|B%r17%s2v112%e1a8%y3%s3a8|Cv48%e0%y4%s1a8%s4a8  
+%s1a8%s4a8%s1a8%s4a8%s1a8|B%r17%y3%s3v112%e1a8|Cv48%e0%y4%s1a8%s4a8  
+%s1a8%s4a8%s1a8%s4a8|B%r17%s2v112%e1a8%y3%s3a8|Cv48%e0%y4%s1a8%s4a8  
+%s1a8%s4a8%s1a8%s4a8%s1a8
+;15
+
+l16
+{7}
+l16|1o5v34%e1m48,18,239p74r8>>v17a1  
+&136^8v56,30b24<d24f+24a24 $16 [2|B%r17%y3%s3v112%e1p64o5a8|Av48%e0av30a[15v38av30av48av30a]]|B%r17%y3%s3v112%e1a8|Av30%e0a8  
+v48a8v30a8[7v38a8v30a8v48a8v30a8]|B%r17%y3%s3v112%e1a8|Av30%e0a8  
+v48a8v30a8[6v38a8v30a8v48a8v30a8]v38a8v30a8  v38aav41av48a|B%r17%y3%s3v112%e1a8|Av48%e0av30a[31v38av30av48av30a]@6o5%e1%y6%s1%r13v24mp34r32[8v22bv17e][8v22bv17f  
+][8v22<c>v17g][7v22bv17e]v22ar32[16v24<c>v19a][8v24<d>v19b][7v24<c>v19a]v24<cv26c
+;16
+
+l16
+{8}
+l16r1  
+&160r8|1o5v34%e1m48,18,239p74>v17v56,30r48c+24e24g+24b48<c+48d48e48f+48g+48a48 $19 |1o5v34%e1m48,18,239p74[2j2,17 
+;18
+
+l16 $17 &162r1  
+r1  r1  r1  @6o5%e1%y6%s1%r13v24mp34v17<e>[8v22bv17e][8v22bv17f][8v22<c>v17g][7v22bv17e]v25av28<er^32
+;19
+
+l16

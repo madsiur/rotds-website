@@ -1,0 +1,142 @@
+#TITLE In the Earthen Womb
+#ALBUM Illusion of Gaia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x63 ## bottle blow (FF6)
+#WAVE 0x21 0x06 ## chorus (FF6)
+#WAVE 0x22 0x20 ## marimba (FF6)
+#WAVE 0x23 0x60 ## violin (FF6)
+#WAVE 0x24 0x37 ## tambourine (FF6)
+
+{3}
+l16%x255t128%v70%b0,70v104p60%e1|0o5%y6%s1%r19[2c4f4g4f4  <c4>f4g4f4  
+>a+4<f4a+4f4  <d4>f4a+4f4  ]c4f4a4f4  <c4>f4a4f4  
+e4g4<c4>g4  <e4>g4<c4>g4  >a+4<f4a+4f4  <d4>f4a+4f4  
+g4a+4<c+4e4  >a+4<c+4e4g4  c4>f4a4f4  <c4>f4a4f4  
+e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  <d4>f4a+4f4  
+g4a+4<d4>g4   $1 [3a+4a4f4d4  d4a4<d4>a4  <e4>g4<c4>g4  
+e4g4<c4>g4  <c4>f4a4<c4  >d4f4a+4f4  <d4>f4a+4f4  
+f4g4a+4<d4  >g4a+4<d4f4  >d4a4<d4>a4  <e4>g4<c4>g4  
+e4g4<c4>g4  <c4>f4a4<c4  >d4f4a+4f4  <d4>f4a+4f4  
+f4g4a+4<d4  >g4a+4<d4f4  >d4f4a+4f4  <d4>f4a+4f4  
+e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  <d4>f4a+4f4  
+c4f4a+4<d4  f4e4d4c4  >c4f4a4f4  <c4>f4a4f4  
+e4g4<c4>g4  <e4>g4<c4>g4  >a+4<f4a+4f4  <d4>f4a+4f4  
+g4a+4<c+4e4  >a+4<c+4e4g4  c4>f4a4f4  <c4>f4a4f4  
+e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  <d4>f4a+4f4  
+g4a+4<d4>g4  ]
+;1
+
+l16
+{4}
+l16v80p34%e1|0o5%y6%s1%r19^8c4f4g4f4  
+<c4>f4g4f4  >a+4<f4a+4f4  <d4>f4a+4f4  c4f4g4f4  
+<c4>f4g4f4  >a+4<f4a+4f4  <d4>f4a+4f4  c4f4a4f4  
+<c4>f4a4f4  e4g4<c4>g4  <e4>g4<c4>g4  >a+4<f4a+4f4  
+<d4>f4a+4f4  g4a+4<c+4e4  >a+4<c+4e4g4  c4>f4a4f4  
+<c4>f4a4f4  e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  
+<d4>f4a+4f4  g4a+4<d4>g4  a+4a4f4d4  d4a4<d4>a4  
+ $2 [3<e4>g4<c4>g4  e4g4<c4>g4  <c4>f4a4<c4  >d4f4a+4f4  
+<d4>f4a+4f4  f4g4a+4<d4  >g4a+4<d4f4  >d4a4<d4>a4  
+<e4>g4<c4>g4  e4g4<c4>g4  <c4>f4a4<c4  >d4f4a+4f4  
+<d4>f4a+4f4  f4g4a+4<d4  >g4a+4<d4f4  >d4f4a+4f4  
+<d4>f4a+4f4  e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  
+<d4>f4a+4f4  c4f4a+4<d4  f4e4d4c4  >c4f4a4f4  
+<c4>f4a4f4  e4g4<c4>g4  <e4>g4<c4>g4  >a+4<f4a+4f4  
+<d4>f4a+4f4  g4a+4<c+4e4  >a+4<c+4e4g4  c4>f4a4f4  
+<c4>f4a4f4  e4g4<c4>g4  <e4>g4<c4>g4  d4f4a+4f4  
+<d4>f4a+4f4  g4a+4<d4>g4  a+4a4f4d4  d4a4<d4>a4  
+]
+;2
+
+l16
+{7}
+l16v60p74%e1|0%y6%s1%r19o5^4c4f4g4  f4<c4>f4g4  f4>a+4<f4a+4  
+f4<d4>f4a+4  f4c4f4g4  f4<c4>f4g4  f4>a+4<f4a+4  
+f4<d4>f4a+4  f4c4f4a4  f4<c4>f4a4  f4e4g4<c4  
+>g4<e4>g4<c4  >g4>a+4<f4a+4  f4<d4>f4a+4  f4g4a+4<c+4  
+e4>a+4<c+4e4  g4c4>f4a4  f4<c4>f4a4  f4e4g4<c4  
+>g4<e4>g4<c4  >g4d4f4a+4  f4<d4>f4a+4  f4g4a+4<d4  
+>g4a+4a4f4  d4d4a4<d4   $3 [2>a4<e4>g4<c4  >g4e4g4<c4  
+>g4<c4>f4a4  <c4>d4f4a+4  f4<d4>f4a+4  f4f4g4a+4  
+<d4>g4a+4<d4  f4>d4a4<d4  >a4<e4>g4<c4  >g4e4g4<c4  
+>g4<c4>f4a4  <c4>d4f4a+4  f4<d4>f4a+4  f4f4g4a+4  
+<d4>g4a+4<d4  f4>d4f4a+4  f4<d4>f4a+4  f4e4g4<c4  
+>g4<e4>g4<c4  >g4d4f4a+4  f4<d4>f4a+4  f4c4f4a+4  
+<d4f4e4d4  c4>c4f4a4  f4<c4>f4a4  f4e4g4<c4  
+>g4<e4>g4<c4  >g4>a+4<f4a+4  f4<d4>f4a+4  f4g4a+4<c+4  
+e4>a+4<c+4e4  g4c4>f4a4  f4<c4>f4a4  f4e4g4<c4  
+>g4<e4>g4<c4  >g4d4f4a+4  f4<d4>f4a+4  f4g4a+4<d4  
+>g4a+4a4f4  d4d4a4<d4  ]
+;3
+
+l16
+{2}
+l16v50p60%e1|1o5%a6v16,16,32c1  
+^2^4^8^r  >a+1  ^2^4^8^r  <c1  
+^2^4^8^r  >a+1  ^2^4^8^r  <c1  
+^2^4^8^r   $4 e1  ^2^4^8^r  d1  
+^2^4^8^r  g1  ^2^4^8^r  c1  
+^2^4^8^r  e1  ^2^4^8^r  d1  
+^2^4^8^r  g1  ^2^4^8^r  d1  
+>a+1  <c1  f1  f1  
+v200,0^2^4^8^r1  ^1  ^v50f1  
+^2^4^8^r  e2^4^8^r  f2^4^8^r  f1  
+^2^4^8^r  c1  ^2^4^8^r  f1  
+^2^4^8^r  e1  ^2^4^8^r  d1  
+v200,0^2^4^8^v50r1  ^1  ^c1  
+^2^4^8^r  
+;4
+
+l16
+{8}
+l16p60%e1|1%a6[24^1  ] $5 o5v50v16,16,32>a+1  
+r1  a1  r1  <c1  
+v200,0^2^4^8^r1  ^1  ^1  ^1  
+^v50c2^4^8^  r1  ^c1  v200,0^2^4^8^r1  
+^1  ^v50d1  ^2^4^8^r  c1  
+^2^4^8^r  >a+1  v250,0^1  ^4r1  
+[16^1  ]^2^4
+;5
+
+l16
+{6}
+l16v60p60%e1|2o6c1  ^2^4^8^r  >a+1  
+^2^4^8^r  <c1  ^2^4^8^r  >a+1  
+^2^4^8^r  <c1  ^2^4^8^r   $6 e1  
+^2^4^8^r  d1  ^2^4^8^r  g1  
+^2^4^8^r  c1  ^2^4^8^r  e1  
+^2^4^8^r  d1  ^2^4^8^r  g1  
+^2^4^8^r  d1  >a+1  <c1  
+f1  f1  ^2^4^8^r1  ^1  
+^f1  ^2^4^8^r  e2^4^8^r  f2^4^8^r  
+f1  ^2^4^8^r  c1  ^2^4^8^r  
+f1  ^2^4^8^r  e1  ^2^4^8^r  
+d1  ^2^4^8^r1  ^1  ^c1  
+^2^4^8^r  
+;6
+
+l16
+{1}
+l16p60%e1|3^1  ^1  %y4%s6%r8^1  
+^1  ^1  ^1  ^1  
+^1  ^2 $7 v80o5<a4<c4  f4^8e4^8g4  m48,18,201c1  
+^2mc8>a+8a8m48,18,201a+1  ^2^8m<c8>a+8a8  m48,18,201a+1  v200,0^1  
+^mr2^v80a4<c4  f4^8e4^8g4  m48,18,201c1  ^2mc8>a+8a8m48,18,201a+1  
+^2^8m<c8>a+8a8  m48,18,201a+2^8<d2  f2g2  a8m^^r4^8d8a8m48,18,201g1  
+^mrm48,18,201g2^4ma4  g4m48,18,201f2^8^mr  m48,18,201f2^4me4  d4m48,18,201c4^8^mr4^  
+>a+8a8a+4<m48,18,201d2  mm48,18,201f2mg4^8a8  r2^8d8a8m48,18,201g1  
+^mrm48,18,201g2^4ma4  g4m48,18,201f2^8^mr  m48,18,201f2^4me4  d4m48,18,201c4^8^mr4^  
+>a+8a8a+4<m48,18,201d2  f2g2  mm48,18,201f1  v208,0^2^4^8^mr1  
+^1  ^1  ^1  ^1  
+^1  ^2^
+;7
+
+l16
+{5}
+l16p96%e1|4r2  ^2^4 $8 o5v36p96g4  v31p80g4v20p64g4v15p48g4v10p32g4  
+r2^4
+;8
+
+l16

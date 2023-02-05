@@ -1,0 +1,105 @@
+#TITLE The Man With The Machine Gun
+#ALBUM Final Fantasy VIII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x5F ## hard snare (FF6)
+#WAVE 0x21 0x0F ## hihat closed (FF6)
+#WAVE 0x22 0x11 ## hihat opened (FF6)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x27 ## percussion (UNK)
+#WAVE 0x25 0x12 ## cymbal (FF6)
+#WAVE 0x26 0x3C ## metal sound (RS3)
+#WAVE 0x27 0x1C ## bass (FF6)
+#WAVE 0x28 0x0D ## strings (FF6)
+
+{1}
+l16t140%v32p64%e1%b0,70%f0,0 $1 v100@5o5[6>ar<drc>rgara<drcr8^  
+]@6v70m96,18,239c2^4^8>ba  b2^4^8ag  a2^4^8fa  g2^4^8fe  
+f4d1  ^2^4r1  ^1  
+<c2^4^8>ba  b2^4^8ag  a2^4^8fa  g2^4^8fe  
+d8^e8^g8f8^d8^a8  f8^g8^a+8a8f8a8<c8  d1  ^2^4r4  
+c2^4^8>ba  b2^4^8ag  a2^4^8fa  g2^4^8fe  
+f4d1  ^2^4mr1  ^1  
+@5v100<f1  ^2^4^8ed  e4c1  ^2^4d+1  
+^2^4^8dc  d4>a+1  ^2r8@6v70a+<cd8^e8  ^d8c+8^>a8^<c+8>b8^<c+8  
+^d8f+8^d8^c+8>b1  ^2^4r8<de  f8^g8^f8e8^c8^e8  d8^e8^f8a+8^f8^e8  
+d1  ^1  
+;1
+
+l16
+{2}
+l16p64%e1v70 $2 @6o3r1  ^1  
+[8drfrardfrarde8g8  drfrardfrard<c8>b8  ]>[2a+r<drfr>a+<drfr>a+<c8e8  
+>a+r<drfr>a+<drfr>a+<a+8a8  >]<[5drfrardfrarde8g8  drfrardfrard<c8>b8  
+]>ar<crer>a<crer>ab8<d8  >ar<crer>a<crer>a<g8f+8  crd+rgrcd+rgrcd8f8  
+crd+rgrcd+rgrca+8a8  >gra+r<dr>ga+r<dr>ga8<c8  >gra+r<dr>ga+r<dr>g<f8e8  
+[8r1  ]
+;2
+
+l16
+{3}
+l16p64%e0v50 $3 |7o5[18dd^8dd8d8d8^dd^8  ]>[4a+a+^8a+a+8a+8a+8^a+a+^8  
+]<[4dd^8dd8d8d8^dd^8  ]>gg^8gg8g8g8^gg^8  aa^8aa8a8a8^aa^8  a+a+^8a+a+8a+8a+8^a+a+^8  
+<cc^8cc8c8c8^cc^8  [2dd^8dd8d8d8^dd^8  ]>[2aa^8aa8a8a8^aa^8  ]<[2cc^8cc8c8c8^cc^8  
+]>[2gg^8gg8g8g8^gg^8  ]bb^8bb8a8a8^aa^8  gg^8gg8f+8f+8^f+f+^8  ee^8ee8e8e8^ee^8  
+ee^8f+f+8g8g8^aa^8  <dd^8dd8c8c8^cc^8  >a+a+^8a+a+8a8a8^aa^8  gg^8gg8g8g8^gg^8  
+gg^8aa8a+8a+8^<cc^8  
+;3
+
+l16
+{4}
+l16p64%e1 $4 v0|8o6v255,10d1  
+v255,20^1  v255,30^1  v255,40^1  v255,50^1  
+v255,70^1  [4r1  ]d1  ^2e2  
+f1  ^2g2  a1  ^1  
+r1  ^1  >a+1  ^2<c2  
+d1  ^2e2  f1  ^1  
+r1  ^1  >g1  f1  
+f1  g1  r1  ^1  
+^2p124@3v34e2  a2<c2  d+1  ^1  
+r2>d2  g2a+2  p64|8v70b2a2  g2f+2  
+e1  ^1  <d2c2  >a+2a2  
+g1  ^1  
+;4
+
+l16
+{5}
+l16p64%e1 $5 v0|8o5v255,10a1  v255,20^1  
+v255,30^1  v255,40^1  v255,50^1  v255,70^1  
+[4r1  ]a1  ^2b2  a1  
+^2<d2  c1  ^1  r1  
+^1  >[2d1  ^2e2  ]d1  
+^1  r1  ^1  >d1  
+c1  d1  f1  p4@3v34r2<d2  
+f2a2  <c1  ^1  r2>c2  
+d+2g2  a+1  ^1  p64|8v70f+2e2  
+d2c+2  >b1  ^1  <a2g2  
+f2e2  d1  ^1  
+;5
+
+l16
+{6}
+l16p64%e1 $6 v0|8o5v255,10f1  
+v255,20^1  v255,30^1  v255,40^1  v255,50^1  
+v255,70^1  |5v100c1  r1  ^1  
+^1  >[2|4[2v127p80r8c8c8ccrc[2rcc]v100p48[4r8c  c]]|8p64v70<a1  
+^1  r1  ^1  >]|4[2v127p80r8c8c8ccrc[2rcc]v100p48[4r8c  
+c]]<@5v100p64d1  ^2^4^8c>b  <c4>a1  ^2^4<c1  
+^2^4^8>a+a  a+4g1  ^2r8|0v80[8[4c32]cr[4c][3rc]c  r]r8
+;6
+
+l16
+{7}
+l16p64%e1v100|0o5r1  
+^1  ^1  ^1  ^1  
+^2^c8^c8cc   $7 v70[91|1c8|2c8|1cc|2c8]|0v100rc8^c8cc  
+;7
+
+l16
+{8}
+l16p64%e0v100|3o6[24|3c8|4>>cc<<] $8 [48|3c4|0>c4<][8|3c4  
+|6v120>c4<|3v100c4|4v127>>c4<<v100]|3[56c4  ]
+;8
+
+l16

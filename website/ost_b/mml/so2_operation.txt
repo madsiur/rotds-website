@@ -1,0 +1,97 @@
+#TITLE Rescue Operation
+#ALBUM Star Ocean 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x43 ## electric guitar 2 (RS3)
+#WAVE 0x21 0x53 ## synth strings (RS3)
+#WAVE 0x22 0x78 ## brass (TC)
+#WAVE 0x23 0x85 ## brass section (SOM)
+#WAVE 0x25 0x1C ## bass (FF6)
+#WAVE 0x26 0x0B ## organ (FF6)
+#WAVE 0x2A 0x22 ## kick drum (FF6)
+#WAVE 0x2B 0x56 ## snare drum 2 (RS3)
+#WAVE 0x2C 0x12 ## cymbal (FF6)
+#WAVE 0x2F 0x0F ## hihat closed (FF6)
+
+{1}
+l16t124%b0,70%f0,0%v50 $1 [3[7|Av80p64%e0o5g8|Bv112b8|Av80gg|Bv112b|Av80g]g8|Bv112b8|Av80gg|Bv112bv80g+  
+[7|Av80p64%e0o5g8|Bv112b8|Av80gg|Bv112b|Av80g]g8|Bv112b8v80g+g+v112bv80g+  
+][7|Av80p64%e0o5g8|Bv112b8|Av80gg|Bv112b|Av80g]g8|Bv112b8|Av80gg|Bv112bv80g+  
+[3|Av80p64%e0o5g8|Bv112b8|Av80gg|Bv112b|Av80g]g8|Bv112bv80g+g+g+v112bv80g+  
+
+;1
+
+l16
+{2}
+l16 $2 [2|0o5v64p68m24,18,239%e1%y4%s6%r10e8.b4^%l1eb%l0r<d8c+>%l1ba  
+%l0<c8.>f2^4r  e8.b4^e%l1br%l0<d8c+%l1de  %l0f4.^rg8.d4r  >e8.b4^%l1eb%l0r<d8c+>%l1ba  
+%l0<c8.>f2^4r  e8.b4^e%l1br%l0<d8c+%l1de  %l0f4.^reeee8e^32r32e  
+|3o5v56p60%e1<f4redce4.^r  f4redc>a4.^r  <f4redcd8.>a8.<d8  d+8.e8.f+8b4.^r  
+]c+8.>b8.<c+8d8>a^32r32a8.g+8.  a8b8f+^32r32<c+8.>b8.<c+8d8  >a^32r32ag+f+fdc+dff+g+ac+<c+8.  
+>b8.<c+8d8>a^32r32a8.g+8.a8  b8f+^32r32<c+8.>b8.<c+8d8>a^32r32  
+g+8.<c+8.f^32r32>g+8.^32r32
+;2
+
+l16
+{3}
+l16 $3 [2|1o4v32p52m48,18,207%e1e1  
+f1  e1  f2d2  e1  
+f1  e1  f2|2o6v48p48m48,18,223%e1%r12aaaa8a8a  |1o4v32p52m48,18,207%e1f2e2  
+f2e2  f2f+2  a2b2  ]|0o5v64p68m24,18,239%e1%y4%s6%r10a8.g+8.a8brf+r<c+8.>b8.  
+<c+8dr>ara8.g+8.a8br  f+r<c+>bag+f+ff+g+ab<c+>fa8.  g+8.a8brf+r<c+8.>b8.<c+8  
+dr>ara8.g+8.a8brf+r  f8.g+8.<c+^32r32>f4
+;3
+
+l16
+{4}
+l16 $6 [2|1o3v24p40m48,18,239%e1<[2b2  
+^8<c+4.c2  e4d4>b2  ^8<c+4.c2  >j2,4 b2] $4 |2o6v48p48m48,18,223%e1%r12bbbb8b8b  
+|1o4v32p52m48,18,207%e1<c1  c1  c2d2  |5o5v32p64m%e1bb<b>b<a>b<b>b<bf+d+e>bf+gb  
+]|2o6v48p48m48,18,223%e1%r12<[4c+>br<c+rdrc+r>b<c+rj4,5 c+>br<c+  
+rdrc+r>b<c+8] $5 >g+8.<c+8.f8  g+4
+;6
+
+l16
+{5}
+l16 $8 [2|6o6v44p84m%e1>>[2ee<e>e<d>e<e>eee<a>a  
+<ga>a<a>ff<f>f<e>f<f>fff<f>f  <efef>ee<e>e<d>e<e>eee<a>a  <ga>a<a>ff<f>f<efef>j2,7 gg<g>g  
+<f>g<g>g] $7 b<e<eb<e>be>ef>ff<f  >ff<f>f<a>aa<a>aa<gaf>ff<f  >ff<f>f<a>aa<ga>a<gaf>ff<f  
+>ff<f>f<<d>dd<d>dd<cd>b>bb<b  >bb<abab>b<ab>b<ab][2f+>f+f+<f+  >f+f+<ef+>f+<f+ef+>f+f+<f+>f+<f+>f+f+<f+  
+>f+f+<ef+dd<d>dd<d>dd<d>d<d>d  <c+>c+c+<c+>c+c+<c+>c+b<c+>b<c+>]
+;8
+
+l16
+{6}
+l16 $10 [2|5o5v32p64m%e1[2ee<e>e  
+<d>e<e>eeea<ae>a<ae>ff<f>f  <e>f<f>f<fedc>bagfee<e>e  <d>e<e>eeeac+eaec+ff<f>f  
+<e>f<f>fj2,9 <g8gd8d>gf] $9 ee<e>e  e<ee>ef8ff8efe<a8.e8.  >a8f8ff8efea8aa8<a  
+e>aff<f>f<e>f<f>f<dd<d>dad  <d>d@0o5v16v192,56p80m%e1%y5%s2%r12>b32<d+32e32f+32b32>b32<d+32e32f32b32<d+32>b32<f+32>f+32b32<d+32f+32>b32<d+32e32f+32>b32<d+32f+32b32d32f+32b32  
+<d+32>f+32b32<f+32][2|5o5v32p64m%e1f+f+<f+>f+ef+ef+<f+>f+ef+f+f+  
+<f+>f+<ef+ef+>f+<f+ef+dd<d>dc+d  c+dd<d>a<d>c+c+<c+>c+b<c+>b<c+>c+<c+  
+>g+<c+]
+;10
+
+l16
+{7}
+l16 $12 [2|Cv80p54%e0o5f2|Fv48p72a8a8a8  a8[24a8]|Cv80p54f2|Fv48p72a8a8  
+a8a8a8a8a8a8|Cv80p50%r18f8.f8.  f8p54%yf2|Fv48p72a8a8a8  a8|Cv80p54f2f2  
+f2|Fv48p72a8a8a8a8  [8a8]|Cv80p54f2|Fv48p72a8a8a8  a8|Cv80p54f2p50%r18f8.f8.  
+f8]|2o6v48p48m48,18,223%e1%r12[4ag+rarbrarg+arj4,11 ag+  rarbrarg+a8] $11 f8.g+8.  
+<c+8f4
+;12
+
+l16
+{8}
+l16 $14 [2|6o6v44p84m%e1>>[2r8brarbrr8  <erderer8cr>br<crr8  
+cr>b<c>b<c>r8brarbrr8  <erderer8cr>b $15 <c>b<cj2,13 r8  drcrdr>] $13 >eb<b<ebe>b>b<cr8  
+cr8crer8er8decr8  cr8crer8derdecr8  cr8crar8ar8gaf+r8  f+r8ef+ef+ref+ref+][2|Cv80p54%e0o5f2  
+|Fv48p72a8a8a8a8a8a8a8a8  |Cv80p54f2|Fv48p72a8a8|Cv80p54f2  |Fv48p72a8a8]
+;14
+
+l16r8ef+ef+ref+ref+  
+][2|Cv96p54%e0o5f2|Fv48p72a8a8a8a8  a8a8a8a8|Cv96p54f2  |Fv48p72a8a8|Cv96p54f2|Fv48p72a8a8  
+]
+;15
+
+l16

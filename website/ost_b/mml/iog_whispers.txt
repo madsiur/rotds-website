@@ -1,0 +1,65 @@
+#TITLE Ominous Whispers
+#ALBUM Illusion of Gaia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x06 ## chorus (FF6)
+#WAVE 0x21 0x03 ## wind flute (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x32 ## acoustic guitar (FF6)
+#WAVE 0x24 0x16 ## timpani (FF6)
+
+{1}
+l16t30%x224%v50%b0,70%e1 $1 |0o5v20p64%a7m>a1  ^2^8.r8.d1  
+^4.r4e4.  >a4.<e4.a1  ^1  ^r8.d1  
+^4.r4e4.  a4.e4.^32[8a2  ]
+;1
+
+l16
+{2}
+l16%e1 $2 |0o5v20p107%a7m1,17,239>b1  
+^2^8.r8.a1  ^4.r4g+4.  b4.g+4.b1  
+^1  ^r8.a1  ^4.r4g+4.  b4.g+4.^32[8b2  
+]
+;2
+
+l16
+{3}
+l16%e1 $3 |0o5v20p21%a7m2,33,239e1  ^2^8.r8.e1  ^4.r4e4.  
+e4.e4.e1  ^1  ^r8.e1  
+^4.r4e4.  e4.e4.^32[8e2  ]
+;3
+
+l16
+{4}
+l16%e1 $4 &126[10r1  ]|2o5v40p64%a9m>>[4f2e2  
+]
+;4
+
+l16
+{5}
+l16%e1 $6 [2|1o6v64p64%r10m12,18,223>&51r8v72c48>b48<v65c3r6>v80&5a8r48v65&7b8&2r8  
+<v72c24&1r8&5d8r64&5d+8&5r8v65&5e8r64&5f8r48v72d+48r48&5e8  r48v65f48r48v55&9d+8v65e8&1r8>&75a8&9r8<v92f48v80e48v72f3  
+r8v80d32&2r8v72e32r64&5f8r64&5g8r48&5g+8r64&7a8r64v65a+32r64v55&5g+8  
+&5r8v72a32&2r8v55a+32r48v42&7g+8r48v72a3&13r8&14a8  v55&13g+8v72av80b8.v72g+8v65ea4r64v42e32v55&5f8v65&5g+8  
+v72&5a8v86b8.j2,5 v72g+8ev80&70a8&2r8] $5 <v72c8>&18b8  [2v72e48d48e4r12a8e2  
+e48d48e4r12b8e2  ]
+;6
+
+l16
+{6}
+l16%e1 $7 &168[9r1  ]|3o5v64p64%r12m>a24b24<c24e24a24b24a24e24>b24e24g+24b24<e24g+24b24g+24e24>b24^32<[32e24>b24<d24]
+;7
+
+l16
+{7}
+l16%e1 $8 &126[10r1  
+]|4o3v96p64m[3v92c2^4.v75c24c24c24  ]v92c1  
+;8
+
+l16
+{8}
+l16r8
+;
+
+l16

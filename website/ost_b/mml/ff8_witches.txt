@@ -1,0 +1,100 @@
+#TITLE Succession of Witches
+#ALBUM Final Fantasy VIII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x31 ## bright piano (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x0A ## oboe (FF6)
+#WAVE 0x23 0x1F ## ocarina (FF6)
+#WAVE 0x24 0x3A ## female voice (FF6)
+#WAVE 0x25 0x3E ## xylophone (FF6)
+#WAVE 0x26 0x24 ## tubular bell (FF6)
+#WAVE 0x28 0x17 ## conga (FF6)
+
+{1}
+l16t90%v50%b0,70%x224%e1|0v64p64mo6[2[2e8d+8b4]e8d+8<c4  >a1  
+^2>] $1 |4v64p80o4m48,18,231[3%ya4%r16a2  ^4]a8a8a2  ^4|3v64p64o5%r8b8a8<e4d+1  
+^4>a24b24<c24f24g24a24b8a8<e4  d+1  ^2|4v64p80o4m48,18,231[3%ya4%r16a2  
+^4]a8a8a2  ^4%e0[2|8v127p64o3a4.a8a2  ]^4%e1|0v64p64mo4f2^4  <c4d4d+4e4  
+|1v64p20o5%r17[6a4a4a2  ]g+4g+4%r12g+2  %r17f+4f+4%r12f+2  |1v64p100o3m48,18,207%r7e2^8f+8g8a8  
+f4<c2^4  >g2^8a8b8<c8  >g+4<d2^4  |1v64p80%a6o3m48,18,207v24%r7a1  
+[5^1  ]
+;1
+
+l16
+{2}
+l16%e1|0v64p64mo5[2[2a4<c4>]a4<e4  c1  ^2>>] $2 |0v64p64mo4r8e8f8e8  
+r8e4e8r8f8g8f8  r8f4f8r8f+8g8f+8  r8f+4f+8r8f8g8f8  r8f4f8[2r8e8a8e8  
+r8f8a8f8r8f+8a8f+8  r8f8a8f8]r8e8f8e8  r8e4e8r8f8g8f8  r8f4f8r8f+8g8f+8  
+r8f+4f+8r8f8g8f8  r8f4f8r8d+8f+8d+8  r8d+4d+8r8d8f8d8  r8d4d8r8e2  
+^4.r4b4a4  g+4|1v64p30o5%r17[3f+4f+4f+2  f4f4f2  ]e4e4%r12e2  
+%r17>d4d4%r12d2  |1v64p80o4m48,18,207%r7e2^8f+8g8a8  f4<c2^4  >g2^8a8b8<c8  
+>g+4<d2^4  |1v64p50%a6o4m48,18,207v24%r7a1  [5^1  ]
+;2
+
+l16
+{3}
+l16%e1|0v64p64mo5[2e2f2  
+f+2f1  ^2>] $3 |0v64p64mo3[16a2  ]|0v64p64mo5r2r8e8d8c8  >b2<r8f8e8d8  
+c2>r8a8b8<c8  d4.d24e24d24c4>b4  a1  r1  
+r4.a8<c8>b8<d8f8  e8d+8b8a8<c8>b8<d8>b8  |1v64p50o5%r17[3c4c4c2  
+>b4b4b2  <]>a4a4%r12a2  %r17>g4g4%r12g2  |1v64p30o5m48,18,231%r11b4<f+4e8d8c4  
+>b8<c8d8>a8<c4>b8a8  b4g8a8b8<c8d8e8  d8c8>b8<c8d8e8f8d8  |1v64p40%a6o6m48,18,207v16%a5%r8e1  
+[5^1  ]
+;3
+
+l16
+{4}
+l16%e1[6r1  ] $4 [4r1  ]|1v64p80%a6o3%r6a1  
+^1  ^1  ^1  |1v64p30%a6o6v24%a6e1  
+f1  f+1  f1  |1v64p80o3v64%a6%r7a1  
+^1  ^1  ^1  |2v64p64m48,18,231o6[4r1  
+]%r8&45e8a+64b4.a8g48a48g48^f+8f8  g8a8&21d+8a64g4f8d+8e48f48&172e8  
+e32a32&180e8r|1v64p20o6m48,18,231%r11b4<f+4e8d8  c4>b8<c8d8>a8<c4  
+>b8a8b4g8a8b8<c8  d8e8d8c8>b8<c8d8e8  f8d8|1v64p30%a6o7m48,18,207v16%a5%r8e1  
+[5^1  ]
+;4
+
+l16
+{5}
+l16%e1[6r1  ] $5 [4r1  ]|1v64p50%a6o4%r6a1  
+^1  ^1  ^1  |1v64p40%a6o6v24%a6c1  
+>b1  <c1  c1  |1v64p100o2v64%a6%r7a1  
+^1  ^1  ^1  |2v64p35m48,18,207%r7o6r1  
+r1  r2^4c4  >r2^4b4  r2^4a4  
+r2^4b4  r4b8<c8d8c8>b4  a8a+8<c8d8f+8e8d8>a+8  |0v64p64mo5b4<f+4e8d8c4  
+>b8<c8d8>a8<c4>b8a8  b4g8a8b8<c8d8e8  d8c8>b8<c8d8e8f8d8  |0v64p64mo6[2[2e8d+8b4]e8d+8<c4  
+>a1  ^2>]
+;5
+
+l16
+{6}
+l16%e1[6r1  ] $6 [4r1  ]|0v64p64mo4[2b8a8<e4d+1  
+^2]|0v64p64mo3[13a2  ]^2<a4g+4  f+4e4|2v64p95m48,18,207%r7o3r1  
+r1  r4f+4r2  ^4f4r2  ^4e4r2  
+^4f4r2  ^4a4.g+8f+8e8  d1  |0v64p64mo5r4d2^4  
+r4f2^4  r4e2e4  r4f4r4g+8b8  |0v64p64mo5[2[2a4<c4>]a4<e4  
+c1  ^2>>]
+;6
+
+l16
+{7}
+l16%e1[6r1  ] $7 [4r1  ]|1v64p30%a6o6v24%r15[2^4e2f2  
+f+2f4]|6v80p90o5[4a1  ]|0v64p10mo2v127a1  ^1  ^1  
+^2r2  [4^2^8|5p90%r14%s2v64%y5o7e%y5%r14%s2ev80%r11%s4e4  ^2^8v64%r14%s2e24e24e24v80%r11%s4e4  
+]|0v64p64mo4r8g2^4.  r8a2^4.  <r8d4d4d4d8  r8e4e8r8e4.  
+|0v64p64mo5[2e2f2  f+2f1  ^2>]
+;7
+
+l16
+{8}
+l16 $8 %e1[6r1  
+][4r1  ]|1v64p40%a6o5v24%r15[8^4c4]|2v64p64o6v12e1  f1  f+1  
+f1  |0v64p110mo1v127a1  ^1  ^1  
+^1  |1v64p40o5%r17[3e4e4e2  d+4d+4d+2  ]c4c4%r12c2  
+%r17>a+4a+4%r12a+2  |0v64p64mo4e1  f1  g2g2  
+g+2b2  
+;8
+
+l16

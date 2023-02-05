@@ -1,0 +1,60 @@
+#TITLE Adrift
+#ALBUM Illusion of Gaia
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x5E ## flute (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x02 ## electric bass (FF6)
+#WAVE 0x24 0x16 ## timpani (FF6)
+
+{1}
+l16t93%v32%e1%b0,70%f0,0 $1 v40p24|0o4<m48,18,201c+4^8^r>b8<c+8g+4  
+^8^rf+8e8c+1  ^4^8^rc+4^8^r  >b8<c+8f+4^8^re8c+8  >a2^8^r4^  
+a8^^b8^^<c+2  ^8^rc+8^^>b8^^<c+8^^  >b2^8^r<e2  ^8^rd8^^e8^^d8^^  
+c+2^8^rd8^^  e8^^d8^^c+2  ^8^r
+;1
+
+l16
+{2}
+l16%e1 $2 v40p50|1o5r8e8g+8<c+8>g+8e8  
+r8e8g+8<c+8>g+8e8r8e8  g+8<c+8>g+8e8r8e8g+8<c+8  >g+8e8r8e8a8<c+8>a8e8  
+r8e8a8<c+8>a8e8r8f+8  <c+8>a8^^f+8a8f+8a4  ^8^r8^f8a8<c+8>a8f8  
+r8f8a8<c+8f8a8r8>g+8  b8<e8>b8g+8r8g+8b8<e8  g+8e8r8>f+8a8<d8>a8f+8  
+r8f+8a8<d8f+8a8r8>f8  a8<c+8f8a8r8>a8<c+8f8  a8r8
+;2
+
+l16
+{3}
+l16%e1 $3 v40p54|2o5%a8%r3<e1  
+^2^4^8^r  a8^^g+4^8^re1  ^2^8^rc+4  ^8^rd8^^e8^^d8^^  
+c+8^^c+2^8^r  c+4^8^rc+8^^e2  ^8^re2^8^r  d1  
+^1  ^8^rf4^8^rd8f8  
+;3
+
+l16
+{4}
+l16%e1 $4 v40p54|2o5%a8%r3e1  ^1  
+^2^4^8^r  a1  ^1  ^2^4^8^r  
+e8a2^4^^  a4^8^rb2  ^8^rg+2^8^r  a1  
+^1  ^8^rf4^8^rd8f8  
+;4
+
+l16
+{5}
+l16%e0 $5 v50p74|3o6a8^^32r4^8^32e8a8^^32r2  
+^32a8^^32r4^8^32e8a8^^32  r2^32g8^^32r4  ^8^32e8g8^^32r4^8^32e8  
+d4^8^ra8^^<d8^^  >d4^^a8d8r2  a8d8r2^8c+8  r2g+8c+8^^32r2  
+^32>b8^^32r4^8^32<f+8>b8^^32  r2^32b2  ^8^rb8<d8f8a8b8^^  
+;5
+
+l16
+{6}
+l16%e1 $6 v24p68|4o5<g+4^8^rf+8g+8<d+4  
+^8^rc+8>b8g+2  ^8^r2^4^  g+4^8^rf+8g+8<c+4  ^8^r>b8g+8e2  
+^8^r4^e8^^f+8^^  g+2^8^rg+8^^  f+8^^g+8^^f+2  ^8^rb2^8^r  
+a8^^b8^^a8^^g+2  ^8^ra8^^b8^^a8^^  g+2^8^r
+;6
+
+l16

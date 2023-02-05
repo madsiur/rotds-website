@@ -1,0 +1,108 @@
+#TITLE Aspiration
+#ALBUM Final Fantasy Legend II
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0A ## oboe (FF6)
+#WAVE 0x21 0x1F ## ocarina (FF6)
+#WAVE 0x22 0x12 ## cymbal (FF6)
+#WAVE 0x23 0x0D ## strings (FF6)
+#WAVE 0x24 0x1A ## trombone (FF6)
+#WAVE 0x25 0x16 ## timpani (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x24 ## tubular bell (FF6)
+#WAVE 0x28 0x08 ## french horn (FF6)
+
+{1}
+l16t200%v32%e1%b0,70%f0,0 $1 v100p84|0o5g+8a+8b8a+8b8<c+8d+8c+8  
+>b8<c+8>b8a+8g+8a+8g+8f+8  r1  ^1  e8f+8g8f+8g8a8b8a8  
+g8a8g8f+8e8f+8e8d8  r1  ^1  g+8a+8b8a+8b8<c+8d+8c+8  
+>b8<c+8>b8a+8g+8a+8g+8f+8  r1  ^1  e8f+8g8f+8g8a8b8a8  
+g8a8g8f+8e8f+8e8d8  r1  ^1  >[3a8b8a8g+8a8b8a8g+8  
+]g+4a8r8g+4a8r8  [3b8<c+8>b8a+8b8<c+8>b8a+8  ]b4<c8r8>b4<c8r8  d2c+2  
+d+2d2  d+1  f2d+4d4  c2c+2  
+d2c+2  
+;1
+
+l16
+{2}
+l16%e1 $2 v120p63|1o5c+8d+8e8d+8e8f+8g+8f+8  
+e8f+8e8d+8c+8d+8c+8>b8  <c+8d+8e8d+8e8f+8g+8f+8  e8f+8e8d+8c+8d+8c+8>b8  
+a8b8<c8>b8<c8d8e8d8  c8d8c8>b8a8b8a8g8  a8b8<c8>b8<c8d8e8d8  c8d8c8>b8a8b8<c8d8  
+c+8d+8e8d+8e8f+8g+8f+8  e8f+8e8d+8c+8d+8c+8>b8  <c+8d+8e8d+8e8f+8g+8f+8  
+e8f+8e8d+8c+8d+8c+8>b8  a8b8<c8>b8<c8d8e8d8  c8d8c8>b8a8b8a8g8  
+a8b8<c8>b8<c8d8e8d8  c8d8c8>b8a8b8a8g8  [3f+8r8f+8f+8f+8r8f+8f+8  
+]f+4g8r8f+4g8r8  [3g+8r8g+8g+8g+8r8g+8g+8  ]g+4a8r8g+4a8r8  <d2c+2  
+d+2d2  d+1  f2d+4d4  c2c+2  
+d2c+2  
+;2
+
+l16
+{3}
+l16%e1 $3 v100p64|2%r15o5c+1  ^1  v120p34|3g+8a+8b8a+8b8<c+8d+8c+8  
+>b8<c+8>b8a+8g+8a+8g+8f+8  r1  ^1  e8f+8g8f+8g8a8b8a8  
+g8a8g8f+8e8f+8g8a8  v100p64|2%r15c+1  ^1  v120p34|3g+8a+8b8a+8b8<c+8d+8c+8  
+>b8<c+8>b8a+8g+8a+8g+8f+8  r1  ^1  e8f+8g8f+8g8a8b8a8  
+g8a8g8f+8e8f+8e8d8  [3c+8r8c+8c+8c+8r8c+8c+8  ]c+4d8r8c+4d8r8  [3d+8r8d+8d+8d+8r8d+8d+8  
+]d+4e8r8d+4e8r8  f2^4e8f8  f+2^4f8f+8  g8f+8g8a8a+8a8a+8<c8  
+d4c8>a+8a4f4  g1  ^1  
+;3
+
+l16
+{4}
+l16%e1 $4 v80p64|4o6c+2^4g+2  
+^4c+4>g+4<c+2  ^4g+2^4  c+4>g+4a2  ^4<e2^4  
+>a4e4a2  ^4<e2^4  >a4b4<c+2  ^4g+2^4  
+c+4>g+4<c+2  ^4g+2^4  c+4>g+4a2  ^4<e2^4  
+>a4e4a2  ^4<e2^4  >a4g+4[3f+8r8f+8f+8  f+8r8f+8f+8]f+4g8r8  
+f+4g8r8[3g+8r8g+8g+8  g+8r8g+8g+8]g+4a8r8  g+4a8r8a+1  b1  
+o6c1  ^1  ^1  ^4g+8f+8e8d+8c+8>g+8  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v127p64|5o5>c+2^4>g+2  ^4<c+4>g+4<c+2  ^4>g+2^4  
+<c+4>g+4a2  ^4e2^4  a4e4a2  ^4e2^4  
+a4b4[2<c+2  ^4>g+2^4  <c+4>g+4]a2  ^4e2^4  
+a4e4a2  ^4e2^4  a4g+4[3f+4r4  f+4r4]f+4g4  
+f+4g4[3g+4r4  g+4r4]g+4a4  g+4a4a+1  b1  
+o4c1  ^1  ^1  ^2>g+4g+4  
+
+;5
+
+l16
+{6}
+l16%e1 $6 v80p64|6o5[8%g1e8e8e8e8%g0eeee%g1e8e8  e8e8%g0eeee%g1e8e8e8e8  
+%g0]v70[2e12e12e12e12e12e12e12e12e12e12e12e12  e12e12e12e12e12e12e12e12e12e12e12e12  
+e12e12e12e12e12e12e12e12e12e12e12e12  %g1e8e8%g0e12e12e12%g1e8e8%g0e12e12e12  
+]r1  r1  r1  r1  
+r1  ^2%g1e8e8e8e8  %g0>>>>>>
+;6
+
+l16
+{7}
+l16%e1 $7 v115p64|7o5c+2^8^rg+2  
+^8^r>g+4^8^r<c+2  ^8^rg+2^8^r  >g+4^8^ra2  ^8^r<e2^8^r  
+>e4^8^ra2  ^8^r<e2^8^r  >e4^8^r<c+2  ^8^rg+2^8^r  
+>g+4^8^r<c+2  ^8^rg+2^8^r  >g+4^8^ra2  ^8^r<e2^8^r  
+>e4^8^ra2  ^8^r<e2^8^r  >e4^8^r<[3c+4^8^r  c+4^8^r]c+4^8^r  
+d4^8^r[3d+4^8^r  d+4^8^r]d+4^8^r  e4^8^rf2  ^4^8^rf+2  
+^4^8^rg2  ^4^8^r1  ^c4^8^rc+4^8^  rd4^8^rc+4^8^  
+r
+;7
+
+l16
+{8}
+l16%e1 $8 v80p104|8o6>c+8d+8e8d+8c+8r8e8d+8  c+8r8e8d+8c+8r8e8d+8  
+c+8d+8e8d+8c+8r8e8d+8  c+8r8e8d+8c+8r8c+8>b8  a8b8<c8>b8a8r8<c8>b8  
+a8r8<c8>b8a8r8<c8>b8  a8b8<c8>b8a8r8<c8>b8  a8r8<c8>b8a8r8a8b8  
+<c+8d+8e8d+8c+8r8e8d+8  c+8r8e8d+8c+8r8e8d+8  c+8d+8e8d+8c+8r8e8d+8  
+c+8r8e8d+8c+8r8c+8>b8  a8b8<c8>b8a8r8<c8>b8  a8r8<c8>b8a8r8<c8>b8  
+a8b8<c8>b8a8r8<c8>b8  a8r8<c8>b8a8r8a8g+8  o5v100p64|2%r15c+1  ^1  
+^1  c+2c+2  c+1  r1  
+^1  c+2c+2  [2c+2^4^8^r  ]c+2^4^8^r1  
+^1  ^4^v80p104|8g+8f+8e8d+8c+8>g+8  
+;8
+
+l16

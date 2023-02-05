@@ -1,0 +1,85 @@
+#TITLE Another Winter
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x20 ## marimba (FF6)
+#WAVE 0x21 0x3E ## xylophone (FF6)
+#WAVE 0x22 0x06 ## chorus (FF6)
+#WAVE 0x23 0x18 ## acoustic bass (FF6)
+#WAVE 0x24 0x24 ## tubular bell (FF6)
+#WAVE 0x25 0x03 ## wind flute (FF6)
+#WAVE 0x26 0x19 ## pizzo string (FF6)
+#WAVE 0x27 0x02 ## electric bass (FF6)
+
+{1}
+l16t78%v50%x224%b0,70%e1 $3 [2|0v72o7%y3%s1%r10vm48,18,223p64[4r4d2d4  
+r8d4>c2^8  <]|1v70o5mv>p96[4v70a<v60ev50av40ev70gv60d<v50c>v40bv70gv60dv50ev40av70cv60dv50g>v40g  
+][2v70a<v60cv50fv40cv70ev60>f<v50c<v40c>v70bv60dv50ev40gv70fv60ev50dv40j2,1 c  
+>] $1 >b[2v70a<v60ev50av40ev70gv60d<v50c>v40bv70gv60dv50ev40av70cv60dv50g  
+>v40g]j2,2 r1  r1  r1  r1  
+] $2 [2[4v70a<v60cv50fv40g>][4v70b<v60dv50gv40a>][2v70a<v60ev50av40ev70gv60dv50e<v40c  
+>v70bv60dv50ev40av70g>v60b<v50cv40g>]]
+;3
+
+l16
+{2}
+l16 $5 %e1[2p64|0v72o7%y3%s1%r10vm48,18,223[4r8.g2  
+g4>a4^g4>g2  <<]|5v80o5%y6%s5%r5vm48,18,223p24d32&90e4f+4d4d48c24de2  
+^4.d32&90e4f+4d4  d32c32>bg2^8ga<ce  a4.<c>ab4g4  aga2^8aged  
+e2e32&42f+d4cdc  >bg2^4j2,4 r1  r1  r1  
+r1  ] $4 m48,18,239[2ab<c4cde8.dedc8  >b<dg4gab8.abgdg  e1  
+^1  >]
+;5
+
+l16
+{3}
+l16 $7 %e1[2p64|0v72o7%y3%s1%r10vm48,18,223[4r8b2b4>b8  
+b8.b4>b2^  <<]|5v80o5%y6%s5%r5vm48,18,223p40>g32&186a32a2b4g4  g32a32ba2^4.  
+e2f+4cdgb  <c2d4>b<cde  fef4^ef8.efec>b  <c2d4>b4  
+abage2d4  j2,6 r1  r1  r1  
+r1  ] $6 [2fga4ab<c8.>b<c>ba8  gb<d4deg8.egd>b<d  >a1  
+^1  ]
+;7
+
+l16
+{4}
+l16 $9 %e1[2p64|0v72o7%y3%s1%r10vm48,18,223[4r2^4^c8.  
+rc4>d2^8.  <]|2v56o5v48,18,239m48,18,192p64>>a1  ^1  a1  
+^1  f1  ^1  a1  
+^1  j2,8 r1  r1  r1  
+r1  ] $8 |4v64o6mv[2f1  g1  a1  
+a1  ]
+;9
+
+l16
+{5}
+l16 $12 %e1p64|3v96o7%a8%y5%s2>[2[2[2e4e4f+4f+4  
+g4g4f+4e8d8  ]c4c4d4d4  >b4b4<c4c8d8  e4e4f+4f+4  
+d4d4j2,10 e4e4  ] $10 g4e8d8j2,11 [2e4e4  f+4f+4g4g4  f+4e8d8]] $11 [2c8.f8.a8  
+<c4>f8c8d8.g8.b8  <d4>g8d8>[2a4a4  a4a8g8]<]
+;12
+
+l16
+{6}
+l16 $14 %e1p64|3v96o7%a8%y5%s2>>[2[2[7a4]a8g8  
+][7f4]f8g8[8a4][2[7a4  ]a8g8][7f4]f8g8[7a4  ]a8g8j2,13 [2[7a4]a8g8]] $13 [2|7v80o5mvf1  
+g1  |6v80o5mv>[8e4]]
+;14
+
+l16
+{7}
+l16 $17 %e1p64|6v80o5mv>[2[2[2e4e4f+4  
+f+4g4g4f+4  e8d8]c4c4d4  d4>b4b4<c4  c8d8e4e4f+4  
+f+4d4d4j2,15 e4  e4] $15 g4e8d8j2,16 [2e4  e4f+4f+4g4  g4f+4e8d8]] $16 [2c8.f8.  
+a8<c4>f8c8d8.g8.  b8<d4>g8d8>[2a4a4  a4a8g8]<]
+;17
+
+l16
+{8}
+l16 $19 %e1p64|6v80o5mv>>[2[2[7a4]a8g8  
+][7f4]f8g8[8a4][2[7a4  ]a8g8][7f4]f8g8[7a4  ]a8g8j2,18 [2[7a4]a8g8]] $18 |3v96o7%a8%y5%s2>[2r1  
+r1  e4[7r4]]
+;19
+
+l16

@@ -1,0 +1,89 @@
+#TITLE Cantina
+#ALBUM Star Wars
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x76 ## sax (CT)
+#WAVE 0x21 0x18 ## acoustic bass (FF6)
+#WAVE 0x22 0x1A ## trombone (FF6)
+#WAVE 0x23 0x52 ## piano (RS3)
+#WAVE 0x24 0x14 ## snare (FF6)
+#WAVE 0x25 0x61 ## kick drum (CT)
+#WAVE 0x26 0x4F ## closed hihat (RS3)
+#WAVE 0x27 0x12 ## cymbal (FF6)
+
+{1}
+l16t120%v20v60p80%e1%b0,70%f0,0|0r $1 o6frarfrarfarfref  rag+agrf+gf+f8^dr4  
+frerfrerferfrefr  grg8^f+gr<c>a+8a8g8r  frarfrarfarfrefr  <crc8r>agrf8^d^32r4  
+>a+8^b32<c+32d8^d+32e32f8^^32g+32a8^^32<d+  rdr>g+arfr2^  <d>aa<dr>ar8<d>aa<dr>ar8  
+<d>aa<dc+>aa8^af8rar8  <d>aa<dr>ar8<d>aa<dr>ar8  <d>aa<dd>a<m12,18,239c+4^32m>a+32a8<cr8  
+d>aa<dr>ar8<d>aa<dr>ar8  <d>aa<dc+>aa8^afr8ar>a+  <da+r>b<dbr<ccr>f+^32r8^^32d  
+f<c>dg+a^f^r4^8^
+;1
+
+l16
+{2}
+l16v60p80%e1|0r   $2 o6drfrdrfrdfrdrc+dr  
+feferdec+c8^>ar4  <dr>g+r<dr>g+r<d>g+r<drc+dr  drd8^c+drgf^e8d^r  
+drfrdrfrdfrdrc+dr  erg8^ee^c8^>ar4  f4a32a+8^b32o6c32c8^gf+8^^32  
+grf+recrcr2  ^frdfr4frdfr4  frdefrd8^^>a8r4  <frdfr4frdfr4  
+frdefr^32d+4r4^^32  frdfr4frdfr4  frdefrd8^^>a^r4  ^<fr8^frg+ard^r4  
+^a+rferc^r4^8^
+;2
+
+l16
+{3}
+l16v60p80%e1|0r   $3 o6r1  dc+dc+r>b<c+>a+a8^fr1  
+^4brb8^a+br<ed8c8  >a+^r1  ^<c+re8^c>a+ra8^fr1  
+^2ba+ra^r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^8^ba+ra^  
+r4^8^
+;3
+
+l16
+{4}
+l16v100p64%e0|1r $4 o5d8r8a8r8  d8r^a8r^d8r^c8r8  
+f8r^<c8r8>d8r8a8r8  d8r^a8r^g8r^g8r8  crdrd+re^d8r8a8r8  d8r^a8r^c8r^c8r8  
+f8r^<c8r8>a+8r8a+8r8  f8r^d8r8g8r^c8r^  f8erdrcrd8r8a8r8  d8r^a8r^d8r^a8r^  
+dr^%l1g+8^a^%l0d8r8a8r^  d8r^a8r^d8r^a8r8  %l1d+8^^<c^%l0>c8d8r^a8r^  
+d8r8a8r^d8r^a8r^  d8r^a8r^a+a+r8a+a+r8  o5c8^>d8^d^g8r^c8^f  r^erdrc^
+;4
+
+l16
+{5}
+l16v60p54%e1|2r $5 o5<ar<dr>ar<d  
+r>a<dr>arg+arag+agrf+g  f+f8^d^r8^ar<dr>ar<d  r>a<dr>arg+argrg8^32f+gr  
+^32<c>a+8a8g8rar<dr>ar<dr  >a<dr>arg+ar<crc8^>agr  f8^dr4d8^^f8^g+  
+a4<c8^rd+rdr>g+a^f  r2^arfar4  arfar4arfg+arf4  d8^r8^arfar4ar  
+far4arfg+arg4  ^32f4^^32arfar4ar  far4arfg+arf4  d8r8^>a+<dfr>b<dfrg+ar  
+d8r8^>dfa+<d>g+arf^r4  ^8^
+;5
+
+l16
+{6}
+l16v100p60%e1|3r $6 o5>ar<dr>ar<dr>a<dr>a8  
+^r8ara8^rg^f8^d8  ^r8ar<dr>ar<d^>a<dr>a8  ^r8grg8r8g8<c8r4  >g8ar<dr>ar<dr>a<dr>ar4  
+<crcr8^>grf8^dr4  ^c+dd+eff+gg+aa+b<cr4  ^8^>g+arf^r2  ^[3ar8^ar8^ar8^ar8  
+^]ar8^ar8^a+r8^<cr8  ^>ddr8dr8^ddr8dr8  ^ddr8dr8^ddr8dr8  ^fr8^frffrdr2  
+c8rfr2
+;6
+
+l16
+{7}
+l16v80p64%e1r $7 |5o5c^v50|6f+  ^v80|5c^v50|6f+^v80|5c^v50|6f+^v80|5c^v50|6f+^[6v100|4c^v50|6f+  
+^v80|5c^v50|6f+^v80|5c^v50|6f+^v80|5c^v50|6f+^]v100|4d^v50|6f+  
+^v80|4ddv50|6f+v100|4dv80|5c^v50|6f+^v80|5c^v50|6f+^[7v80|5c^v50|6f+  
+^v80|5c^v50|6f+^v80|5c^v50|6f+^v80|5c^v50|6f+^]v100|4d^v50|6f+  
+^v100|4ddv50|6f+v100|4dv80|5c^v50|6f+^v80|5c^v50|6f+^
+;7
+
+l16
+{8}
+l16v80p64%e1r $8 |5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  o5c^|4d^|5c2^4  v100p84|7%r16c+1  
+^1  ^1  ^1  ^1  
+^1  ^1  v80p64|5c^|4d^|5c2^4  
+;8
+
+l16

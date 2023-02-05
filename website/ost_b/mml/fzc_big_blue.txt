@@ -1,0 +1,115 @@
+#TITLE Big Blue
+#ALBUM F-Zero Climax
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1E ## distortion guitar (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x12 ## cymbal (FF6)
+#WAVE 0x24 0x0B ## organ (FF6)
+#WAVE 0x25 0x1C ## bass (FF6)
+#WAVE 0x26 0x22 ## kick drum (FF6)
+#WAVE 0x27 0x21 ## hard snare (SOM)
+
+{1}
+l16t125%v25%e1%b0,70%f0,0v80p80|0o6>f8ff8ffff8ff8fff   $1 d+8d+d+8d+d+d+d+8d+d+8d+d+d+  
+f8ff8ffff8ff8fff  d+8d+d+8d+d+d+d+8d+d+8d+d+d+  f8ff8fffd+8d+d+8d+d+d+  
+d+8d+d+8d+d+d+f8ff8fff  f8ff8fffd+8d+d+8d+d+d+  d+8d+d+8d+d+d+r2  
+[4ffffffffffffffff  d+d+d+d+d+d+d+d+d+d+d+d+d+d+d+d+  ]c+c+c+c+c+c+c+c+d+d+d+d+d+d+d+d+  
+c+c+c+c+c+c+c+c+cccccccc  c+c+c+c+c+c+c+c+d+d+d+d+d+d+d+d+  f8ff8ffff8fffed+d+  
+[5c+2c+2  c2c2  ]c+2c+2  c2d+2  
+f8ff8ffff8ff8fff  
+;1
+
+l16
+{2}
+l16%e1v80p80 $2 |0o5c8cc8cccc8cc8ccc  
+>a+8a+a+8a+a+a+a+8a+a+8a+a+a+  <c8cc8cccc8cc8ccc  >a+8a+a+8a+a+a+a+8a+a+8a+a+a+  
+<c8cc8ccc>a+8a+a+8a+a+a+  a+8a+a+8a+a+a+<c8cc8ccc  c8cc8ccc>a+8a+a+8a+a+a+  
+a+8a+a+8a+a+a+<c8cc8ccc  [4o5cccccccccccccccc  >a+a+a+a+a+a+a+a+a+a+a+a+a+a+a+a+  
+]g+g+g+g+g+g+g+g+a+a+a+a+a+a+a+a+  g+g+g+g+g+g+g+g+gggggggg  g+g+g+g+g+g+g+g+a+a+a+a+a+a+a+a+  
+<c8cc8cccc8ccc>ba+a+  [5g+2g+2  g2g2  ]g+2g+2  
+g2a+2  
+;2
+
+l16
+{3}
+l16%e1p54@0r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^4^8^ $3 v44o6c8  c>a+a+g+g+gg+8g+ggffd+d+g8  ^g8g+gfm24,16,227d+4^8^m<c8>f  
+g+<cd+d>a+<m24,16,227c4^8m>g+a+<c>m24,16,227a+2  ^4^8^m<c8c>a+a+g+g+gg+8  
+g+ggffd+d+ggfg8g+gfm24,16,227d+4  ^8^m<c8>fg+<cd+d>a+<c8dc8  ^>g+a+<c>a+a+a+<cccc+c+m24,16,227d+2  
+mfc+>g+<c+fgg+g4^d+4  fc+>g+<c+fg<c>a+4^gg+gd+  c+8d+f8gg+<c>a+4gg+gd+  
+m24,16,227f2^4mr4  c>g+f<c>g+fg+<c>a+8a+<c8c>a+a+  gg+a+d+8<d+8c+cc+c>a+g+gfd+  
+m24,16,227c+1  mr1  <c+c+fc+c+fc+c+fc+c+fg+fc+>g+  <ccd+ccd+ccd+ccd+gd+cg  
+m24,16,227c+1  mr1  o4g+24a+24<c24>a+24<c24c+24c24c+24d+24c+24d+24f24d+24f24g24f24g24g+24g24g+24a+24g+24a+24b24  
+<c8d+c8>g+gg+<c8d+cgd+cg8  ^f8c^32>g+12<c12d+12c+12c12>g+12f^32g+<m24,16,227d+2  
+md+^32d+12d+12d+12c^32d+m24,16,227f1  v192,0^1  mr1  ^1  
+^1  ^1  ^1  ^2^4^8^
+;3
+
+l16
+{4}
+l16%e1v104p62|2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^4^8^<g+8   $4 g+ggffd+f8fd+d+c+c+ccd+  
+d+c+d+8fd+c+c4^8^g+8  cfg+<c>a+gg+8a+g+8^fgg+g  ggg+g+g+a+a+g2r1  
+^1  ^1  ^2^4c^32>b^32a+  g+1  
+r1  ^1  ^4^8^<d+8^c8>g^32f^32d+  f1  
+r1  ^2^4<d+8c+8  r2^4c+8c8  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^4^8^g+8  
+;4
+
+l16
+{5}
+l16%e1v120p64|3o5%r15c+1  
+c+1  c+1  c+1  c+2a2  
+a2c+2  c+2a2  a2c+4c+1  r1  
+^4c+1   $5 v104p62|2r2^4^8^o6c8  c>a+a+g+g+gg+8g+ggffd+d+g  gfg8g+gfd+4^8^<c8  
+>fg+<cd+d>a+<c8dc8^>g+a+<c>a+  a+a+<cccc+c+>a+2<f  c+>g+<c+fgg+g4^d+4f  
+c+>g+<c+fg<c>a+4^gg+gd+c+8  d+f8gg+<c>a+4gg+gd+f2  ^4f^32e^32d+c+1  
+r1  ^c+fgg+a+<cc+c8>fa+8fg+8  gcd+fgg+ga+8^g8d+^32c+^32c  c+1  
+r1  c+fg+c+fg+c+fg+c+fg+a+8g+8  cd+gcd+gcd+gcd+gg+8g8  r1  
+^2^4gd+cg8  ^f8c^32>g+12<c12d+12c+12c12>g+12f^32g+<d+2  d+^32d+12d+12d+12c^32d+f1  
+v192,0^1  r1  ^1  v104p64|3o5%r15c+2a2  
+a2c+2  c+2a2  a2c+2  c+1  
+r1  c+1  
+;5
+
+l16
+{6}
+l16%e1r1  ^1  
+^1  ^1   $6 |4v70p62o7fc>g+fcfg+<cd+>a+gd+>a+<d+ga+  <d+>a+ga+gd+ga+<fc>g+f<fc>g+f  
+<fc>g+fcfg+<cd+>a+gd+>a+<d+ga+  <d+>a+gd+ga+<d+>a+<c>a+g+gfd+c+c1  
+v192,0^2^r1  ^1  ^4^8^v120p64|3o5%r15c+1  
+r1  ^c+1  r1  c+2a2  
+a2c+2  c+2a2  [7r1  c+1  
+]c+1  c+1  c+1  
+;6
+
+l16
+{7}
+l16%e0v34p24 $7 |5o4[2f8ff8ffff8ff8fff  
+d+8d+d+8d+d+d+d+8d+d+8d+d+d+  ]f8ff8fffd+8d+d+8d+d+d+  d+8d+d+8d+d+d+f8ff8fff  
+f8ff8fffd+8d+d+8d+d+d+  d+8d+d+8d+d+d+c8cc8ccc  [4ffffffffffffffff  
+d+d+d+d+d+d+d+d+d+d+d+d+d+d+d+d+  ]c+c+c+c+c+c+c+c+d+d+d+d+d+d+d+d+  
+c+c+c+c+c+c+c+c+cccccccc  c+c+c+c+c+c+c+c+d+d+d+d+d+d+d+d+  f8ff8ffff8fffed+d+  
+[5c+2c+2  c2c2  ]c+2c+2  c2d+2  
+
+;7
+
+l16
+{8}
+l16%e0v120p64 $8 o5[3|6c8|7d8|6c8|7d8|6cc|7d8|6cc|7d8  
+]|6c8|7d8|6c8|7d8|6cc|7d8|6cc|7dd  [3|6c8|7d8|6c8|7d8|6cc|7d8|6cc|7d8  
+]|6c8|7d8|6c8|7d8|6c|7dddddd|6c  [11c8|7d8|6c8|7d8|6cc|7d8|6cc|7d8  
+]|6c8|7d8|6c8|7d8|6cc|7d8d^32d^32d  [3|6c8|7d8|6c8|7d8|6cc|7d8|6cc|7d8  
+]|6c8|7d8|6c8|7d8|6cc|7d8d^32d^32d  [8|6c8|7d8|6c8|7d8|6cc|7d8|6cc|7d8  
+]
+;8
+
+l16

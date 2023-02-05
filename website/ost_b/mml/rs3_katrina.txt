@@ -1,0 +1,92 @@
+#TITLE Katrina's Theme
+#ALBUM Romancing Saga 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x32 ## acoustic guitar (FF6)
+#WAVE 0x21 0x44 ## strings (RS3)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x30 ## wood block (FF6)
+#WAVE 0x24 0x2F ## shaker (FF6)
+#WAVE 0x25 0x2E ## conga 2 (FF6)
+#WAVE 0x26 0x17 ## conga (FF6)
+#WAVE 0x27 0x22 ## kick drum (FF6)
+#WAVE 0x28 0x65 ## tam (RS3)
+
+{1}
+l16t141%v22%b0,70%f0,0v102o5|0p60%e1%r17 $1 a4g+8a8r8c+8r8d8  
+^2a8.b8.<c+8  >b4a8g+8r8e8r8f+8  ^2f+8.e8.d8  c+4d8e8r8g+8r8f+8  
+^2f+8.g+8.a8  b4a8g+8r8f+8r8f+8  ^8f8d8c+2^8  a4g+8a8r8c+8r8d8  
+^2a8.b8.<c+8  >b4a8g+8r8e8r8f+8  ^2f+8.e8.d8  c+4d8e8r8g+8r8f+8  
+^2f+8.e8.d8  r32f+2^4.^^32  ^1  <d4c+8>b8r8a8r8a8  
+r8g+8r8a8r8b4.  <c4>b8a8r8g8r8g8  r8f+8r8g8r8a4.  a+4a8a+8r8<d8r8c8  
+r8>a+8r8a8r8g4.  a+4a8c2^8  a4g8d2^8  g4.f+8r8g8r8r32a^32  
+^1  
+;1
+
+l16
+{5}
+l16v98o5|0p68%e1%r17 $2 f+4.e8r4.>a8  ^2<f+2  e4.r4>b8r8<c+8  
+^1  >g+4.a8r4.<c+8  ^2d2  f+4.d8r4.>b8  
+^4.g+2^8  <f+4.e8r4.>a8  ^2<f+2  e4.r4>b8r8<c+8  
+^1  >g+4.a8r2  r8<c+48d8.^24c+8>b2  <c+1  
+^1  a4r8f+4r4e8  r8d8r8e8r8d4.  g4r8e4r4d8  
+r8c8r8d8r8c4.  f4r8f4r4g8  r8d8r8e8r8e4.  r1  
+r1  r2r8e8r8d8  ^1  
+;2
+
+l16
+{2}
+l16v27|1p40%e1 $3 %a8o4c+1  
+d1  e1  f+1  e1  
+f+2^4e4  d1  f8f+4g+4.d4  c+1  
+d1  e1  f+1  e1  
+f+2^8.e8.d8  c+1  ^8>b8<c+8d4.e4  v30f+2a2  
+b1  e2g2  a1  d2f2  
+g4.a4.a+4  <c1  c2>a+2  a+4.a2^8  
+r8<%a8d8>a8<a2^r  
+;3
+
+l16
+{3}
+l16v27o3|1p88%e1%a8 $4 o3f+1  a1  
+b1  <c+1  >b1  <c+2^4>b4  
+a1  g+8a4b4.g+4  f+1  a1  
+b1  <c+1  >b1  <c+2^8.>b8.a8  
+a+2g+2  f+4.g+4.a+4  v30b2<d2  e2d2  
+>a2<c2  d2c2  >g2a+2  <c4.d4.e4  
+f4.e4d8c4  d+4.d4c8>a+4  <d1  r8f+2^4r8  
+
+;4
+
+l16
+{4}
+l16v96|2p64%a10 $5 o5f+2^4r8f+8  b2^8.a8.b8  <c+2^4r8c+8  
+d2d8.c+8.>b8  a2^4r8a8  <d2^8.d8.c+8  >b2^4r8b8  
+<c+2>b8.a8.g+8  f+2^4r8f+8  b2^8.a8.b8  <c+2^4r8c+8  
+d2d8.c+8.>b8  a2^4r8a8  g2<g8.d8.>g8  f+2^4r8f+8  
+f+4.g+4.a+4  b4r8b8b4r8<e8  ^8d8e8>b4<c+8d4  >a4r8a8a4r8<d8  
+^8c8d8>a4b8<c4  >g4r8g8g4r8<c8  ^8>a+8<c8>g4a8a+4  <f4.c4f4.  
+d+4.>a+4<d+4.  d4r8d8d4.>a8  ^8<d8>a8<d4>a8g+4  
+;5
+
+l16
+{7}
+l16 $6 [32|4p108o5v18%a10%r26%e1r4b4][20|3%y%e0p60v26o6c4|4%a10%r26%e1p102v21>b4  
+]
+;6
+
+l16
+{6}
+l16o5 $7 r4|6v31p36g+4g+4|5v61p46d8d8  r8|6v31p36g+8r4g+4|5v61p46d8d8  
+
+;7
+
+l16
+{8}
+l16o5 $8 [15|7p64v53a4r8a8a2  ]a4r8a8a8|8%r17v59p70a8p78d8r8  
+[9|7%yv56p64a4r8a8a2  ]|8%r17v59r8p70a8^8p78d8p70a8a8p78d8|7%yv58a8  
+
+;8
+
+l16

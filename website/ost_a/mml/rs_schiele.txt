@@ -1,0 +1,104 @@
+#TITLE Battle With Schiele
+#ALBUM Romancing Saga
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x44 ## strings (RS3)
+#WAVE 0x21 0x02 ## electric bass (FF6)
+#WAVE 0x22 0x0F ## hihat closed (FF6)
+#WAVE 0x23 0x11 ## hihat opened (FF6)
+#WAVE 0x24 0x21 ## hard snare (SOM)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x12 ## cymbal (FF6)
+#WAVE 0x27 0x35 ## melodic tom (UNK)
+#WAVE 0x28 0x48 ## trumpet (RS3)
+
+{1}
+l16t154%x255%v36%v36v109p32o5%e1|0[2v109d+v103c>f+<c][2v109dv103>a+fa+<]>[2v109<c>v103ad+a][2v109a+v103gdg  
+]v109av103d>a+<d[2v109gv103d>a+<dj2,1 v109fv103d>a+<d] $1 v109f8r8  
+e2^4^2  ^4r4 $4 [4r4%l1f8er4  ^%l1f8gr]a2a+2  <c+2d4>a+4  
+[2v111[2r4%l1f8er4^%l1f8gr  ]v109j2,2 g2a2  a+2<c+4>a4  ] $2 f+1  
+a1  <c2^8.d+8.g^  f+4e4d4c4  d2^4c4  
+>b4b4g4e4  [3r4%l1f8er4^%l1f8gr  ]v111r4<dc+dfed+egfefa  [2g8.a8.f+8g8.a8.f+8  
+g8.a8.a+8<c8>a+8a8g8  f8.g8.e8f8.g8.e8  f8.g8.a8a+8a8g8f8  e8.f8.d8e8.f8.d8  
+e8.f8.j2,3 g8a8g8f8e8  f4.efg8.e8.c8  a2^4r4  ] $3 a+8a4c+4v109>
+;4
+
+l16
+{2}
+l16v109p63o4%e1|0[2v109av103f+cf+][2v109gv103d  
+>a+<d][2v109f+v103d+>a<d+][2v109fv103d>g<d][4v109dv103>a+ga+<]c+8  
+r8c+2^4^2  ^4r4 $7 [4r4%l1d8c+r4  ^%l1d8er]f2g2  a2a+4g4  
+[2v111[2r4%l1d8c+r4^%l1d8er  ]v109>j2,5 a+2<c+2  e2g4c+4  ] $5 a1  
+<c1  d+2^8.c8.<^8  >a4g4f+4d4  a+8a8a+8g8f+8g8f4  
+d4d4>a+4g4  <[3r4%l1d8c+r4^%l1d8er  ]v111r4f4g4a4  [2a+8.<c8.>a8a+8.<c8.>a8  
+a+8.<c8.d8e4c4  >a8.a+8.g8a8.a+8.g8  a8.a+8.<c8d4>a+4  g8.a8.f8g8.a8.f8  
+g8.a8.j2,6 a+8<c+4>a4  a8.a8.a8a+8.a+8.a+8  <c8.c8.c8dd+dc>a+<c>a+a  
+] $6 <d8c+8r4.>v109
+;7
+
+l16
+{3}
+l16v111p94o3%e1|0r8ara4  r8grg4r8f+rf+4  
+r8frf4[4e8r8]a8r8  a1  ^2r4 $8 v114[24da<d>a  ][16a<eae>][8da<d>a]v111d1  
+^1  d1  d4d4e4f+4  g2^4f4  
+e4e4c+4>a4  <v114[12da<d>a]v117d4<d4e4  f4>g1  <c1  
+>f1  a+1  e1  ^4e4g4a4  
+d8.d8.d8e8.e8.e8  f8.f8.f8d4>a4  <g1  <c1  
+>f1  a+1  e1  e8.e8.e8>a8r4.  
+<
+;8
+
+l16
+{4}
+l16p63%e1[9r1  ] $10 o5v104|8m75,24,24d8.c+8.d8e8.d8.e8  
+f8.e8.f8g8f8e8d8  e4.c+8>a2  ^2^4^8r8  <e8.d8.e8f8.e8.f8  
+g8.a8.a+8a8g8f8e8  g4.a8f2  ^2^4^8r8  d4.c+dd+8d8c+8d8  
+f+4.ff+g8f+8f8f+8  a8.a+8.g+8a8.<c8.d+8  d4c4>a+4a4  <c4.>a+4.a4  
+g+4f4e4c+4  d1  ^2v255,0^2  mr1  
+r1  v113o4p45|0[2[4dcd>a+<][4edec]>[4agaf]<[4dcd>a+  <]>j2,9 [5aa+ag]a+<c+>a+g<c+ec+>a<egec+  
+[2c8.c8.c8]e8.e8.e8  f+2] $9 [4aa+ag]a+8.<d8.  g8e8r4.<e1  ^2v255,0^2  
+r1  r1  
+;10
+
+l16
+{5}
+l16v127p63o4|1%e0r8ara4r8grg4  r8f+rf+4r8frf4  
+[4e8r8]a8r8a1  ^2 $14 <m48,-6g4[24d8<dr  >][16a8<ar>][8d8<dr>][2[12d8<d8>]d4  
+d4e4j2,11 f+4[3g8<g8  >]f8<f8>e4<e4c+4  >a4] $11 f4[2[4g8<grj4,12 >] $12 [4c8<cr  
+>]>[4f8<fr>][4a+8<a+r>]j2,13 [4e8<er>][4a8<ar  >]d2e2  f2d4m48,-6d4  
+] $13 [4e8<er>]e8.e8.e8>a8r8  
+;14
+
+l16
+{6}
+l16v113p63%e1o5|6[2p32d2p94d+2  
+]p34d1  p92d+4p34d1  r2^4d1  
+^2 $15 r2  r1  r1  [2p34d1  
+^2r2  r1  r1  ]>|0v109p63[4dcd>a<][4f+ef+d][4agaf+]<v113d>af+d  
+<c>geca+ed>a+<af+d>a<<|6p94d+1  p32d4p94d+4p32d2  p94d+1  ^2r1  
+^2p32d4p94d+4  p32d2p94d+1  ^2[9r2  ]p32d2p94d+2  
+p32d4p94d+4p32d2  p94d+1  ^2[7r2  ]p32d8.d8.p94d+8p32d2  
+p94d+1  ^2
+;15
+
+l16
+{7}
+l16v87%e0o5[5r1  ] $17 p32[48|2dd|3d8]%e1v113|6g1  
+%e0v87|2[8drdd]v113|6g4p92a4p32g2  v87|2[4drdd]r2^^[2v115|7p32ee  
+p63c+c+>p94a+a+<j2,16 v87p32[12|2dd|3d8]r^v115|7p34epp63c+8.c+>p92a+4  
+r4^<v87p32|2[24drdd]v115|7r8[2p32eep63c+c+>p94a+  a+8.<]r2^4^  ^v87p32|2[20drdd]r2^^] $16 
+;17
+
+l16
+{8}
+l16v115p63%e0o4|5[14a4  
+]r1  r4.<|4aa $22 >|5[15a4]a8<|4aa  >[2[2|5a4<|4a4>|5a8a8<|4a4  
+>|5a4<|4a8>|5a4a8<j2,18 |4a4  >] $18 |4a8j2,19 >|5a8] $19 aa[3>|5a4<|4a4>|5a8  
+a8<|4a8j3,20 r8] $20 [3aa>|5a8<|4][6a]>|5a4<|4a4  >|5a8a8<|4a8aa>|5a4<|4a4  
+>|5a8<|4[6a]>|5[11a4]a8<|4aa>|5a4a4  a8<|4[6a][6>|5a4<|4a4>|5a8a8<|4a8  
+j6,21 r8] $21 aa>[2|5a2]<[3>|5a8<|4aa  ][4a][5>|5a4<|4a4>|5a8a8<|4a4  
+]a8.a8.a8a8>|5aa<|4a4  
+;22
+
+l16d+8d+8

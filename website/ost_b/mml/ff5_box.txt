@@ -1,0 +1,31 @@
+#TITLE Music Box
+#ALBUM Final Fantasy V
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x6B ## music box (CT)
+
+{1}
+l16t95%v20%e1%b0,70%f0,0 $1 v70p65|0o5b4<c8d4c8>b4  <c8>a4<c8>b8a8g8a4  
+<c8>b4^8a4^8b4  <c8d4c8>b4<c8>a4  <c8>b8a8g8a8g8f+8g2  ^4<d4c8>b4g8  
+<d4c8>b4a8g4  g8g8f+8g8b4^8a4  ^8<d4c8>b4g8<d4  c8>b4a8g4g8g8  
+f+8g8b4<c8>a4^8  
+;1
+
+l16
+{2}
+l16%e1 $2 v50p62|0o5r8d4^8d4^8d4  
+^8d2^4d4  ^8d8g4d8f+4d4  ^8d4^8d4^8d1  
+^8>b8<d8>g4^8<a4  f+8g4d8a4f+8g4  f+8e4^8d4^8c8  e8g8f+4^8d8e8f+8  
+g8f+8e8a8b8a8g4  f+8e4^8c+4^8d4  ^8f+4^8
+;2
+
+l16
+{3}
+l16%e1 $3 v60p60|0o5>g4^8a4  
+^8b4^8<c4^8>b4  ^8a4^8g4^8f+4  ^8g4^8a4^8b4  ^8<c4^8>b4^8a4  
+^8g4^8r4^8f+8  a8<d8>g4^8f+8a8<d8  >e8g8b8<c4^8>b4  ^8a4^8a8b8<c8>d4  
+d+8e4^8f+4^8g8  a8b8<c+4^8>a4^8  d8f+8a8<d4^8
+;3
+
+l16

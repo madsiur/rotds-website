@@ -1,0 +1,119 @@
+#TITLE Strange Medicine
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x28 0x7A ## kick (SOM)
+#WAVE 0x29 0x21 ## hard snare (SOM)
+#WAVE 0x2A 0xCC ## matal bang (SD3)
+#WAVE 0x2B 0x53 ## synth strings (RS3)
+#WAVE 0x2C 0xB8 ## grand piano (SD3)
+#WAVE 0x2D 0x84 ## flute (SOM)
+#WAVE 0x2E 0x9F ## brass (SD3)
+
+{1}
+l16t120%v32%b0,70%f0,0 $1 v73|8p64o5aa|9a|8aa|9ar|8araar|9ar|8aa  
+|9a|8aa|9a[3r|8p64o5a]|9a|8a[3|8p64o5aa|9a|8aa|9ar|8a  raar|9ar]|8aa|9a|8aa|9a[3r|8p64o5a]|9a|8a  
+aa|9a|8aa|9ar|8araar|9ar|8aa  |9a|8aa|9ar|8araar|9a8|8aa|9a|8a  
+a|9ar|8araar|9ar|8aa|9a|8aa|9a  [3r|8p64o5a]|9a|8aaa|9a|8aa|9a|8a32a32a32a32a[2aaa  
+r]aaraa|9a[5|8p64o5a]raaaraar  aaa32a32|9a|8aa|9a|8aa|9ar|8araar  
+|9ar|8aa|9a|8aa|9a[3r|8p64o5a]|9a|8a[3|8p64o5aa|9a|8a  a|9ar|8araar|9ar]|8aa|9a|8aa|9a  
+[3r|8p64o5a]|9a|8aaa|9a|8aa|9ar|8araar  |9ar|8aa|9a|8aa|9ar|8araar|9a8  
+|8aa|9a|8aa|9ar|8araar|9ar|8aa  |9a|8aa|9a[3r|8p64o5a]|9a|8aaa|9a|8aa|9a|8a32a32a32a32  
+a[2aaar]aaraa|9a[5|8p64o5a]raaa  raaraaa32a32|9a8|8aara32a32aaa  
+|9a8|8a24a24a24v47av73a|9a4|8aara32a32|9a8  [2|8av55arav73|9a8v55|8aarv73arv55av73|9a8v55|8ar  
+v73av55arav73|9a8v55|8aarv73arv55av73|9av55|8arv73|9a  |8av55arav73|9a8v55|8aarv73arv55av73|9a8v55|8ar  
+v73av55arav73|9a8v55|8aarv73arv55av73|9av55|8av39av73|9a  ]|8a8.v55av73|9a8v55|8aarv73arv55av73|9a8v55|8ar  
+v73aarv55av73|9a8v55|8arv73a8.v55av73|9a8v55|8aa  rv73arv55av73|9a8v55|8arv73a32a32a32a32|9a8|8a24a24a24|9aa  
+
+;1
+
+l16
+{2}
+l16 $2 %e1|A[2o5v73av47av73av47aa][4v73o5av47a][2o5av73av47av73av47a][5v73o5av47av73av47a  
+[2o5av73av47av73av47a]][2v73o5av47av73av47aa]v73av47av73a32a32a32a32[3v73o5av47a  
+a][2v73o5av47av73aav47aa][2v73o5av47aa]v73av47av73aav47aa  v73av47a[2v73o5aar8.ar8arar8a  
+ar]a[2v73o5av47av73av47aa][7v73o5av47a[3v73o5av47a]av73av47av73a  
+v47aa]v73av47av73a32a32a32a32[3v73o5av47aa]v73av47av73aav47aav73a  
+v47av73a[3v73o5av47aa]v73av47av73aav47aav73av47a[2v73o5aar8.  ar8arar8aar]arar8  
+aa32a32a32a32aav47av73av47aarv73av47aaav73av47a  v73av47av73a32a32a32a32[3o5av47a[2v47o5aav73a]v47aaaav73av47av73a  
+aav47a[2v47o5aav73a]v47aaaav73aav47av73a]av47a  [2v47o5aav73a]v47aaaav73av47av73aaav47a[2v47o5aav73a  
+]v47aaaav73aaa32a32a32a32[5v47o5aav73av47a]a32a32a32a32[5v73o5av47a  
+aa]v73av47aa32a32a32a32v73av47a
+;2
+
+l16
+{3}
+l16 $3 p80%e1|Bo4v73b4.^a+4.  
+^<d8^4^>a4.^g+4  ^8.g2^4^  ^2<c4.^>b  ^4.<d+4.^d8.  
+^4f4.^c+4^  ^1  |Em3,4,25>v73o5f8.e8.d+8.g+rg+dc+c>b  <cc+g8.f+8.f8.a+ra+ed+  
+dc+dd+m|Dv73o4aa+<ed+dag+grdc+c  re>b<cdd+gf+f<c>ba+r<d>g+g  rbf+f|B>v73o4b4.^a+4^  
+^8<d4.^>a4.^  g+4.^g2^  ^2^4<c4  ^8.>b4.^<d+4.  
+^d4.^f4.^c+  ^1  ^4|Em3,4,25>v73o5f8.e8.d+8.g+rg+  dc+c>b<cc+g8.f+8.f8.a+  
+ra+ed+dc+dd+m|Dv73o4aa+<ed+dag+g  rdc+cre>b<cdd+gf+f<c>ba+  r<d>g+grbf+frad+drf+c+c  
+>b4^ra+2^8  aa+<c+dede8.defe32f32e32d32c+>a+  aa+<c+dede8.defgec+>a+  
+a8a+ga<arara+ga+arer  >a8a+ga<arara+ga+afec+  >aa+<c+dede8.defe32f32e32d32c+>a+  
+aa+<c+dede8.defg32f32e32d32c+>a+  a8a+ga<arara+ga+arer  >a8a+ga<arara+ga+a4  
+r8efgfedefgagfed  c+dc+>a+aa+agar<efgfed  efgg+a+b<c+dec+>a+agfed  
+
+;3
+
+l16
+{4}
+l16 $4 p96%e1|Bo5v73e4.^d+4.^g8  ^4^d4.^c+4  ^8.c2^4^  
+^2f4.^e  ^4.g+4.^g8.  ^4a+4.^f+4^  ^1  
+f8.e8.d+8.g+rg+dc+c>b  <cc+g8.f+8.f8.a+ra+ed+  dc+dd+>aa+<ed+dag+grdc+c  
+re>b<cdd+gf+f<c>ba+r<d>g+g  rbf+fe4.^d+4^  ^8g4.^d4.^  c+4.^c2^  
+^2^4f4  ^8.e4.^g+4.  ^g4.^a+4.^f+  ^1  
+^4f8.e8.d+8.g+rg+  dc+c>b<cc+g8.f+8.f8.a+  ra+ed+dc+dd+>aa+<ed+dag+g  
+rdc+cre>b<cdd+gf+f<c>ba+  r<d>g+grbf+frad+drf+c+c  >b4^ra+2^8  aa+<c+dede8.defedc+>a+  
+aa+<c+dede8.defgec+>a+  a8a+ga<arara+ga+arer  >a8a+ga<arara+ga+afec+  
+>aa+<c+dede8.defedc+>a+  aa+<c+dede8.defgec+>a+  a8a+ga<arara+ga+arer  
+>a8a+ga<arara+ga+a4  r8efgfedefgagfed  c+dc+>a+aa+agar<efgfed  efgg+a+b<c+dec+>a+agfed  
+
+;4
+
+l16
+{5}
+l16 $5 p32%e1|Co5v73e8f8f+g8e8ef8f+ge8  f8f+g8e8.f8f+ge8f8  
+f+g8e8ef8f+ge8f8f+g  ^e8.f8f+ge8f8f+g8e  ^ef8f+ge8f8f+g8e8.  f8f+ge8f8f+g8e8ef8  
+f+ge8f8f+g8e8.f8f+g  f8.e8.d+8.g+rg+dc+c>b  <cc+g8.f+8.f8.a+ra+ed+  
+dc+dd+>aa+<ed+dag+grdc+c  re>b<cdd+gf+f<c>ba+r<d>g+g  rbf+f[2o5e8f8f+g8e8ef8  
+f+ge8f8f+g8e8.f8f+g  ]e8f8f+g8e8ef8f+ge8  f8f+g^e8.f8f+ge8f8  f+g8e^ef8f+ge8f8f+g8  
+e8.f8f+gf8.e8.d+8.  g+rg+dc+c>b<cc+g8.f+8.f8.  a+ra+ed+dc+dd+>aa+<ed+dag+  
+grdc+cre>b<cdd+gf+f<c>b  a+r<d>g+grbf+frad+drf+c+  c>b4^ra+2^8  
+a4a4aa8a+a8a+r  a4a4aa8a+a8<e>g  a4a4aa8a+aaa+r  a4a4aa8a+a<de>a+  
+a4a4aa8a+a8a+r  a4a4aa8a+a8<e>g  a4a4aa8a+aaa+r  a4a4aa8a+a<e>a+a+  
+[6o4a]a+aa<ee>aa+aagaaaa<e  >aaa+[6o4a]a+aa<ee>aa+aaga8  a+b<cc+dd+
+;5
+
+l16
+{6}
+l16 $6 p48%e1|Co4v73e8f8f+g8e8e  
+f8f+ge8f8f+g8e8.f8  f+ge8f8f+g8e8ef8f+g  e8f8f+g^e8.f8f+ge8  f8f+g8e^ef8f+ge8f8  
+f+g8e8.f8f+ge8f8f+g8  e8ef8f+ge8f8f+g8e8.  f8f+g|Em3,4,25v73o6f8.e8.d+8.g+rg+  
+dc+c>b<cc+g8.f+8.f8.a+  ra+ed+dc+dd+>aa+<ed+dag+g  rdc+cre>b<cdd+gf+f<c>ba+  
+r<d>g+grbf+fm|Cv73[2o4e8f8f+g8e8  ef8f+ge8f8f+g8e8.f8  f+g]e8f8f+g8e8ef8f+g  
+e8f8f+g^e8.f8f+ge8  f8f+g8e^ef8f+ge8f8  f+g8e8.f8f+g|Em3,4,25v73o6f8.e8.  
+d+8.g+rg+dc+c>b<cc+g8.f+8.  f8.a+ra+ed+dc+dd+>aa+<ed+  dag+grdc+cre>b<cdd+gf+  
+f<c>ba+r<d>g+grbf+frad+d  rf+c+c>b4^ra+2  ^8>aa+<c+dede8.defed  
+c+>a+aa+<c+dede8.defge  c+>a+a8a+ga<arara+ga+ar  er>a8a+ga<arara+ga+af  
+ec+aa+<c+dede8.defe32f32e32d32  c+>a+aa+<c+dede8.defg32f32e32d32  
+c+>a+a8a+ga<arara+ga+ar  er>a8a+ga<arara+ga+a4  r8efgfedefgagfed  
+c+dc+>a+aa+agar<efgfed  efgg+a+b<c+dec+>a+agfed  m
+;6
+
+l16
+{7}
+l16
+;
+
+l16
+{8}
+l16
+;
+
+l16
+;
+
+l16

@@ -1,0 +1,88 @@
+#TITLE Eiko's Theme
+#ALBUM Final Fantasy IX
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x01 ## spanish guitar (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x08 ## french horn (FF6)
+#WAVE 0x23 0x17 ## conga (FF6)
+#WAVE 0x24 0x1C ## bass (FF6)
+
+{1}
+l16t104%v32v80p63%e1%b0,70%f0,0|0o4[2r1  ]d6a12<g6>a12d6a12<f+6>a12  
+d6a12<e6>a12d6a12<d6>a12   $1 [2o4b12<d12g12b6g12a6b12^4  >b12<e12g12b6g12a6b12^4  
+c12e12g12<c6>e12g6<c12^4  >>b12<d12f+12b6d12f+6b12^4  c12e12g12<c6>e12g6<c12^4  
+>>b12<d12g12b6d12g6b12^4  >a12<c12e12a6c12e6a12^4  >a12<d12g12<d4>>a12<d12f+12<c4  
+>>b12<d12f+12b12f+12d12f+6b12^4  >b12<e12g12b12g12e12g6b12^4  c12e12a12<c12>a12e12a6<c12^4  
+>c12d+12g12<c12>g12d+12g6<c12^4  >>b6<d12g6d12>b6<d12b12g12d12  
+c6e12g6e12c6e12<c12>g12e12  >b12<d12g12b6d12g6b12^4  >g12b12<d12g6>b12<d6g12^4  
+][2e6g12<d6>g12][2e6a12<c+6>a12  ][2e6g12<d6>g12]e6a12<c+6>a12  
+b12<c+12>a12<e6c+12>e6a12<c6>a12  b12<c12>a12<e6c12>f+6b12<d6>b12  
+<c+12d12>b12<f+6d12>e6g12<c6>g12  <e4f+4g12c+12>a12f+12a12<c+12  
+>d12a12<c12f+4
+;1
+
+l16
+{2}
+l16v24p63%e1|1o6[2g4g6f+4  f+12f+6f+12e4e6f+4  
+f+12f+6f+12] $2 [2[2g4g6g4  g12g6g12]e4e6e4  e12e6e12f+4f+6f+4  
+f+12f+6f+12e4e6e4  e12e6e12g4g6g4  g12g6g12e4e6e4  e12e6e12g4g6f+4  
+f+12f+6f+12f+4f+6f+4  f+12f+6f+12[2e4e6e4  e12e6e12]d+4d+6d+4  d+12d+6d+12g4g6g4  
+g12g6g12e4e6e4  e12e6e12[2g4g6g4  g12g6g12]][4r1  ]r4e6e12r4e4  
+r4f+6f+12r4f+4  e1  >>a6<e12a6<e12>>a6<d12a6<f+12  
+;2
+
+l16
+{3}
+l16v24p63%e1|1o6[4d4d6d4d12d6d12  
+] $3 [2d4d6d4d12d6d12  e4e6e4e12e6e12  [3c4c6c4c12c6c12  d4d6d4d12d6d12  
+]d4d6d4d12d6d12  >b4b6b4b12b6b12  <[2c4c6c4c12c6c12  ]d4d6d4d12d6d12  
+c4c6c4c12c6c12  [2d4d6d4d12d6d12  ]][2>[32b32]<[32c+32]]r4r4c6c12r4  
+c4r4d6d12r4  d4c1  r1  
+;3
+
+l16
+{4}
+l16p63%e1v24|1o5[4a4a6a4a12a6a12  
+] $4 [2[2b4b6b4b12b6b12  ][2g4g6g4g12g6g12  b4b6b4b12b6b12  ][2a4a6a4a12a6a12  
+]b4b6b4b12b6b12  [3g4g6g4g12g6g12  ]b4b6b4b12b6b12  g4g6g4g12g6g12  
+b4b6b4b12b6b12  a4a6a4a12a6a12  ][128e32]r4a6a12r4a4  r4b6b12r4b4  
+a1  r1  
+;4
+
+l16
+{5}
+l16p63%e0v50|4o5[2d1  ^1  
+]> $5 [2g2^4f+4  e2b2  <c2>g2  b2f+2  
+<c2>g2  g2<d2  >a2e2  <d2>a2  
+b2f+2  e2b2  a2e2  <c2>g2  
+g2<d2  c2>g2  [2g2<d2  >]][2e2^4<d4  
+>a1  ]a1  b1  c2c4b4  
+a2<d2  >
+;5
+
+l16
+{6}
+l16p63%e1v60|2o5 $6 [2[12r1  ]b2<d2  >g1  
+<c2e2  >a1  ][4r1  ]>b1  
+<c+1  >b2<e4d4  c+1  
+;6
+
+l16
+{7}
+l16p63%e1v60|2o5 $7 [2[12r1  
+]d2f+2  >b1  <e2g2  d+1  
+][4r1  ]>g1  a1  g2b4b4  
+a1  <
+;7
+
+l16
+{8}
+l16v50p63%e1|3o5[3r1  ] $8 [17r1  ][2[3c4e6e12d6d12e6c12  
+]c12c12c12e6e12d6d12e6c12  ][2c4e6e12d6d12e6c12  c12c12c12e6e12d6d12e6c12  
+][2[3c4e6e12d6d12e6c12  ]c12c12c12e6e12d6d12e6c12  ][2c4e6e12d6d12e6c12  
+]c4r2^4  
+;8
+
+l16

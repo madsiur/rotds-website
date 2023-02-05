@@ -1,0 +1,71 @@
+#TITLE Island in the Void
+#ALBUM Lufia 1
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x02 ## electric bass (FF6)
+#WAVE 0x22 0x16 ## timpani (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x12 ## cymbal (FF6)
+
+{1}
+l16%v32t101%v32v120p63%e1%b0,70%f0,0|0o5^1  ^1  e2>a2  <e4^8dea4e8c8  
+>b4^8b<cd4d8d+8  e2>b2  <e2>a2  <e4^8dea4e8c8  
+>b4^8b<cd4c8>b8   $1 a1  r1  ^1  
+<e2>a2  <e4^8dea4e8c8  >b4^8b<cd4d8d+8  e2>b2  
+<e2>a2  <e4^8dea4e8c8  >b4^8b<cd4c8>b8  
+;1
+
+l16
+{2}
+l16%v32v120p63%e1|0o5>a8r8a8r8a8r8a+rgr  
+a8r8a8r8a8r8a+rgr  a8r8a8r8a8r8arar  g8r8g8r8g8r8grgr  f8r8f8r8f8r8frfr  
+e8r8e8r8e8r8frgr  a8r8a8r8a8r8arar  g8r8g8r8g8r8grgr  f8r8f8r8g8r8grg+r  
+ $2 a8r8a8r8a8r8a8r8  a8r8a8r8a8r8a+rgr  a8r8a8r8a8r8a+rgr  a8r8a8r8a8r8arar  
+g8r8g8r8g8r8grgr  f8r8f8r8f8r8frfr  e8r8e8r8e8r8frgr  a8r8a8r8a8r8arar  
+g8r8g8r8g8r8grgr  f8r8f8r8g8r8grg+r  
+;2
+
+l16
+{3}
+l16%v32v120p60%e0|1o5a2^4^8ar  
+a2^4^8ar  a2^4^8ar  g2^4^8gr  f2^4^8fr  
+ $3 e1  a2^4^8ar  g2^4^8gr  f2g2  
+a1  a2^4^8ar  a2^4^8ar  a2^4^8ar  
+g2^4^8gr  f2^4^8fr  
+;3
+
+l16
+{4}
+l16%v32v120p63%e1|0o5>e8r8e8r8e8r8frdr  
+e8r8e8r8e8r8frdr  e8r8e8r8e8r8erer  d8r8d8r8d8r8drdr  c8r8c8r8c8r8crcr  
+>b8r8b8r8b8r8<crdr  e8r8e8r8e8r8erer  d8r8d8r8d8r8drdr  c8r8c8r8d8r8drd+r  
+ $4 e8r8e8r8e8r8e8r8  e8r8e8r8e8r8frdr  e8r8e8r8e8r8frdr  e8r8e8r8e8r8erer  
+d8r8d8r8d8r8drdr  c8r8c8r8c8r8crcr  >b8r8b8r8b8r8<crdr  e8r8e8r8e8r8erer  
+d8r8d8r8d8r8drdr  c8r8c8r8d8r8drd+r  
+;4
+
+l16
+{5}
+l16%v32v80p24%e1|2^4^8o3aaa8a8a8a8  
+r4^8aaa8a8a8a8  r4^8aaa8a8a8a8  r4^8ggg8g8g8g8  r4^8fff8f8f8f8  
+ $5 r4^8eee8e8%g1e32e32e32e32e32e32e32e32  %g0r4^8aaa8a8a8a8  r4^8ggg8g8g8g8  
+r4^8ffg8g8g8g+8  r4^8aaa8a8%g1a32a32a32a32a32a32a32a32  %g0r4^8aaa8a8a8a8  
+r4^8aaa8a8a8a8  r4^8aaa8a8a8a8  r4^8ggg8g8g8g8  r4^8fff8f8f8f8  
+
+;5
+
+l16
+{6}
+l16%v32v70p50%e1|3o5d4ddddd8d8r8d8  d4ddddd8d8r4   $6 d4ddddd8d8r8d8  
+d4ddddd8d8r4  
+;6
+
+l16
+{7}
+l16%v32v80p84%e1|4%r15o5 $7 c+1  ^1  
+
+;7
+
+l16

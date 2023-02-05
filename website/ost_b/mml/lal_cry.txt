@@ -1,0 +1,88 @@
+#TITLE Cry
+#ALBUM Live A Live
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x03 ## wind flute (FF6)
+#WAVE 0x21 0x0A ## oboe (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+#WAVE 0x24 0x06 ## chorus (FF6)
+#WAVE 0x25 0x19 ## pizzo string (FF6)
+
+{1}
+l16t91%x240p0%k247%v50%b0,70%f0,0%e1m30,22,207|0 $1 r8v45o5d4d+4a+4.  
+^4.%l1g+a+%l0g+4g8f8  g8.<dd2^4  %r17^4.%yf4d+4d8  c1  
+%r17^4.%yf4d+4%l1dd+  %l0d4.^24%l1d+24d24%l0c2  ^2%r17^4%yv48,37d+8f8  
+v52g6f6d+6c2  f6d+6d6>a+2  <c1  ^4%r11^2%yv48,40d+8f8  
+v52g6f6d+6c2  f6d+6d6>a+2  <c1  ^4%r11^2^4  
+%y
+;1
+
+l16
+{2}
+l16p127%k247%e1m30,22,207|1 $2 r8v30o5d4d+4a+4.  
+^4.%l1g+a+%l0g+4g8f8  g8.<dd2^4  %r17^4.%yf4d+4d8  c1  
+%r17^4.%yf4d+4%l1dd+  %l0d4.^24%l1d+24d24%l0c2  ^2%r17^4%yv48,27d+8f8  
+v37g6f6d+6c2  f6d+6d6>a+2  <c1  ^4%r11^2%yv48,30d+8f8  
+v37g6f6d+6c2  f6d+6d6>a+2  <c1  ^4%r11^2^4  
+%y
+;2
+
+l16
+{3}
+l16p64%k247%e1|2 $3 v82o5c1  >a+1  g+1  g1  
+f1  g1  <c1  ^8>%l1g8<d+8d8%l0c4v97>g4  
+g+1  a+1  <c1  ^2^4>g4  
+g+1  a+1  <c1  ^2^4>g4  
+
+;3
+
+l16
+{4}
+l16%k247%e1|3 $5 v90o4p0p192,127c8g8<c8d8d+8g8<c8>g8  
+p0p192,127>>a+8<f8a+8<c8d8f8a+8f8  p0p192,127>>g+8<d+8g+8a+8<c8d+8g+8d+8  
+p0p192,127>>g8<d8g8a8a+8<d8g8a8  p0p192,127>>f8<c8f8g8g+8<c8f8g8  
+p0p192,127>>g8<d8g8a8b8<d8g8f8  p0p192,127>c8g8<c8d8d+8g8<c8d8  
+p127p192,0d+8>b8<c8>g8f8d+8d12c12>g12  [2p0p192,127>g+<d+g+a+<cd+a+g+p127p192,0<c>gg+d+c>a+g+d+  
+p0p192,127>a+<fa+<cdf<c>a+p127p192,0<d>aa+fdc>a+f  p0p192,127cg<cdd+g<dcp127p192,0d+>b<c>gd+dc>g  
+p127p192,0<<d12c12>g12d+12d12c12>g12d+12d12>j2,4 g<cdd+  ] $4 g12<c12d+12
+;5
+
+l16
+{5}
+l16p96%k247%e1 $7 |4%a9v45o6g1  
+f2d+4d4  c1  d1  d+1  
+f1  g1  ^4|2v30v144,45o6g4g+4a+4  <[2v45v96,45c2v37g6v45f6d+6  
+v30v96,35d2v45f6d+6d6  v37v168,32d+4.f8g4.v45f8  v37j2,6 d+4v30v144,45g4f4d+4  
+] $6 d+4>v144,30g4f4d+4  
+;7
+
+l16
+{6}
+l16p31%k247%e1 $9 |4%a9v45o6d+1  
+d2c4>a+4  g+1  a+1  <c1  
+d1  d+1  ^4|2v30v144,45o6d+4f4g4  [2v45v96,45g+2<v37d+6v45d6c6  
+v30v96,35>a+2v45<d6c6>a+6  v37v168,32<c4.d8d+4.v45d8  v37j2,8 c4v30v144,45d+4d4c4  
+>] $8 c4>v144,30d+4d4c4  
+;9
+
+l16
+{7}
+l16p64%k247%e1|5 $10 v127o4c1  
+>a+1  g+1  g1  f2^4f4  
+g2^4g4  <c1  c2^4>g4  [2g+1  
+a+1  <c1  c2^4>g4  ]
+;10
+
+l16
+{8}
+l16p64%k247%e1|5 $11 r4v52o5c48d+8.^24d+48g4.^^24  
+r4>a+48<d8.^24d48f4.^^24  r4>g+48<c8.^24c48d+4.^^24  r4>a+48<d8.^24d48f8.^24>a+48<d8.^24  
+r4>f48g+^24g+48<c^24c48d+4>f8.^24  r4g48b^24b48<d^24d48f4>g8.^24  
+r4<c48d+8.^24d+48g4.^^24  r4c48d+8.^24d+48g4>g8.^24  [2r4<c48d+8.^24d+48g4.^^24  
+r4>a+48<d8.^24d48f4.^^24  r4>g48<c^24c48d+^24d+48g4c8.^24  r4c48d+8.^24d+48g4>g8.^24  
+]
+;11
+
+l16

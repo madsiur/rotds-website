@@ -1,0 +1,75 @@
+#TITLE Sanctuary
+#ALBUM Treasure of the Rudra
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x2C ## contrabass (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x34 ## strings (TOTR)
+#WAVE 0x23 0x83 ## chorus (SOM)
+#WAVE 0x24 0x24 ## tubular bell (FF6)
+
+{1}
+l16%v50t110%b0,70%f0,0%v50%e1|2v120p64%a9%y7%s7%r8m48,8,192p64o6 $1 %k255>c4g+1  
+g2^4c4  f1  <^2^4>c4  g+1  
+a+2^4<c4  >f1  <^2^4%k248%k255>c4  g+1  
+g2^4c4  f1  <^2^4>c4  g+1  
+a+2^4<c4  >f1  <^2^8%k248>c8f8g8  g+2<c4d+4  
+d1  d+2f4g4  f2^8>f8a+8<d8  d+2c+4>b4  
+a+2g+2  a+1  <^2^4
+;1
+
+l16
+{2}
+l16%e1p64|1v50p64%a15%y7%s7%r16m48,8,192p0,48,64r4  
+o6 $2 [4%k248>c8g8<c8g8%k255f8>g+8c8f8  %k246c8g8<c8e8%k253f8c8>c8f8  
+%k244c8g8<c8e8%k251f8c8>c8f8  %k241c8g8<c8a+8>d8a8<d8a8  ]>g8a+8<d+8g8a+8%k12>c8e8g8  
+%k244c8f+8a8<c8f+8a8%k12>c8f+8  %k246c8f8a8<c8c8f8a8%k14>c8  %k246c8e8g8<c8c8e8g8%k247b8  
+>c8e8g8<c8c8e8g8%k15>c8  %k244c8e8g8<c8c8e8g8%k246a+8  >c8f8g8<c8c8f8g8%k14>c8  
+%k246c8e8g8<c8c8e8g8%k14>c8  <
+;2
+
+l16
+{3}
+l16%e1p64|0p64%a9%y7%s7%r10m48,8,192v127r4o8 $3 [4%k222d1  
+c1  >a+1  g2a2  <]>a+1  
+a+2^8d8d+8e8  f2^8a8a+8b8  <c2^8>a+8a8g8  f2<c+2  
+>a+1  <c1  >c1  <
+;3
+
+l16
+{4}
+l16%e1r4 $4 [8r1  
+]|3v78p64%a9%y7%s7%r10m48,8,192o6[2%k248>g1  f1  d+1  c2d2  
+<]>d+1  f1  g1  f1  
+f+1  g+1  f1  f1  
+
+;4
+
+l16
+{5}
+l16%e1r4 $5 [8r1  ]|3v78p64%a9%y7%s7%r10m48,8,192o6[2%k244>g1  
+f+1  e1  c2d2  <]>e1  
+f+1  g1  f+1  g1  
+g1  g1  f+1  
+;5
+
+l16
+{6}
+l16%e1p127|1v78p64%a15%y7%s7%r16m48,8,192p0,48,64r4o6 $6 [16%k248r1  
+]^8>c8d+8g+8<c8d+8g+8%k16>c4  %k244c8f+8a8<c8f+8a8%k246a+4  >c8f8a8<c8c8f8a4  
+>c8e8g8<c8c8e8g4  >c+8f8g+8<c+8c+8f8g+4  %k244>c8e8g8<c8c8e8g4  
+>d8g8a8<d8d8g8a4  >d8f+8a8<d8d8f+8a8
+;6
+
+l16
+{7}
+l16%e1|4v78p64%a15%y0%s2%r5m48,8,192r4  
+o6 $7 [2%k0r1  ^1  ^1  >a4b4f+4d4  
+<r1  ^1  ^1  >b8a8g4f+4d4  
+<]>c2e4g4  f+1  g2a4b4  a2^8d8f+8a8  
+a+2a4g4  <c2>g2  a1  a1  
+<
+;7
+
+l16

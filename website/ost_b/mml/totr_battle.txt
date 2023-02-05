@@ -1,0 +1,101 @@
+#TITLE Battle for the Fields
+#ALBUM Treasure of the Rudra
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xB6 ## strings (SMRPG)
+#WAVE 0x21 0x12 ## cymbal (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x61 ## kick drum (CT)
+#WAVE 0x25 0x35 ## melodic tom (UNK)
+#WAVE 0x26 0x11 ## hihat opened (FF6)
+#WAVE 0x27 0x48 ## trumpet (RS3)
+#WAVE 0x28 0x5B ## orch hit (THG)
+
+{1}
+l16t160%v32%e1%b0,70%f0,0v104p60|0o5r1  v16,16,32eeeeeeeeeeeeeeee  
+ $1 ao4a<ceaebo6c>b4o6c8d8  c4^o5bo6cde2  >a4o6e4ddcc>bbgg  e4<c4>bo6c>bbbag+g+  
+ao4a<cea<ceao7c8o6b8g8e8  o7gfeeedccd8>b8o7c8d8  c2o6b4a4  a4^8bag+2  
+vv120p60|1%r16o5c+1  ^4r1  ^1  ^2v104p60|0v16,16,32b<cdef1  
+a4g4f4e4  d1  >g8>g8o5f8>g8o5e8o4g8<defg  o6ecrcefero5bgro6dgo5g<d8  
+gfeefed>geg+brg+bre  o6fc>a<cgdaego5bo6d>b<drgd  arcrargag+r>br<g+r>br  
+o6aecebdo7co6ebdg8grb8  o7co6egeo7co6eo7d>deco5go6cedco5b  o7f8c8>a8f8b8g8e8b8  
+ao5a<ceaceao7c>baedco5ba  
+;1
+
+l16
+{2}
+l16%e0v110p64|2o5g+g+g+g+ggggf+f+f+f+ffff  
+eeeeereereer>eg+a+<e   $2 o5a8a8a8a8g8g8g8g8  <c8c8c8c8>b8b8b8b8  
+a8a8a8a8g8g8g8g8  <c8c8c8c8e8e8>b8b8  a8a8a8a8g8g8g8g8  <c8c8c8c8e8e8e8e8  
+f8f8f8f8c8c8>a8a8  <e8e8d8d8c8c8>b8b8  a8a8o6a8>a4a8<a8o5a8  b8b8b8g4o6g8d8>g8  
+<f8c8f8>f4f8a8<c8  o5g8<g8d8>g4g8b8o6d8  >f8f8o6f8>f4f8o6f8>f8  
+f8f8f8g8g8g8a8a8  g8g8g8g8g8g8g8g8  o6d8>g8g8g8a8a8b8b8  a8a8a8a8g8g8g8g8  
+<c8c8c8c8>e8e8e8e8  f8f8f8f8g8g8g8g8  f8f8f8f8e8<e8o5b8g+8  a8a8a8a8g8g8g8g8  
+<c8c8c8c8c8c8c8c8  >f8f8r4g8g8r4  aaaaaaaaaaaaa<cea  
+;2
+
+l16
+{3}
+l16%e1v30p94@5o5>g+bo5dg+>a+o5c+ego4a<cd+f+o4g+b<df  
+g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+   $3 a2b2  <c2ederdc>br  a2b2  
+o5c2edcro4bag+r  a2b2  <c2>bag+ra8b8  <d2e4f4  
+a2g+2  e1  d1  c1  
+d1  f1  ^1  g1  
+^1  c4d8e8d4e8f8  e8c8>g8f8e4f8g8  a4b8o5c8d8o4b8g8o5d8  
+c4^8>bag+2  <c4d8e8d8o4b8g8o5d8  e8c8o4g8f8e4f8g8  a4f4g4r4  
+<eeeeeeeeeeeeeeee  
+;3
+
+l16
+{4}
+l16%e1v30p34@5o4fg+bo5f>ga+<c+eo4f+ao5cd+o4fg+bo5d  
+bbbbbbbbbbbbbbbb   $4 o4c2d2  e2g+gg+rbag+r  c2d2  
+e2gferdc>br  <c2d2  e2dc>bro5c8d8  >f2g4a4  
+b2b2  o5c1  >b1  a1  
+b1  <c1  ^1  >b1  
+^1  v120p60|1o5%r16c+1  ^4r1  ^1  
+^2^4c+1  ^4r1  c+2c+4v30p34@5o6cccc  
+cccccccccccc
+;4
+
+l16
+{5}
+l16%e1r1  ^1   $5 v120p64|1%r16o5c+1  ^4r1  
+^2^4c+1  c+1  ^4r1  
+^2^4c+2  ^4o4v80p63|7eg+abo5c4^8o4a4  erar<cr>b4^8<crd2  o4a4<e4drcr>br<cr  
+o4b4^8grg2  <f4^rg4^ra4  c2f2  d8r8g2^4  
+c8o4g8b8g8a8g8g8>g8  v104p62|0o5v16,16,32a4b8<c8dr8^c8>br  <c8>g8<c8r8e2  
+r4^8>ar<dr>gr8^gr  <f4^8cfe2  r4grargr>br<e8>br  <grcrgr8^<e2  
+c4>a4brbr1  ^4^
+;5
+
+l16
+{6}
+l16%e0v127p64|3o5r1  ddddd8dd8dd8dddd  
+ $6 o4|4b8b8<|3d4>|4b8b8<|3d4  >|4b8b8<|3d4>|4b8b8<|3d4  >|4b8b8<|3d4>|4b8b8<|3d^8^  
+>|4b8<|3d8^dd2^8  >|4b8b8<|3d4>|4b8b8<|3d4  >|4b8b8<|3d4>|4b8b8<|3d4  
+>|4b8b8<|3d4>|4b8b8<|3d^8^  >|4b8<|3d8^dd2^8  [5>|4b8b8<|3d8>|4b8^8b8<|3d8^8  
+]>|4b8b8<|3d8>|4b8^8b8<|3d8>|4b8  b8b8<|3d8>|4b8^8b8<|3d8d8  %e1o5v120p60|1%r16c+2^4^o5%e0v127p64|3ddd  
+[5>|4b8b8<|3d8>|4b8^8b8<|3d8^8  ]>|4b8b8<|3d8>|4b8^8b8<|3d^8^  >|4b8b8<|3d8>|4b8^8b8<|3d^8^  
+ddddd8dd8dd8dddd  
+;6
+
+l16
+{7}
+l16%e1v110p64|5o5[4c]>[4b]r1  ^2r4 $7 v60o5p63|6a+4  
+a+4a+4a+4a+4  a+4a+4a+4a+4  a+4a+4v110p64|5o4br2  <cc>bbr4^8^v50o5p63|6a+4a+4  
+a+4a+4a+4a+4  a+4a+4a+4a+4  a+4v110p64|5o4br2<cc>b  br4^8^v50o5p63|6a+4a+4  
+a+4[6a+4a+4a+4  a+4]r8v110p64|5o4<c8^>b8^r2  ^4v50o5p63|6a+4a+4a+4  
+[3a+4a+4a+4a+4  ]r4a+4a+4a+4  a+4a+4a+4a+4  v110p64|5o4<c>bv50o5p63|6a+4a+4a+4a+4  
+v110p64|5o4<c>br1  
+;7
+
+l16
+{8}
+l16%e1v100p64|8o4g+4g4f+4f4  eeeeeeeeeeeeeo4g+b<e  
+
+;
+
+l16

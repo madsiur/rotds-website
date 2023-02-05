@@ -1,0 +1,65 @@
+#TITLE Singing Emotions
+#ALBUM Chrono Cross
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x6B ## music box (CT)
+#WAVE 0x21 0x08 ## french horn (FF6)
+
+{1}
+l16t80%v32%e1%b0,70%f0,0 $1 v60p60|0o5a4<d2^4  c+2>b4a2  ^4g4a4b4  
+a2f+4d2  ^4>b4<f+4g4  e2a4<d2  ^4c+2>b4  
+a2^4g4  a4b4a4<d4  c+4d2>g+4  a1  
+^4a4b2  a4e2d8e8  f+4g4a4d2  a4b2<d4  
+c+2>b4a2  d4f+2a4  b2a4e2  d8e8f+4g4a4  
+d2c+4>b1  <f+4d4e1  ^4
+;1
+
+l16
+{2}
+l16%e1 $2 v60p60|0o5r2a2  
+r4e2r4  f+2r4e2  r4d2r4  >b2r4b2  
+r4<c+2r4  a2r4e2  r4f+2r4  e2r4f+2  
+r4>b2r4  b4<d4r1  d2r2  >a4r4<d2  
+r4>b2r4  <d2r4e2  r2^4>b2  a4r4<d2  
+r2>a4r4  <d2r1  ^1  ^1  
+c+2
+;2
+
+l16
+{3}
+l16%e1 $3 v60p60|0o5r2  f+2r4>b2  r4<e2r4  >b2r4a2  
+r4f+2r4  d2r4e2  r4<f+2r4  >b2r4<d2  
+r4>b2r4  <e2o3b4<f+4  e4>a4<e4r4  <c+2^4r4  
+>b2>a4<e4  r4d4a2  o3b4<f+2r4  b2r4<c+2  
+r4>f+2r2  >a4r4<b2  >a4<e4r4d4  a2o3b4<f+2  
+r4d4g4r4  >b4<e4r2  e4a2
+;3
+
+l16
+{4}
+l16%e1 $4 v60p60|0o5r2  e2r4>a2  
+d2^4r4  a2d2  c+4>b2a4  g2^4a2  
+^4r4o5e2  r4>a2d2  ^4r4a2  d2c+4r1  
+^4a1  >g2^4r1  ^4<c+4r2  
+>a4g2^4  a2^4b1  ^4r4g2  ^4r1  
+^4<c+4r2  >a4g2^4  e2^4a2  ^4r2
+;4
+
+l16
+{5}
+l16%e1 $5 v60p60|0o5r4  
+>d2^4>g2  ^4r2^4  g2^4r1  
+^1  ^1  <d2^4>g2  ^4r2^4  
+g2^4[14r1  ]r2^4
+;5
+
+l16
+{6}
+l16%e1 $6 v100p64|1o5m72,20,207[12r1  
+]%r7r2^4a1  ^4mg4f+4g4  a4d2c+4  d2e8f+8e2  
+c+4d1  ^4^8^^m72,20,207a1  ^4mg4f+4g4  a4d2c+4  
+d1  ^8^^>b4<e2  ^4
+;6
+
+l16

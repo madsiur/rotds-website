@@ -1,0 +1,79 @@
+#TITLE Battling
+#ALBUM Breath of Fire
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x22 ## kick drum (FF6)
+#WAVE 0x21 0x14 ## snare (FF6)
+#WAVE 0x22 0x0F ## hihat closed (FF6)
+#WAVE 0x23 0x11 ## hihat opened (FF6)
+#WAVE 0x24 0x12 ## cymbal (FF6)
+#WAVE 0x25 0x1C ## bass (FF6)
+#WAVE 0x26 0x0D ## strings (FF6)
+#WAVE 0x27 0x0E ## trumpet (FF6)
+#WAVE 0x28 0x08 ## french horn (FF6)
+#WAVE 0x29 0x5E ## flute (FF6)
+
+{1}
+l16t163%v30%b0,70%f0,0%x200%e0v50p64|5o4a4^8^rg4^8^r  f4^8^rg+^g+r4^  
+ $1 %e0|5%r8v50o4araaaraa<ereeeree  crcccrccdrdddrdd  frfffrffgrgggrgg  
+a8^g8^f^e4^8^r  >araaaraa<ereeeree  crcccrccdrdddrdd  frfffrffgrgggrgg  
+>ar8ar8a2^^  <frfffrfffrfffrff  grgggrgggrgggrgg  g+rg+g+g+rg+g+g+rg+g+g+rg+g+  
+araaaraaaraaaraa  frfffrfffrfffrff  grgggrgggrgggrgg  g+rg+g+g+rg+g+g+rg+g+brbb  
+<crcccrcccrcccrcc  >g+rg+g+g+rg+g+g+rg+g+g+rg+g+  araaaraaaraaaraa  
+a+ra+a+a+ra+a+a+ra+a+a+ra+a+  brbbbrbbbrbbbrbb  |6%e1%a10o3a^r4^8a^r8a^r4  
+^8a^r8a^r4^8
+;1
+
+l16
+{2}
+l16%e1v50p44|6%a10o4a2  g2f2  |7v100m12,24,201p64o5b8br4^ $2 m|6%a10v50p84o6c1  
+^2>a2  <c2>b2  p64e2>b2  p84o6c1  
+^2>a2  >a2b2  |7v100m12,24,201p64o7dr8dr8g2^8  m|8%y1%s6%r4v80p74o5c1  
+>b2g2  g+2^4<e4  >a1  <c1  
+>b2g2  g+2^4<e4  >a1  |6%a10v50o5f+1  
+^1  g+1  ^2^4<d4  p64d8r4^8d8r8d8r4  
+^8d8r8d8r4^8
+;2
+
+l16
+{3}
+l16%e1v50p84|6%a10o6e2  d2c2  |7v100m12,24,201p64o7d8dr4^ $3 m|6%a10v50p44o6e1  
+^2d2  e1  |7m12,24,201v100p64o6a8^b8^<c8d2  m|6%a10v50p44o6e1  
+^2d2  >c2d2  |7m12,24,201v100p64o6gr8gr8a2^^  m|9o5v30p44[2ab<cfgfc>bab<cfgfc>b  
+]g+b<dfgfd>bg+b<dfgfd>b  ab<cdedc>bab<c+dedc+>b  [2ab<cfgfc>bab<cfgfc>b  
+]g+b<dfgfd>bg+b<dfgfd>b  ab<cdedc>bab<cdedc>b  |6%a10o6v50c1  ^1  
+d1  ^2^4f4  p64g^r4^8g^r8g^r4  ^8g^r8g^r4^8
+;3
+
+l16
+{4}
+l16%e1v50p64|6%a10o6ab  
+<cdedc>bab<cdedc>bab  <cdedc>bf8er4^ $4 |7v100m12,24,201o6a8  ^<c8^a^g+8^e8^c^g8  
+^e8^c^f+4^8^re8  ^c8^>a^<d8^>b8^g^<c8  ^d8^e8g+2>a8  ^<c8^a^g+8^e8^c^g8  
+^e8^c^f+4^8^r<c8  ^>b8^a^g8^e8^g^ar8  ar8<c2^^m|6v80p94o6a4  ^rfec4>a4<g4  
+^rdc>b4g4b8^<c8  ^d^f8^e8^d^d4^  rc+^c+4^8^ra4^  rfec4>a4<g4^  
+rdc>b4g4<f4^  redf4g+4a8^e8  ^c^>a4^8^r|7v100m12,24,201p64o7d+4^  
+rcdd+4^8^rd+4^  rcdd+4^8^rf4^  rdef4^8^rf4^  rdef4g+4a^r4  
+^8a^r8a^r4^8a^  r8a^r4^8
+;4
+
+l16
+{5}
+l16%e1v60p64|2o5g+rg+g+g+r  
+g+g+g+rg+g+g+g+|3a+8|2g+g+|3a+8|2g+g+  |3a+8<|1v120d8d4dd> $5 [3|2v60g+rg+g+<|1v120d8  
+>|2v60g+g+g+rg+g+<|1v120d>|2v60g+|3a+8]|4v127c8^c8^  c8|2v60g+<|1v120d>|2v60g+g+<|1v120d8dd>[3|2v60g+rg+g+<|1v120d8  
+>|2v60g+g+g+rg+g+<|1v120d>|2v60g+|3a+8]|4v127cr8cr8  c8r<|1v120d8^dd>|0g+g+[12|2v60g+r|3a+8<|1v120d8  
+>v60|3a+8|2g+r|3a+8<|1v120dr>|3v60a+8]|4v127c4<|1v80dv100d  v110dv120d>|4v127c4c4<|1v80dv100dv110dv120d>|4v127c4  
+c4<|1v80dv100dv110dv120d>
+;5
+
+l16
+{6}
+l16%e0v120p64|0o5b4b4  b4b4b4b4  
+b8b4^8 $6 b2  b2b2  b2b2  b2b8^b8^b8  
+b2b2  b2b2  b2b2  b2b<|1%e1dd>|0%e0b<|1%e1dd>|0%e0b8  
+b4^8b8[12b2  b2]b4r4  b4b4r4b4  b4r4
+;6
+
+l16

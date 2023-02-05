@@ -1,0 +1,125 @@
+#TITLE Dungeon
+#ALBUM Zelda IV (GBC)
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+
+{1}
+l16t140%v50%e1%b0,70%f0,0 $1 v40p10|0o5g8a+8<d8d+8>g8a+8<d8d+8  
+>g8a+8<d8d+8>g8a+8<d8d+8  >f+8a8<d8d+8>f+8a8<d8d+8  >f+8a8<d8d+8>f+8a8<d8d+8  
+>f8g+8<d8d+8>f8g+8<d8d+8  >f8g+8<d8d+8>f8g+8<d8d+8  >e8g8<d8d+8>e8g8<d8d+8  
+>e8g8<d8d+8>e8g8<d8d+8  >d+8g8<c8d8>d+8g8<c8d8  >d+8g8<c8d8>d+8g8<c8d8  
+>d8g8<c8d8>d8g8<c8d8  >d8g8<c8d8>d8g8<c8d8  >c8f+8a8<c8>f+8a8<c8d+8  
+>a8<c8d+8c8d+8f+8d+8f+8  a8f+8a8<c8o5g8a+8<d8d+8  >g8a+8<d8d+8>g8a+8<d8d+8  
+>g8a+8<d8d+8>f+8a8<d8d+8  >f+8a8<d8d+8>f+8a8<d8d+8  >f+8a8<d8d+8>f8g+8<d8d+8  
+>f8g+8<d8d+8>f8g+8<d8d+8  >f8g+8<d8d+8>e8g8<d8d+8  >e8g8<d8d+8>e8g8<d8d+8  
+>e8g8<d8d+8>d+8g8<c8d8  >d+8g8<c8d8>d+8g8<c8d8  >d+8g8<c8d8>d8g8<c8d8  
+>d8g8<c8d8>d8g8<c8d8  >d8g8<c8d8>c8f+8a8<c8  >f+8a8<c8d+8>a8<c8d+8c8  
+d+8f+8d+8f+8a8f+8a8<c8  d8>a+8g8a+8<d8>a+8g8a+8  <d8>a+8g8a+8<d8>a+8g8a+8  
+<d8>a8f+8a8<d8>a8f+8a8  <d8>a8f+8a8<d8>a8f+8a8  <d8>g+8f8g+8<d8>g+8f8g+8  
+<d8>g+8f8g+8<d8>g+8f8g+8  <d8>g8e8g8<d8>g8e8g8  <d8>g8e8g8<d8>g8e8g8  
+<d8>g8d+8g8<d8>g8d+8g8  <d8>g8d+8g8<d8>g8d+8g8  <d8>g8d8g8<d8>g8d8g8  
+<d8>g8d8g8<d8>g8d8g8  >c8f+8a8<c8>f+8a8<c8d+8  >a8<c8d+8c8d+8f+8d+8f+8  
+a8f+8a8<c8
+;1
+
+l16
+{2}
+l16%e1 $2 v24p116|0o5r8g8a+8<d8  d+8>g8a+8<d8d+8>g8a+8<d8  
+d+8>g8a+8<d8d+8>f+8a8<d8  d+8>f+8a8<d8d+8>f+8a8<d8  d+8>f+8a8<d8d+8>f8g+8<d8  
+d+8>f8g+8<d8d+8>f8g+8<d8  d+8>f8g+8<d8d+8>e8g8<d8  d+8>e8g8<d8d+8>e8g8<d8  
+d+8>e8g8<d8d+8>d+8g8<c8  d8>d+8g8<c8d8>d+8g8<c8  d8>d+8g8<c8d8>d8g8<c8  
+d8>d8g8<c8d8>d8g8<c8  d8>d8g8<c8d8>c8f+8a8  <c8>f+8a8<c8d+8>a8<c8d+8  
+c8d+8f+8d+8f+8a8f+8a8  <c8o5g8a+8<d8d+8>g8a+8<d8  d+8>g8a+8<d8d+8>g8a+8<d8  
+d+8>f+8a8<d8d+8>f+8a8<d8  d+8>f+8a8<d8d+8>f+8a8<d8  d+8>f8g+8<d8d+8>f8g+8<d8  
+d+8>f8g+8<d8d+8>f8g+8<d8  d+8>e8g8<d8d+8>e8g8<d8  d+8>e8g8<d8d+8>e8g8<d8  
+d+8>d+8g8<c8d8>d+8g8<c8  d8>d+8g8<c8d8>d+8g8<c8  d8>d8g8<c8d8>d8g8<c8  
+d8>d8g8<c8d8>d8g8<c8  d8>c8f+8a8<c8>f+8a8<c8  d+8>a8<c8d+8c8d+8f+8d+8  
+f+8a8f+8a8<c8d8>a+8g8  a+8<d8>a+8g8a+8<d8>a+8g8  a+8<d8>a+8g8a+8<d8>a8f+8  
+a8<d8>a8f+8a8<d8>a8f+8  a8<d8>a8f+8a8<d8>g+8f8  g+8<d8>g+8f8g+8<d8>g+8f8  
+g+8<d8>g+8f8g+8<d8>g8e8  g8<d8>g8e8g8<d8>g8e8  g8<d8>g8e8g8<d8>g8d+8  
+g8<d8>g8d+8g8<d8>g8d+8  g8<d8>g8d+8g8<d8>g8d8  g8<d8>g8d8g8<d8>g8d8  
+g8<d8>g8d8g8>c8f+8a8  <c8>f+8a8<c8d+8>a8<c8d+8  c8d+8f+8d+8f+8a8f+8a8  
+
+;2
+
+l16
+{3}
+l16%e1 $3 v120p80|1r1  o3a+2<d2  c+2>f+1  ^2r1  
+f4^8g+4^8<c+4  c2>e1  ^2r1  
+g4^8<d+4^8d4  >d1  g4^8<d4^8c+4  >d8f+8a8f+8a8<c8>a8<c8  
+d+8c8d+8f+8a8f+8d+8c8  d+8c8>a8f+8r1  a+2<d2  c+2>f+1  
+^2r1  f4^8g+4^8<c+4  c2>e1  
+^2r1  g4^8<d+4^8d4  >d1  g4^8<d4^8c+4  
+>d8f+8a8f+8a8<c8>a8<c8  d+8c8d+8f+8a8f+8d+8c8  d+8c8>a8f+8r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2v80o5g4a4  a+1  ^4a+4<c4>a+4  
+a1  ^4g4f+4g4  a1  ^1  
+v80,24^2
+;3
+
+l16
+{4}
+l16%e1 $4 v120p44|1r1  o2a+2<d2  c+2>f+1  
+^2r1  f4^8g+4^8<c+4  c2>e1  
+^2r1  g4^8<d+4^8d4  >d1  g4^8<d4^8c+4  
+>d8f+8a8f+8a8<c8>a8<c8  d+8c8d+8f+8a8f+8d+8c8  d+8c8>a8f+8r1  a+2<d2  
+c+2>f+1  ^2r1  f4^8g+4^8<c+4  
+c2>e1  ^2r1  g4^8<d+4^8d4  
+>d1  g4^8<d4^8c+4  >d8f+8a8f+8a8<c8>a8<c8  d+8c8d+8f+8a8f+8d+8c8  
+d+8c8>a8f+8r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  d2
+;4
+
+l16
+{5}
+l16%e1 $5 v16p34|1o5r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  <v240,80d1  
+^1  ^2c+2  >a1  <c1  
+^2d4c4  >b1  ^2d4f4  g1  
+^4g4a4g4  d1  ^4d+4d4d+4  f+1  
+^1  v80,24^2
+;5
+
+l16
+{6}
+l16%e1 $6 v60p60|1o3v128,104g1  v60r1  
+^1  ^1  v128,104f1  v60r1  
+^1  ^1  v128,104d+1  v60r1  
+^1  ^1  ^1  ^1  
+^2v128,104g1  v60r1  ^1  ^1  
+v128,104f1  v60r1  ^1  ^1  
+v128,104d+1  v60r1  ^1  ^1  
+^1  ^1  ^2v128,104g1  ^1  
+v60v128,104f+1  ^1  v60v128,104f1  ^1  
+v60v128,104e1  ^1  v60v128,104d+1  ^1  
+v60v128,104d1  ^1  v60v128,104c+1  ^1  
+r2
+;6
+
+l16
+{7}
+l16%e1 $7 v60p50|1o2v128,104g1  v60r1  ^1  ^1  
+v128,104f1  v60r1  ^1  ^1  
+v128,104d+1  v60r1  ^1  ^1  
+^1  ^1  ^2v128,104g1  v60r1  
+^1  ^1  v128,104f1  v60r1  
+^1  ^1  v128,104d+1  v60r1  
+^1  ^1  ^1  ^1  
+^2v128,104g1  ^1  v60v128,104f+1  ^1  
+v60v128,104f1  ^1  v60v128,104e1  ^1  
+v60v128,104d+1  ^1  v60v128,104d1  ^1  
+v60v128,104c+1  ^1  v60<d2
+;7
+
+l16

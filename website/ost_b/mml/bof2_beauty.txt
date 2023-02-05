@@ -1,0 +1,83 @@
+#TITLE Sleeping Beauty
+#ALBUM Breath of Fire 2
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1C ## bass (FF6)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x06 ## chorus (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+#WAVE 0x24 0x12 ## cymbal (FF6)
+
+{1}
+l16t120%v60%e0%b0,70%f0,0 $1 v50p64|0o4[2a8a8r8a8r8a8r8a8  
+][2g8g8r8g8r8g8r8g8  ][2a8a8r8a8r8a8r8a8  ]g8g8r8g8r8g8r8g8  e8e8r8e8r8e8r8e8  
+<d8d8r8d8r8d8r8d8  d8d8r8d8r8d8>a8<d8  c+8c+8r8c+8r8c+8r8c+8  c+8c+8r8c+8r8c+8>g+8<c+8  
+d8d8r8d8r8d8r8d8  d8d8r8d8r8d8>a8<d8  c+8c+8r8c+8r8c+8r8c+8  c+8c+8r8c+8r8c+8>g+8<c+8  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v80p34|1%y1%s6%r4o5g+ag+ag+ag+ag+8f+8f8f+8  
+g+8a4b4<c+4d8  >f+gf+gf+gf+gf+8e8d+8e8  m24,18,201f+1  mg+ag+ag+ag+ag+8f+8f8f+8  
+g+8a4b4<c+4d8  >f+gf+gf+gf+gf+gab<c+def+  m24,18,201g+1  mr1  
+^4d4c+4c4  >m24,18,201g+2^4m<c4  m24,18,201c+1  mr1  
+^4d4c+4c4  >m24,18,201g+2^4m<c+4  m24,18,201f1  m
+;2
+
+l16
+{3}
+l16%e1v24p34|1%y1%s6%r4r^32 $3 o5g+ag+ag+ag+ag+8f+8f8f+8  
+g+8a4b4<c+4d8  >f+gf+gf+gf+gf+8e8d+8e8  m24,18,201f+1  mg+ag+ag+ag+ag+8f+8f8f+8  
+g+8a4b4<c+4d8  >f+gf+gf+gf+gf+gab<c+def+  m24,18,201g+1  mb4a4g+4f+4  
+f4f+4f4d+4  m24,18,201c+2^4md+4  m24,18,201f1  mb4a4g+4f+4  
+f4f+4f4d+4  m24,18,201c+2^4mf4  <m24,18,201c+1  m
+;3
+
+l16
+{4}
+l16%e1 $4 v80p62|2%r1o5m24,18,201e1  
+^2^4^8^r  d1  ^2^4^8^r  e1  
+^2^4^8^r  d2^4^8^r  e2^4^8^r  f+1  
+^2^4^8^r  f1  ^2^4^8^r  f+1  
+^2^4^8^r  f1  ^2^4^8^r  
+;4
+
+l16
+{5}
+l16%e1 $5 v80p62|2%r1o5m24,18,201c+1  
+^2^4^8^r  >b1  ^2^4^8^r  <c+1  
+^2^4^8^r  >b2^4^8^r  b2^4^8^r  a1  
+^2^4^8^r  g+1  ^2^4^8^r  a1  
+^2^4^8^r  g+1  ^2^4^8^r  
+;5
+
+l16
+{6}
+l16%e1 $6 v60p68|3o5r1  
+^1  ^1  ^32d^32b12d12b12<g12>b12d12f+12a12<c12e^32g8  ^32r1  
+^1  ^1  ^4^8^32>f+a<c+eg+b<dr32>b4  a4g+4f+4f4  
+f+4f4d+4c+2  ^4d+4f1  b4a4g+4f+4  f4f+4f4d+4  
+c+2^4f4  <c+1  
+;6
+
+l16
+{7}
+l16%e1 $7 v60p68|3o5r1  ^1  
+^1  >b12<g12g12g12<d12d12>g12e12g12b12<d12f+12  g+2r1  ^1  
+^1  >eg+b<df+a<c+er1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^32o5c+g+f<c+>g+<f<c+r32  
+;7
+
+l16
+{8}
+l16%e1 $8 v60p0|4%r15o6>p96,127c+1  
+r1  ^1  ^1  p0p96,127c+1  
+r1  ^1  ^2p0p96,127c+1  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  v60p68|3g+<fc+g+f<c+g+r
+;8
+
+l16

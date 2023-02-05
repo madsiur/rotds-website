@@ -1,0 +1,87 @@
+#TITLE Alan and Cerl
+#ALBUM Breath of Fire
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0C ## piano (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x01 ## spanish guitar (FF6)
+#WAVE 0x23 0x5E ## flute (FF6)
+
+{1}
+l16t96%v32v100p62%e1%b0,70%f0,0|0o6g4^8b8f+4^8d8  e4^8g8d2  
+c8d8e8g8d4>b4  <c4b8a8f+2  g4^8b8f+4^8<d8  d4c8>b8b4g4  
+e8f+8g8<e8d+4>f+4  e2r8e4^8   $1 v80|2o5g4^8b8f+4^8d8  e4^8g8d2  
+c8d8e8g8d4>b4  <c4b8a8f+2  g4^8b8f+4^8<d8  d4c8>b8b4g4  
+e8f+8g8<e8d+4>f+4  e1  v60|3%y1%s6%r4m12,24,201g4^8mb8m12,24,201f+4^8md8  
+m12,24,201e4^8mg8m12,24,201d2  mc8d8e8g8d4>b4  <c4b8a8m12,24,201f+2  
+mm12,24,201g4^8mb8m12,24,201f+4^8m<d8  d4c8>b8b4g4  e8f+8g8<e8d+4>f+4  
+m12,24,201e1  m
+;1
+
+l16
+{2}
+l16v50p62%e1|0o5r4<b4r4b4  r4g4r4b8d8  
+r4g8e8r4g8d8  r4e8c8r4f+8d+8  r4b4r4b4  r4a4r4g4  
+r4e8c8r4f+8d+8  r4b8g8r^32<e4^8^32  r4|2v50o5b4r4b4   $2 r4g4r4b8d8  
+r4g8e8r4g8d8  r4e8c8r4f+8d+8  r4b4r4b4  r4a4r4g4  
+r4e8c8r4f+8d+8  r4b8g8<e8>g8b8g8  r4b4r4b4  
+;2
+
+l16
+{3}
+l16v40p62%e1|0o5r8<g4^8r8f+4^8  
+r8e4^8r8d4^8  r8e4^8r8d4^8  r8c4^8r8d+4^8  r8g4^8r8f+4^8  
+r8f4^8r8e4^8  r8c4^8r8d+4^8  r8g4^8^32g4^8^^32  r8|2v24o5g4^8r8 $3 f+4^8  
+r8e4^8r8d4^8  r8e4^8r8d4^8  r8c4^8r8d+4^8  r8g4^8r8f+4^8  
+r8f4^8r8e4^8  r8c4^8r8d+4^8  r8g2^4^8  r8g4^8r8
+;3
+
+l16
+{4}
+l16v80p62%e1|0o5<e2  
+d2c2  >g2<c2  >g2a2  b2<e2  
+d+2d2  c2>a2  b2<e2  e2v60|2o4e2  
+d2 $4 c2  >g2<c2  >g2a2  b2<e2  
+d+2d2  c2>a2  b2<e2  e2e2  
+d2
+;4
+
+l16
+{5}
+l16v30p0%e1|1%r1o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^4 $5 >a24<c24e24g24<c24e24  
+e2>d2  c2>g2  <c2>g2  a2b2  
+<e2d+2  d2c2  >a2b2  <e1  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2^4
+;5
+
+l16
+{6}
+l16v30p127%e1|1%r1o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^4 $6 e24g24<c24e24g24<c24  >b1  
+d2>g1  ^2<c4d8e8  d+2b2  a4b8a8f2  
+<e2>e2  b4d+4e1  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4>
+;6
+
+l16
+{7}
+l16v24p62%e1|0r8o6g4  ^8b8f+4^8d8e4  ^8g8d2c8d8  
+e8g8d4>b4<c4  b8a8f+2g4  ^8b8f+4^8<d8d4  c8>b8b4g4e8f+8  
+g8<e8d+4>f+4e2  r8e4 $7 r8o5v10|2g4^8b8  f+4^8d8e4^8g8  d2c8d8e8g8  
+d4>b4<c4b8a8  f+2g4^8b8  f+4^8<d8d4c8>b8  b4g4e8f+8g8<e8  
+d+4>f+4e1  <o5v24|3%y1%s6%r4m48,18,239g4^8mb8m48,18,239f+4^8md8  
+m48,18,239e4^8mg8m48,18,239d2  mc8d8e8g8d4>b4  <c4b8a8m48,18,239f+2  
+mm12,24,201g4^8mb8m48,18,239f+4^8m<d8  d4c8>b8b4g4  e8f+8g8<e8d+4>f+4  
+m80,18,239e2^4^8m
+;7
+
+l16

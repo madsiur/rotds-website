@@ -1,0 +1,72 @@
+#TITLE Maridia
+#ALBUM Super Metroid
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xB6 ## strings (SMRPG)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x4B ## celesta (RS3)
+#WAVE 0x23 0x53 ## synth strings (RS3)
+#WAVE 0x24 0x2C ## contrabass (FF6)
+
+{1}
+l16t73%v60v24p80%e1%b0,70%f0,0|3o5%r2r2^4^8f8  v192,50d+1  
+v24v192,50a1  ^2^4 $1 v10o5|3%r2d+1  v192,24^1  v10v192,80a1  
+v192,24^1  v10v192,80c1  v192,24^1  v10v192,80g1  
+^2v80,0^4^8^r  v10v192,80c+1  >f1  v60p80|4o5c+1  
+>g1  <d+1  ^1  ^1  
+^1  >g+1  ^2^4^8d+1  ^1  
+g+1  ^2^4^8d+1  v192,0^1  
+;1
+
+l16
+{2}
+l16v13p34%e1|1o5r1  
+^1  ^4<b^r8<c^32r4^8^32  c^r8d^r8c^r8> $2 v192,80m18,20,201a+2  
+^4ma8a+8f8v192,13m18,20,201f+2  ^mrf+8^rv192,80m18,20,201a2^4  mg+8a8d+8v192,13m18,20,201e2^8  
+mr8e8v192,80m18,20,201g2^4  md8d+8>b8<m18,20,201c2^mr  d8d+8v192,0m18,20,201d1  
+^4mr2^4  v13v192,80m18,20,201c+2^8^mrc+8d+8  v192,13m18,20,201f1  
+mv192,80m18,20,201e2^8^mre8f+8  m18,20,201g2^8^mrg8a8  m18,20,201a+1  
+v128,0^2^mr1  ^1  ^8^v80>m24,16,227g+4m<d+8>a+8<f+8>a+8<f8  >a+8<g+8>a+8<d+8>a+8<f+8>a+8<f8  
+c+8>a+8r1  ^1  ^4<f+8r8f8r1  ^1  
+^1  ^4v13
+;2
+
+l16
+{3}
+l16v60p68%e1|0o5r4d+8a+^<f+^>a+^  <f^>a+^d+^a+^<f+^>a+^<f^>a+^  
+<f+^>a+^a^<e^b^e^<c^>e^  >a^<e^<c^>e^<d^>e^<c^>e^  >d+^a+^<f+^>a+^<f^>a+^<f+^>a+^  
+d+^a+^<f+^>a+^<f^>a+^<f+^>a+^  a^<e^b^e^<c^>e^b^e^  >a^<e^<c^>e^<d^>e^<c^>e^  
+>g^<c^d+^>g^<d^>g^<d^>g^  g^<c^d^>g^<d+^>g^<d^r8  o4g^<d^a+^d^a^d^a+^d^  
+>g^<d^a+^d^a^d^a+^d^  c+^f^r8f^<c+^>f^r8f^  >f^<c^c+^>f^<c^>f^a+^f^  
+c+^g+^<e^>g+^<d+^>g+^<e^>g+^  >gr<d^<c^>d^<d^d+^c^>a^  d+ra+^<f+^>a+^<f^>a+^<g+^>a+^  
+d+^a+^<f^>a+^<g+^>a+^<f^>a+^  d+ra+^<f+^>a+^<f^>a+^<g+^>a+^  <f^>a+^<g+^>a+^<f+^>a+^<a+^>a+^  
+o6d+^>a+8r8a+8r8a+8r8a+8  r8a+8r8a+8r8<c+8>a+8>d+^  a+^<f+^>a+^<f^>a+^<g+^>a+^<f^  
+>a+^<g+^>a+^<f+^>a+^<a+^>a+^o6d+^  >a+^<f+^>a+^<f^>a+^<g+^>a+^<d+^  
+>a+^<f+^>a+^<f^c+^>a+^>d+^a+^  <f+^>a+^<f^>a+^<g+^>a+^<f^>a+^  <g+^>a+^<f+^>a+^<a+^>a+^ $3 <d+^a+^  
+<f+^>a+^<f^>a+^<f+^>a+^d+^a+^  <f+^>a+^<f^>a+^<f+^>a+^a^<e^  b^e^<c^>e^b^e^>a^<e^  
+<c^>e^<d^>e^<c^>e^>g^<c^  d+^>g^<d^>g^<d^>g^g^<c^  d^>g^<d+^>g^<d^r8o4g^<d^  
+a+^d^a^d^a+^d^>g^<d^  a+^d^a^d^a+^d^c+^f^  r8f^<c+^>f^r8f^>f^<c^  
+c+^>f^<c^>f^a+^f^c+^g+^  <e^>g+^<d+^>g+^<e^>g+^>gr<d^  <c^>d^<d^d+^c^>a^d+ra+^  
+<f+^>a+^<f^>a+^<g+^>a+^d+^a+^  <f^>a+^<g+^>a+^<f^>a+^d+ra+^  <f+^>a+^<f^>a+^<g+^>a+^<f^>a+^  
+<g+^>a+^<f+^>a+^<a+^>a+^o6d+^>a+8  r8a+8r8a+8r8a+8r8a+8  r8a+8r8<c+8>a+8>d+^a+^<f+^  
+>a+^<f^>a+^<g+^>a+^<f^>a+^<g+^  >a+^<f+^>a+^<a+^>a+^o6d+^>a+^<f+^  
+>a+^<f^>a+^<g+^>a+^<d+^>a+^<f+^  >a+^<f^c+^>a+^>d+^a+^<f+^>a+^  
+<f^>a+^<g+^>a+^<f^>a+^<g+^>a+^  <f+^>a+^<a+^>a+^
+;3
+
+l16
+{4}
+l16v34p50%e1|2o5r2  
+<f+^r8f^32r4^8^32f+^r8  f^32r8^32f+^32r4^8^32b^r8  <c^32r4^8^32c^r8d^r8  
+c^32r4^8^32>f+^r8f^r8  f+^32r4^8^32f+^r8f^r8  f+^32r4^8^32b^r8<c^r8  
+>b^32r4^8^32<c^r8d^r8  c^32r4^8^32>d+^r8d^32r2  ^8^32d^32r2^4  ^8^32>a+^32r1  
+^2^4^8^32 $4 o6f^  >f^c+^a+^c+^d+^32r4^32c+^32r1  ^1  
+^1  ^1  ^1  ^1  
+^2^4^8^32f+8  r8f8r8g+8r8d+8r8f+8  r8f8r1  ^2^4<f+8r2  
+^8>f+8r8f8r1  ^2>f+^r8f^r8  g+^r8f^r8g+^r8f+^r8  <a+4r4f+^r8f^r8  
+f+^32r4^8^32f+^r8f^r8  f+^32r4^8^32b^r8<c^r8  >b^32r4^8^32<c^r8d^r8  
+c^32r4^8^32>d+^r8d^32r2  ^8^32d^32r2^4  ^8^32>a+^32r1  ^2^4^8^32
+;4
+
+l16

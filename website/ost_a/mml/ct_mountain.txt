@@ -1,0 +1,105 @@
+#TITLE Singing Mountain
+#ALBUM Chrono Trigger
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x69 ## chorus (CT)
+#WAVE 0x22 0x72 ## harp (CT)
+#WAVE 0x23 0x0C ## piano (FF6)
+
+{1}
+l16t118%v50%e1%b0,70%f0,0v50p0|0r4 $1 o5%a10d1  c1  d1  d2c2  
+d1  c1  >a+2a2  a+1  
+<d1  c1  d1  d2c2  
+d1  c1  >a+2a2  <c2>b2  
+<d1  c1  d1  >a2<d2  
+d1  d1  >a+2<c2  d1  
+d2c2  >a+2a2  
+;1
+
+l16
+{2}
+l16%e1v50p254|0r4 $2 o3%a10g1  d1  
+d+1  a+2a2  g1  d1  
+d+2f2  g1  g1  d1  
+d+1  a+2a2  g1  d1  
+d+2f2  g1  a+1  f1  
+g1  d1  d+1  a+1  
+<c2>a2  d1  ^1  ^1  
+
+;2
+
+l16
+{3}
+l16%e1v60p64|0o5d4 $3 a+4a+8a8a+4  <c4>a2f4  ^8d8g4g8f8g4  
+a4f2^4  d4a+4a+8a8a+4  <c4>a2f4  d4d+4a+4a4  
+g8a8g2^4  d4a+4a+8a8a+4  <c4>a2f4  ^8d8g4g8f8g4  
+a4f2^4  d4a+4a+8a8a+4  <c4>a2f4  d4d+4a+4a4  
+g8a8g1  <d4d8c8d4d+4  f2c4^8>f8  a+4a+8a8a+4<c4  
+d2>a4^8f8  g4g8f8g4a4  a+2f4<d4  d+4d4c4>a+4  
+a1  ^2f+2  g2a2  
+;3
+
+l16
+{4}
+l16%e1v50p64|1r4 $4 o5%r8a+1  
+a1  g1  d1  a+1  
+a1  g2f2  g1  a+1  
+a1  g1  d1  a+1  
+a1  g2f2  g1  <d1  
+c1  >a+1  a1  g1  
+f1  g2g2  f+1  ^2f+2  
+g2a2  
+;4
+
+l16
+{5}
+l16%e1v50p64|1r4 $5 o5%r8g1  f1  d1  
+>a+2a2  <g1  f1  d+2c2  
+d1  g1  f1  d1  
+>a+2a2  <g1  f1  d+2c2  
+d1  a+1  a1  f1  
+f1  d+1  d1  d+2d+2  
+d1  ^2d2  d+2f+2  
+;5
+
+l16
+{6}
+l16%e1v50p64|1r4 $6 o5%r8d1  
+d1  >a+1  f1  <d1  
+d1  >a+2a2  a+1  <d1  
+d1  >a+1  f1  <d1  
+d1  >a+2a2  <c2>b2  <f1  
+f1  d1  d1  >a+1  
+a+1  a+2a2  a1  ^2r1  
+^2
+;6
+
+l16
+{7}
+l16%e1v50p64|2r4 $7 p0,192,127o4d8g8  a+8<d8g8d8>a+8g8d8f8  
+a8<d8f8d8>a8f8d+8g8  a+8<d+8g8d+8>a+8g8d8f8  a8<d8>c8f8a8<c8>d8g8  
+a+8<d8g8d8>a+8g8d8f8  a8<d8f8d8>a8f8d+8g8  a+8<d+8>f8a8<c8f8>g8a+8  
+<d8g8a+8g8d8>a+8d8g8  a+8<d8g8d8>a+8g8d8f8  a8<d8f8d8>a8f8d+8g8  
+a+8<d+8g8d+8>a+8g8d8f8  a8<d8>c8f8a8<c8>d8g8  a+8<d8g8d8>a+8g8d8f8  
+a8<d8f8d8>a8f8d+8g8  a+8<d+8>f8a8<c8f8>g8<c8  d8g8>g8b8<d8g8o3a+8<d8  
+f8a+8<d8>a+8f8d8c8f8  a8<c8f8c8>a8f8>g8a+8  <d8g8<d8>a+8g8d8>a8<d8  
+f8a8<d8>a8f8d8>a+8<d+8  g8a+8<d+8>a+8g8d+8>a+8<d8  f8a+8<d8>a+8f8d8c8d+8  
+g8a+8>a8<c8d+8g8>a8<d8  f+8a8<d8f+8a8<d8f+8d8  >a8f+8d8>a8f+8d8p64,63<d8>a8  
+f+8d8af+d>a<d>af+d
+;7
+
+l16
+{8}
+l16%e1v104p64|3o6d8r8   $8 a+8r8a+8a8a+8r8<c8r8  
+>a8r4^8f8r4d8  g8r8g8f8g8r8a8r8  f8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  
+>a8r4^8f8r8d8r8  d+8r8a+8r8a8r8g8a8  g8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  
+>a8r4^8f8r4d8  g8r8g8f8g8r8a8r8  f8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  
+>a8r4^8f8r8d8r8  d+8r8a+8r8a8r8g8a8  g8r2^4^8  <d8r8d8c8d8r8d+8r8  
+f8r4^8c8r4>f8  a+8r8a+8a8a+8r8<c8r8  d8r4^8>a8r4f8  g8r8g8f8g8r8a8r8  
+a+8r4^8f8r8<d8r8  d+8r8d8r8c8r8>a+8r8  a8r1  ^4^8f+8r4^8g8  
+r4^8a8r4^8
+;8
+
+l16

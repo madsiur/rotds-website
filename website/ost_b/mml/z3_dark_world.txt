@@ -1,0 +1,110 @@
+#TITLE Dark World
+#ALBUM The Legend of Zelda: A Link to the Past
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1A ## trombone (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x1F ## ocarina (FF6)
+
+{1}
+l16t138%v30%e1%b0,70%f0,0 $1 v70p60|0o7r8>[2grgrgggra4r8  r8a+ra+ra+a+a+r<c4r8  
+r8>][2grgrgggrg4r8  r8araraaara4r8  r8grgrgggrg4r8  r8frfrfffrf4r8  
+r8grgrgggra4r8  r8a+ra+ra+a+a+r<c4r8  r8>]a+ra+ra+a+a+ra+ra+12a+12a+12  
+r8<crcrcccrcrc12c12c12  r8crcrcccrcrc12c12c12  r8drdrdddrdrd12d12d12  
+r8>a+ra+ra+a+a+ra+ra+12a+12a+12  r8<crcrcccrcrc12c12c12  r8c+rc+rc+c+c+rc+rc+12c+12c+12  
+r8>araraaarara12a12a12  r8a+ra+ra+a+<crc4r8  r8drdrddcrc4r8  d+8r4d+8r8d+rd+12d+12d+12  
+d8r4d8r8drd12d12d12  c8r4c8r8crc12c12c12  c8r4c8r8crc12c12c12  >b8r4b8r8brb12b12b12  
+a+8r4a+8r8a+ra+12a+12a+12  <c8r4c8r8crc12c12c12  c8r4c8r8>brb12b12b12  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v70p60|0o7r8>[2d+rd+rd+d+d+rf4r8  r8grgrgggra4r8  
+r8][2d+rd+rd+d+d+rd+4r8  r8frfrfffrf4r8  r8d+rd+rd+d+d+rd+4r8  r8drdrdddrd4r8  
+r8d+rd+rd+d+d+rf4r8  r8grgrgggra4r8  r8]grgrgggrgrg12g12g12  r8araraaarara12a12a12  
+r8g+rg+rg+g+g+rg+rg+12g+12g+12  r8frfrfffrfrf12f12f12  r8grgrgggrgrg12g12g12  
+r8araraaarara12a12a12  r8grgrgggrgrg12g12g12  r8f+rf+rf+f+f+rf+rf+12f+12f+12  
+r8<drdrddere4r8  r8frfrffere4r8  c8r4c8r8crc12c12c12  >a+8r4a+8r8a+ra+12a+12a+12  
+a8r4a8r8ara12a12a12  g+8r4g+8r8g+rg+12g+12g+12  g+8r4g+8r8g+rg+12g+12g+12  
+g8r4g8r8grg12g12g12  a8r4a8r8ara12a12a12  g8r4g8r8frf12f12f12  
+;2
+
+l16
+{3}
+l16%e1 $3 v80p0|1%r6o5r1  
+^1  ^1  ^2^4^8c8  g2^8c8g8<c8  
+>%l1aa+%l0a2^4^f  g8^^c2^8f8  %l1dd+%l0d2^4^>a+  <c2^4^8^r2  
+^4^8^c8g2  ^8c8g8<c8>%l1aa+%l0a2  ^4^fg8^^c2  ^8f8%l1dd+%l0d2^4  
+^>a+<c2^4^8  ^r2^4^8^  %l1ga%l0a+2^8^rg8  a+8agf2^8^r  
+d+fg2^8^rc8  g8%l1fd+%l0d2^8^r  %l1ga%l0a+2^8^rg8  a+8%l1aa+%l0<c2^4  
+^r>a+2^8^ra8  a+8ag+a2^4  ^rg2^4^8  ^r1  
+^<%l1c>gf%l0g2r<c8^  ^>%l1a+gf%l0g2^4  r%l1a+fd+%l0f2ra+8^  ^%l1ad+d%l0d+2^4  
+r%l1gdc+%l0d2rg8^  ^<%l1c>gf%l0g2r<c8^  ^d2^4^8^  r1  
+^
+;3
+
+l16
+{4}
+l16%e1 $4 v100p63|1%r6o5r1  ^1  ^1  ^2^4^8>g8  
+<d+2^8>g8<d+8g8  %l1fg%l0f2^4^c  d+8^^>g+2^8<c8  >%l1a+<c>%l0a+2^4^f  
+g2^4^8^r2  ^4^8^g8<d+2  ^8>g8<d+8g8%l1fg%l0f2  ^4^cd+8^^>g+2  
+^8<c8>%l1a+<c>%l0a+2^4  ^fg2^4^8  ^r2^4^8^  <%l1d+f%l0v80p60|4%y1%s6%r4m12,22,201o6a+2^4g8  
+a+8%l1ag%l0f2^4  %l1d+f%l0g2^4c8  g8%l1fd+%l0d2^4  %l1ga%l0a+2^4g8  
+a+8%l1aa+%l0<c2^4  ^8>a+2^4a8  a+8%l1ag+%l0a2^4  ^8g1  
+r1  ^1  ^1  ^1  
+^1  ^1  ^2^4v90p60|1%r8o5g4  f+1  
+f1  
+;4
+
+l16
+{5}
+l16%e1 $5 v80p63|1o5r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4^8<%r6%l1cg  %l0d2^4^8>%l1a+g  %l0<c4^8^rg4^8^r  
+f2^4^8%l1d+d  %l0d+2^4^8^r  d2^4^8^d  c2^8^r%l1fd+dc  
+%l0d2^4^8^r1  ^1  ^1  ^1  
+^>g2^8^rd+8g8  %l1fg%l0a2^4^r  g2^8^rf+8g8  %l1f+f%l0f+2^4^r  
+d2^4^8^r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^
+;5
+
+l16
+{6}
+l16%e1 $6 v80p127|1%r6o5r1  ^1  ^1  
+^2^4^8^c8  g2^8c8g8<c8  >%l1aa+%l0a2^4^f  g8^^c2^8f8  
+%l1dd+%l0d2^4^>a+  <c1  r2^4^8c8  g2^8c8g8<c8  
+>%l1aa+%l0a2^4^f  g8^^c2^8f8  %l1dd+%l0d2^4^>a+  <c1  
+r2^4^8%l1ga  %l0a+2^8^rg8a+8  %l1ag%l0f2^8^r%l1d+f  %l0g2^8^rc8g8  
+%l1fd+%l0d2^8^r%l1ga  %l0a+2^8^rg8a+8  %l1aa+%l0<c2^4^8  >a+2^8^ra8a+8  
+%l1ag+%l0a2^4^8  g2^4^8^r1  ^<%l1c>gf%l0g2r<c4  
+>%l1a+gf%l0g2^4^  %l1a+fd+%l0f2ra+4  %l1ad+d%l0d+2^4^  %l1gdc+%l0d2rg4  
+<%l1c>gf%l0g2r<c4  d1  r2^4^8^
+;6
+
+l16
+{7}
+l16%e0 $7 v100p64|2o5c8  
+[4r8c8r8c8r4c8c8  ]r8c8r8c8r4c8f8  r8f8r8f8r4f8g+8  r8g+8r8g+8r4g+8a+8  
+r8a+8r8a+8r4a+8c8  [2r8c8r8c8r4c8c8  ]r8c8r8c8r4c8f8  r8f8r8f8r4f8g+8  
+r8g+8r8g+8r4g+8a+8  r8a+8r8a+8r4a+8c8  r8c8r8c8r4c8c8  r8c8r8c8r4c8d+8  
+d+8^^d+8d+8d+8d+12d+12d+12f8  f8^^f8f8f8f12f12f12g+8  g+8^^g+8g+8g+8g+12g+12g+12a+8  
+a+8^^a+8a+8a+8a+12a+12a+12d+8  d+8^^d+8d+8d+8d+12d+12d+12f8  f8^^f8f8f8f12f12f12e8  
+e8^^e8e8e8e12e12e12d8  d8^^d8d8d8d12d12d12g8  g8^^g8g8g8g12g12g12g8  
+g8^^g8g8g8g12g12g12g+4  ^^g+8^^g+8g+12g+12g+12g4  ^^g8^^g8g12g12g12f+4  
+^^f+8^^f+8f+12f+12f+12f4  ^^f8^^f8f12f12f12e4  ^^e8^^e8e12e12e12d+4  
+^^d+8^^d+8d+12d+12d+12d4  ^^d8^^d8d12d12d12g4  ^^g8^^g8g12g12g12
+;7
+
+l16
+{8}
+l16%e1 $8 v80p64|3o5e8e8  
+[16e8e8e8e8eeeee8e8  ][9e8e8e8e8e12e12e12e8e8  ]e8e8e8e8e12e12e12e4  
+[7eeeee8e8e12e12e12e4  ]eeeee8e8e12e12e12
+;8
+
+l16

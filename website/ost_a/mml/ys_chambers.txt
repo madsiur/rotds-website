@@ -1,0 +1,93 @@
+#TITLE Darm Tower Upper Chambers
+#ALBUM Ys
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x25 ## pipe organ (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x0E ## trumpet (FF6)
+#WAVE 0x24 0x02 ## electric bass (FF6)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x5F ## hard snare (FF6)
+#WAVE 0x27 0x36 ## sawtooth (UNK)
+
+{1}
+l16t150%v20v80p85%e1%b0,70%f0,0|0o5e>bg<e>bg<e>b<d>af+<d>af+<d>a  
+<c>ge<c>ge<c>gb8>b8<d+8f+8  <e>bg<e>bg<e>b<d>af+<d>af+<d>a  <c>ge<c>ge<c>gb8>b8<b8<d8  
+<e>bg<e>bg<e>b<d>af+<d>af+<d>a  <c>ge<c>ge<c>gb8>b8<d+8f+8  <e>bg<e>bg<e>b<d>af+<d>af+<d>a  
+<c>ge<c>ge<c>gb8f+8d+8>b8  gagagagb<e>g<f+>g<g>g<e>g  abababab<e>a<f+>a<g>a<e>a  
+gagagagb<e>g<f+>g<g>g<e>g  <ge>b<ege>b<gf+d+>a<d+f+d+>a<f+  >gagagagb<e>g<f+>g<g>g<e>g  
+abababab<e>a<f+>a<g>a<e>a  gagagagb<e>g<f+>g<g>g<a>a  <b<co4b<abgegaf+d+c>bagf+  
+gagagagb<e>g<f+>g<g>g<e>g  abababab<e>a<f+>a<g>a<e>a  gagagagb<e>g<f+>g<g>g<e>g  
+<ge>b<egebgaf+<c>ab<cd+f+  o4gagagagb<e>g<f+>g<g>g<e>g  abababab<e>a<f+>a<g>a<e>a  
+gagagagb<e>g<f+>g<g>g<a>a  <b<c>bab<gf+ed+c>bagf+ed+  >gagagagb<e>g<f+>g<g>g<e>g  
+abababab<e>a<f+>a<g>a<e>a  gagagagb<e>g<f+>g<g>g<e>g  <ge>b<ege>b<gf+d+>a<d+f+d+>a<f+  
+>gagagagb<e>g<f+>g<g>g<e>g  abababab<e>a<f+>a<g>a<e>a  gagagagb<e>g<f+>g<g>g<a>a  
+<b<co4b<abgegaf+d+c>bagf+  gagagagb<e>g<f+>g<g>g<e>g  abababab<e>a<f+>a<g>a<e>a  
+gagagagb<e>g<f+>g<g>g<e>g  <ge>b<egebgaf+<c>ab<cd+f+  o4gagagagb<e>g<f+>g<g>g<e>g  
+abababab<e>a<f+>a<g>a<e>a  gagagagb<e>g<f+>g<g>g<a>a  <b<c>bab<gf+ed+c>bagf+ed+  
+
+;
+
+l16
+{2}
+l16v100p90%e1|7o5gf+egf+egegf+egf+ege  gf+egf+egg+a8a+8b8f+a  
+gf+egf+egegf+egf+ege  gf+egf+egg+a8a+8b8<d+f+  gf+egf+egegf+egf+ege  
+gf+egf+egg+a8a+8b8f+a  gf+egf+egegf+egf+eg<e  c>af+d+c>af+c+>b<d+f+abaf+>b  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+
+;
+
+l16
+{3}
+l16v80p44%e1|2o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+ed+er8^f+rg8^r8^gr  f+ff+r8^grag+ar8^ar  gf+gr8^arba+br8^<er  e8f+8g8e8d+8e8f+8d+8  
+ed+er8^f+rg8e8>b8g8  <f+ff+r8^gra8f+8d8>a8  <gf+gr8^arb4<e4  e4^8f+ed+2  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+>e>ba<f+>ba<g>ba<f+>ba<ebgf+  e>ba<f+>ba<g>ba<f+>ba<ebgf+  e>ba<f+>ba<g>ba<f+>ba<ebgf+  
+e>bf+b<e>bf+b<d+>af+a<d+>af+a  <e>ba<f+>ba<g>ba<f+>ba<ef+ga  e>ba<f+>ba<g>ba<f+>ba<ef+ga  
+e>ba<f+>ba<g>ba<f+>ba<ef+ga  b4r8<c>ab4r8<d+8  
+;
+
+l16
+{4}
+l16v120p60%e1|3o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ed+er8^f+rg8^r8^gr  
+f+ff+r8^grag+ar8^ar  gf+gr8^arba+br8^<er  e8f+8g8e8d+8e8f+8d+8  
+ed+er8^f+rg8e8>b8g8  <f+ff+r8^gra8f+8d8>a8  <gf+gr8^arb4<e4  m16,16,233e4^8mf+em16,16,233d+2  
+mr1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+e>babaegaa+bgf+e>b<de  f+gagf+gagf+4^8ef+  ge>b<bge<e>bg<ge>b<ef+ga  
+b<c>ba+bf+ba+bf+ba+bf+b<d+  e>babagf+e>b<ef+ga32b32a32g32f+e  f+gagf+gagf+d>a<d>af+ed  
+e>b<f+>b<g>b<a>b<bg<eo5bo7f+>b<ga  b<c>ba+bf+ed+c32>b32a32g32f+32e32d32c32>b32
+;
+
+l16
+{5}
+l16v95p64%e0|4o6e8^e8  
+^e8d8^d8^d8c+8^c+8  ^c+8c8c8>b8<d+8e8^e8  ^e8d8^d8^d8c+8^c+8  ^c+8c8c8>b8<d+8<e8^e8  
+^e8d8^d8^d8c+8^c+8  ^c+8c8c8>b8<d+8e8^e8  ^e8d8^d8^d8c+8^c+8  ^c+8c8>a8f+8>b8[8o6e>ee<e>e  
+e<e>e<e>e<e>e<e>e<e>e<d>dd<d>d  d<d>d<d>d<d>d<d>d<d>d<c>cc<c>c  
+c<c>c<c>c<c>c<c>c<c>cb>bb<b>b  b<b>b<b>bb<b>bb<b>b]
+;
+
+l16
+{6}
+l16v80p64%e0|5o5[4f+8rf+8  
+rf+8f+8rf+8rf+8f+8rf+8  rf+8f+8f+8f+8f+8]f+8f+8|6v80o5e8  |5v80o5f+8f+8f+8|6v80o5e8r8[31|5v80o5f+8f+8|6v80o5e8  
+|5v80o5f+8f+8f+8|6v80o5e8r8]
+;
+
+l16

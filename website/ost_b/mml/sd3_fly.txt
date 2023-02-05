@@ -1,0 +1,110 @@
+#TITLE Can You Fly, Sister?
+#ALBUM Seiken Densetsu 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x44 ## strings (RS3)
+#WAVE 0x21 0x63 ## bottle blow (FF6)
+#WAVE 0x22 0x3E ## xylophone (FF6)
+#WAVE 0x23 0x4B ## celesta (RS3)
+#WAVE 0x24 0x1C ## bass (FF6)
+#WAVE 0x2A 0x66 ## trans bass drum (RS3)
+#WAVE 0x2B 0x56 ## snare drum 2 (RS3)
+#WAVE 0x2C 0x8C ## metal bang (SMRPG)
+
+{1}
+l16t120%v50%x192%b0,70r1   $5 [2|4o4p64v72[2[2g8g<g8>gggg8<g8>j2,1 g8g<g8  
+>gggg<g8>g] $1 j2,2 g8g<g8>gggg  <gg>g] $2 d8d<d8>dddd<dd>d[2<c8  
+cc8>a<ccc8d8e8ee8>b  <eee8>b8a8aa<def+gf+d  j2,3 >ade8eef+gab<d>bab] $3 c+>b  
+a8aa<dec+egea<c+>>[3a+ra+]a+  <de[3frf]ffe[3d+rd+]d+d+d+[3dr  d]dc>a+[3g+rg+]g+g+g+[3grg]gg+a+  
+[3g+rg+]g+g+g+[3g+rg+]g+<cfg8.g  fd+d8.d+dc>b8.<c>bg+g8  r4]|2o5p64v64[2[2bgd][2af+d][2gd+>a+<][2f+d>a  
+<][2gd+>a+<][2fd>a+<]g+d+cd+g+d+gcdg  aa+[2g+d+c][2a+gd+]g+c+cg+fc+cd  
+d+gg+<c[2c+>g+f<][2c>g+d+<][2c+>a+f<]c>gf  ecj2,4 g] $4 ^
+;5
+
+l16
+{2}
+l16|1o6p96>v16a24g24f+24g24a24b24v20<c24>b24a24b24<c24d24v24e24d24c24d24e24f+24  
+v28g24f+24e24f+24g24a24 $9 [2|1o6p96v32[2brbb8baraa8a  grgg8ga8g8a8j2,6 brbb8  
+baraa8ag4.a4.  ] $6 b8.<d8.c8.>b8.a4.  a4.[2cga<c>gdcga<c  >gc[2>b<egbge]>a<deaf+e>a<d  
+eaj2,7 >a<degb<e>egdga<d>af+  ] $7 c+eg<c+egec+>g<c+e>gec+[4a+f  
+e][4ac>a<][4gd+>a+<][3fd>a+<]dfg[4g+d+c  ][4gd>a+<]>[4g+<cgg+g>a+]gb<dg>b<dg  
+b<dgd>bgdgbgd>g<rr4  ]v28[2bgdgbgaf+df+adgd+>a+<d+  gd+f+d>a<df+dgd+>a+<d+gd+fd  
+>a+<dfdc>g+d+g+<cd+dcdgag  g+d+cd+g+d+gd+>a+<d+gd+fc+cc+  fc+cdd+gg+<cc+>g+fg+<c+>g+<c>g+  
+d+g+<c>g+a+f+ff+a+f<c>gfecj2,8 g  ] $8 ^
+;9
+
+l16
+{3}
+l16|1o6p80>v16f+24e24d24e24f+24g24v20a24g24f+24g24a24b24v24<c24>b24a24b24<c24d24v28e24d24c24d24e24  
+f+24 $12 [2|1o6p80v32[2grgg8gf+rf+f+8f+eree8  ef+8e8f+8j2,10 grgg8gf+rf+  
+f+8f+e4.f+4.] $10 g8.  b8.a8.g8.f+4.f+4.  |0o5p16v72>[2a8aa8aa8a8a8g8gg8  
+gg8g8ggj2,11 g8ggaab8<c+8  d8e4eeg8.>a8.] $11 g8  gggga8a8aaa8aaaa  
+b8b8bb<d4ddd8e8  f8c8.>a8.f8.c8.a+4  ggg8g8g8f8.d8.>a+8.  f<ca+<c4>g+g+g+8g+8g+8g8.  
+d8.>a+8.<d8.[4d+4d+d+][2d8.  ddd]d8dd8ddrr4][2|1o6p32v28<d  r8.drdr8.drd8c8>a+8  
+ar8.ara+r8.a+ra+r8.  a+rg+gg+8<d+8d8>a+<cd>a+cr8.  cr>a+r8.a+rg+r8.g+rg8  
+ga+<cd+fr8.frd+r8.d+r  c+r8.c+r4.^]
+;12
+
+l16
+{4}
+l16|0o5p32v72>f+24e24d24e24f+24g24  
+a24g24f+24g24a24b24<c24>b24a24b24<c24d24e24d24c24d24e24f+24 $15 [2|0o5p32v72[2>g<dgf+  
+g8>g<cgf+g8>g<dgf+g8>g<c  g8gf+j2,13 >g<dgf+g8>g<cgf+g8  >g<dgf+gf+>g<c%l1g24a24g24%l0f+8] $13 >g<dgf+  
+g8>g<cgd>b<c>g<dgcf+gag  f+d>ab<[2f8ff8ff8f8f8  e8ee8ee8e8eej2,14 d8dd  
+def+8g8a8b4<c>ba8.  f+8.] $14 d8ddddd8d8dde8  eeeea8a8aaa+4a+a+  
+a+8<c8>a+8a8.f8.c8.>a8.  <g4d+d+d+8f8d+8d8.>a+8.  f8.da+<fg+4d+d+d+8f8  
+d+8d8.>a+8.g8.a+8.<[4c4  cc]>[2b8.bbb]b8bb8bbr  r4]|3o5p48v32<[2d4.d4.  
+d8c8>a+8a4.a+4.  a+4.g+gg+8<d+8d4  d8c4.>a+4.g+8  a+8<c+8c8d8d+8c+4.  
+c4.c+8d+8c+8c4.  ]
+;15
+
+l16
+{5}
+l16|0o5p48v72>d24c24>b24<c24d24e24f+24e24d24e24f+24g24a24g24f+24g24a24b24<c24>b24a24b24<c24d24  
+ $18 [2|2o5p64v60[2b4.a4.g4.  a8g8a8j2,16 b4.a4.  g4.cdga<cd>] $16 g8.b8.  
+a8.g8.a4.f+4.  v80[2<c4>bag8a8<c8>b8.g8.  e8.g8.j2,17 a4f+ed8g8  
+a8b4<c>ba4.] $17 a4  bag8b8<d8c+4dc+>b8  g8e8f4fef4fe  f8.f<cefc>afcag4  
+d+d+d+8f8d+32f32d+d8.>a+<dfa+f  d>a+<d+gg+4d+d+d+8f8d+8  d8.>a+8.g8.a+8.g+a+<cc+  
+c>a+g+<cd+fd+dcd+gg+gfd+g+  <cd+dc>[2g8.ggg]g8gg8g  grr4]|3o5p48v32[2b4.a4.  
+g4.f+4.g4.  f4.d+dd+8g+8g8.a  a+gg+4.g4.f8  g8g+8gdd+gg+<c>a+4.  
+g+4.a+8<c8>a+8a4.  ]
+;18
+
+l16
+{6}
+l16r1   $22 [2|2o5p48v64[2bgdgbdaf+df+adgdcd  
+gcaf+df+aj2,19 d] $19 a+bgdgbda  f+df+adgdcdgcaf+df+a  dbgd<d>gd<c>gebge[4af+d  
+]|0o5p48v72[2c8cc8cc8c8c8>b8bb8  bb8b8bbj2,20 a8aab<c+d8e8  f+8g4agd4.] $20 a8  
+aaaab8b8bb<d8dddd  d8d8ddf4fff8g8  g8f8.c8.>a8.f8.<d+4  >a+a+a+8a+8a+8a+8.f8.d8.  
+>a+<f<cd+4ccc8c8c8>a+8.  g8.d8.g8.[4g+4g+g+][2g8.  ggg]g8gg8ggrr4][5r1  
+]r2r8|Cv40o5g32g32v48g32g32v56g32g32v64g32g32v72g32g32v80g32g32  
+[4v96gv48gggv80gv48gv96gv48gggv56g32g32v64g32g32v72g32g32v80gv88gg  
+v96gv48gv96gv80gj4,21 v48ggv96gv48g] $21 |Cv48gv96ggg
+;22
+
+l16
+{7}
+l16r2  
+^4p64|Av80o5e24v96e24v112e24v120e24|Bv127e24e24 $26 %g1[2[2[3|Ae8.|Be8|Av96e]v127e8  
+|Be8|Ae8j2,23 [4e8.|Be8|Av96e]] $23 [3v127e8.|Be8|Av96e  ]v127ev72e32e32|Bv127eev112ev120e[2[3|Av127e8.|Be8|Av96e]v127e8v112e|Bv127e  
+|Aev112ej2,24 v127e8.|Be8|Av96ev127e8e8|Be8|Ae8.  |Be8|Av96ev127ev112e|Bv127ee|Av112ev120e] $24 v127e8e|Be8|Av112ev127e8  
+|Be8|Aev96ev127e8|Bee8v112e|Av127e24e24e24|Bv120ev127eee  [4[3|Ae8v96e|Bv127e8|Av96e]v127e8v112e|Bv127e|Aev120e]v127ev112e|Bv127e8  
+|Av112e24e24e24v127ev112e|Bv127e8|Av112e24e24e24v127ee|Bee|Ae32e32eer  
+r4][6r1  ][2e8.v96ev127e8ee8v96ev127e8e8v112e8  v127e8v112ev127e8e8v112ej2,25 v127e8.v96ev127e8ee8  
+v96ev127e8e8v112e8v127e8v112ev127e8ev120ev112e] $25 v127e8.  v96ev127e8ee8v96ev127e8e8v112e8v127e8v112e32e32  
+v127ee|Beee
+;26
+
+l16
+{8}
+l16r2p64%g1|Cv32o5g32g32v40g32g32v48g32g32  
+v56g32g32v64g32g32v72g32g32v80g32g32v88g32g32 $29 [2[4[2v80gv56gv96gv56gggv80gv56gv96gv56gg  
+gv80gv56gv96gv56gggj2,27 v64g32g32g32g32v96gv56ggg] $27 j4,28 v80gv48gv96g  
+v56ggg] $28 v80gv64gv96gv80gv88gv96g[3[6gv56gg]v64g32g32g32g32v88gv96g  
+v56gg][3v80gv56gv96gv56ggg]v64g32g32v72g32g32v80g32g32gv88ggv96gv56g  
+v96gv80gv56ggv96gv56gv96gv80gv56ggv96gv56gv88gv56gv80gg  v96gv64g32g32v96ggv48gv96g][8r1  
+^2]
+;29
+
+l16

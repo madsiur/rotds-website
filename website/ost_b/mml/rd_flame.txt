@@ -1,0 +1,112 @@
+#TITLE Frozen Flame
+#ALBUM Radical Dreamers
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x33 ## bagpipe (FF6)
+#WAVE 0x21 0x07 ## flute (YI)
+#WAVE 0x22 0x0A ## oboe (FF6)
+#WAVE 0x23 0x1B ## harp (FF6)
+#WAVE 0x24 0x1D ## picked string (FF6)
+#WAVE 0x25 0x0D ## strings (FF6)
+#WAVE 0x26 0x08 ## french horn (FF6)
+
+{1}
+l16t112%b0,70%f0,0%v50%e1%x80|0v90p64o5m24,24,199%r6t144,128a+4<a+4g+4 $2 [2a+2  
+^4^4g+4f+4  f2^4c+2  >a+4<d+2^4  ^2^4^2  
+^4d+2f4  c+2^4>a+2  ^4<c+2>b8a+8  g+2f+8g+8a+2  
+^4^2^4  ^2^4j2,1 a+4  <a+4g+4] $1 a+4b4  <c+4d+2^4  
+e2d+8c+8d+2  ^4c+4>b4<c+4  d+2^4e2  d+8c+8f+2c+4  
+c2^4^4.  >g+8a+8<c8c+8c8c+8d+8c+8  d+8e8d+8e8f+8e8d+8e2  >g+4<d+2>b4  
+<d2>b8a+ag+2  g4m|4v108o6b2d+4  a+2d+4a2  f+8fed+2d4  
+d+2^4d+2  ^4r32<d+2^8.^32  |0v92o5m24,24,200%r6a+4<a+4g+4
+;2
+
+l16
+{2}
+l16%e1r2  
+r4 $3 |2v100p64o5p0,144,64[2[2<d+8>d+8g+8f8a+8f+8  <c+8>f8g+8f+8a+8f8][2<d+8>d+8  
+g+8d+8a+8d+8<c+8>d+8g+8d+8  a+8d+8]<d+8>d+8g+8f8a+8d+8  <c+8>f8g+8d+8a+8f8[2<c+8>e8  
+g+8e8a+8e8][2<d+8>d+8g+8f8  a+8f+8<c+8>f8g+8f+8a+8f8  ]]pp64[3>g+8b8<d+8g+8d+8>b8a8<c+8  
+e8a8e8c+8]>f+8a8<c+8f+8  c+8>a8g+8<c8d+8g+8d+8c8  [2>g+8<c8d+8g+8d+8c8]>g+8<c8  
+d+8g+8f+8d+8c+4g+4  <e4>>b4<f+4<d+4  >>a+4<f4b4d+4  a+4a+4>g+4<d+4  
+b4>f+4<d+4a+4  >f4<c4f+4>a+4  <f4f4[3d+4a+4  a+4]d+2^4  
+
+;3
+
+l16
+{3}
+l16%e1r2r4 $5 |2v89p64o5p0,144,192[2[2^f8<d+8  >d+8g+8f8a+^f+8<c+8>f8g+8  
+f+8a+]^f8<d+8>d+8g+8d+8a+[2^  d+8<c+8>d+8g+8d+8a+j2,4 ^d+8<d+8  
+>d+8g+8d+8a+] $4 ^d+8<d+8>d+8g+8  f8a+^d+8<c+8>f8g+8d+8a+^  f8<c+8>e8g+8e8a+^e8<c+8  
+>e8g+8e8a+^e8<d+8>d+8g+8  f8a+^f+8<c+8>f8g+8f+8a+^  f8<d+8>d+8g+8f8a+^f+8<c+8  
+>f8g+8f+8a+]p|1v86p64o5d+2^4  e2d+8c+8d+2  ^4c+4>b4<c+4  d+2^4e2  
+d+8c+8f+2c+4  c2^4^2  ^4^2^4  ^4c+4d+4|2v100p64o5r8e4  
+<c+4c+8r8>d+4b4  b8r8d4g+4a+8r8  g+4<d+4>g8r8>b4  <g+4g+8r8>a+4<f+4  
+f+8r8>a4<d+4f8r8  d+4a+4d8[3r8f+4  <d+4>f+8]r2r4  
+;5
+
+l16
+{4}
+l16%e1|3v127p64o4r2r8a+8 $6 <[2d+2  
+^4a+2^8>a+8  <d+2^4a+2  d+4>b2^4  <f+2b4>b2  
+^4<f+2>b4  a+4.<f4.a+4.  f4.e4.b12r6  e8b2e4d+4.  
+d+12r6c+8d+4.>a+4  <c+8d+4.d+12r6c+8d+4.  >a+4<c+8]>g+4.<g+12r6  
+>g+8a4.<a12r6>a8g+4.  <g+12r6>g+8a4<e4a4  >g+4.<g+12r6>g+8a4.  <a12r6e8f+4.c+12r6  
+f+8[3>g+4.<d+12r6g+8]>g+4  <d+4g+4c+2  c+6r12>b2b6r12  a+2a+6r12<d+2  
+a+6r12g+2g+6r12  f+2f+6r12f2  f6r12a+2f6r12  d+2^4^2  
+a+4d+2^4  ^2>a+4
+;6
+
+l16
+{5}
+l16%e1r2  r4 $7 |1v92p40o5[2a+2^4  
+^2^4f2  ^4^2^4  f+2^4^2  ^4^2^4  
+^2^4f2  ^4^2^4  g+2^4^2  ^4a+2^4  
+^2^4^2  ^4^2g+4  ]>b2^4^2  ^4b2^4  
+g+2^4b2  ^4^2^4  <c+2>g+4g+2  ^4^2^4  
+^2^4^2  ^4|5v124o5r4e2  ^4d+2^4  d2^4d+2  
+^4>b2^4  a+2^4a2  ^4a+2^4  <d+2^4d+2  
+^4d+2^4  r2
+;7
+
+l16
+{6}
+l16%e1r2  r4 $8 |1v92p88o5[2f2^4  ^2^4c+2  
+^4^2^4  d+2^4^2  ^4^2^4  ^2^4c+2  
+^4^2^4  d+2^4^2  ^4f+2^4  ^2^4^2  
+^4^2d+4  ]>g+2^4a2  ^4g+2^4  e2^4g+2  
+^4a2^4  a2f+4d+2  ^4^2^4  ^2^4^2  
+^4|5v124o5r4c+2  ^4>b2^4  a+2^4a+2  ^4g+2^4  
+f+2^4f2  ^4f2^4  f+2^4f+2  ^4f+2^4  
+r2
+;8
+
+l16
+{7}
+l16%e1r2  r4 $9 [4r2r4  ]|4v116p64o6r4.d+8f8f+8g+4.  
+f+4f8c+4.d+4.  c+4.d+4.r4.  g+a+32g+8^32f+8f2c+4  ^4.f+g+32f+8^32e8d+2  
+c+4d+4.r4fr  f8f+r4.rfrf8f+r4.  rfrf8f+r8.g+r8.f+rf2  ^4^2d+4  
+f2^4^2  g+4f+4.d+8f8f+8  g+4.f+4f8c+4.  d+4.c+4.d+4.  
+r4.g+a+32g+8^32f+8f2  c+4^4.f+g+32f+8^32e8  d+2c+4d+4.  r4frf8f+r4.r  
+frf8f+r4.rfrf8  f+r8.g+r8.f+rd+2  ^4e2^4  d+2^4c+4  
+>b4<c+4d+2  ^4e2^4  f+2^4c2  ^4^4.>g+8a+8<c8  
+c+8c8c+8d+8c+8d+8e8d+8  e8f+8e8d+8[4r2  r4]v90g+2r4  f+2r4d+2  
+r4>a+2^4  a+2^4^2  <a+4^64a+2^8.^32^64  ^2^4
+;9
+
+l16
+{8}
+l16%e1r2  
+r4 $10 [5r2r4  ]|4v116p64o6d+4.r4.>a+4.  a+4.a+4.a+4.  r2r4<c+2  
+r4r2r4  >a+2r4a+4.  r4<c+rc+8d+r4.r  c+rc+8d+r4.rc+rc+8  
+d+r8.fr8.d+rc+2  ^4^2>a+4  <c+2^4^2  d+4d+4.r4.  
+d+4.r4.>a+4.  a+4.a+4.a+4  r8r2r4<c+2  r4r2r4  
+>g+2r4a+4.  r4<c+rc+8d+r4.r  c+rc+8d+r4.rc+rc+8  d+r8.fr8.d+r>b2  
+^4b2^4  b2^4g+2  ^4b2^4  b2^4<c+2  
+^4>g+2^4  ^4r2[6r2  r4]v90<d+2r4  c+2r4c2  
+r4>g+2^4  f+2^4^4  <f+2f+2  ^4^2^4  
+
+;10
+
+l16

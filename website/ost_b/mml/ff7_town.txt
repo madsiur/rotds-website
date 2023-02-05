@@ -1,0 +1,81 @@
+#TITLE Mining Town
+#ALBUM Final Fantasy VII
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0A ## oboe (FF6)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1F ## ocarina (FF6)
+#WAVE 0x25 0x01 ## spanish guitar (FF6)
+#WAVE 0x26 0x19 ## pizzo string (FF6)
+#WAVE 0x27 0x24 ## tubular bell (FF6)
+
+{1}
+l16t120%v50%x224%b0,70 $1 |1p100v72o4%e1m[40a4b4r4][2a4  <c4>r4][2a4b4  
+r4][2b4<d4>r4  ][2a4<c+4>r4][2a4  <c4>r4][2g4<c4  >r4][4a4b4r4  
+]
+;1
+
+l16
+{2}
+l16 $2 |0p20v32o4%e1m[20d4%l1e4>b4<%l0d4  e4r4]e4%l1f4  
+c4%l0e4f4r4  d4%l1e4>b4<%l0d4  e4r4d4%l1f+4  >b4<%l0d4f+4r4  
+c+4%l1f+4>a4<%l0c+4  f+4r4e4%l1f4  c4%l0e4f4r4  d4%l1e4c4%l0d4  
+e4r4[2d4%l1e4  >b4<%l0d4e4r4  ]
+;2
+
+l16
+{3}
+l16 $3 |6p64v104o4%e1m[37r4]g8b8a8e8g8b8  
+a8r2e8g8b8  a8e8g8b8a8r8[14r4  ]g8b8a8e8g8b8a8r2  e8g8b8a8e8g8b8a8  
+r8[13r4]|2v56o5%e1%a4%r8mp30g2^4  f+2^4e4  ^1  ^1  
+r4^1  ^1  g2^4a2  ^4b2^1  
+a1  ^2g1  ^2b1  
+^2a1  ^2a1  ^2g1  
+^2a1  ^1  ^1  
+;3
+
+l16
+{4}
+l16 $4 |5p64v127o5%e1m48,18,237%a7&49[23r4]g8a8b2  
+^4r2a8g8  f+2^4r2  e8f+8g2^4  r1  
+r1  g8a8b2^4  r2a8g8f+2  ^4r2e8d8  
+e2^4&23[42r8]|2v56o5%e1%a4%r8mp64e2  ^4d2^4  c+4^1  ^1  
+r4^1  ^1  e2^4f+2  ^4g2^1  
+c1  ^2d1  ^2d1  
+^2c+1  ^2c1  ^2c1  
+^2d1  ^1  ^1  
+;4
+
+l16
+{5}
+l16 $5 |5p64v127o5%e1m48,18,237[23r4]g8a8b2  
+^4r2a8g8  f+2^4r2  e8f+8g2^4  r1  
+r1  g8a8b2^4  r2a8g8f+2  ^4r2e8f+8  
+g2^4[19r8]|3v72p95o5%e0me8  g8b8<d8c+8>b4a8<c+8  >b4g4a4.f+8  g8^24f+24f24e2[25r8]e8  
+g8b8<d8c+8>b4a8<c+8  >b4g4a4.f+8  g8^24f+24f24e2[18r8]@6v56o5%a9%r11p64m32,18,237%e1r8  
+r8r8r8a8b8<c1  ^4>b8a8g1  ^4b8<c+8d1  
+^4c+8>b8a1  ^4a8b8<c1  ^4>b8a8g1  
+^4e8g8f+1  ^1  ^1  
+;5
+
+l16
+{6}
+l16 $6 |6p64v104o4%e1m<v44[37r4]e4>b4<d4  
+e4r2e4  >b4<d4e4[14r4  ]e4>b4<d4e4  r2e4>b4  
+<d4e4[13r4]|2v56o5%e1%a4%r8mp110d2  ^4c+2^4  >b4^1  ^1  
+<r4^1  ^1  d2^4e2  ^4f+2^1  
+>f1  ^2e1  ^2f+1  
+^2f+1  ^2f1  ^2e1  
+^2f+1  ^1  ^1  
+;6
+
+l16
+{7}
+l16 $7 |7p64v96o6%e1%r14mk2r2[9b1  
+r1  r1  ]b1  r2^4[51r4  
+]
+;7
+
+l16

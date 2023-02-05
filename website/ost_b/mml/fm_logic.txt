@@ -1,0 +1,98 @@
+#TITLE Destructive Logic
+#ALBUM Front Mission
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x58 ## french horn (RS3)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x25 ## pipe organ (FF6)
+#WAVE 0x23 0x68 ## grand piano (CT)
+#WAVE 0x24 0x69 ## chorus (CT)
+#WAVE 0x25 0x24 ## tubular bell (FF6)
+#WAVE 0x26 0x16 ## timpani (FF6)
+
+{1}
+l16t132%v20%k3%b0,70%f0,0%v20%e1p44|2 $2 %v20m36,40,201v20o5c1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  c+1  
+^4%v48,18^4m36,30,211p64v42f8g8v50g+8a+8  v55v192,57f8<c8>a+8<c8c+8>a+8<c8>g+8  
+v57v192,60a+8g8g+8f8g8e8f8g8  v60v192,62f8<c8>a+8<c8c+8>a+8<c8>g+8  
+v62v192,64a+8g8g+8f8g8e8f8g8  [2v68f8<c8>a+8<c8c+2  %r21^8%y>d+8g8a+8<c2  
+%r21^8%y>c+8f8g+8a+8<c8>a+8g+8  g8g+8a+8j2,1 g+8g8f8e8c+8  ] $1 <c8v48,60c+8c8c+8>g+8[2v55g8<c8>a+8  
+<c8c+8>a+8<c8>g+8a+8g8g+8  f8g8e8f8g8]
+;2
+
+l16
+{2}
+l16%k3%e1p64 $3 |1v100o4c1  
+^1  [3c1  ^1  ^1  
+^1  ]>f1  ^1  ^1  
+^1  [2|2m36,30,211v120f8r8<v100f8r8d+2  >v120d+8r8v100g8r8g+2  |1mv110c+2g2  
+c1  ]v100<c1  ^1  c1  
+^1  
+;3
+
+l16
+{3}
+l16%k3%e1p104m36,40,201 $4 |0r1  r2v83o5g2  f1  
+^4%r19^4%yg2  f1  ^4%r19^4%yf6d+6c+6  c1  
+^4%r19^4%yc+2  c1  ^4%r19^4%yc+6f6g+6  g1  
+^4%r19^4%ya+2  g+1  ^4%r19^4%ya+2  <c1  
+^1  ^2%r9^2  ^1  [2|4v70o5f2d+2  
+v60a+2g+2  |0v80o5g+1  a+4g+8g8g8r8e4  ]v75c1  
+^2^4%r17^4  |4v60o5g1  ^2^4%r17^4  %y
+;4
+
+l16
+{4}
+l16%k3%e1p64|3v125o3 $5 [14c2c2  
+][4f2f2  ][2f2d+2  d+2g+2  c+2g2  
+c2c2  ][4c2c2  ]
+;5
+
+l16
+{5}
+l16%k3%e1|5%s3%r13 $6 o4[3v110p124c1  
+v40p4c1  v110p124c1  v40p4c1  ]v110p124c1  
+v40p4c1  v120p124f1  v60p4^1  v120p124f1  
+v60p4f1  v120[2p124f1  p4d+1  p124c+1  
+p4c1  ][2p124v120c2p4<v110c2  p124>g2v100p4a+2  ]
+;6
+
+l16
+{6}
+l16%k3%e1r1  
+r2m36,40,201 $7 p24|0v83o4a+2  a1  ^4%r19^4%ya+2  a1  
+^4%r19^4%ya6g6f6  e1  ^4%r19^4%yf2  e1  
+^4%r19^4%yf6g+6<c6  c1  ^4%r19^4%yd+2  c+1  
+^4%r19^4%yd+2  |4v70o5f1  ^1  ^2%r9^2  
+^1  [2|4v70o5c2>a+2  v60<g2d+2  |0v80o5c+1  
+g4f8e8e8r8c4  ]v75>g1  ^2^4%r17^4  |4v60o5c1  
+^2^4%r17^4  %yp64v50g8<c8>a+8<c8>g+8<c8>g8<c8  >g8<c8>a+8g+8
+;7
+
+l16
+{7}
+l16 $8 %k3%e1p84|2m36,30,201v20o4g1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  f1  
+f2|6p64v50v144,90o3c24c24c24c24c24c24c24c24c24c24c24c24  v120[2f2c2  
+f2c4.c24c24c24  ][2f2d+2  d+2>g+4.g+24g+24g+24  <c+2>g2  
+<c2>g2  <]c2>g2  <v110c2>g2  <v100c2>g2  
+<v90c2>g2  <
+;8
+
+l16
+{8}
+l16%k3%e1r1  r1  r1  
+r1   $10 [10r1  ]m36,40,201p24|4v70o5c1  ^1  
+|2m36,40,201o5p64k1v30v192,38f8<c8>a+8<c8c+8>a+8<c8>g+8  v38v192,45a+8g8g+8f8g8e8f8g8  
+[2v45f8<c8>a+8<c8c+2  %r21^8%y>d+8g8a+8<c2  %r21^8%y>c+8f8g+8a+8<c8>a+8g+8  
+g8g+8a+8j2,9 g+8g8f8e8c+8  ] $9 <c8v48,60c+8c8c+8>g+8[2v35g8<c8>a+8  
+<c8c+8>a+8<c8>g+8a+8g8g+8  f8g8e8f8g8]r1  m|4o5r2p64v60g8f8e8c+8  
+v50c2^4.%r15^8  ^1  %y
+;10
+
+l16

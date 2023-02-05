@@ -1,0 +1,90 @@
+#TITLE Doors of Destiny
+#ALBUM Fire Emblem: Genealogy of the Holy War
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x0E ## trumpet (FF6)
+#WAVE 0x22 0x32 ## acoustic guitar (FF6)
+#WAVE 0x23 0x14 ## snare (FF6)
+#WAVE 0x24 0x24 ## tubular bell (FF6)
+#WAVE 0x25 0x58 ## french horn (RS3)
+
+{1}
+l16t120%v32v80p34%e1%b0,70%f0,0|0r2^32 $1 o5<d2  a2^4o6g8f8  
+e4c4d2  >g1  ^8r8f4g2  g+4a+4<c2  
+g1  f4g4a+2  g+8^g8^f8g2  d2v100p74|5r4o5a+8^r  
+m24,16,215<d+8^rdrcr>a+r8^f2  ^8^r2^mv80p34|0d+4  f4f+2g+4  a+4<c2>a+4  
+<f4c2>a+1  ^8r8g+4f+2  ^8<c+8>b8a+8g+4f4  ^8r8<d+8f8f+4d+8g+4  
+^8f+8f8f+2^4  d+8f8f+4d+8g+4^8  f+8f8f+2^4  d+8f8f+4d+8g+4^8  
+f+8f8f+2g+2  g+4a+4f2  c+2>a+2  <c+4>b4a+4b4  
+<f+2^4>b4  a+2<c+2  f+2a+2  a+1  
+g+2f+2  f1  d+2^4^8r8  
+;1
+
+l16
+{2}
+l16v100p44%e1|1o6r4^32d4 $2 |0v80p62o4f2  
+<c2^4>a+8a8  g4f4a+2  d1  ^8r8c4>a+2  
+<c4d4d+2  a+1  g+4a+4<d2  c8^>a+8^g+8a+2  
+f2v100p74|5o5r4g4  m24,16,215<c4>a+^a^g^r8d2  ^4mv60p62|0o4r2a+4  
+g+4a+2<c4  c+4d+2c+4  g+4d+2c+1  ^8r8c4>b2  
+^8<f+8f+8f+8c+4>g+4  ^8r8<d+8f8f+4d+8g+4  ^8f+8f8f+2^4  d+8f8f+4d+8g+4^8  
+f+8f8f+2^4  d+8f8f+4d+8g+4^8  f+8f8d+2d+2  <c+4c+4c+2  
+>f2f2  f+4f+4f+4f+4  a+2^4d+4  f+2f+2  
+a+2<c+2  >b1  b2b2  a+1  
+a+2^4^8r8  
+;2
+
+l16
+{3}
+l16v100p84%e1|1r4^32o5g4 $3 |4%r16v100p62o6d2  
+a2^4g8f8  e4c4d2  >g1  ^8r8f4g2  
+g+4a+4<c2  g1  f4g4a+2  g+8^g8^f8g2  
+d2r4g4  <c4>a+8a8g8r8d2  ^4r2d+4  f4f+2g+4  
+a+4<c2>a+4  <f4c2>a+1  ^8r8g+4f+2  ^8<c+8>b8a+8g+4f2  
+^4|1v100p84o6a+r8^a+4a+r8^  a+4a+r8^a+4a+r8^  a+4g+r8^g+4g+r8^  
+g+4g+r8^g+4g+r8^  g+4f+r8^f+r32f+f+r32f+r8^  f+r32f+f+r32f+r8^f+r32f+f+r32f+r8^  
+f+4fr8^fr32ffr32fr8^  f4fr8^fr32ffr32fr8^  f4d+r8^d+r32d+d+r32d+r8^  
+d+4d+r8^d+r32d+d+r32d+r8^  d+4c+r8^c+r32c+c+r32c+r8^  c+4c+r8^c+r32c+c+r32c+r8^  
+c+4>br8^br32bbr32br8^  b4br8^br32bbr32br8^  b4a+r8^a+r32a+a+r32a+r8^  
+a+4a+r8^a+r32a+a+r32a+r8^  a+4
+;3
+
+l16
+{4}
+l16v100p62%e1|1r2^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^32 $4 o6f+r8^f+4f+r8^f+4  f+r8^f+4f+r8^f+4  fr8^f4fr8^f4  
+fr8^f4fr8^f4  d+r8^d+r32d+d+r32d+r8^d+r32d+d+r32  d+r8^d+r32d+d+r32d+r8^d+4  
+c+r8^c+r32c+c+r32c+r8^c+4  c+r8^c+r32c+c+r32c+r8^c+4  >br8^br32bbr32br8^b4  
+br8^br32bbr32br8^b4  [2a+r8^a+r32a+a+r32a+r8^a+4  ][2g+r8^g+r32g+g+r32g+r8^g+4  
+][2f+r8^f+r32f+f+r32f+r8^f+4  ]r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  
+;4
+
+l16
+{5}
+l16v100p50%e1|2o3r4^32g4 $5 o3[4g8r8g4  
+g8r8g4][4f8r8f4  f8r8f4][3g8r8g4  g8r8g4]g8r8g4  g8r8f4[3d+8r8d+4  
+d+8r8d+4]d+8r8d+4  d+8r8c+4>b8r8b4  b8r8b4a+8r8a+4  a+8r8a+4<d+8r8d+4  
+d+8r8d+4d+8r8d+4  d+8r8d+4c+8r8c+4  c+8r8c+4c+8r8c+4  c+8r8c+4>b8r8b4  
+b8r8b4b8r8b4  b8r8b4a+8r8a+4  a+8r8a+4a+8r8a+4  a+8r8a+4g+8r8g+4  
+g+8r8g+4g+8r8g+4  g+8r8g+4f+8r8f+4  f+8r8f+4f8r8f4  f8r8f4e8r8e4  
+e8r8e4e8r8e4  e8r8e4d+8r8d+4  d+8r8d+4d+8r8d+4  d+8r8d+4
+;5
+
+l16
+{6}
+l16p64%e1|3r32o5d4v60%g1v50,100d32d32d32d32d32d32d32  
+d32%g0d4d12d12d12d4d4   $6 d4d12d12d12d4v60%g1v50,100d32d32d32d32d32d32d32d32  
+%g0d4d12d12d12d4d4  
+;6
+
+l16

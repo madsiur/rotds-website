@@ -1,0 +1,178 @@
+#TITLE Four Noble Devils 2
+#ALBUM Romancing Saga 3
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x12 ## cymbal (FF6)
+#WAVE 0x21 0x35 ## melodic tom (UNK)
+#WAVE 0x22 0x4A ## hard snare drum (RS3)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x40 ## slap bass (RS3)
+#WAVE 0x25 0xAF ## reed organ (GH)
+#WAVE 0x26 0x44 ## strings (RS3)
+#WAVE 0x27 0x43 ## electric guitar 2 (RS3)
+
+{5}
+l16t158%v25%b0,70%f0,0|2o5v85[2p56%e1c+8c+4.^2  j2,1 ^1  ] $1 ^2r|1o5%r22%e0p42bp62g8gp105d+8.  
+p40r8%e1|2[3[2c+8c+4.]^2  ]c+8c+4.c+8c+4^2  [2|1o5v87%r22%e0p42b8.p62g|0o5%e1c+2^4  
+^1  r1  j2,2 r1  ] $2 r2r|1o5v79%r22p42bp62g8gp105d+8.  
+|0%e0p40[2c+2c+2  ^1  ]c+1  t164^1  
+t161[6c+2c+8.c+8.c+8  ][2^2c+2  c+2j2,3 c+2  ] $3 ^2t163c+1  
+^1  r1  [2c+8.c+8.c+8][3^1  ][3c+8.c+8.c+8]^1  
+ $4 c+2^1  [9r2][4c+4]c+1  c+1  
+[3r1  ]c+2^1  r4c+4p40[3c+4]^4  c+2[4c+2  
+]c+2c+8.c+8.c+8  c+1  c+8c+2^4.  ^1  
+[6c+4]c+2^8c+2  ^4.^1  [6c+4]c+2c+1  
+^1  r1  r2c+8.c+8.c+8  [3c+8.c+8.^8]c+2  
+[3c+8.c+8.c+8]^2  
+;4
+
+l16
+{2}
+l16p69o5v87[2|0d8d8^2r4  r2j2,5 r8|2[6d]] $5 |2d8.d8.  
+d8r8[2[2|0d8d4.]|1o5v87%r22p42bp62gp105d+8  p42bp62g8.j2,6 %g1p64[2|0d8d4.]|2ddd8  
+dd8.] $6 [2|0d8d4.]|2ddd8  dd[2^dd8r2r4  r1  r1  
+j2,7 r4.d8d8[6d]] $7 r2  d8.d8.d8%g1o5%r22v87[2|1r8p62gp105d+p42bbp62gp105d+  
+|2d2r1  ]r1  |2p64[16d]|2[6d2d8.d8.d8  ]|1o5%r22v87[3[2^8p42bp62g8.gp105d+]]^8p42bp62g8.gp105d+  
+p64d8|2[6d][12^8d8][2d8.d8.d8][12r8  d8][3d8.d8.d8]r8[10d]e4   $8 [23r8d8]d8d8[4d4]d8d8  
+rd8.d8[6d][15r8d8]ddd8[6r8  d8]rdd8d4d4d4  d8dd8.d8[29r8][10d]e4[2d8  
+d8[7r8d8][6d4]d8[2ddd]][13r8  d8]rdd8d8.d8.d8%g1|1o5v87%r22[2p42b8.  
+p62g8gp105d+8]p42b8.p62g8gp105d+4%g1p64|2[6d  ][3d8.d8.d8]r4.e8  
+
+;8
+
+l16
+{8}
+l16|3o5v19p47[32c8][2[2[2r8c8c4]r2  ]][2r4[30c8]][16c4]c1  
+^1  [6c8|1o5%r22v87p42bbp62ggp105d+d+%g1p64c8.c8.c8  ][32c8][2[48c][2c8.c8.c8]]c8.c8.  
+c8^2r4c4   $9 [112c]c4c4[4c8][108c]r4  [24c8]c8.c8.c8c2  r4c4[64c]c8[54c]c4  
+r4[56c]c8.c8.c8[16c8][3c8.  c8.c8]r4.c8
+;9
+
+l16c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  c1  
+c1  c1  c1  
+{3}
+l16v126o5|4p64[2[6e8]f+8e8e8g8f+8g8e8  
+a+8j2,10 b8a+8] $10 m48,-6b4[2r8[2e8e4.  ]j2,11 f+gagf+g] $11 <ded>bab[2r8[2a8  
+a4.]j2,12 b<cdc>b<c>] $12 <gage  der4>b8f+8b8a8b8  <d+8[2>b8a8b8f+8b8a8b8  
+<d+8]>b8a8f+8b8a8b8<c8  >b8r4[2e8b8e8f+8]e8  b8e8<e8d8>b8a8g8a8  
+<e8>a8b8<c8>a8b8a8b8  <d+4abaf+d+>b[2[9e8]a+8b8  <e4j2,13 >b8a8b8] $13 >b8<c8>b8  
+e1  ^1  e8r4.f+8.g8.f+8  e8r4.f+8.e8.f+8  
+g8r4.a8.b8.a8  g8r4.a8.g8.a8  e8r4.f+8.g8.f+8  e8r4.f+8.g8.a8  
+[4b8]<[4c8][4d8][4d+8]>[4b8]<[4c8][4d8]>b<a  baf+ef+>b[24e8]e8.f+8.e8  
+b8.a8.f+8[24e8]e8.f+8.  e8g8.a8.g8b8.a8.  b8r2r2   $14 [8e8]<c8>b8a8g8[4f+8][8b8]<[4e8  
+]>b8a8g8f+8[8e8]<c8>b8a8  g8[4f+8][5b8]<c+8d+8>b8e8e8  r<e8.>er8.<m48,-6e4>[4a8]<d8  
+c8>b8a8[4g8]<c8>b8a8g8  [4a8]<d8c8>b8a8[4g8]e4  <m48,-6e4>[4a8]<d8d8c8c8>[4b8  
+]<[4e8]>[4f+8]b8.<f+8.b8>[4e8][4a8  ][4b8]b8a8g8f+8[4e8][4a8]b8.  
+<b8.f+8>br2r4.  rr8[12b8]a8f+8a8[5b8]a8b8  <d+8>[5b8]a8g8f+8r8[12e8]f+8  
+e8b8[9e8]<c8>b8<f8e8>e8  f+8g+8[4a8][4g8][4f8]e8<d8c8  >b8<c8>b8a8g8[4f8]b8a8  
+g8f+8e8.f+8.a+8b8.b4  ^a8.a4^g8.g4  ^f+8.f+4^b8.f+8.b8  b8.<c+8.d+8d+8.e8.f+8  
+r2>
+;14
+
+l16
+{1}
+l16v42o4|5p60%e1r8%l1e8f+8g8  a8g8f+8e8f+8g8b8<d8  
+c+2r8>%l1g8a8b8  <c+8>b8a8g8a8b8<d8f+8  e2%l0[2[2f+4r8er  ]j2,15 f+8brargr] $15 f+8argrar  
+[2[2b4r8ar]j2,16 b8<erdrcr  >] $16 b8<drcrdrr4o3%l1v39[3b<c>ba  
+]r4<%l1[3d+ed+c]r4%l1[3f+gf+d+  ]v42b12f+12b12<d+12>b12<d+12f+12d+12f+12b12f+12b12  
+v38r4>%l1[3efed]r4%l1[3g+ag+f  ]r4%l1[3abag+]v47b12f+12b12<d+12>b12<d+12  
+f+12d+12f+12b12f+12b12r2  %l1e2f2  a2r2  %l1g2a2  
+<c2>b1  ^2^8a48g48f48e48d48c48>b48a48g48f48e48d48c48>b48a48g48f48e48  
+%l0o5|6p45v77e8r4.f+8.g8.f+8  e8r4.f+8.e8.f+8  g8r4.a8.b8.a8  g8r4.a8.g8.a8  
+e8r4.f+8.g8.f+8  e8r4.f+8.g8.a8  [2v72>%l1bf+b<d+f+d+f+bc>g<cegeg<c  
+>d>a<df+af+a<dj2,17 >d+>b<d+f+bf+b<d+  >] $17 d+>bf+d+f+d+>bf+[2v59%l1[3p36p192,92egb<eg>b<eg  
+p92p192,36bge>b<ge>bg]j2,18 %l0p45b8.a8.b8  <d8.c+8.>a8] $18 %l0p45b8.<c+8.>b8  
+<d8.e8.d8f+8.e8.f+8  r2r2   $20 o5|6p45v59[2e8.f+8.g8a2  ^8g8f+8g8j2,19 f+8.c+8.e8  
+d+8.e8.f+8^8a8g8f+8  g2f+2  ] $19 f+8.g+8.a+8b4a4  g4f+4e4.f+g  
+g+2@5o5p71v95m30,12,233b4^ag+a  <c2>a4^gf+g  b2a8g8f+8e8  d8ef+8ga8b2  
+r>%l1bg+b<dfg+ab4^ag+a  %l0<c2>b8.f+8ga8  g2a8g8f+8e8  f+8ab8.<d+8e2  
+^1  %l1d+>baf+baf+d+%l0e2  ^2d+12>b12<d+12f+12d+12f+12  b24r2r4.r12  
+o5|5p72r1  r2r8f+8g8a8  %l1bd+ad+gd+f+d+e>b<d+>b<e>b<f+>b  <gef+gaf+gab4^48a48g48f+48e48d+48c48>b48a48g48f+48e48  
+r1  r2r8<e8g+8a8  %l1be<c>ebeaeg+>b<a>b<g+>b<f>b  <efed+eg+ab<e4^48d48c48>b48a48g+48f48e48d48c48>b48g+48  
+%l0@5o5p71v95m30,12,233<c8>ba8b<c8>b8ag8ab8  a8g8f8a8g8f+8e8d8  
+c8d8e8g8f8e8d8c8  >b8.<c+8.d+8e8.f+8.a+8  b1  ^1  
+>b8.<c+8.d+rd+8.e8.f+r  f+8.g8.ar2r  
+;20
+
+l16
+{6}
+l16v42o3|5%e1p68%l1r8g8a8b8<c+8>b8a8g8  
+a8b8<d8g8f+2  r8>%l1b8<c+8d8e8d8c+8>b8  <c+8d8g8b8a+2  %l0[2[2b4r8ar]j2,21 b8<erdrcr  
+>] $21 b8<drcrdr[2[2e4r8dr  ]j2,22 e8argrfr] $22 e8grfrgr  r4v61|6p88>>f+8a8b4b8<c+8  
+d+4d+8e8f+8.e8.d+8  f+2^6d+6e6  f+6a6f+6e8d+8c+8>b8  r4b8<d8e4e8f+8  
+g+4g+8a8b6a6g+6  e1  a6f+3e8d+8c+8>b8  r2v42p72|5<%l1b2  
+<c2e2  r2%l1d2  e2g2  f+1  
+^2^8r4.  o4|6p78v67[2b8r4.<c+8.j2,23 d8.c+8  >] $23 >b8.<c+8[2d8r4.e8.  
+j2,24 f+8.e8] $24 d8.e8[2>b8r4.  <c+8.d8.j2,25 c+8] $25 e8v69[2>d+8f+8b8  
+<d+8>e8g8<c8e8>f+8a8<d8  f+8j2,26 >f+8b8<d+8f+8] $26 f+d+>bf+bf+  
+d+>b[3r1  ]<f+8.e8.f+8a8.g8.e8  [3r1  ]e8.f+8.e8g8.a8.g8  
+b8.a8.b8r2  r2 $30 o4|6p50v55g8.a8.b8  <c+2c4.>b8  a+8.f+8.a+8a2  
+^8b4.<e2  >a2g4a8b8  <c+2c4.>b8  a+8.b8.<c+8d+4c4  
+>b4a4b2  ^2v72%l1[2aea<cecea  f+af+d>a<d>af+j2,27 [2gdgb<d>b<dg  
+j2,28 egec>g<c>geaea<cecea  f+af+d>a<d>af+] $28 fg+fd>b<d>bg+  ] $27 bf+b<d+f+d+f+bgbge>b<e>bg  
+<%l0e4c4>b8.<d+8.f+8  >v67[2g8b8<e8g8>a8<c8e8a8  j2,29 >g8b8<e8g8>f+8b8<d+8f+8  
+>] $29 r2r1  r8>f+4g8a8.b8.<c8  d+2^8e8d+8c8  >b4f+4b4<d+4  
+f+8b8f+8d+8>b2  r8g+4a8g+8.b8.<c8  e2^8f8e8c8  >b4g+4b4<e4  
+g+8b8g+8e8>b2  [3r1  ]r2b8.<c+8.e8  f+8.d+8.f+8e8.c8.e8  
+d8.>b8.<d8c8.>a8.<c8  >b8.f+8.b8b8.<c8.>b8  <d+8.e8.f+8r2  
+;30
+
+l16
+{7}
+l16v52|6%e1p41%l1[2[6o6e>bge<][2o6ec+>a+f+]]>%l0v59[2b4r8ar  
+]b8<erdrcr>[2b4r8ar  ]b8<drcrdr[2e4r8dr  ]e8argrfr[2e4r8dr  ]e8grfrgrr4>v65b8<c+8  
+d+4d+8e8f+4f+8g8  a6g6f+6b<c>bab4.  ^24f+6g6a6b6a6g8  f+8e8d+8r4e8f+8g+4  
+g+8a8b4b8<c8d6c6  >b6abag+a4.^24a6  b6<c6>b6a6g8f+8e8  d+8e1  
+[4^1  ]^2r2  [2|5v37p72>b8r4.<c+8.j2,31 d8.c+8  ] $31 >b8.<c+8[2d8r4.e8.  
+j2,32 f+8.e8] $32 d8.e8[2>b8r4.  <c+8.d8.j2,33 c+8] $33 e8[2f+4b4  
+g4<c4>a4<d4  j2,34 >b4<d+4>] $34 d+>bf+bf+d+f+>b  <[2v45r2r8d4.  
+r2r8c4d8  r2r8d4.  j2,35 e8.d8.e8g8.f+8.d8  ] $35 e8.f+8.e8g8.a8.g8  
+b8.a8.b8r2  r2> $39 [2v62|6%e1p78d2  e2^4.d8  c+8.j2,36 >a+8.f+8b8.<c+8.d+8  
+^2>b2  <d+2] $36 d8.e8f+2  d+2r2  r@5o4p71v95%l1bg+b<dfg+a%l0[2v67|6%e1p78o4c8e8a8<c8  
+d8>a8f+8d8j2,37 >b8<d8g8b8  <c8>g8e8c8c8e8a8<c8  d8>a8f+8d8>b8<d8g8b8  
+<d8>b8g+8f8] $37 d+8f+8b8<d+8  e8>b8g8e8a4e4  r2v57[2>b8<e8g8b8  
+c8e8a8<c8j2,38 >>b8<e8g8b8  >b8<d+8f+8b8] $38 d+8>b8f+8d+8  r1  
+r8>b4<c+8d+4.e8  f+2^8g8f+8e8  d+4>b4<d+4f+4  b8<d+8>b8f+8d+2  
+r8>b4<c8>b8.<e4^  g+2^8a8g+8f8  e4>b4<e4g+4  b8<e8>b8g+8e2  
+[3r1  ]r2e8.f+8.a+8  b8.f+8.b8a8.e8.a8  g8.d8.g8f+8.c+8.f+8  
+d+8.>b8.<d+8d+8.e8.d+8  f+8.g8.a8r2  
+;39
+
+l16
+{4}
+l16v52|6%e1p87%l1[2[6o4bge>b<]a+f+ec+a+f+ec+]%l0v56[2[2f+4  
+r8er]j2,40 f+8brargr] $40 f+8ar  grar[2[2b4r8ar]j2,41 b8<er  drcr>] $41 b8<drcrdrv61r4  
+>d+8e8f+4f+8g8a4  a8b8<c6>b6a6<d+2  ^6>a6b6<c6d+6c6  >b8a8g8f+8r4g+8a8  
+b4b8<c8d4d8e8  f6e6d6c2  ^6c6d6e6d+6c6  >b8a8g8f+8r2  
+|5v37p72%l1g2a2  <c2r2  >%l1b2<c2  e2e1  
+^2^8r4.  >e8r4.f+8.g8.f+8  e8r4.f+8.e8.f+8  g8r4.a8.b8.a8  
+g8r4.a8.g8.a8  e8r4.f+8.g8.f+8  e8r4.f+8.g8.a8  b4<d+4c4e4  
+d4f+4d+4f+4  >b4<d+4c4e4  d4f+4d+8.>b8.f+8  v43[2r2r8a4.  
+r2r8g4a8  r2r8a4.  j2,42 b8.a8.b8<d8.c+8.>a8  ] $42 b8.<c+8.>b8<d8.e8.d8  
+f+8.e8.f+8r2  r2> $43 |7o5p57v97m0,1,215e8.f+8.g8  a2^8g8f+8g8  
+f+8.c+8.e8d+8.e8.f+4  a8g8f+8g2f+2  e8.f+8.g8a2  ^8g8f+8g8f+8.g+8.a+8  
+b4a4g4f+4  e1  |5v48o5p72e2f+2  d2e2  
+c2>a8.<c4^  r>babgbf+bf4g+b<d8  e2f+2  d+2>b2  
+<c4>a4b4.<d+8  >gf+ge8f+g8agaf+8ga8  babg8ab8agaf+8ga8  gf+ge8f+g8agaf+8ga8  
+f+4b4<d+r2  r4.r|7o5p57v100m0,1,215r8d+4e8f+8.  g8.a8b8.<c8.>a+8b2  
+v192,80^1  v192,60^2^4.r8  v100r8e4f8e8.g+8.a8  b8.<c8.>a+8b2  
+v192,80^1  v192,60^2^4.r8  @5o5p58v95m30,12,227e8dc8de8d8c>b8<cd8  
+c8>b8a8<c8>b8a8g8f+8  e8f+8g8b8a8g8f8e8  d+8.e8.f+8g8.a+8.<c+8  
+v52o5|5p72m[2bf+d+]bd+[2aec]ac[2gd>b<]g>b<[2f+  c+>a+<]f+a+d+8.e8.f+rf+8.g8.  
+ara8.b8.<cr2  r
+;43
+
+l16

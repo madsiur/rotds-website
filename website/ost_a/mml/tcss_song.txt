@@ -1,0 +1,73 @@
+#TITLE Song #1
+#ALBUM T&C Skate Session
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x36 ## sawtooth (UNK)
+#WAVE 0x21 0x1C ## bass (FF6)
+#WAVE 0x22 0x2B ## rimshot (FF6)
+#WAVE 0x23 0x4A ## hard snare drum (RS3)
+
+{1}
+l16%v24t175v127p20%e1%b0,70%f0,0|0o5>c+8c+8<c+8>c+8c+8b8c+8c+8  
+[7a8c+8c+8a8c+8c+8g+8a8  c+8c+8<c+8>c+8c+8b8c+8c+8  ]a8c+8c+8a8c+8c+8g+8a8  
+>a8a8o5c+8o3a8a8<b8>a8a8  <a8>a8a8<a8>a8a8<g+8a8  >a8a8o5c+8o3a8a8<b8>a8a8  
+<a8>a8a8<a8>a8a8<g+8a8  >a8a8o5c+8o3a8a8<b8>a8a8  <a8>a8a8<a8>a8a8<g+8a8  
+>a8a8o5c+8o3a8a8<b8>a8a8  <a8>a8a8<a8>a8a8<g+8a8   $1 g+8g+8g+8a8v107g+v87g+8v67a8r8^  
+v127g+8g+8g+8f+8v107g+v87g+8v67a8r8^  v127g+8g+8g+8a8v107g+v87g+8v67a8r8^  
+v127g+8g+8g+8r8v50@5b<c+d+ef+g+ab  <c+1  ^4c+8d+8ed+c+d+ef+ed+  
+g+g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32  
+o6ag+f+eg+f+ed+f+ed+c+ed+c+>b  ag+abag+a<c+>ag+abag+a<c+  >ab<c+d+ef+g+abag+f+ed+c+>b  
+<c+>bag+<c+>bag+<d+c+>ba<d+c+>ba  <ed+c+>b<ed+c+>b<f+ed+c+f+ed+c+  
+v127o4|0g+8g+8g+8a8v107g+v87g+8v67a8r8^  v127g+8g+8g+8f+8v107g+v87g+8v67a8r8^  
+v127g+8g+8g+8a8v107g+v87g+8v67a8r8^  v127g+8g+8g+8d+d+8d+8r4^  [8c+8c+8<c+8>c+8c+8b8c+8c+8  
+a8c+8c+8a8c+8c+8g+8a8  ][4>a8a8o5c+8o3a8a8<b8>a8a8  <a8>a8a8<a8>a8a8<g+8a8  
+]
+;1
+
+l16
+{2}
+l16v127p60%e1|0o5r4>g+8r<c+8r>f+8rb8r  e8ra8re8ra8rd+8e8  
+[11g+a8rg+8r<c+8r>f+8rb8r  e8ra8re8ra8rd+8e8  ]g+a8rd+8e8v107d+v87d+8v67e8r8^  
+v127d+8d+8d+8c+8v107d+v87d+8v67c+8r8^  v127d+8d+8d+8e8v107d+v87d+8v67e8r8^  
+ $2 v127d+8d+8d+8v50@5g+g+8g+b<c+d+ef+g+  ab<c+1  ^4c+8d+8ed+c+d+ef+ed+  
+g+g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32c+32c32>b32a+32a32g+32g32f+32f32e32d+32d32  
+o6ag+f+eg+f+ed+f+ed+c+ed+c+>b  ag+abag+a<c+>ag+abag+a<c+  >ab<c+d+ef+g+abag+f+ed+c+>b  
+<c+>bag+<c+>bag+<d+c+>ba<d+c+>ba  <ed+c+>b<ed+c+>b<f+ed+c+f+ed+c+  
+r8v127|0o4d+8e8d+d+8e8r8^d+8  d+8d+8c+8v107d+v87d+8v67c+8r8^v127d+8  
+d+8d+8e8v107d+v87d+8v67e8r8^v127d+8  d+8d+8g+v107g+8v87g+8r2  ^v67g+8rv127<c+8r>f+8rb8re8r  
+a8re8ra8rd+8e8[11g+a8  rg+8r<c+8r>f+8rb8re8r  a8re8ra8rd+8e8]g+a8  
+rd+8e8d+d+8e8r8^d+8d+8  d+8c+8d+d+8c+8r8^d+8d+8  d+8e8d+d+8e8r8^
+;2
+
+l16
+{3}
+l16%e0 $3 v80p64|1o6r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  >c+rc+rc+rc+rc+rc+rc+rc+r  
+[7c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  [7arararararararar  
+]g+rg+rg+rar2^  g+rg+rg+rf+r2^  g+rg+rg+rar2^  g+rg+rg+r4^8^<%l1g+32f+32e32d32c32>a+32g+32f+32  
+%l0v60<c+rc+rc+rc+rc+rc+rc+rc+r  [3c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  
+[3arararararararar  ]g+rg+rg+rar2^  g+rg+rg+rf+r2^  g+rg+rg+rar2^  
+g+rg+rg+r4^8^<%l1g+32f+32e32d32c32>a+32g+32f+32  %l0
+;3
+
+l16
+{4}
+l16v50p94%e1|2o5r1  
+^1  ^1  ^1  ^1  
+[3aaaaaaaaaaaaaaaa  ]aaaar8aaaaaar8aa  [15aaaar8aaaaaar8aa  ] $4 r2aaaar8aa  
+r2aaaar8aa  r2aaaar8aa  r4^8aaaaaar4  [8aaaar8aaaaaar8aa  
+][3r2aaaar8aa  ]r4^8aaaaaar4  [8arararararararar  ][16aaaar8aaaaaar8aa  
+]
+;4
+
+l16
+{5}
+l16v100p94%e1 $5 |3o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^4[15d8r4^8d8r4  ^8]d8r4^8d8r8[3d8  d8d8d8r4d8r8]d8  d8d8r4^8d8d8r4  
+[7d8r4^8d8r4^8  ]d8r4^8d8r8[3d8d8  d8d8r4d8r8]d8d8  d8r4^8d8d8
+;5
+
+l16

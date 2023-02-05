@@ -1,0 +1,104 @@
+#TITLE Boss Battle
+#ALBUM Final Fantasy IX
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x16 ## timpani (FF6)
+#WAVE 0x21 0x0E ## trumpet (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1C ## bass (FF6)
+#WAVE 0x24 0x5E ## flute (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x2F ## shaker (FF6)
+#WAVE 0x27 0x12 ## cymbal (FF6)
+
+{1}
+l16t166%v32%e1%b0,70%f0,0 $1 v55p60@1o2[6f8<f8>d+8<d+8>f8<f8>g+8<g+8  
+>f8<f8>c8<c8>d+8<d+8>e8<e8  >][2[4f8<f8>d+8<d+8>f8<f8>g+8<g+8  >f8<f8>c8<c8>d+8<d+8>e8<e8  
+>][4a+8<a+8>g+8<g+8>a+8<a+8c8<c8  >>a+8<a+8>f8<f8>g+8<g+8>a8<a8  
+>]]<c1  ^2c4>a+4  ^1  ^1  
+b1  ^2b4a1  ^1  ^1  
+|1v110o5f12f12f12a+1  ^2r4a12a12a12  g+12g+12g+12g12g12g12f4r2  
+g+4r4f+4r4  e4r4d4r4  c4r4>a4r4  f+2^4o2@1v55[12g+8<g+8  
+>g8<g8>f+8<f+8>f8<f8>]r2  ^4|1v110o5f12f12f12a+1  ^2r4a12a12a12  
+g+12g+12g+12g12g12g12f4r2  g+4r4f+4r4  e4r4d4r4  c4r4>a4r4  
+f+2^4
+;1
+
+l16
+{2}
+l16%e1 $2 v80p64@5o5r1  ^1  ^1  ^2^4c12c+12f+12  
+g1  ^4f12e12c12d+12>a+12<c12>g+12<c+12>g12  b1  ^2^4<c12d+12f+12  
+b1  |1v120f2g+2  g1  ^2<r2  
+|2v80[2<c2^8>gcg+f<c>g+  <c+2^8>e>b<ge<c+>g  <c2^8>gcg+f<c>g+  b2^8e>b<gebg  
+<c1  ^1  r1  ^1  
+>f2^8c>f<c+>a+<fc+  f+2^8>af+<c>a<f+c+  f2^8c>f<c+>a+<fc+  e2^8>af+<c>a<ec+  
+f1  ^1  r1  ^1  
+]|1v110c4r4c4r4  c4r4c4c+1  ^1  d12d12d12d4r4d4  
+r4d4r4d4  e1  ^1  |2v80<c12c12c12c4r4c4  
+r4c4r4c4  c+1  ^1  d12d12d12d4r4d4  
+r4d4r4d4  e1  ^1  ^4[4r1  
+]>>@5[4f8c+8d+8>b8<c+8>a8gab<c+  f8c+8d+8>b8<c+8>a8b8g8  <]<<|2v80c4r4c4r4  
+c4r4c4c+1  ^1  d12d12d12d4r4d4  r4d4r4d4  
+e1  ^1  ^4
+;2
+
+l16
+{3}
+l16%e1 $3 v120p64|1o5[8r1  ]r2c2  
+d+2f+2  f1  ^2r2  [4r1  
+]<r4<v100f^g^g+4g^g+^  a+4g+^a+^g+^g^f^e^  f4c^f^d+^c+^c^>a+^  <c4>g^<c^>a+^g+^g^e^  
+[4r1  ]|4v60r8>g+^g^g+^f^c+^r8f^  d+^f^c+^c^r8c+^c^c+^  >a+^g+^r8a+^g+^a+^g^f^  
+d+8f8g8g+8a+8<c8c+8d+8  |7v100[4r2c2  ]|1<r4<f^g^g+4g^g+^  a+4g+^a+^g+^g^f^e^  
+f4c^f^d+^c+^c^>a+^  <c4>g^<c^>a+^g+^g^e^  >|7[4r2c2  ]|4v60r8g+^g^g+^f^c+^r8f^  
+d+^f^c+^c^r8c+^c^c+^  >a+^g+^r8a+^g+^a+^g^f^  d+8f8g8g+8a+8<c8c+8d+8  
+|1v110g4r4g4r4  g4r4g4g+1  ^1  b12b12b12b4r4b4  
+r4b4r4b4  <c1  ^1  >|2v80<g12g12g12g4r4g4  
+r4g4r4g4  g+1  ^1  b12b12b12b4r4b4  
+r4b4r4b4  <c1  ^1  ^4>[8r1  
+]>|1v120f1  g2^4r8fg  a1  r8g8b8a8g8a8b8<c+8  
+|2v80g4r4g4r4  g4r4g4g+1  ^1  b12b12b12b4r4b4  
+r4b4r4b4  <c1  ^1  ^4
+;3
+
+l16
+{4}
+l16%e1 $4 v110p64|5o5[7ccc2r1  
+c24c24c24c8c24c24c24c2r1  ^2][8[3c8v90c8v110]ccc8  [3c8v90c8v110]cccc][7r1  
+]r2^4c12c12c12  c4r8^c32c32c4r8^c32c32  c4r8^c32c32c8^c32c32c4  
+r1  r2^4c12c12c12  c4r8^c32c32c4r8^c32c32  c4r8^c32c32c8^c32c32c4  
+r1  ^1  [5[7c8][2ccc8][5c8]][7c8][2ccc8]c8  [8c]c4r8^c32c32c4r8^  
+c32c32c4r8^c32c32c8^c32c32c4  r1  r2^4c12c12c12  c4r8^c32c32c4r8^c32c32  
+c4r8^c32c32c8^c32c32c4  r1  ^1  
+;4
+
+l16
+{5}
+l16%e0 $5 v40p64|6o5[34c8v20c8v40][4|7v120c4|6v40c8v20c8][134v40c8v20c8  
+][4|7v120c4|6[6v40c8v20c8]|7v120c4|6[8v40c8v20c8  ]][48v40c8v20c8][2|7v120c4|6[6v40c8v20c8]|7v120c4  
+|6[8v40c8v20c8]]
+;5
+
+l16
+{6}
+l16%e1 $6 v120p64|7o5c1  r1  r1  r1  
+c1  >g1  <r1  r1  
+|1r2g+2  a+2<c+2  c1  ^2r2  
+o2|0v127[24f4^8f4f8f4  ^8f4f8f4f4  ][12r1  ][4f4^8f4f8f4  
+^8f4f8f4f4  ]
+;6
+
+l16
+{7}
+l16%e0 $7 v55p64|3o4f4^8d+8f4g+4  ^8f4c4d+4e8  
+f4^8d+8f4g+4  f8a8<f8<c8>a+8g+8e8c8  >[3f4^8d+8f4g+4  ^8f4c4d+4e8  
+]f4^8d+8f4g+4  f8a8<f8<c8>a+8g+8e8c8  >[2[3f4^8d+8f4g+4  ^8f4c4d+4e8  
+]f4^8d+8f4g+4  f8a8<f8<c8>a+8g+8e8c8  >[3a+4^8g+8a+4<c+4  ^8>a+4f4g+4a8  
+]a+4^8g+8a+4<c+4  >a+8<f8a+8<f8d+8c+8>a8f8  >][2<c1  ^2c4>a+4  
+^1  ^1  b1  ^2b4a4  
+^1  ^1  ][12g+4g4f+4f4  ]<c1  
+^2c4>a+4  ^1  ^1  b1  
+^2b4a4  ^1  ^1  
+;7
+
+l16

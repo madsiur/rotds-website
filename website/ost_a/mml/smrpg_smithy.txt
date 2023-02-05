@@ -1,0 +1,79 @@
+#TITLE Fight Against Smithy
+#ALBUM Super Mario RPG
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x25 ## pipe organ (FF6)
+#WAVE 0x21 0x20 ## marimba (FF6)
+#WAVE 0x22 0x5B ## orch hit (THG)
+#WAVE 0x23 0x1C ## bass (FF6)
+#WAVE 0x24 0x22 ## kick drum (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x2F ## shaker (FF6)
+#WAVE 0x27 0x3D ## metal sound (FF6)
+#WAVE 0x28 0x5F ## hard snare (FF6)
+
+{1}
+l16t131%v32%e1%b0,70%f0,0v90p44|0o5>b4r8f+8f8r8f+8r8  a2g+8r8a8r8  
+g+8r8g+8f+8t115f8r8t100f8r8  t134f+1   $1 r2^4^8o6|0v90c+c+  c+2m120,-12^2  
+o5|1v100[21f+24]|0v90bbb2m120,-12^2  |1v100[24f+24]|2v110[4f+8r4f+8r4f+8c+8  
+]e8r4e8r4e8>b8  <e8r4e8r4e8e8  [2f+8r4f+8r4f+8c+8  ]r1  
+^1  ^1  ^2>|1v100ab<d+f+ab<d+f+  |2v110r2^4^8>f+8  
+r2^8f+8r1  ^8f+8r4f+8r2  f+8r1  
+^1  ^1  ^1  ^1  
+
+;1
+
+l16
+{2}
+l16%e1v90p84|0o5b4r8f+8f8r8f+8r8  a2g+8r8a8r8  g+8r8g+8f+8f8r8f8r8  
+f+1   $2 r2^4^8o5f+f+  f+2m120,-12^2  |1v100[21c+24]|0v90f+f+f+2m120,-12^2  
+|1v100>[24b24]r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+o4|0v90[2e1  ^1  d+1  ^1  
+][2f+<f+ff+ef+df+c+f+>b<f+c+f+df+  >c+<c+>bag+f+g+ag+f+g+abaf+f  
+]f+1  
+;2
+
+l16
+{3}
+l16%e1v90p84|0o5r1  ^2>d+8r8e8r8  d+8r8d+8c+8c8r8c8r8  
+c+1   $3 r1  ^1  ^2^4^8<d+d+  
+d+2m100,-12^2  r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  >[4a1  ^1  
+]r1  ^1  a<ag+ag+af+af+af+af+af+a  >f<fdc+>bab<c+>bab<c+dc+>bg+  
+a1  
+;3
+
+l16
+{4}
+l16%e0v110p44|3o4r1  ^1  ^1  
+ $4 [6f+8^<c+c8c+8eec+8c8c+8  >][4f+ag+ba<c+>f+ag+ba<c+>f+ag+b  
+][2eg+f+ag+beg+f+ag+beg+f+a  ][2f+ag+ba<c+>f+ag+ba<c+>f+ag+b  ][2f+8^<c+c8c+8eec+8c8c+8  
+>][2f+8^ba+8b8<d+d+>b8a+8b8  ][2f+8^<c+c8c+8eec+8c8c+8  >][2f+8^ba+8b8<d+d+>b8a+8b8  
+][2f+8^<c+c8c+8eec+8c8c+8  >c+8^g+f+8g+8bbg+8f+8g+8  ]
+;4
+
+l16
+{5}
+l16%e1v100p84|7o4r1  
+^1  ^1   $5 [14r2e^32f8^32r8a+a  ]|8v120[4c1  
+][4c4g4d+4g4  ]|7v100[4r2e^32f8^32r8a+a  ]
+;5
+
+l16
+{6}
+l16%e0v127p64|4o5r1  
+^1  ^1   $6 [14|4c8^c|5d4|4c8c8|5d4  ][3|4c8^|5d|4c8|5d8|4c|5dd8|4c8|5d8  
+]|4c8^|5d|4c8|5d8ddd8d8d8  [4|4c8^|5d|4c8|5d8|4c|5dd8|4c8|5d8  ][4|4c8^c|5d4|4c8c8|5d4  
+]
+;6
+
+l16
+{7}
+l16%e0v45p64|6o5r1  ^1  ^1   $7 [224f+]r1  
+^1  ^1  ^2[136f+]
+;7
+
+l16

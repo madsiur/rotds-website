@@ -1,0 +1,62 @@
+#TITLE Ressurection
+#ALBUM Terranigma
+#COMPOSER YokoOno
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x06 ## chorus (FF6)
+#WAVE 0x21 0x1B ## harp (FF6)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x30 ## wood block (FF6)
+#WAVE 0x24 0x2F ## shaker (FF6)
+
+{1}
+l16t80%v50%e1%b0,70%f0,0 $1 v80p63|0o3g1  f1  d+1  f1  
+
+;1
+
+l16
+{2}
+l16%e1 $2 v50p63|1o5<d^>a+^g^<d^f^>a+^g^<d^  d^>a+^f^<d^f^>a+^f^<d^  
+d^>a+^g^<d^d+^>a+^g^a+^  <c^>a^f^<c^f^>a^f^<c^  
+;2
+
+l16
+{3}
+l16%e1 $3 v50p63|1o5rg^<d^>a+^g^g^<d^>a+^g8  
+f^<d^>a+^f^f^<d^>a+^f8  g^<d^>a+^g^g^<d^d^>g8  f^<c^>a^f^f^<c^>a^f
+;3
+
+l16
+{4}
+l16%e1 $4 v24p104|1o5r  
+^32<d>ga+<d>ga+<d>g<f>ga+<d>ga+<d>g  <d>fa+<d>fa+<d>f<f>fa+<d>fa+<d>f  
+<d>ga+<d>ga+<d>g<d+>ga+<d>g<d>a+g  <c>fa<c>fa<c>f<f>fa<c>fa<c32
+;4
+
+l16
+{5}
+l16%e1 $5 v24p24|1o5r8  
+^32<d>ga+<d>ga+<d>g<f>ga+<d>ga+<d>g  <d>fa+<d>fa+<d>f<f>fa+<d>fa+<d>f  
+<d>ga+<d>ga+<d>g<d+>ga+<d>g<d>a+g  <c>fa<c>fa<c>f<f>fa<c>fr32
+;5
+
+l16
+{6}
+l16%e1 $6 v24p63|2o5o7d>ga+  
+<d>ga+<d>g<f>ga+<d>ga+<d>g<d>fa+  <d>fa+<d>f<f>fa+<d>fa+<d>f<d>ga+  
+<d>ga+<d>g<d+>ga+<d>g<d>a+g<c>fa  <c>fa<c>f<f>fa<c>fa<c>f
+;6
+
+l16
+{7}
+l16%e1 $7 v24|3o5[2r1  
+^2^4p0ddp127dd  ]
+;7
+
+l16
+{8}
+l16%e1 $8 v24p64|4o5[4f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+  
+]
+;8
+
+l16

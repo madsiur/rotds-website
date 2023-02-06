@@ -186,10 +186,10 @@ B3: udt_bonetrousle; Bonetrousle; Undertale; YokoOno; Gi Nattak; 1
 B4: shfc_sad; Sad Theme; Shining Force 1; YokoOno; Gi Nattak; 1
 B5: smrpg_sewers; Kero Sewers; Super Mario RPG; YokoOno; Gi Nattak; 1
 B6: ff4_world; Somewhere in the World; Final Fantasy IV; YokoOno; Gi Nattak; 1
-B7: ff6_river; The Raft and the Flowing River; Final Fantasy VI; YokoOno; Gi Nattak; 3
+B7: ff6_river_raft; The Raft and the Flowing River; Final Fantasy VI; YokoOno; Gi Nattak; 3
 B8: ff6_fire; Fire!; Final Fantasy VI; YokoOno; Gi Nattak; 3
 B9: ff6_train; Dream of a Train; Final Fantasy VI; YokoOno; Gi Nattak; 3
-BA: ff6_train; Chocobos Running; Final Fantasy VI; YokoOno; Gi Nattak; 3
+BA: ff6_chocobo; Chocobos Running; Final Fantasy VI; YokoOno; Gi Nattak; 3
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; YokoOno; Gi Nattak; 1
 BC: pq_lullaby; Godom Lullaby; Paladin's Quest; YokoOno; Gi Nattak; 1
 BD: som_oracle; Oracle; Secret of Mana; YokoOno; Gi Nattak; 1
@@ -242,7 +242,7 @@ EB: swom_pain; Unrelenting Pain; Sword of Mana; YokoOno; Gi Nattak; 1
 EC: dbz_battle; Battle Theme #7; Dragon Ball Z Budokai; YokoOno; Gi Nattak; 1
 ED: fnaf_travel; 8 Bit Travel; Five Nights at Freddys; YokoOno; Gi Nattak; 1
 EE: ff6_maria; Draco and Maria Singing; Final Fantasy VI; YokoOno; Gi Nattak; 1
-EF: trnm_spirits; Ressurection; Terranigma; YokoOno; Gi Nattak; 1
+EF: trnm_ressurection; Ressurection; Terranigma; YokoOno; Gi Nattak; 1
 F0: tc_title; Title; Treasure Conflix; YokoOno; Gi Nattak; 1
 F1: wa_win; Win!; Wild Arms; YokoOno; Gi Nattak; 1
 F2: lf2_island; Island in the Void; Lufia 2; YokoOno; Gi Nattak; 1
@@ -290,7 +290,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; YokoOno; Gi Nattak; 1
 1D: rs_village; Deserted Village; Romancing Saga; YokoOno; Gi Nattak; 2
 1F: ff5_exdeath; The Evil Lord Exdeath; Final Fantasy V; YokoOno; Gi Nattak; 2
 20: smw2_castle; Castle; Super Mario World 2: Yoshi's Island; YokoOno; Gi Nattak; 2
-21: ff4_world; Illusionary World; Final Fantasy IV; YokoOno; Gi Nattak; 2
+21: ff4_illus_world; Illusionary World; Final Fantasy IV; YokoOno; Gi Nattak; 2
 22: ot_sunshade; Sunshade City; Octopath Traveler; YokoOno; Gi Nattak; 2
 23: rng_cathedral; Cursed Cathedral; RednGreen; YokoOno; Gi Nattak; 2
 24: rs3_battle; The Battle; Romancing Saga 3; YokoOno; Gi Nattak; 2

@@ -1,62 +1,146 @@
-#TITLE Ressurection
+#TITLE Wandering Spirits
 #ALBUM Terranigma
 #COMPOSER YokoOno
 #ARRANGED Gi Nattak
 
-#WAVE 0x20 0x06 ## chorus (FF6)
-#WAVE 0x21 0x1B ## harp (FF6)
-#WAVE 0x22 0x0D ## strings (FF6)
-#WAVE 0x23 0x30 ## wood block (FF6)
-#WAVE 0x24 0x2F ## shaker (FF6)
+#WAVE 0x20 0x1F ## ocarina (FF6)
+#WAVE 0x21 0xB3 ## synth voice (GH)
+#WAVE 0x22 0x3E ## xylophone (FF6)
+#WAVE 0x23 0x02 ## electric bass (FF6)
+#WAVE 0x24 0x24 ## tubular bell (FF6)
+#WAVE 0x25 0x2E ## conga 2 (FF6)
 
 {1}
-l16t80%v50%e1%b0,70%f0,0 $1 v80p63|0o3g1  f1  d+1  f1  
-
+l16%v50t97%v50v127p94%e1%b0,70%f0,0|0r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^4 $1 o4v80m24,16,227<m6,+4g+4<m6,+4c4>m6,-4e2  m6,-4d+4m6,+4g4m6,-4f+4m6,-4f4  
+^8%l1m6,-4e24m6,-4d+24m6,+4d24%l0m6,+4f+4m6,+4g4m6,+4g+4  <m6,+4c4r4>m6,+4d+4m6,-4g4  
+m6,+4f+4r4m6,+4a+4<m6,-4c+4  m6,-4c4>m6,-4b4<m6,+4f8^r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^o4m6,+4a+4^8<v192,0m6,+4f2m6,-4v127d+4  m6,+4f4>m6,-4b8m6,-4m6,-4a+8^m6,+4b8^<m6,+4a+2  
+^8m6,-4g+4<m6,+4c+4m>m18,20,239a+1  v240,0^1  mr1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2
 ;1
 
 l16
 {2}
-l16%e1 $2 v50p63|1o5<d^>a+^g^<d^f^>a+^g^<d^  d^>a+^f^<d^f^>a+^f^<d^  
-d^>a+^g^<d^d+^>a+^g^a+^  <c^>a^f^<c^f^>a^f^<c^  
+l16%v50p63%e1|1r1  
+^1  ^1  ^1   $2 o5v0v192,115e1  
+v0r1  ^1  ^1  ^1  
+^1  v192,115e1  %r6e2^4d+2  d2f+4a4  
+g+4v192,0g2%yr1  ^1  ^1  ^1  
+v192,115e1  r1  ^1  ^1  
+^1  ^1  v0v192,115e1  <c+1  
+^4^^v192,0d2^8  v192,115c+1  ^4^^v192,0c2^8  v192,115c+1  
+^rv192,0d+4^8v115v192,0e4^8v108f4  g4g+4a+4b8m18,20,239a+1  ^2v240,0^4mr1  
+^1  ^1  ^1  ^1  
+^2
 ;2
 
 l16
 {3}
-l16%e1 $3 v50p63|1o5rg^<d^>a+^g^g^<d^>a+^g8  
-f^<d^>a+^f^f^<d^>a+^f8  g^<d^>a+^g^g^<d^d^>g8  f^<c^>a^f^f^<c^>a^f
+l16%v50p74%e1 $3 |1o5r1  ^1  ^1  ^1  
+v0o5<v192,113c1  r1  ^1  ^1  
+^1  ^1  v0v192,113c1  r1  
+^1  ^1  ^1  ^1  
+^1  ^1  v0v192,113c1  r1  
+^1  ^1  ^1  ^1  
+v0v192,113c1  v0v192,113>f1  ^4^^f2^8  f1  
+^4^^e2^8  f1  ^rf+4^8g4^8g+4  a+4b4<c+4e8v20v192,113c+1  
+v240,0^2r1  ^2^8^^
 ;3
 
 l16
 {4}
-l16%e1 $4 v24p104|1o5r  
-^32<d>ga+<d>ga+<d>g<f>ga+<d>ga+<d>g  <d>fa+<d>fa+<d>f<f>fa+<d>fa+<d>f  
-<d>ga+<d>ga+<d>g<d+>ga+<d>g<d>a+g  <c>fa<c>fa<c>f<f>fa<c>fa<c32
+l16%v50v10p63%e1 $4 @7o7c1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^
 ;4
 
 l16
 {5}
-l16%e1 $5 v24p24|1o5r8  
-^32<d>ga+<d>ga+<d>g<f>ga+<d>ga+<d>g  <d>fa+<d>fa+<d>f<f>fa+<d>fa+<d>f  
-<d>ga+<d>ga+<d>g<d+>ga+<d>g<d>a+g  <c>fa<c>fa<c>f<f>fa<c>fr32
+l16%v50v44p68%e1|2r1  
+^1  ^4 $5 o5<e4g+4c4  r4>b4<d+4d4  c+4r8c24>b24a+24<d4d+4  
+e4g+4r4>b4  <d+4d4r4f+4  a4g+4g4<c+4  r4>e4g+4c4  
+r4>b4<d+4d4  c+4r8c24>b24a+24<d4d+4  e4g+4r4>b4  <d+4d4r4f+4  
+a4g+4g4<c+4  r1  ^1  ^8>e8g+8c8r8>b8<d+8d8  
+c+8rc32>a+32<d8d+8e8g+8r8>b8  <d+8d8r8f+8a8g+8g8<c+8  >e8g+8c8>b8r8<d+8d8c+8  
+r8^c32>a+32<d8d+8e8g+8r8>b8  <d+8d8r8f+8a8g+8g8r8  <c+c>br8^ba+ar8^g+<c+c>b  
+r8^a+ag+r8^<c+c>br1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^2^4
 ;5
 
 l16
 {6}
-l16%e1 $6 v24p63|2o5o7d>ga+  
-<d>ga+<d>g<f>ga+<d>ga+<d>g<d>fa+  <d>fa+<d>f<f>fa+<d>fa+<d>f<d>ga+  
-<d>ga+<d>g<d+>ga+<d>g<d>a+g<c>fa  <c>fa<c>f<f>fa<c>fa<c>f
+l16%v50p64%e1|3r1  ^1   $6 v127o5a1  
+<c1  >b1  g+1  a+1  
+f1  e1  <c1  >b1  
+g+2^4a+2  ^4e2f1  r1  
+^1  a8^ra8^ra8^ra8^r  g+8^rg+8^rg+8^rg+8^r  g8^rg8^rg8^rg8^r  
+f+8^rf+8^rf+8^rf+8^r  f8^rf8^rf8^rf8^r  e8^re8^re8^re8<ee  >e2^4^8^^  
+<e2^4^8^^  >e2^4^8^^  f+1  ^1  
+f+1  ^^<f+8^e8^>a+8^b4^  f+rf+8^f+8^f+^f+<f+>f+^f+8  ^f+8^f+8f+^f+^f+8^f+8^  
+f+^f+<f+>f+^f+8^f+8^f+^f+f+  e1  ^2v192,0^4r1  ^1  
+^1  ^2
 ;6
 
 l16
 {7}
-l16%e1 $7 v24|3o5[2r1  
-^2^4p0ddp127dd  ]
+l16%v50 $7 v127p20%e1|4%r14o6c+1  c+1  c+1  
+^1  c+1  ^1  c+1  
+^1  c+1  ^1  c+1  
+^1  c+1  r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  c+2^4c+1  ^4c+2^4  
+c+1  ^4c+2^4  c+2^4c+2  ^4c+1  
+^1  r1  ^1  
 ;7
 
 l16
 {8}
-l16%e1 $8 v24p64|4o5[4f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+  
-]
+l16%v50v92p34%e1|5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^4^8 $8 o4b<cr>grgaggg  ggggggabbggggagg  <d>gggggaa32a32bgggaaga  
+ggggggabbgggabgg  <d>gggagaa32a32bggggagg  ggagagabbggggagg  <d>gggagaa32a32bgggaagg  
+ggggaga32a32bggaagg<c32>ab32  <d>gggaaaa32a32bgggaaga  ggagagaaagggaagg  
+<d>gagagaa32a32bggga32a32a32a32r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^4
 ;8
 
 l16

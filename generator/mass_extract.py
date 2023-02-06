@@ -46,10 +46,10 @@ def mass_extract(fn):
     os.makedirs(brr_dir)
 
     folders = config[FOLDER_SECTION]
-    dirs = {}
+    dirs = []
     for k in folders:
         dir = os.path.join(website_dir, config[FOLDER_SECTION][k])
-        dirs[k] = config[FOLDER_SECTION][k]
+        dirs.append(config[FOLDER_SECTION][k])
         if(os.path.exists(dir)):
             shutil.rmtree(dir)
         os.makedirs(dir)
@@ -136,6 +136,7 @@ def mass_extract(fn):
             print(f"Loaded {romfile} without header for song purpose.")
         
         songs = {}
+        seen = set()
         for song_idx_string in config[romfile]:
             print(f"converting {romid} track {song_idx_string}")
             try:
@@ -176,6 +177,12 @@ def mass_extract(fn):
                 meta_cfg[i] = meta_cfg[i].strip()
                 
             songfn = meta_cfg[0]
+
+            if songfn in seen:
+                print(f"song {songfn} appear twice.")
+                sys.exit()
+            else:
+                seen.add(songfn)
             
             out_mml.append(f"#TITLE {meta_cfg[1]}")
             spc = text_insert(spc, 0x2E, meta_cfg[1], 0x20)
@@ -189,8 +196,10 @@ def mass_extract(fn):
             spc[0x23] = 0x1A
             spc = byte_insert(spc, 0xAC, b"\x35\x30\x30\x30")
 
-            duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
-            spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
+            duration = 0
+            #duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
+            #spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
+            meta_cfg.append(duration)
             
             ## MML surgery
             out_mml.append("")
@@ -204,7 +213,7 @@ def mass_extract(fn):
             ## file output       
             dir = os.path.join(website_dir, folders[meta_cfg[5]], SPC_DIR)
             this_fn = os.path.join(dir, songfn + ".spc")
-            meta_cfg.append(this_fn)
+            #meta_cfg.append(songfn + ".spc")
             try:
                 with open(this_fn, "wb") as f:
                     f.write(spc)
@@ -213,7 +222,7 @@ def mass_extract(fn):
                 
             dir = os.path.join(website_dir, folders[meta_cfg[5]], MML_DIR)
             this_fn = os.path.join(dir, songfn + ".txt")
-            meta_cfg.append(this_fn)
+            #meta_cfg.append(songfn + ".txt")
             try:
                 with open(this_fn, "w") as f:
                     f.write(out_mml)
@@ -221,7 +230,7 @@ def mass_extract(fn):
                 print("ERROR: failed to write {this_fn}")
             songs[song_idx] = meta_cfg
         roms[romid] = songs
-    return roms, brrs
+    return dirs, roms, brrs
 
             
                 

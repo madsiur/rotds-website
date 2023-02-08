@@ -1,7 +1,7 @@
 #TITLE Trick
 #ALBUM Saga Frontier
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Kenji Ito
+#ARRANGED Tsushiy
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)
 #WAVE 0x21 0x44 ## strings (RS3)

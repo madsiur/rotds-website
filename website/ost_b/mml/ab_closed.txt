@@ -1,6 +1,6 @@
 #TITLE Closed In Upon Me
 #ALBUM Altered Beast
-#COMPOSER YokoOno
+#COMPOSER Kazuhiko Nagai
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)

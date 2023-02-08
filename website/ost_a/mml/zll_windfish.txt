@@ -1,6 +1,6 @@
 #TITLE Balad of the Windfish
 #ALBUM The Legend of Zelda: Link's Awakening
-#COMPOSER YokoOno
+#COMPOSER Kazumi Totaka, Minako Hamano, Kozue Ishikawa
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x07 ## flute (YI)

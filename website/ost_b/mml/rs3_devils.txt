@@ -1,11 +1,11 @@
 #TITLE Four Noble Devils 2
 #ALBUM Romancing Saga 3
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x12 ## cymbal (FF6)
 #WAVE 0x21 0x35 ## melodic tom (UNK)
-#WAVE 0x22 0x4A ## hard snare drum (RS3)
+#WAVE 0x22 0x4A ## snare drum 1 (RS3)
 #WAVE 0x23 0x22 ## kick drum (FF6)
 #WAVE 0x24 0x40 ## slap bass (RS3)
 #WAVE 0x25 0xAF ## reed organ (GH)

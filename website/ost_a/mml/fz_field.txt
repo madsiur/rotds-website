@@ -1,6 +1,6 @@
 #TITLE Fire Field (Metal Remix)
 #ALBUM F-Zero
-#COMPOSER YokoOno
+#COMPOSER Yumiko Kanki, Naoto Ishida
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xE8 ## string (CT)

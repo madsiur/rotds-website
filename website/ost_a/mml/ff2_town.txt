@@ -1,6 +1,6 @@
 #TITLE Town
 #ALBUM Final Fantasy II
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x08 ## french horn (FF6)

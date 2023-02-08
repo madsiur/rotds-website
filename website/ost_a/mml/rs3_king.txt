@@ -1,7 +1,7 @@
 #TITLE Year of the Holy King
 #ALBUM Romancing Saga 3
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Kenji Ito
+#ARRANGED JCE3000GT
 
 #WAVE 0x20 0x3C ## metal sound (RS3)
 #WAVE 0x21 0x3D ## metal sound (FF6)

@@ -1,6 +1,6 @@
 #TITLE Truth, Despair, and Hope
 #ALBUM Fire Emblem: The Sacred Stones
-#COMPOSER YokoOno
+#COMPOSER Yoshihiko Kitamura, Saki Haruyama, Yoshito Hirano
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x44 ## strings (RS3)

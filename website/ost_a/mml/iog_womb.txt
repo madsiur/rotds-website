@@ -1,6 +1,6 @@
 #TITLE In the Earthen Womb
 #ALBUM Illusion of Gaia
-#COMPOSER YokoOno
+#COMPOSER Yasuhiro Kawasaki
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x63 ## bottle blow (FF6)

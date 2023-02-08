@@ -1,7 +1,7 @@
 #TITLE Wild Fields
 #ALBUM Crystalis
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yoko Osaka
+#ARRANGED emberling
 
 #WAVE 0x20 0x3E ## xylophone (FF6)
 #WAVE 0x21 0x9F ## brass (SD3)

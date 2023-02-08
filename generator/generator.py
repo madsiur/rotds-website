@@ -1,47 +1,50 @@
 import os
 from mass_extract import mass_extract
+import constants as c
+import json
 
 def generate_json(dirs, roms, brrs):
-    file_string = 'const dirs = [\n'
-    for i in range(len(dirs)):
-        file_string += '    "' + dirs[i] + '",\n'
-    file_string = file_string[0:-2]
-    file_string += "\n];\n\n"
+    json_object = json.dumps(dirs, indent=4)
+    file_string = f'const dirs = \n{json_object};\n\n'
 
-    file_string += 'const roms = [{\n'
+    rom_entries = dict()
     for k1, v1 in roms.items():
-        file_string += '    "' + k1 + '": [{\n'
+        entries = []
         for k2, v2 in v1.items():
-            file_string += '        "id": ' + str(k2) + ',\n'
-            file_string += '        "filename": "' + v2[0] + '",\n'
-            file_string += '        "title": "' + v2[1] + '",\n'
-            file_string += '        "game": "' + v2[2] + '",\n'
-            file_string += '        "composer": "' + v2[3] + '",\n'
-            file_string += '        "arranger": "' + v2[4] + '",\n'
-            file_string += '        "dir": ' + str(v2[5]) + ',\n'
-            file_string += '        "duration": ' + str(v2[6]) + '\n'
-            file_string += '    }, {\n'
-        file_string = file_string[0:-4]
-        file_string += ']},\n{\n'
-    file_string = file_string[0:-4]
-    file_string += '\n];\n\n'
+            entry = {
+                "id": k2,
+                "filename": v2[0],
+                "title": v2[1],
+                "game": v2[2],
+                "composer": v2[3],
+                "arranger": v2[4],
+                "dir": int(v2[5]),
+                "duration": v2[6],
+            }
+            entries.append(entry)
+        rom_entries[k1] = entries
+        
+    json_object = json.dumps(rom_entries, indent=4)
+    file_string += f'const roms = \n{json_object};\n\n'
 
-    file_string += 'const brrs = [{\n'
+    entries = []
     for k, v in brrs.items():
-        file_string += '    "id": ' + str(k) + ',\n'
-        file_string += '    "name": "' + v[0] + '",\n'
-        file_string += '    "game": "' + v[1] + '",\n'
-        file_string += '    "loop": ' + str(v[2]) + ',\n'
-        file_string += '    "env": ' + str(v[3]) + ',\n'
-        file_string += '    "pitch": ' + str(v[4]) + ',\n'
-        file_string += '    "filename": "' + v[5] + '",\n'
-        file_string += '}, {\n'
-    file_string = file_string[0:-4]
-    file_string += '];'
+        entry = {
+            "id": k,
+            "name": v[0],
+            "game": v[1],
+            "loop": v[2],
+            "env": v[3],
+            "pitch": v[4],
+            "filename": v[5],
+        }
+        entries.append(entry)
+
+    json_object = json.dumps(entries, indent=4)
+    file_string += f'const brrs = \n{json_object};'
 
     parent_dir = os.path.dirname(os.path.dirname(__file__))
-    website_dir = os.path.join(parent_dir, "website")
-    this_fn = os.path.join(website_dir, "data.js")
+    this_fn = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "data.js")
     try:
         with open(this_fn, "w") as f:
             f.write(file_string)

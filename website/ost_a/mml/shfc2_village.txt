@@ -1,6 +1,6 @@
 #TITLE Elven Village
 #ALBUM Shining Force II
-#COMPOSER YokoOno
+#COMPOSER Motoaki Takenouchi
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)

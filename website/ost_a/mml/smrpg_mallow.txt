@@ -1,6 +1,6 @@
 #TITLE Mallow Finds Out He Is Not A Tadpole
 #ALBUM Super Mario RPG
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x2B 0xBA ## piano (SMRPG)

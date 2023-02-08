@@ -1,6 +1,6 @@
 #TITLE Chocobo From Hell
 #ALBUM Chocobo From Hell
-#COMPOSER YokoOno
+#COMPOSER Andrew Thompson
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0B ## organ (FF6)

@@ -1,6 +1,6 @@
 #TITLE The Farm
 #ALBUM Breath of Fire 3
-#COMPOSER YokoOno
+#COMPOSER Yoshino Aoki, Akari Kaida
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)

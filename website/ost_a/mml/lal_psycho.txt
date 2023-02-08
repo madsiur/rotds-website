@@ -1,7 +1,7 @@
 #TITLE Psycho Killing
-#ALBUM Live a Live
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#ALBUM Live A Live
+#COMPOSER Yoko Shimomura
+#ARRANGED emberling
 
 #WAVE 0x20 0xBE ## harmonica (RS3)
 #WAVE 0x21 0x02 ## electric bass (FF6)

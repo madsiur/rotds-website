@@ -1,6 +1,6 @@
 #TITLE Piranha Plant Lullaby
 #ALBUM Super Mario 64
-#COMPOSER YokoOno
+#COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x6B ## music box (CT)

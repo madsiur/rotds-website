@@ -1,7 +1,7 @@
 #TITLE Birth of a God
 #ALBUM Final Fantasy VII
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED emberling
 
 #WAVE 0x20 0xB4 ## synth strings (GH)
 #WAVE 0x21 0x28 ## rock organ (CT)

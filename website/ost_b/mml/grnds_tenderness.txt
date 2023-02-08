@@ -1,6 +1,6 @@
 #TITLE Lots of Tenderness
 #ALBUM Grounseed
-#COMPOSER YokoOno
+#COMPOSER Ryu Umemoto, Ryuu Takami
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

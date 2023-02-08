@@ -1,7 +1,7 @@
 #TITLE Martial Law
 #ALBUM Final Fantasy VIII
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED emberling
 
 #WAVE 0x20 0x53 ## synth strings (RS3)
 #WAVE 0x21 0x0D ## strings (FF6)
@@ -9,7 +9,7 @@
 #WAVE 0x23 0x01 ## spanish guitar (FF6)
 #WAVE 0x24 0x02 ## electric bass (FF6)
 #WAVE 0x2A 0x22 ## kick drum (FF6)
-#WAVE 0x2B 0x4A ## hard snare drum (RS3)
+#WAVE 0x2B 0x4A ## snare drum 1 (RS3)
 #WAVE 0x2C 0x2F ## shaker (FF6)
 #WAVE 0x2D 0x2B ## rimshot (FF6)
 

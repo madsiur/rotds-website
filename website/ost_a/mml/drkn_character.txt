@@ -1,6 +1,6 @@
 #TITLE Character Creation
 #ALBUM Drakkhen
-#COMPOSER YokoOno
+#COMPOSER Hiroyuki Masuno
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x52 ## piano (RS3)

@@ -1,6 +1,6 @@
 #TITLE Golbez, Clad In Darkness
 #ALBUM Final Fantasy IV
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

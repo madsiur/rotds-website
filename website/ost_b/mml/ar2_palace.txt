@@ -1,6 +1,6 @@
 #TITLE Ice Palace
 #ALBUM ActRaiser 2
-#COMPOSER YokoOno
+#COMPOSER Yuzo Koshiro
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

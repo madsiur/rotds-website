@@ -1,6 +1,6 @@
 #TITLE Path of Redemption
 #ALBUM I Am Setsuna
-#COMPOSER YokoOno
+#COMPOSER Tomoki Miyoshi
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)

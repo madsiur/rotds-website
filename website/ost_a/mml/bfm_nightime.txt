@@ -1,6 +1,6 @@
 #TITLE Nightime
 #ALBUM Brave Fencer Musashi
-#COMPOSER YokoOno
+#COMPOSER Tsuyoshi Sekito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

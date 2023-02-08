@@ -1,6 +1,6 @@
 #TITLE Battle 3
 #ALBUM Lufia 1
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x9A ## overdrive guitar (GH)

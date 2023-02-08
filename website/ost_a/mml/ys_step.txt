@@ -1,6 +1,6 @@
 #TITLE First Step Towards Wars
 #ALBUM Ys
-#COMPOSER YokoOno
+#COMPOSER Ryo Yonemitsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xC3 ## synth (TOTR)

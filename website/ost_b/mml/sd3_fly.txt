@@ -1,7 +1,7 @@
 #TITLE Can You Fly, Sister?
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Hiroki Kikuta
+#ARRANGED emberling
 
 #WAVE 0x20 0x44 ## strings (RS3)
 #WAVE 0x21 0x63 ## bottle blow (FF6)

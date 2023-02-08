@@ -1,6 +1,6 @@
 #TITLE Silencer
 #ALBUM Front Mission: Gun Hazard
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x68 ## grand piano (CT)

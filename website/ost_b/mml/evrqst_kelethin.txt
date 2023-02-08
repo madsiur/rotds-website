@@ -1,6 +1,6 @@
 #TITLE Kelethin
 #ALBUM Everquest
-#COMPOSER YokoOno
+#COMPOSER Jay Barbeau
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

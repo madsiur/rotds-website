@@ -1,6 +1,6 @@
 #TITLE Green Land Campbell
 #ALBUM Bahamut Lagoon
-#COMPOSER YokoOno
+#COMPOSER Noriko Matsueda
 #ARRANGED Gi Nattak
 
 #WAVE 0x28 0x1F ## ocarina (FF6)

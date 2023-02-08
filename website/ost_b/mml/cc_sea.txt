@@ -1,7 +1,7 @@
 #TITLE Dead Sea
 #ALBUM Chrono Cross
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yasunori Mitsuda
+#ARRANGED Jackimus, Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x70 ## piano (CT)

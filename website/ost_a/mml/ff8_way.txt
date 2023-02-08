@@ -1,6 +1,6 @@
 #TITLE Find Your Way
 #ALBUM Final Fantasy VIII
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

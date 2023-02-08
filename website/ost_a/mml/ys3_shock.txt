@@ -1,6 +1,6 @@
 #TITLE Shock of the Death God
 #ALBUM Ys III
-#COMPOSER YokoOno
+#COMPOSER Mieko Ishikawa
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

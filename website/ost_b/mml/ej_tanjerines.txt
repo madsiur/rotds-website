@@ -1,6 +1,6 @@
 #TITLE Anything But Tangerines
 #ALBUM Earthworm Jim
-#COMPOSER YokoOno
+#COMPOSER Tommy Tallarico
 #ARRANGED Gi Nattak
 
 #WAVE 0x21 0x32 ## acoustic guitar (FF6)

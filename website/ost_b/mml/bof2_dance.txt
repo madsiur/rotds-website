@@ -1,6 +1,6 @@
 #TITLE Clumsy Dance
 #ALBUM Breath of Fire 2
-#COMPOSER YokoOno
+#COMPOSER Yuko Takehara
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)

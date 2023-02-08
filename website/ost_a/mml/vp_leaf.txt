@@ -1,6 +1,6 @@
 #TITLE Turn Over a New Leaf
 #ALBUM Valkyrie Profile
-#COMPOSER YokoOno
+#COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5E ## flute (FF6)

@@ -1,6 +1,6 @@
 #TITLE Rage
 #ALBUM Quake 2
-#COMPOSER YokoOno
+#COMPOSER Sascha Dikiciyan
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)

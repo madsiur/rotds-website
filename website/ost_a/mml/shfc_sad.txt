@@ -1,6 +1,6 @@
 #TITLE Sad Theme
 #ALBUM Shining Force 1
-#COMPOSER YokoOno
+#COMPOSER Motoaki Takenouchi
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x2C ## contrabass (FF6)

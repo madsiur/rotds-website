@@ -1,6 +1,6 @@
 #TITLE Left Handed Wolf
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
+#COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
 
 #WAVE 0x28 0xC0 ## cymbal (RS3)

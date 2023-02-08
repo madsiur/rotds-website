@@ -1,6 +1,6 @@
 #TITLE The Quest For Rudra's Mines
 #ALBUM Treasure of the Rudra
-#COMPOSER YokoOno
+#COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x34 ## strings (TOTR)

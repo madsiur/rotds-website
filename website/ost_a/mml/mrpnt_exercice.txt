@@ -1,6 +1,6 @@
 #TITLE Creative Exercise
 #ALBUM Mario Paint
-#COMPOSER YokoOno
+#COMPOSER Hirokazu Tanaka, Ryoji Yoshitomi, Kazumi Totaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)

@@ -1,6 +1,6 @@
 #TITLE Storm Eagle (Storm Eagle & Flame Mammoth mix/medley)
 #ALBUM Mega Man X
-#COMPOSER YokoOno
+#COMPOSER Alph Lyla group
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1C ## bass (FF6)

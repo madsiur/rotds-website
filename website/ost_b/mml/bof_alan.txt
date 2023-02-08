@@ -1,6 +1,6 @@
 #TITLE Alan and Cerl
 #ALBUM Breath of Fire
-#COMPOSER YokoOno
+#COMPOSER Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0C ## piano (FF6)

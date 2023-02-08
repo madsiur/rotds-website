@@ -1,6 +1,6 @@
 #TITLE Battle ~ Drill
 #ALBUM Jade Cocoon
-#COMPOSER YokoOno
+#COMPOSER Kimitaka Matsumae
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5B ## orch hit (THG)

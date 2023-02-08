@@ -1,6 +1,6 @@
 #TITLE The Bookworm
 #ALBUM King's Quest VI
-#COMPOSER YokoOno
+#COMPOSER Chris Braymen
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x08 ## french horn (FF6)

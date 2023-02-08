@@ -1,6 +1,6 @@
 #TITLE Opening of a Journey
 #ALBUM Saga Frontier
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x70 ## piano (CT)

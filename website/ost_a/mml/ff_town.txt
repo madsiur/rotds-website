@@ -1,6 +1,6 @@
 #TITLE Town
 #ALBUM Final Fantasy I
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0A ## oboe (FF6)

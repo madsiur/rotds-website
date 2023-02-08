@@ -1,6 +1,6 @@
 #TITLE Aquarious
 #ALBUM Castlevania 3
-#COMPOSER YokoOno
+#COMPOSER Konami Kukeiha Club
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x36 ## sawtooth (UNK)

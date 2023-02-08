@@ -1,6 +1,6 @@
 #TITLE Chain of Fate
 #ALBUM Sword of Mana
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

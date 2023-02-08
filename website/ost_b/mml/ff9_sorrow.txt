@@ -1,7 +1,7 @@
 #TITLE Unforgettable Sorrow
 #ALBUM Final Fantasy IX
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED Tsushiy
 
 #WAVE 0x20 0x01 ## spanish guitar (FF6)
 #WAVE 0x21 0x06 ## chorus (FF6)

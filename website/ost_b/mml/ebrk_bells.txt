@@ -1,6 +1,6 @@
 #TITLE The Prayer Bells do not Toll
 #ALBUM Energy Breaker
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

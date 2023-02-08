@@ -1,6 +1,6 @@
 #TITLE Forested Temple
 #ALBUM Final Fantasy VII
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xBD ## classic guitar (FF7)
@@ -51,9 +51,9 @@ l16%e1 $3 v50p44|2%r4o4r1
 <c4>a8^ra2  g8^rg+8^rm24,18,201a1  ^2mr1  
 ^1  ^1  ^1  a8g+8g8f+8f4e^e8  
 <c4>a8^ra2  <e4>a8b8<c4>b8a8  f8e8<c8^r>a4^8^^  a8g+8g8f+8f4e^e8  
-<c4>a8^ra2  g8^rg+8^rm24,18,201a1  ^2mr2  ^4<e8^rc8^rv60p24|7>e8^r  
-c8^r1  ^v50p44|2%r4<c8^r>a8^rv60p24|7c8^r>a8^  r1  ^v50p44|2%r4o6e8^rc8^r>v60p24|7e8^rc8^  
-r1  ^v50p44|2%r4<c8^r>a8^rv60p24|7c8^r>a8^  r1  ^1  
+<c4>a8^ra2  g8^rg+8^rm24,18,201a1  ^2mr2  ^4<e8^rc8^rv70p24|7>e8^r  
+c8^r1  ^v50p44|2%r4<c8^r>a8^rv70p24|7c8^r>a8^  r1  ^v50p44|2%r4o6e8^rc8^r>v70p24|7e8^rc8^  
+r1  ^v50p44|2%r4<c8^r>a8^rv70p24|7c8^r>a8^  r1  ^1  
 ^1  ^1  ^4^v50p44|2%r4<a8g8f+8g8a1  v100,0^2r1  
 ^1  v50f8e8d8>a8m24,18,201d1  ^1  ^1  
 v100,0^2mr1  ^1  ^1  ^1  

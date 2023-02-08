@@ -1,7 +1,7 @@
 #TITLE Gaur Plains
 #ALBUM Xenoblade
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER ACE+
+#ARRANGED Jackimus
 
 #WAVE 0x20 0x17 ## conga (FF6)
 #WAVE 0x21 0x22 ## kick drum (FF6)

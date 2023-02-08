@@ -1,6 +1,6 @@
 #TITLE Final Countdown
 #ALBUM Europe
-#COMPOSER YokoOno
+#COMPOSER N/A
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x82 ## strings (SOM)

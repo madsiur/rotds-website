@@ -1,6 +1,6 @@
 #TITLE Wall of Defense
 #ALBUM Ogre Battle
-#COMPOSER YokoOno
+#COMPOSER Masaharu Iwata, Hitoshi Sakimoto
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB1 ## trombone (GH)

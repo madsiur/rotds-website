@@ -1,6 +1,6 @@
 #TITLE Wandering Spirits
 #ALBUM Terranigma
-#COMPOSER YokoOno
+#COMPOSER Masanori Hikichi
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1F ## ocarina (FF6)

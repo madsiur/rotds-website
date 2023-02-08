@@ -1,6 +1,6 @@
 #TITLE Lost Painting
 #ALBUM Castlevania SOTN
-#COMPOSER YokoOno
+#COMPOSER Michiru Yamane
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0C ## piano (FF6)

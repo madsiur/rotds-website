@@ -1,6 +1,6 @@
 #TITLE Berserker
 #ALBUM Energy Breaker
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)

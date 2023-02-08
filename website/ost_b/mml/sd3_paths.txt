@@ -1,6 +1,6 @@
 #TITLE Few Paths Forbidden
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
+#COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
 
 #WAVE 0x28 0xB0 ## synth strings (CT)

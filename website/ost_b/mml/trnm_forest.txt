@@ -1,6 +1,6 @@
 #TITLE Evergreen Forest
 #ALBUM Terranigma
-#COMPOSER YokoOno
+#COMPOSER Masanori Hikichi
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x65 ## tam (RS3)

@@ -1,6 +1,6 @@
 #TITLE Cloud of Darkness
 #ALBUM Final Fantasy III
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x76 ## sax (CT)
@@ -9,7 +9,7 @@
 #WAVE 0x23 0x1C ## bass (FF6)
 #WAVE 0x24 0x22 ## kick drum (FF6)
 #WAVE 0x25 0x4F ## closed hihat (RS3)
-#WAVE 0x26 0x4A ## hard snare drum (RS3)
+#WAVE 0x26 0x4A ## snare drum 1 (RS3)
 
 {1}
 l16t120%v32v70p90%e1%b0,70%f0,0|0o5[19r1  ]>b<cdedefg+f+g+abf+g+ab  

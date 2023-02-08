@@ -1,7 +1,7 @@
 #TITLE Nuclear Fission
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Hiroki Kikuta
+#ARRANGED Jackimus
 
 #WAVE 0x20 0x5E ## flute (FF6)
 #WAVE 0x21 0x3E ## xylophone (FF6)

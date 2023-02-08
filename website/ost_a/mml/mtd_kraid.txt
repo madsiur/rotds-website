@@ -1,6 +1,6 @@
 #TITLE Kraid's Lair (Rock Remix)
 #ALBUM Metroid
-#COMPOSER YokoOno
+#COMPOSER Hirokazu Tanaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)

@@ -1,6 +1,6 @@
 #TITLE Recollection
 #ALBUM Final Fantasy XI
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0C ## piano (FF6)

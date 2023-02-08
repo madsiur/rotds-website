@@ -1,6 +1,6 @@
 #TITLE 8 Bit Travel
 #ALBUM Five Nights at Freddys
-#COMPOSER YokoOno
+#COMPOSER Leon Riskin
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

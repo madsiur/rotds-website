@@ -1,0 +1,38 @@
+#TITLE Alarm
+#ALBUM Romancing Saga 3
+#COMPOSER Minoru Akao
+#ARRANGED N/A
+
+#WAVE 0x20 0x3D ## metal sound (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+
+{5}
+l16t120%v50%v50%v50%e1v80p64|0o6%r24 $1 m48,-6f+2dd2  r8m48,-6d1  
+
+;1
+
+l16
+{4}
+l16v60p64r1  r1  |1o6 $2 m48,-6b2m48,-6d2  
+;2
+
+l16
+{1}
+l16v0p64r1  
+r1  @3o5%n1%c15%s3%l1 $3 d+1  ^4.v124,16
+;3
+
+l16
+{2}
+l16%e1p64r1  
+r1  %p1v0v124,60@5o6%g1 $4 m0,22,255[2m48,-8d+4m64,-4d+3m48,+4c+4m72,-8d4.  
+m0,38,255]
+;4
+
+l16
+{3}
+l16r1  r4%e1p64v0v255,33@7o3v0,1,255m0,1,255g1  
+ $5 ^1  
+;5
+
+l16

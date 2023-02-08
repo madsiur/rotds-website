@@ -1,6 +1,6 @@
 #TITLE Red Moon
 #ALBUM Disgaea
-#COMPOSER YokoOno
+#COMPOSER Tenpei Sato
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x4C ## e.piano (RS3)

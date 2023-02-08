@@ -1,6 +1,6 @@
 #TITLE The Time Has Come
-#ALBUM Aaron Walz
-#COMPOSER YokoOno
+#ALBUM Aaron Walz Music
+#COMPOSER Aaron Walz
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

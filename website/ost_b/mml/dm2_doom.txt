@@ -1,7 +1,7 @@
 #TITLE Doom
 #ALBUM Doom II
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Bobby Prince
+#ARRANGED emberling
 
 #WAVE 0x20 0xC2 ## strings (CV4)
 #WAVE 0x21 0x83 ## chorus (SOM)
@@ -10,7 +10,7 @@
 #WAVE 0x24 0x1C ## bass (FF6)
 #WAVE 0x27 0xD3 ## bell (SOM)
 #WAVE 0x28 0x22 ## kick drum (FF6)
-#WAVE 0x29 0x4A ## hard snare drum (RS3)
+#WAVE 0x29 0x4A ## snare drum 1 (RS3)
 #WAVE 0x2A 0x50 ## open pedal hihat (RS3)
 #WAVE 0x2B 0xC4 ## ride (GH)
 #WAVE 0x2D 0x55 ## agogo (RS3)

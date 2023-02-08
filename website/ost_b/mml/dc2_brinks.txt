@@ -1,6 +1,6 @@
 #TITLE Palm Brinks
 #ALBUM Dark Cloud 2
-#COMPOSER YokoOno
+#COMPOSER Tomohito Nishiura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB7 ## accordion (SMRPG)

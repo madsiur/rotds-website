@@ -1,6 +1,6 @@
 #TITLE Wave of Evil
 #ALBUM Lufia 1
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0E ## trumpet (FF6)

@@ -1,6 +1,6 @@
 #TITLE Skull Bone 1
 #ALBUM Dynami Tracer
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0B ## organ (FF6)

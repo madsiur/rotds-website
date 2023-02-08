@@ -1,6 +1,6 @@
 #TITLE Airships
 #ALBUM Super Mario 3
-#COMPOSER YokoOno
+#COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x16 ## timpani (FF6)

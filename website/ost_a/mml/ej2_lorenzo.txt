@@ -1,6 +1,6 @@
 #TITLE Lorenzo's Soil
 #ALBUM Earthworm Jim 2
-#COMPOSER YokoOno
+#COMPOSER Tommy Tallarico
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5E ## flute (FF6)

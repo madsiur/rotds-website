@@ -1,6 +1,6 @@
 #TITLE Edge of Darkness
 #ALBUM Treasure of the Rudra
-#COMPOSER YokoOno
+#COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

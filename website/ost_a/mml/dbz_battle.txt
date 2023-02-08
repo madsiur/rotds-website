@@ -1,6 +1,6 @@
 #TITLE Battle Theme #7
 #ALBUM Dragon Ball Z Budokai
-#COMPOSER YokoOno
+#COMPOSER Kenji Yamamoto
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1C ## bass (FF6)

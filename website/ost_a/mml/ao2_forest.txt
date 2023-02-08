@@ -1,6 +1,6 @@
 #TITLE Land of Frozen Forest
 #ALBUM Albert Odyssey 2
-#COMPOSER YokoOno
+#COMPOSER Naoki Kodaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

@@ -1,6 +1,6 @@
 #TITLE Gourmet Race
 #ALBUM Kirby Super Star
-#COMPOSER YokoOno
+#COMPOSER Jun Ishikawa
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x48 ## trumpet (RS3)

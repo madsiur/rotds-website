@@ -1,6 +1,6 @@
 #TITLE Resurrection
 #ALBUM Tales of Phantasia
-#COMPOSER YokoOno
+#COMPOSER Motoi Sakuraba, Shinji Tamura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

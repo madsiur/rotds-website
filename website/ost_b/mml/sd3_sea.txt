@@ -1,7 +1,7 @@
 #TITLE Innocent Sea
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Hiroki Kikuta
+#ARRANGED emberling
 
 #WAVE 0x20 0x98 ## acoustic guitar (SD3)
 #WAVE 0x21 0x03 ## wind flute (FF6)

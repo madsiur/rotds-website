@@ -1,6 +1,6 @@
 #TITLE Army of Grannvale 2
 #ALBUM Fire Emblem: Genealogy of the Holy War
-#COMPOSER YokoOno
+#COMPOSER Yuka Tsujiyoko
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1A ## trombone (FF6)

@@ -1,6 +1,6 @@
 #TITLE Bramble Blast
 #ALBUM Donkey King Country 2
-#COMPOSER YokoOno
+#COMPOSER David Wise
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

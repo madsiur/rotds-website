@@ -1,6 +1,6 @@
 #TITLE Trainer Battle
 #ALBUM Pokemon red/blue/yellow
-#COMPOSER YokoOno
+#COMPOSER Junichi Masuda
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x40 ## slap bass (RS3)

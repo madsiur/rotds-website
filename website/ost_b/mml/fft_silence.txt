@@ -1,6 +1,6 @@
 #TITLE Silence at Night
 #ALBUM Final Fantasy Tactics
-#COMPOSER YokoOno
+#COMPOSER Hitoshi Sakimoto, Masaharu Iwata
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x8E ## piano (SOM)

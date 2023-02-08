@@ -1,6 +1,6 @@
 #TITLE Earth Night
 #ALBUM Drakkhen
-#COMPOSER YokoOno
+#COMPOSER Hiroyuki Masuno
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0C ## piano (FF6)

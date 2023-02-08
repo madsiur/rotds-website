@@ -1,6 +1,6 @@
 #TITLE What Should Be
 #ALBUM Star Ocean
-#COMPOSER YokoOno
+#COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x07 ## flute (YI)

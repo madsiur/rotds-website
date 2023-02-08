@@ -1,6 +1,6 @@
 #TITLE The One Who Cannot Forget
 #ALBUM Metal Max 2
-#COMPOSER YokoOno
+#COMPOSER Satoshi Kadokura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x44 ## strings (RS3)

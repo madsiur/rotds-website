@@ -1,6 +1,6 @@
 #TITLE Gym Battle
 #ALBUM Pokemon red/blue/yellow
-#COMPOSER YokoOno
+#COMPOSER Junichi Masuda
 #ARRANGED Gi Nattak
 
 #WAVE 0x21 0x40 ## slap bass (RS3)

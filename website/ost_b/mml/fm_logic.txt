@@ -1,6 +1,6 @@
 #TITLE Destructive Logic
 #ALBUM Front Mission
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x58 ## french horn (RS3)

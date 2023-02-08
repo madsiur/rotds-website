@@ -1,7 +1,7 @@
 #TITLE Ancient Dragon's Stronghold
 #ALBUM Chrono Cross
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yasunori Mitsuda
+#ARRANGED emberling
 
 #WAVE 0x20 0x83 ## chorus (SOM)
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)

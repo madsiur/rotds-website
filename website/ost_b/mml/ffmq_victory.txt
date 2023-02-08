@@ -1,7 +1,7 @@
 #TITLE Victory Theme
 #ALBUM Final Fantasy Mystic Quest
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Ryuji Sasai, Yasuhiro Kawakami
+#ARRANGED emberling
 
 #WAVE 0x20 0x22 ## kick drum (FF6)
 #WAVE 0x21 0x14 ## snare (FF6)

@@ -1,6 +1,6 @@
 #TITLE Guile's Theme
 #ALBUM Street Fighter 2
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

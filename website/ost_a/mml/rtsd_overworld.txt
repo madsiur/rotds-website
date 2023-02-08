@@ -1,6 +1,6 @@
 #TITLE Overworld
 #ALBUM RPG Tsukuru Super Dante
-#COMPOSER YokoOno
+#COMPOSER Shigeharu Isoda, Mitsuhiro Arisaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0E ## trumpet (FF6)

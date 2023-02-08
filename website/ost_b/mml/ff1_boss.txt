@@ -1,7 +1,7 @@
 #TITLE Boss Battle B
 #ALBUM Final Fantasy I
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED Tsushiy
 
 #WAVE 0x20 0x6F ## trumpet (CT)
 #WAVE 0x21 0x44 ## strings (RS3)

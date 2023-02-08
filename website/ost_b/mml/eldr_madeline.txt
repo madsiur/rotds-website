@@ -1,6 +1,6 @@
 #TITLE Madeline's Theme
 #ALBUM Electric Dreams
-#COMPOSER YokoOno
+#COMPOSER Giorgio Moroder
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x05 ## cello (FF6)

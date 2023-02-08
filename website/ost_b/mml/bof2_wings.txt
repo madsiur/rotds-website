@@ -1,6 +1,6 @@
 #TITLE White Wings
 #ALBUM Breath of Fire 2
-#COMPOSER YokoOno
+#COMPOSER Yuko Takehara
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x12 ## cymbal (FF6)

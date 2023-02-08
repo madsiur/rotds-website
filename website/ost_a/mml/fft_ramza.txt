@@ -1,6 +1,6 @@
 #TITLE Ramza's Theme
 #ALBUM Final Fantasy Tactics
-#COMPOSER YokoOno
+#COMPOSER Hitoshi Sakimoto
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

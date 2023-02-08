@@ -1,6 +1,6 @@
 #TITLE Sealed Chest
 #ALBUM Chrono Trigger
-#COMPOSER YokoOno
+#COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0C ## piano (FF6)

@@ -1,6 +1,6 @@
 #TITLE Flash in the Dark
 #ALBUM Megaman 9
-#COMPOSER YokoOno
+#COMPOSER Ryo Kawakami
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x36 ## sawtooth (UNK)

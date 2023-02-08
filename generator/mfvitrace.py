@@ -272,7 +272,7 @@ def mfvi_trace(data, iterations=2, long_header=False):
             tick_length = 1 / (bpm * 48 / 60)
         duration += tick_length
     print(duration)
-    return min(duration, 999)
+    return min(duration, 300)
             
 # Read an AKAO4 (FF6) binary sequence and return its approximate length in seconds
 # (the time it takes to reach an identical state for the nth time)     

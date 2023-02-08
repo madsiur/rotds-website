@@ -1,7 +1,7 @@
 #TITLE Fighting of the Spirit
 #ALBUM Tales of Phantasia
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Motoi Sakuraba, Shinji Tamura
+#ARRANGED emberling
 
 #WAVE 0x20 0x9D ## halo (FM)
 #WAVE 0x21 0x36 ## sawtooth (UNK)

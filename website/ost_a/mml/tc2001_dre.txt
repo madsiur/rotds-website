@@ -1,6 +1,6 @@
 #TITLE Forgot About Dre
 #ALBUM The Chronic 2001
-#COMPOSER YokoOno
+#COMPOSER Dr. Dre
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

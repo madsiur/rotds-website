@@ -1,6 +1,6 @@
 #TITLE Cute Little Tozas
 #ALBUM Final Fantasy III
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1F ## ocarina (FF6)

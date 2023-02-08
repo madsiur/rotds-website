@@ -1,7 +1,7 @@
 #TITLE Pain in the Universe
 #ALBUM Legend of Mana
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yoko Shimomura
+#ARRANGED emberling
 
 #WAVE 0x20 0x0B ## organ (FF6)
 #WAVE 0x22 0x1C ## bass (FF6)

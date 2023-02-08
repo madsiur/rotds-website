@@ -1,6 +1,6 @@
 #TITLE Somber Memories
 #ALBUM Lunar 2
-#COMPOSER YokoOno
+#COMPOSER Noriyuki Iwadare
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x05 ## cello (FF6)

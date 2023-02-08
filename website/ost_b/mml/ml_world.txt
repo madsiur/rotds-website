@@ -1,6 +1,6 @@
 #TITLE World 4
 #ALBUM Mario Land
-#COMPOSER YokoOno
+#COMPOSER Hirokazu Tanaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x8D ## pan flute (FF6)

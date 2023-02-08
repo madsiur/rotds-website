@@ -1,6 +1,6 @@
 #TITLE Flying Battery Zone Act 1
 #ALBUM Sonic & Knuckles
-#COMPOSER YokoOno
+#COMPOSER Howard Drossin
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x36 ## sawtooth (UNK)

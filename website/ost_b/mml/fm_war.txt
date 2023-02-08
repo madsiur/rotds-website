@@ -1,6 +1,6 @@
 #TITLE The Evils of War
 #ALBUM Front Mission
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

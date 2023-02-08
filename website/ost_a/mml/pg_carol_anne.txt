@@ -1,6 +1,6 @@
 #TITLE Carol Anne's Theme
 #ALBUM Poltergheist
-#COMPOSER YokoOno
+#COMPOSER Jerry Goldsmith
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x3E ## xylophone (FF6)

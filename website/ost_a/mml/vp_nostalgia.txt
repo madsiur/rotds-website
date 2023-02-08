@@ -1,6 +1,6 @@
 #TITLE Nostalgia Into Hope
 #ALBUM Valkyrie Profile
-#COMPOSER YokoOno
+#COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0A ## oboe (FF6)

@@ -1,7 +1,7 @@
 #TITLE Dancing Calcobrena
 #ALBUM Final Fantasy IV
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED emberling
 
 #WAVE 0x20 0x3B ## pipe organ 2 (FF6)
 #WAVE 0x21 0x08 ## french horn (FF6)

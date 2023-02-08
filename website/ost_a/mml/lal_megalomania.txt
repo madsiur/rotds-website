@@ -1,6 +1,6 @@
 #TITLE Megalomania
 #ALBUM Live a Live
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x22 ## kick drum (FF6)

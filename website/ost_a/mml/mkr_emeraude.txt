@@ -1,6 +1,6 @@
 #TITLE Emeraude's Theme
 #ALBUM Magic Knight Rayearth
-#COMPOSER YokoOno
+#COMPOSER Yayoi Wachi, Seirou Okamoto
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x3E ## xylophone (FF6)

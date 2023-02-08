@@ -1,6 +1,6 @@
 #TITLE Venus Lighthouse
 #ALBUM Golden Sun
-#COMPOSER YokoOno
+#COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x6F ## trumpet (CT)

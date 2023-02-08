@@ -1,6 +1,6 @@
 #TITLE Teamwork
 #ALBUM King Aurther's World
-#COMPOSER YokoOno
+#COMPOSER Justin Scharvona
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

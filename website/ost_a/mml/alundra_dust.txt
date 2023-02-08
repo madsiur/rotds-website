@@ -1,6 +1,6 @@
 #TITLE Dust to Dust
 #ALBUM Alundra
-#COMPOSER YokoOno
+#COMPOSER Kohei Tanaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x01 ## spanish guitar (FF6)

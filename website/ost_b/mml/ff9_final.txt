@@ -1,7 +1,7 @@
 #TITLE The Final Battle
 #ALBUM Final Fantasy IX
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED Jackimus
 
 #WAVE 0x21 0x0B ## organ (FF6)
 #WAVE 0x22 0x12 ## cymbal (FF6)

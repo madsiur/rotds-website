@@ -1,6 +1,6 @@
 #TITLE Moonlit City Roa
 #ALBUM Legend of Mana
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x24 ## tubular bell (FF6)

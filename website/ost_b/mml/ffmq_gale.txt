@@ -1,6 +1,6 @@
 #TITLE Mount Gale
 #ALBUM Final Fantasy Mystic Quest
-#COMPOSER YokoOno
+#COMPOSER Ryuji Sasai, Yasuhiro Kawakami
 #ARRANGED Gi Nattak
 
 #WAVE 0x21 0xA0 ## snare (SD3)

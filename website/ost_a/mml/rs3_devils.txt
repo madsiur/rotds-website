@@ -1,6 +1,6 @@
 #TITLE Four Noble Devils
 #ALBUM Romancing Saga 3
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x65 ## tam (RS3)

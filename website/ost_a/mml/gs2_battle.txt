@@ -1,7 +1,7 @@
 #TITLE Felix Battle Theme
 #ALBUM Golden Sun 2
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Motoi Sakuraba
+#ARRANGED Jackimus
 
 #WAVE 0x20 0x44 ## strings (RS3)
 #WAVE 0x21 0x08 ## french horn (FF6)

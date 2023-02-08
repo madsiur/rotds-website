@@ -1,7 +1,7 @@
 #TITLE Path of Repentance
 #ALBUM Final Fantasy X
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Nobuo Uematsu
+#ARRANGED emberling
 
 #WAVE 0x20 0xA6 ## piano (FM)
 #WAVE 0x21 0xA6 ## piano (FM)

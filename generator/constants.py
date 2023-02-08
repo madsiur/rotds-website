@@ -1,0 +1,6 @@
+WEBSITE_DIR = "website"
+MML_DIR = "mml"
+SPC_DIR = "spc"
+BRR_DIR = "brr"
+FOLDER_SECTION = "folder"
+BRR_SECTION = "brr"

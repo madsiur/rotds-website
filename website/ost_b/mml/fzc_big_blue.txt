@@ -1,6 +1,6 @@
 #TITLE Big Blue
 #ALBUM F-Zero Climax
-#COMPOSER YokoOno
+#COMPOSER Kenji Hikita
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)

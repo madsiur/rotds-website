@@ -1,7 +1,7 @@
 #TITLE Grahf Emperor of Darkness
 #ALBUM Xenogears
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yasunori Mitsuda
+#ARRANGED Tsushiy
 
 #WAVE 0x20 0x48 ## trumpet (RS3)
 #WAVE 0x21 0x44 ## strings (RS3)

@@ -1,6 +1,6 @@
 #TITLE Ocean of Origin
 #ALBUM E.V.O. Search for Eden
-#COMPOSER YokoOno
+#COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x4B ## celesta (RS3)

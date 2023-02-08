@@ -1,6 +1,6 @@
 #TITLE Vanguard Take Off 2
-#ALBUM Romancing SaGa 3
-#COMPOSER YokoOno
+#ALBUM Romancing Saga 3
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x22 ## kick drum (FF6)

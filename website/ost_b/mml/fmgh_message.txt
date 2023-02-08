@@ -1,6 +1,6 @@
 #TITLE Message of Genoce
 #ALBUM Front Mission: Gun Hazard
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x31 ## bright piano (FF6)

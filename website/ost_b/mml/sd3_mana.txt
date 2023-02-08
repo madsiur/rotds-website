@@ -1,6 +1,6 @@
 #TITLE Secret of Mana
 #ALBUM Seiken Densetsu 3
-#COMPOSER YokoOno
+#COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xD0 ## dulcimer (SOM)

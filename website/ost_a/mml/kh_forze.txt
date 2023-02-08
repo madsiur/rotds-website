@@ -1,6 +1,6 @@
 #TITLE Forze Del Male
 #ALBUM Kingdom Hearts
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

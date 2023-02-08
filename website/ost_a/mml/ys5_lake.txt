@@ -1,6 +1,6 @@
 #TITLE Misty Lake
 #ALBUM Ys 5
-#COMPOSER YokoOno
+#COMPOSER Naoki Kaneda
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1F ## ocarina (FF6)

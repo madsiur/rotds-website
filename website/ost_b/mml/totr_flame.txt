@@ -1,7 +1,7 @@
 #TITLE Flame And Arrow
 #ALBUM Treasure of the Rudra
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Ryuji Sasai
+#ARRANGED emberling
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x3A ## female voice (FF6)

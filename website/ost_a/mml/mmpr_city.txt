@@ -1,6 +1,6 @@
 #TITLE Stage 1, City
 #ALBUM Mighty Morphin Power Rangers
-#COMPOSER YokoOno
+#COMPOSER Kinuyo Yamashita, Iku Mizutani
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x36 ## sawtooth (UNK)

@@ -1,6 +1,6 @@
 #TITLE Aspiration
 #ALBUM Final Fantasy Legend II
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0A ## oboe (FF6)

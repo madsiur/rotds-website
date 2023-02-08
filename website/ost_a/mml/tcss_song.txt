@@ -1,12 +1,12 @@
 #TITLE Song #1
 #ALBUM T&C Skate Session
-#COMPOSER YokoOno
+#COMPOSER Tsukasa Masuko
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x36 ## sawtooth (UNK)
 #WAVE 0x21 0x1C ## bass (FF6)
 #WAVE 0x22 0x2B ## rimshot (FF6)
-#WAVE 0x23 0x4A ## hard snare drum (RS3)
+#WAVE 0x23 0x4A ## snare drum 1 (RS3)
 
 {1}
 l16%v24t175v127p20%e1%b0,70%f0,0|0o5>c+8c+8<c+8>c+8c+8b8c+8c+8  

@@ -1,6 +1,6 @@
 #TITLE Romero Cave
 #ALBUM Breath of Fire
-#COMPOSER YokoOno
+#COMPOSER Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x58 ## french horn (RS3)
@@ -10,7 +10,7 @@
 #WAVE 0x24 0x07 ## flute (YI)
 
 {1}
-l16t150%v50%e1%b0,70%f0,0 $1 v92p68%x224|0o5g1  >a1  <c1  >g+1  
+l16t150%v50%e1%b0,70%f0,0 $1 v90p68%x224|0o5g1  >a1  <c1  >g+1  
 <g1  >a1  g+1  b1  
 a1  b1  <d1  >a+1  
 a1  b1  a+1  f1  
@@ -34,7 +34,7 @@ a2r2
 
 l16
 {3}
-l16%e1 $3 v64p50|2o5<d+8>g8a8g8<d+8>g8a8g8  <d+8>g8a8g8<d+8>g8a8g8  
+l16%e1 $3 v60p50|2o5<d+8>g8a8g8<d+8>g8a8g8  <d+8>g8a8g8<d+8>g8a8g8  
 <d+8o5g+8a8g+8<d+8>g+8a8g+8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  <d+8>g8a8g8<d+8>g8a8g8  
 <d+8>g8a8g8<d+8>g8a8g8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  
 <f8>a8b8a8<f8>a8b8a8  <f8>a8b8a8<f8>a8b8a8  <f8>a+8b8a+8<f8>a+8b8a+8  
@@ -59,7 +59,7 @@ brbr<crcr>brbrarar  g+1  c1
 
 l16
 {5}
-l16%e1 $5 v72p68|4o4r1  
+l16%e1 $5 v60p68|4o4r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
@@ -71,7 +71,7 @@ m48,18,239a+1  m<a4e4c4>b4  m48,18,239a+1  mg+4b4<f4d4
 
 l16
 {6}
-l16%e1 $6 v64p80|2o5r<d+8>g8a8g8<d+8>g8a8g8  
+l16%e1 $6 v60p80|2o5r<d+8>g8a8g8<d+8>g8a8g8  
 <d+8>g8a8g8<d+8>g8a8g8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  
 <d+8>g8a8g8<d+8>g8a8g8  <d+8>g8a8g8<d+8>g8a8g8  <d+8o5g+8a8g+8<d+8>g+8a8g+8  
 <d+8o5g+8a8g+8<d+8>g+8a8g+8  <f8>a8b8a8<f8>a8b8a8  <f8>a8b8a8<f8>a8b8a8  
@@ -84,7 +84,7 @@ f+8r2^4^8  f+8r2^4^8  c8r2<d+8r1  ^8
 
 l16
 {7}
-l16%e1 $7 v64p74|2o5r1  
+l16%e1 $7 v60p74|2o5r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
@@ -96,7 +96,7 @@ c8r2^4^8  >d+8r4<c8r1  ^4
 
 l16
 {8}
-l16%e1 $8 v64p54|2o5r1  ^1  
+l16%e1 $8 v60p54|2o5r1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  

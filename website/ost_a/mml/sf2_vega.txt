@@ -1,6 +1,6 @@
 #TITLE Vega's Theme
 #ALBUM Street Fighter II
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x01 ## spanish guitar (FF6)
@@ -9,18 +9,18 @@
 #WAVE 0x23 0x49 ## violin (RS3)
 #WAVE 0x24 0x1C ## bass (FF6)
 #WAVE 0x25 0x22 ## kick drum (FF6)
-#WAVE 0x26 0x4A ## hard snare drum (RS3)
+#WAVE 0x26 0x4A ## snare drum 1 (RS3)
 
 {1}
-l16t156%v25v60p63%e1%b0,70%f0,0 $1 |0o5ereeereeereeerfr  frfffrfffrffgrfr  
-[2ereeereeereeerdr  drdddrdddrdddrer  ereeereeereeerfr  frfffrfffrffgrfr  
-]ereeereeereeerdr  drdddrdddrdddrer  frfffrfffrfffrfr  frfffrfffrffgrfr  
-ereeereeereeerer  ereeereeereeerer  frfffrfffrfffrgr  grgggrgggrgggr8^  
-m24,18,201a1  ^1  me8r8ereeereeer8^  drdddrdddrdddrer  
-ereeereeereeerar  araaaraaaraaarfr  frfffrfffrfffrer  ereeereeereeerf+r  
-f+rf+f+f+rf+f+f+rf+f+f+rar  araaaraag+rg+g+g+rg+g+  areeereeereeerdr  
-drdddrdddrdddrer  ereeereeereeerar  araaaraaaraaarar  er>bb<e2e4  
-g+reeg+2g+4  
+l16t156%v25%x240v60p63%e1%b0,70%f0,0 $1 |0o5ereeereeereeerfr  
+frfffrfffrffgrfr  [2ereeereeereeerdr  drdddrdddrdddrer  ereeereeereeerfr  
+frfffrfffrffgrfr  ]ereeereeereeerdr  drdddrdddrdddrer  frfffrfffrfffrfr  
+frfffrfffrffgrfr  ereeereeereeerer  ereeereeereeerer  frfffrfffrfffrgr  
+grgggrgggrgggr8^  m24,18,201a1  ^1  me8r8ereeereeer8^  
+drdddrdddrdddrer  ereeereeereeerar  araaaraaaraaarfr  frfffrfffrfffrer  
+ereeereeereeerf+r  f+rf+f+f+rf+f+f+rf+f+f+rar  araaaraag+rg+g+g+rg+g+  
+areeereeereeerdr  drdddrdddrdddrer  ereeereeereeerar  araaaraaaraaarar  
+er>bb<e2e4  g+reeg+2g+4  
 ;1
 
 l16

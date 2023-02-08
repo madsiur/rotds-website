@@ -1,6 +1,6 @@
 #TITLE Illusionary World
 #ALBUM Final Fantasy IV
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5E ## flute (FF6)

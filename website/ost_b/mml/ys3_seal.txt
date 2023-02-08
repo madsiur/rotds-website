@@ -1,7 +1,7 @@
 #TITLE Seal of Time
 #ALBUM Ys3
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Mieko Ishikawa
+#ARRANGED emberling
 
 #WAVE 0x20 0xC3 ## synth (TOTR)
 #WAVE 0x21 0xC6 ## trumpet (ARS)
@@ -12,7 +12,7 @@
 #WAVE 0x26 0x94 ## clarinet (TOTR)
 #WAVE 0x27 0xC9 ## bass (FF6T)
 #WAVE 0x28 0x22 ## kick drum (FF6)
-#WAVE 0x29 0x4A ## hard snare drum (RS3)
+#WAVE 0x29 0x4A ## snare drum 1 (RS3)
 #WAVE 0x2A 0x0F ## hihat closed (FF6)
 
 {1}

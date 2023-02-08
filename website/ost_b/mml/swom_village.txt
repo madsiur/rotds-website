@@ -1,6 +1,6 @@
 #TITLE Village
 #ALBUM Sword of Mana
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x20 ## marimba (FF6)

@@ -1,7 +1,7 @@
 #TITLE He's a Pirate!
 #ALBUM Pirate's of the Caribbean
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yoko Shimomura
+#ARRANGED Jackimus
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x16 ## timpani (FF6)

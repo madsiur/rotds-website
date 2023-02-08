@@ -1,6 +1,6 @@
 #TITLE Win!
 #ALBUM Wild Arms
-#COMPOSER YokoOno
+#COMPOSER Michiko Naruke
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x6F ## trumpet (CT)

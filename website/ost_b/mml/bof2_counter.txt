@@ -1,7 +1,7 @@
 #TITLE Cross Counter
 #ALBUM Breath of Fire 2
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yuko Takehara
+#ARRANGED emberling
 
 #WAVE 0x20 0x0A ## oboe (FF6)
 #WAVE 0x21 0x08 ## french horn (FF6)

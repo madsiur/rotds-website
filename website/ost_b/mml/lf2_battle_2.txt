@@ -1,6 +1,6 @@
 #TITLE Battle 2
 #ALBUM Lufia 2
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x44 ## strings (RS3)

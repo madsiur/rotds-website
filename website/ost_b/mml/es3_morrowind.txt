@@ -1,6 +1,6 @@
 #TITLE Morrowind Theme
 #ALBUM Elder Scrolls III
-#COMPOSER YokoOno
+#COMPOSER Jeremy Soule
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0A ## oboe (FF6)

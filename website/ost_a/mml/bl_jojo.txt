@@ -1,6 +1,6 @@
 #TITLE Jojo and the God Dragons
 #ALBUM Bahamut Lagoon
-#COMPOSER YokoOno
+#COMPOSER Noriko Matsueda
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)

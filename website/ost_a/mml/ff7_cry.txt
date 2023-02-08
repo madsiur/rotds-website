@@ -1,6 +1,6 @@
 #TITLE You Can Hear the Cry of the Planet
 #ALBUM Final Fantasy VII
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x69 ## chorus (CT)
@@ -24,7 +24,7 @@ l16%e1 $2 v24p60|0o5r1
 v100,0^2|6v80p64o4[6dr4^fr4  ^dr4^fr4^d^r4  ^fr4^dr4^fr4  ^]dr4^fr4^dr4  
 ^fr2^8^fr4  ^dr4^fr4^dr4  ^fr4^dr4^fr4  ^d^r4^fr4^dr4  
 ^fr4^d^r4^fr4  ^dr4^fr4^d^r4  ^fr4^dr4^fr4  ^dr4^fr4^dr4  
-^fr1  ^2^4^
+^fr1  ^4
 ;2
 
 l16
@@ -33,8 +33,8 @@ l16%e1 $3 v24p64|1%r3r1  ^1  ^1
 ^1  ^1  ^1  ^1  
 ^1  ^1  o5[2v12,6,191v200,80d1  ^2e4^8g2  
 ^4f4^8d1  v100,0^2vr1  ^1  
-^1  ^1  ^2]v24p64<|5%r1v200,100m72,24,203d1  ^2c1  
-^2>b1  ^1  v200,0^1  v24<v200,100d1  
+^1  ^1  ^2]v24p64<|5%r1v200,90m72,24,203d1  ^2c1  
+^2>b1  ^1  v200,0^1  v24<v200,90d1  
 ^2c1  ^2d1  v128,0^1  
 r1  ^1  ^2
 ;3
@@ -74,7 +74,7 @@ l16%e1 $6 v24p64|1%r3o4r1  ^1
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  [2v12,6,191v200,80d1  
 ^2e4^8g2  ^4f4^8d1  v100,0^2vr1  
-^1  ^1  ^1  ^2]v80p64|4o5d8a8a+8o6e8  
+^1  ^1  ^1  ^2]v80p84|4o5d8a8a+8o6e8  
 d8r8>d8a8a+8o6e8d8r8  >d8a8a+8o6e8d8r8>d8a8  a+8o6e8d8r8>d8a8b8o6f8  
 d8r8>d8a8b8o6f8d8r8  >d8a8b8o6f8d8r8>d8a8  b8o6f8d8r8>d8a8a+8o6e8  
 d8r8>d8a8a+8o6e8d8r8  [2>d8a8a+8o6e8d8r8>d8a8  a+8o6e8d8r8>d8a8a+8o6e8  

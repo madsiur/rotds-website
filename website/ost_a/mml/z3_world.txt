@@ -1,6 +1,6 @@
 #TITLE Dark World Dungeon
 #ALBUM The Legend of Zelda: A Link to the Past
-#COMPOSER YokoOno
+#COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)

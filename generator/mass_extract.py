@@ -3,10 +3,10 @@
 ## set up what to extract in a config file, then run mass_extract.py [CONFIGFILE]
 
 import sys, os, configparser, shutil
-from pathlib import Path
 from build_spc import build_spc, load_data_from_rom, read_pointer
 from mfvi2mml import akao_to_mml, byte_insert
 from mfvitrace import mfvi_trace
+import constants as c
 
 SPC_ENGINE_OFFSET = 0x5070E
 STATIC_BRR_OFFSET = 0x51EC7
@@ -21,13 +21,6 @@ POINTER_TO_BRR_PITCH = 0x5049C
 POINTER_TO_INST_TABLE = 0x501E3
 POINTER_TO_SEQ_POINTERS = 0x50539
 
-WEBSITE_DIR = "website"
-MML_DIR = "mml"
-SPC_DIR = "spc"
-BRR_DIR = "brr"
-FOLDER_SECTION = "folder"
-BRR_SECTION = "brr"
-
 def text_insert(data, position, text, length):
     new_data = bytearray(length)
     new_data = byte_insert(new_data, 0, bytes(text, "utf-8"), maxlength = length)
@@ -38,25 +31,25 @@ def mass_extract(fn):
     config.read(fn)
 
     parent_dir = os.path.dirname(os.path.dirname(__file__))
-    website_dir = os.path.join(parent_dir, WEBSITE_DIR)
+    website_dir = os.path.join(parent_dir, c.WEBSITE_DIR)
     
-    brr_dir = os.path.join(website_dir, BRR_DIR)
+    brr_dir = os.path.join(website_dir, c.BRR_DIR)
     if(os.path.exists(brr_dir)):
         shutil.rmtree(brr_dir)
     os.makedirs(brr_dir)
 
-    folders = config[FOLDER_SECTION]
+    folders = config[c.FOLDER_SECTION]
     dirs = []
     for k in folders:
-        dir = os.path.join(website_dir, config[FOLDER_SECTION][k])
-        dirs.append(config[FOLDER_SECTION][k])
+        dir = os.path.join(website_dir, config[c.FOLDER_SECTION][k])
+        dirs.append(config[c.FOLDER_SECTION][k])
         if(os.path.exists(dir)):
             shutil.rmtree(dir)
         os.makedirs(dir)
-        os.makedirs(os.path.join(dir, MML_DIR))
-        os.makedirs(os.path.join(dir, SPC_DIR))
+        os.makedirs(os.path.join(dir, c.MML_DIR))
+        os.makedirs(os.path.join(dir, c.SPC_DIR))
 
-    romfiles = [c for c in config.sections() if c != FOLDER_SECTION and c != BRR_SECTION]
+    romfiles = [cs for cs in config.sections() if cs != c.FOLDER_SECTION and cs != c.BRR_SECTION]
     brr_rom_name = romfiles[0]
     print(brr_rom_name)
 
@@ -81,7 +74,7 @@ def mass_extract(fn):
     brrs = {}
     seen = set()
     for i in range(1, 256):
-        brrs[i] = config[BRR_SECTION][f"{i:02X}"].split(";")
+        brrs[i] = config[c.BRR_SECTION][f"{i:02X}"].split(";")
         brrs[i][0] = brrs[i][0].strip().lower()
         brrs[i][1] = brrs[i][1].strip()   
         brr_idx = i - 1
@@ -102,7 +95,7 @@ def mass_extract(fn):
 
         brr_name = brrs[i][0].replace(".", "_").replace(" ", "_")
         brr_fn = f"{brrs[i][1]}_{brr_name}.brr"
-        brrs[i].append(brr_fn)
+        brrs[i].append(f"{brrs[i][1]}_{brr_name}")
 
         brr_path = os.path.join(brr_dir, brr_fn)
 
@@ -143,7 +136,7 @@ def mass_extract(fn):
                 song_idx = int(song_idx_string.strip(), 16)
             except ValueError:
                 print(f"ERROR: invalid index {song_idx_string}")
-                continue
+                sys.exit()
                 
             spc = build_spc(rom, song_idx)
             
@@ -156,7 +149,7 @@ def mass_extract(fn):
                 mml = akao_to_mml(seq, force_short_header=False)
             except IndexError:
                 print(f"Failed to convert sequence {romid}:{song_idx:02X} (sequence too short?)")
-                continue
+                sys.exit()
 
             sample_defs = []
             loc = song_idx * 0x20 + inst_table_offset
@@ -171,7 +164,11 @@ def mass_extract(fn):
             
             ## Deal with metadata
             meta_cfg = config[romfile][song_idx_string].split(';')
-            while len(meta_cfg) < 5:
+            if(len(meta_cfg) > 6):
+                print("bad meta: " + str(song_idx))
+                sys.exit()
+
+            while len(meta_cfg) < 6:
                 meta_cfg.append("")
             for i in range(len(meta_cfg)):
                 meta_cfg[i] = meta_cfg[i].strip()
@@ -196,9 +193,13 @@ def mass_extract(fn):
             spc[0x23] = 0x1A
             spc = byte_insert(spc, 0xAC, b"\x35\x30\x30\x30")
 
-            duration = 0
-            #duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
-            #spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
+            try:
+                duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
+            except IndexError:
+                print(f"Error getting duration for ID {song_idx}")
+                duration = 300
+            
+            spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
             meta_cfg.append(duration)
             
             ## MML surgery
@@ -211,23 +212,23 @@ def mass_extract(fn):
             out_mml = "\n".join(out_mml)
             
             ## file output       
-            dir = os.path.join(website_dir, folders[meta_cfg[5]], SPC_DIR)
+            dir = os.path.join(website_dir, folders[meta_cfg[5]], c.SPC_DIR)
             this_fn = os.path.join(dir, songfn + ".spc")
-            #meta_cfg.append(songfn + ".spc")
             try:
                 with open(this_fn, "wb") as f:
                     f.write(spc)
             except IOError:
                 print("ERROR: failed to write {this_fn}")
+                sys.exit()
                 
-            dir = os.path.join(website_dir, folders[meta_cfg[5]], MML_DIR)
+            dir = os.path.join(website_dir, folders[meta_cfg[5]], c.MML_DIR)
             this_fn = os.path.join(dir, songfn + ".txt")
-            #meta_cfg.append(songfn + ".txt")
             try:
                 with open(this_fn, "w") as f:
                     f.write(out_mml)
             except IOError:
                 print("ERROR: failed to write {this_fn}")
+                sys.exit()
             songs[song_idx] = meta_cfg
         roms[romid] = songs
     return dirs, roms, brrs

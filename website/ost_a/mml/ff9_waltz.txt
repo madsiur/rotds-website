@@ -1,6 +1,6 @@
 #TITLE Black Waltz
 #ALBUM Final Fantasy IX
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

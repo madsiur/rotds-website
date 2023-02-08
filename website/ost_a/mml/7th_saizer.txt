@@ -1,6 +1,6 @@
 #TITLE Valsu Saizer
 #ALBUM 7th Saga
-#COMPOSER YokoOno
+#COMPOSER Norihiko Yamanuki
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

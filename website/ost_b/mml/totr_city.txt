@@ -1,6 +1,6 @@
 #TITLE Underwater City
 #ALBUM Treasure of the Rudra
-#COMPOSER YokoOno
+#COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

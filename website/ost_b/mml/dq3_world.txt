@@ -1,6 +1,6 @@
 #TITLE Unknown World
 #ALBUM Dragon Quest 3
-#COMPOSER YokoOno
+#COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5E ## flute (FF6)

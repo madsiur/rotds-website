@@ -1,7 +1,7 @@
 #TITLE Main Theme
 #ALBUM Chrono Trigger
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yasunori Mitsuda
+#ARRANGED emberling
 
 #WAVE 0x20 0x0E ## trumpet (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

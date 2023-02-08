@@ -1,6 +1,6 @@
 #TITLE Terrible Plan of the Vambees
 #ALBUM Brave Fencer Musashi
-#COMPOSER YokoOno
+#COMPOSER Tsuyoshi Sekito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)

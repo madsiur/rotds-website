@@ -1,6 +1,6 @@
 #TITLE Hot Head Bop
 #ALBUM Donkey Kong Country 2
-#COMPOSER YokoOno
+#COMPOSER David Wise
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)
@@ -8,7 +8,7 @@
 #WAVE 0x22 0x4D ## cembalo (RS3)
 #WAVE 0x23 0x4B ## celesta (RS3)
 #WAVE 0x24 0x22 ## kick drum (FF6)
-#WAVE 0x25 0x4A ## hard snare drum (RS3)
+#WAVE 0x25 0x4A ## snare drum 1 (RS3)
 #WAVE 0x26 0x50 ## open pedal hihat (RS3)
 #WAVE 0x27 0x2E ## conga 2 (FF6)
 #WAVE 0x28 0x70 ## piano (CT)

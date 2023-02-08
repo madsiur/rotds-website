@@ -1,6 +1,6 @@
 #TITLE Reminiscence Ensemble Version
 #ALBUM Suikoden 2
-#COMPOSER YokoOno
+#COMPOSER Miki Higashino, Keiko Fukami
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0D ## strings (FF6)

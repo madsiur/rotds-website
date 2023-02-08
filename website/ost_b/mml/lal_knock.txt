@@ -1,6 +1,6 @@
 #TITLE Knock You Down!
 #ALBUM Live A Live
-#COMPOSER YokoOno
+#COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xF7 ## brass (LAL)

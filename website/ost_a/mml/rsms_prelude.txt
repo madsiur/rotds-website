@@ -1,6 +1,6 @@
 #TITLE Prelude to Battle
 #ALBUM Romancing Saga Minstrel Song
-#COMPOSER YokoOno
+#COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0B ## organ (FF6)

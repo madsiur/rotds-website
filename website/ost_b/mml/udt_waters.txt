@@ -1,6 +1,6 @@
 #TITLE Quiet Waters
 #ALBUM Undertale
-#COMPOSER YokoOno
+#COMPOSER Toby Fox
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x20 ## marimba (FF6)

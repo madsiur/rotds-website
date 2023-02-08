@@ -1,7 +1,7 @@
 #TITLE The End of the Raging Waves
 #ALBUM Etrian Odyssey III
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Yuzo Koshiro
+#ARRANGED emberling
 
 #WAVE 0x20 0x9F ## brass (SD3)
 #WAVE 0x21 0x0B ## organ (FF6)

@@ -1,7 +1,7 @@
 #TITLE Orc 1
 #ALBUM Warcraft 2
-#COMPOSER YokoOno
-#ARRANGED Gi Nattak
+#COMPOSER Glenn Stafford
+#ARRANGED emberling
 
 #WAVE 0x20 0x13 ## synth strings (FF4)
 #WAVE 0x21 0xA7 ## choir (GH)

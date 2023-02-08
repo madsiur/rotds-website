@@ -1,6 +1,6 @@
 #TITLE Argonians
 #ALBUM Startropics
-#COMPOSER YokoOno
+#COMPOSER Yoshio Hirai
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1B ## harp (FF6)

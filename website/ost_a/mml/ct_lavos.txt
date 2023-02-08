@@ -1,6 +1,6 @@
 #TITLE Lavos Core
 #ALBUM Chrono Trigger
-#COMPOSER YokoOno
+#COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
 
 #WAVE 0x21 0x02 ## electric bass (FF6)

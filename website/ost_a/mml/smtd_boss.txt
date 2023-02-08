@@ -1,6 +1,6 @@
 #TITLE Boss Theme
 #ALBUM Super Metroid/Prime
-#COMPOSER YokoOno
+#COMPOSER Minako Hamano, Kenji Yamamoto
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1C ## bass (FF6)

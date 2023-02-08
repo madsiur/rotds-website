@@ -1,6 +1,6 @@
 #TITLE Laboratory Ruins
 #ALBUM Batman: The Video Game
-#COMPOSER YokoOno
+#COMPOSER Naoki Kodaka
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)

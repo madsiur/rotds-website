@@ -1,6 +1,6 @@
 #TITLE Only A Plank Between One And Perdition
 #ALBUM Final Fantasy VIII
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)

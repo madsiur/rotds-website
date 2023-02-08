@@ -1,6 +1,6 @@
 #TITLE Flowers Blooming in the Church
 #ALBUM Final Fantasy VII
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x5E ## flute (FF6)

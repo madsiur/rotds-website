@@ -1,6 +1,6 @@
 #TITLE The Last Duel
 #ALBUM Lufia II
-#COMPOSER YokoOno
+#COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x0E ## trumpet (FF6)

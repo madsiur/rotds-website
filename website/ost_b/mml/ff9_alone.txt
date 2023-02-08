@@ -1,6 +1,6 @@
 #TITLE You're Not Alone!
 #ALBUM Final Fantasy IX
-#COMPOSER YokoOno
+#COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)

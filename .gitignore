@@ -1,4 +1,5 @@
 *.smc
 *.sfc
-__pycache__
 generator/__pycache__
+website/css/bootstrap.min.css
+website/js/bootstrap.min.js

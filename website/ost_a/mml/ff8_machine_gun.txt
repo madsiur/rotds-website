@@ -4,8 +4,8 @@
 #ARRANGED Jackimus
 
 #WAVE 0x20 0x5F ## hard snare (FF6)
-#WAVE 0x21 0x0F ## hihat closed (FF6)
-#WAVE 0x22 0x11 ## hihat opened (FF6)
+#WAVE 0x21 0x0F ## closed hi-hat (FF6)
+#WAVE 0x22 0x11 ## open hi-hat (FF6)
 #WAVE 0x23 0x22 ## kick drum (FF6)
 #WAVE 0x24 0x27 ## percussion (UNK)
 #WAVE 0x25 0x12 ## cymbal (FF6)

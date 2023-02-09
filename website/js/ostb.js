@@ -1,3 +1,4 @@
 $(document).ready(function() {
-    listSongTable(1);
+    var dirName = dirs[1]; 
+    listSongTable(ost_b, dirName);
 });

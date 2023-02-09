@@ -17,7 +17,7 @@
 #WAVE 0x2B 0xBB ## french horn (SMRPG)
 #WAVE 0x2C 0x56 ## snare drum 2 (RS3)
 #WAVE 0x2D 0x65 ## tam (RS3)
-#WAVE 0x2F 0x0F ## hihat closed (FF6)
+#WAVE 0x2F 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t220%v50%b0,70%x224%f0,0%e1|5v48o6p64m48,18,207>[2c4.c8r8c8[3c8r8  

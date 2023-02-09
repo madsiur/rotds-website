@@ -1,30 +1,8 @@
-function listSongTable(dirId) {
-    var dirName = dirs[dirId];
+function listSongTable(array, dirName) {
     var table = $('#ostTbl');
-    var head = $('#ostHead');
-    table.empty();
-    head.empty();
-
-    // write table header
-    head.append($('<th scope="col">Play</th>'));
-    head.append($('<th scope="col">ID</th>'));
-    head.append($('<th scope="col">Game</th>'));
-    head.append($('<th scope="col">Title</th>'));
-    head.append($('<th scope="col">Duration</th>'));
-    head.append($('<th scope="col">Composer</th>'));
-    head.append($('<th scope="col">Arranged</th>'));
-    head.append($('<th scope="col">SPC</th>'));
-    head.append($('<th scope="col">MML</th>'));
-
-    // get filtered list
-    var key = dirId == 1 ? 'rotds_b': 'rotds_a'
-    var array = $.grep(roms[key], function(e) {
-        return e.dir == dirId + 1;
-    });
-
     var counter = 1;
-    var playImg = '<img src="images/play-circle-fill.svg" class="playImg" />';
-
+    var playImg = '<img src="images/play-circle-fill.svg" class="playImg" />'
+    
     $.each(array, function(key,value) {
         // create duration string
         var strMin = (Math.floor(value.duration / 60)).toString();
@@ -55,3 +33,4 @@ function listSongTable(dirId) {
         table.append(tr);
     });
 }
+

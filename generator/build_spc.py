@@ -1,3 +1,6 @@
+# Part of mfvitools by emberling
+# https://github.com/emberling/mfvitools
+
 import os
 import sys
 

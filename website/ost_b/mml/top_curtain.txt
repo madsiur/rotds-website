@@ -9,7 +9,7 @@
 #WAVE 0x23 0x4D ## cembalo (RS3)
 #WAVE 0x24 0x57 ## acoustic bass (RS3)
 #WAVE 0x28 0xA0 ## snare (SD3)
-#WAVE 0x2B 0x50 ## open pedal hihat (RS3)
+#WAVE 0x2B 0x50 ## open pedal hi-hat (RS3)
 #WAVE 0x2C 0x12 ## cymbal (FF6)
 
 {1}

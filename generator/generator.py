@@ -1,13 +1,27 @@
-import os
+import os, shutil
 from mass_extract import mass_extract
 import constants as c
 import json
 
 def generate_json(dirs, roms, brrs):
-    json_object = json.dumps(dirs, indent=4)
-    file_string = f'const dirs = \n{json_object};\n\n'
+    parent_dir = os.path.dirname(os.path.dirname(__file__))
+    js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
 
-    rom_entries = dict()
+    if(os.path.exists(js_dir)):
+        shutil.rmtree(js_dir)
+    os.makedirs(js_dir)
+
+    json_object = json.dumps(dirs, indent=4)
+    file_string = f'const dirs = \n{json_object};'
+
+    this_fn = os.path.join(js_dir, "common.js")
+    try:
+        with open(this_fn, "w") as f:
+            f.write(file_string)
+    except IOError:
+        print("ERROR: failed to write {this_fn}")
+
+    counter = 0
     for k1, v1 in roms.items():
         entries = []
         for k2, v2 in v1.items():
@@ -22,10 +36,16 @@ def generate_json(dirs, roms, brrs):
                 "duration": v2[6],
             }
             entries.append(entry)
-        rom_entries[k1] = entries
-        
-    json_object = json.dumps(rom_entries, indent=4)
-    file_string += f'const roms = \n{json_object};\n\n'
+        json_object = json.dumps(entries, indent=4)
+        file_string = f'const {dirs[counter]} = \n{json_object};'
+
+        this_fn = os.path.join(js_dir, f"{dirs[counter]}.js")
+        try:
+            with open(this_fn, "w") as f:
+                f.write(file_string)
+        except IOError:
+            print("ERROR: failed to write {this_fn}")
+        counter += 1
 
     entries = []
     for k, v in brrs.items():
@@ -41,10 +61,9 @@ def generate_json(dirs, roms, brrs):
         entries.append(entry)
 
     json_object = json.dumps(entries, indent=4)
-    file_string += f'const brrs = \n{json_object};'
+    file_string = f'const brrs = \n{json_object};'
 
-    parent_dir = os.path.dirname(os.path.dirname(__file__))
-    this_fn = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "data.js")
+    this_fn = os.path.join(js_dir, "brrs.js")
     try:
         with open(this_fn, "w") as f:
             f.write(file_string)

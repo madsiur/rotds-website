@@ -12,7 +12,7 @@
 #WAVE 0x26 0x48 ## trumpet (RS3)
 #WAVE 0x27 0x12 ## cymbal (FF6)
 #WAVE 0x28 0x21 ## hard snare (SOM)
-#WAVE 0x29 0x4F ## closed hihat (RS3)
+#WAVE 0x29 0x4F ## closed hi-hat (RS3)
 
 {1}
 l16t160%v30%e1%b0,70%f0,0v80p30|0%r3o5f4e4a4g+4  <c4>b4<e4d+4  

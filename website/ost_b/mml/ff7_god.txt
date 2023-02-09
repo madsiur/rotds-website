@@ -15,7 +15,7 @@
 #WAVE 0x2C 0x35 ## melodic tom (UNK)
 #WAVE 0x2D 0x16 ## timpani (FF6)
 #WAVE 0x2E 0x12 ## cymbal (FF6)
-#WAVE 0x2F 0x50 ## open pedal hihat (RS3)
+#WAVE 0x2F 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t180%x224%v50%b0,70%f0,0%e1|2o3v80mp20[4>a8<e8d+8c8>a+8a8<c8>b8  

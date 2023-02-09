@@ -1,5 +1,8 @@
 
 
+# Part of mfvitools by emberling
+# https://github.com/emberling/mfvitools
+
 notes = {  ## divide by 0x0E round down
     0x0: "C",
     0x1: "C+",

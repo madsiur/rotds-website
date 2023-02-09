@@ -12,8 +12,8 @@
 #WAVE 0x27 0x1C ## bass (FF6)
 #WAVE 0x28 0x22 ## kick drum (FF6)
 #WAVE 0x29 0x56 ## snare drum 2 (RS3)
-#WAVE 0x2A 0x0F ## hihat closed (FF6)
-#WAVE 0x2B 0x11 ## hihat opened (FF6)
+#WAVE 0x2A 0x0F ## closed hi-hat (FF6)
+#WAVE 0x2B 0x11 ## open hi-hat (FF6)
 #WAVE 0x2C 0x83 ## chorus (SOM)
 
 {1}

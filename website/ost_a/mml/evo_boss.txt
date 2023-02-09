@@ -10,9 +10,9 @@
 #WAVE 0x24 0x5F ## hard snare (FF6)
 #WAVE 0x25 0x12 ## cymbal (FF6)
 #WAVE 0x26 0x22 ## kick drum (FF6)
-#WAVE 0x27 0x0F ## hihat closed (FF6)
+#WAVE 0x27 0x0F ## closed hi-hat (FF6)
 #WAVE 0x28 0x65 ## tam (RS3)
-#WAVE 0x29 0x11 ## hihat opened (FF6)
+#WAVE 0x29 0x11 ## open hi-hat (FF6)
 
 {1}
 l16t175%v25%e1%b0,70%f0,0 $1 v127p60|0o4r1  d4e4f4g4  g+2^8^ra4  

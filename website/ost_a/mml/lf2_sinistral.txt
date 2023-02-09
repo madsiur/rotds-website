@@ -11,8 +11,8 @@
 #WAVE 0x26 0x0E ## trumpet (FF6)
 #WAVE 0x27 0x22 ## kick drum (FF6)
 #WAVE 0x28 0x35 ## melodic tom (UNK)
-#WAVE 0x29 0x0F ## hihat closed (FF6)
-#WAVE 0x2A 0x50 ## open pedal hihat (RS3)
+#WAVE 0x29 0x0F ## closed hi-hat (FF6)
+#WAVE 0x2A 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t190%v25%e1%b0,70%f0,0 $1 v104p63|0o5r8^g8a8a+8<c4>a+8a8  

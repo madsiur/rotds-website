@@ -12,7 +12,7 @@
 #WAVE 0x26 0x2F ## shaker (FF6)
 #WAVE 0x27 0x08 ## french horn (FF6)
 #WAVE 0x28 0x14 ## snare (FF6)
-#WAVE 0x29 0x50 ## open pedal hihat (RS3)
+#WAVE 0x29 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t115%v32%e1%b0,70%f0,0%x232r1   $1 v80p60|0%r3m12,24,203o4<%l1g32g+^32%l0f+8b8g+2^4  

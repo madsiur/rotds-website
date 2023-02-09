@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Part of mfvitools by emberling
+# https://github.com/emberling/mfvitools
+
 import sys, traceback
 import mfvitbl
 from mmltbl import *

@@ -1,3 +1,6 @@
+# Part of mfvitools by emberling
+# https://github.com/emberling/mfvitools
+
 try:
     import mfvitbl
 except ImportError:

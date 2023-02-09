@@ -13,7 +13,7 @@
 #WAVE 0x27 0xC9 ## bass (FF6T)
 #WAVE 0x28 0x22 ## kick drum (FF6)
 #WAVE 0x29 0x4A ## snare drum 1 (RS3)
-#WAVE 0x2A 0x0F ## hihat closed (FF6)
+#WAVE 0x2A 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t151%x240%v40%b0,70%f0,0 $3 |0o5v64%e1p72m48,18,239%r10d4e4f4<c8>a+8  

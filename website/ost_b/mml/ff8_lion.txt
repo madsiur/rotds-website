@@ -14,7 +14,7 @@
 #WAVE 0x2A 0x65 ## tam (RS3)
 #WAVE 0x2C 0x2A ## finger snap (FF6)
 #WAVE 0x2E 0x12 ## cymbal (FF6)
-#WAVE 0x2F 0x50 ## open pedal hihat (RS3)
+#WAVE 0x2F 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t110%x240%v50%b0,70%f0,0[2[2[2|7%y6%s2%r22k3%e1v72p82o7c+8v36c+v62c+8v36c+]j2,1 v72c+8v51c+v36c+] $1 j2,2 v72c+8c+8] $2 c+8  

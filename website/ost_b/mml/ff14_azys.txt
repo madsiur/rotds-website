@@ -13,7 +13,7 @@
 #WAVE 0x28 0x22 ## kick drum (FF6)
 #WAVE 0x29 0x35 ## melodic tom (UNK)
 #WAVE 0x2C 0x12 ## cymbal (FF6)
-#WAVE 0x2F 0x50 ## open pedal hihat (RS3)
+#WAVE 0x2F 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t110vv%v35%b0,70%f0,0%e1 $6 |7v48o4%y2%s3p64[2f8<f8>r2f8r8  

@@ -11,7 +11,7 @@
 #WAVE 0x26 0x17 ## conga (FF6)
 #WAVE 0x27 0x5F ## hard snare (FF6)
 #WAVE 0x28 0x22 ## kick drum (FF6)
-#WAVE 0x29 0x0F ## hihat closed (FF6)
+#WAVE 0x29 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t244%v32%e1%b0,70%f0,0v90p60|0o5b8f+8>b8o6d8>a8d8<c8>g8  

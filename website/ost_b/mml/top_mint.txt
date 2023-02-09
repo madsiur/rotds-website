@@ -12,7 +12,7 @@
 #WAVE 0x26 0x02 ## electric bass (FF6)
 #WAVE 0x2A 0x22 ## kick drum (FF6)
 #WAVE 0x2B 0x2A ## finger snap (FF6)
-#WAVE 0x2C 0x11 ## hihat opened (FF6)
+#WAVE 0x2C 0x11 ## open hi-hat (FF6)
 
 {1}
 l16t108%v64%b0,70%x224 $1 |3%a7%r10p72o6v64%e1m48,18,231[2[2>g+8a+8<c2^4  

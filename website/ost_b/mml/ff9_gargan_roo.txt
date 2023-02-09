@@ -10,7 +10,7 @@
 #WAVE 0x28 0x22 ## kick drum (FF6)
 #WAVE 0x29 0x2E ## conga 2 (FF6)
 #WAVE 0x2A 0x21 ## hard snare (SOM)
-#WAVE 0x2B 0x11 ## hihat opened (FF6)
+#WAVE 0x2B 0x11 ## open hi-hat (FF6)
 #WAVE 0x2C 0x2D ## guiro (FF6)
 
 {1}

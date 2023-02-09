@@ -21,7 +21,7 @@
 0F: ff7_cry; You Can Hear the Cry of the Planet; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; 1
 10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus; 1
 11: mtd_kraid; Kraid's Lair (Rock Remix); Metroid; Hirokazu Tanaka; Gi Nattak; 1
-12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 1
+12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling; 1
 13: tcss_song; Song #1; T&C Skate Session; Tsukasa Masuko; Gi Nattak; 1
 14: rs_schiele; Battle With Schiele; Romancing Saga; Kenji Ito; Unknown; 1
 15: drkn_character; Character Creation; Drakkhen; Hiroyuki Masuno; Gi Nattak; 1
@@ -522,9 +522,9 @@ FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak;
 0C: piano; FF6
 0D: strings; FF6
 0E: trumpet; FF6
-0F: hihat closed; FF6
+0F: closed hi-hat; FF6
 10: e.piano; CT
-11: hihat opened; FF6
+11: open hi-hat; FF6
 12: cymbal; FF6
 13: synth strings; FF4
 14: snare; FF6
@@ -585,9 +585,9 @@ FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak;
 4B: celesta; RS3
 4C: e.piano; RS3
 4D: cembalo; RS3
-4E: open hihat; RS3
-4F: closed hihat; RS3
-50: open pedal hihat; RS3
+4E: open hi-hat; RS3
+4F: closed hi-hat; RS3
+50: open pedal hi-hat; RS3
 51: harp; RS3
 52: piano; RS3
 53: synth strings; RS3
@@ -729,8 +729,8 @@ DA: bassoon; SMRPG
 DB: snare; FF5
 DC: prg10; CT
 DD: conga; CT
-DE: open hihat; CT
-DF: oh; CT
+DE: open hi-hat; CT
+DF: open hi-hat 2; CT
 E0: bass 2; FF6T
 E1: sitar; FF6T
 E2: sitar; CT
@@ -746,7 +746,7 @@ EB: timpani; SMRPG
 EC: cowbell; SMRPG
 ED: snare drum; SMRPG
 EE: shaker; SMRPG
-EF: closed hihat; SMRPG
+EF: close hi-hat; SMRPG
 F0: piano 2; SMRPG
 F1: piano 3; SMRPG
 F2: bass guitar; SMRPG

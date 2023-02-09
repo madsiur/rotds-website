@@ -12,7 +12,7 @@
 #WAVE 0x29 0xA0 ## snare (SD3)
 #WAVE 0x2A 0x35 ## melodic tom (UNK)
 #WAVE 0x2C 0x12 ## cymbal (FF6)
-#WAVE 0x2F 0x0F ## hihat closed (FF6)
+#WAVE 0x2F 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t116vv%v40%b0,70%f0,0 $1 |1o4%e1p40v48m48,18,215[2e4f4b4<c4  

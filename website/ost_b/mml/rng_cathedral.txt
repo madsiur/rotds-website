@@ -14,7 +14,7 @@
 #WAVE 0x28 0x22 ## kick drum (FF6)
 #WAVE 0x29 0x4A ## snare drum 1 (RS3)
 #WAVE 0x2A 0x12 ## cymbal (FF6)
-#WAVE 0x2B 0x0F ## hihat closed (FF6)
+#WAVE 0x2B 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t180%v40%e1%b0,70%f0,0v100p73|0o5%r16r8>a8g8<e4c4^8  r8>a8g8<c8f8e8c8>a8  

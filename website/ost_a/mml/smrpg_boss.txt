@@ -9,7 +9,7 @@
 #WAVE 0x23 0xEB ## timpani (SMRPG)
 #WAVE 0x2A 0xF2 ## bass guitar (SMRPG)
 #WAVE 0x2B 0xED ## snare drum (SMRPG)
-#WAVE 0x2C 0xEF ## closed hihat (SMRPG)
+#WAVE 0x2C 0xEF ## close hi-hat (SMRPG)
 #WAVE 0x2D 0xDA ## bassoon (SMRPG)
 #WAVE 0x2E 0xEA ## trombone (SMRPG)
 #WAVE 0x2F 0xE9 ## drum track (SMRPG)

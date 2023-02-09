@@ -1,6 +1,6 @@
-## mfvitools mass extractor tool
-## extract mml, samples, and SPC from multiple tracks all at once, with tags
-## set up what to extract in a config file, then run mass_extract.py [CONFIGFILE]
+# Part of mfvitools by emberling
+# https://github.com/emberling/mfvitools
+# Modified by madsiur
 
 import sys, os, configparser, shutil
 from build_spc import build_spc, load_data_from_rom, read_pointer

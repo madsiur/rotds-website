@@ -12,8 +12,8 @@
 #WAVE 0x29 0x14 ## snare (FF6)
 #WAVE 0x2A 0x17 ## conga (FF6)
 #WAVE 0x2C 0x12 ## cymbal (FF6)
-#WAVE 0x2E 0x11 ## hihat opened (FF6)
-#WAVE 0x2F 0x0F ## hihat closed (FF6)
+#WAVE 0x2E 0x11 ## open hi-hat (FF6)
+#WAVE 0x2F 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t128%x224%v40%b0,70%f0,0%e1o6v40@0%y3%r7%s3p120m48,18,223f+8.c+8.f+8g+8.a8.b8  

@@ -13,7 +13,7 @@
 #WAVE 0x27 0x02 ## electric bass (FF6)
 #WAVE 0x2A 0x22 ## kick drum (FF6)
 #WAVE 0x2B 0x65 ## tam (RS3)
-#WAVE 0x2C 0x0F ## hihat closed (FF6)
+#WAVE 0x2C 0x0F ## closed hi-hat (FF6)
 
 {1}
 l16t200%v50%b0,70%x212%f0,0%e1|5o6v68%r20mp0,96,24[2[2p107b4p32>g8<d4g8c+4  

@@ -14,7 +14,7 @@
 #WAVE 0x29 0x4A ## snare drum 1 (RS3)
 #WAVE 0x2B 0x12 ## cymbal (FF6)
 #WAVE 0x2C 0x35 ## melodic tom (UNK)
-#WAVE 0x2F 0x50 ## open pedal hihat (RS3)
+#WAVE 0x2F 0x50 ## open pedal hi-hat (RS3)
 
 {1}
 l16t175vv%v40%b0,70%f0,0%e1v56o3|2p20%l1aga<cd>a<cdecdegdeg  

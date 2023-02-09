@@ -10,7 +10,7 @@
 #WAVE 0x24 0x24 ## tubular bell (FF6)
 #WAVE 0x28 0x16 ## timpani (FF6)
 #WAVE 0x29 0x2E ## conga 2 (FF6)
-#WAVE 0x2A 0x0F ## hihat closed (FF6)
+#WAVE 0x2A 0x0F ## closed hi-hat (FF6)
 #WAVE 0x2C 0x12 ## cymbal (FF6)
 
 {1}

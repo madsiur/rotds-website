@@ -7,7 +7,7 @@
 #WAVE 0x21 0x1B ## harp (FF6)
 #WAVE 0x22 0xB0 ## synth strings (CT)
 #WAVE 0x23 0x02 ## electric bass (FF6)
-#WAVE 0x24 0x11 ## hihat opened (FF6)
+#WAVE 0x24 0x11 ## open hi-hat (FF6)
 
 {1}
 l16t137%x232%v88%b0,70%f0,0v32p76|0%e1r3r3r3  r3r3r3  r2r2  

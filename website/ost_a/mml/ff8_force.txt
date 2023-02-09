@@ -1,7 +1,7 @@
 #TITLE Force Your Way
 #ALBUM Final Fantasy VIII
 #COMPOSER Nobuo Uematsu
-#ARRANGED Gi Nattak
+#ARRANGED emberling
 
 #WAVE 0x20 0x0B ## organ (FF6)
 #WAVE 0x21 0x53 ## synth strings (RS3)

@@ -10,69 +10,58 @@
 #WAVE 0x24 0x1C ## bass (FF6)
 
 {1}
-l16t76%v20v127p63%e1%b0,70%f0,0 $1 |0o6>f32r^32<c32r^32>d+32r^32<c32r^32>c+32r^32<c32r32>c^32r32c32r32d32r32e32r32  
-f32r^32<c32r^32>d+32r^32<c32r^32>c+32r^32<c32r32>c^32r32c32r32d32r32e32r32  
-f32r^32<fef32r^32c32r^32m24,16,227c+8^32mr32d+32c+32c32r32>a+32r32g+32r32g32r32  
-g+32r32<c32r32>g32r32<c32r32>f32r32<c32r32>e32r32f32r32g32r32f32r32e32r32c+32r32cr32b32<cr  
->f32r^32<fef32r^32c32r^32m24,16,227c+8^32mr32d+32c+32c32r32>a+32r32g+32r32g32r32  
-g+32r32<c32r32>g32r32<c32r32>frerfr4^8^  f32r^32<fef32r^32c32r^32m24,16,227c+8^32mr32d+32c+32c32r32>a+32r32g+32r32g32r32  
-g+32r32<c32r32>g32r32<c32r32>f32r32<c32r32>e32r32f32r32g32r32f32r32e32r32c+32r32cr32b32<cr  
->f32r^32<fef32r^32c32r^32m24,16,227c+8^32mr32d+32c+32c32r32>a+32r32g+32r32g32r32  
-g+32r32<c32r32>g32r32<c32r32>frerfr4f32r32g32r32a32r32  a+32r^32<f32r^32>g+32r^32<f32r^32>f+32r^32<f32r32>f^32r32f32r32g32r32a32r32  
-a+32r^32<f32r^32>g+32r^32<f32r^32>f+32r^32<f32r32>f^32r32f32r32g32r32a32r32  
-a+32r^32<a+aa+32r^32f32r^32m24,16,227f+8^32mr32g+32f+32f32r32d+32r32c+32r32c32r32  
-c+32r32f32r32c32r32f32r32>a+32r32<f32r32>a32r32a+32r32<c32r32>a+32r32a32r32f+32r32f>f32o6e32fo4a32r32  
-<a+32r^32<a+aa+32r^32f32r^32m24,16,227f+8^32mr32g+32f+32f32r32d+32r32c+32r32c32r32  
-c+32r32f32r32c32r32f32r32>a+rara+r4^8^  f32r8^^32d+32r8^^32<f32r^32f+32r^32f32r32d+32r32c+32r32c32r32  
->a+32r^32<a+aa+32r^32f32r^32m24,16,227f+8^32mr32g+32f+32f32r32d+32r32c+32r32c32r32  
-c+32r32f32r32c32r32f32r32>a+32r32<f32r32>a32r32a+32r32<c32r32>a+32r32a32r32f+32r32f>f32o6e32fo4a32r32  
-<a+32r^32<a+aa+32r^32f32r^32m24,16,227f+8^32mr32g+32f+32f32r32d+32r32c+32r32c32r32  
-c+32r32f32r32c32r32f32r32>a+rara+r8^>a+32r2  ^4^8^b32<c32r8^32>b32<c32c+8^^32r32c32  
-r2^8^^32
+l16t76%v32v120p64%e1%b0,70%f0,0 $1 |0o6>[2fr<cr>d+r<cr>c+r<c>c^cde  
+]fr<fefrcrm12,18,239c+8^md+32c+32c32r32>a+32r32g+32r32g32r32  g+32r32<c32>r32g32r32<c32>r32f32r32<c32>r32e32r32f32r32g32r32f32r32e32r32c+32r32cr32b32<cr  
+>fr<fefrcrm12,18,239c+8^md+32c+32c32r32>a+32r32g+32r32g32r32  g+32r32<c32>r32g32r32<c32>r32frerfr4^8^  
+fr<fefrcrm12,18,239c+8^md+32c+32c32r32>a+32r32g+32r32g32r32  g+32r32<c32>r32g32r32<c32>r32f32r32<c32>r32e32r32f32r32g32r32f32r32e32r32c+32r32cr32b32<cr  
+>fr<fefrcrm12,18,239c+8^md+32c+32c32r32>a+32r32g+32r32g32r32  g+32r32<c32>r32g32r32<c32>r32frerfr4[2fga  
+a+r<fr>g+r<fr>f+r<f>f^]fga  a+r<a+aa+rfrm12,18,239f+8^mg+32f+32f32r32d+32r32c+32r32c32r32  
+c+32r32f32r32c32r32f32r32>a+32r32<f32>r32a32r32a+32r32<c32>r32a+32r32a32r32f+32r32f32>r32f32o6e32fo4a  
+<a+r<a+aa+rfrm12,18,239f+8^mg+32f+32f32r32d+32r32c+32r32c32r32  
+c+32r32f32r32c32r32f32>r32a+rara+r4^8^  fr8^d+r8^<frf+rf32r32d+32r32c+32r32c32r32  
+>a+r<a+aa+rfrm12,18,239f+8^mg+32f+32f32r32d+32r32c+32r32c32r32  
+c+32r32f32r32c32r32f32>r32a+32r32<f32>r32a32r32a+32r32<c32>r32a+32r32a32r32f+32r32f32r32>f32o6e32fo4a  
+<a+r<a+aa+rfrm12,18,239f+8^mg+32f+32f32r32d+32r32c+32r32c32r32  
+c+32r32f32r32c32r32f32r32>a+rara+r8^>a+r2  ^4^8^32b32<cr8>b32<c32m12,18,239c+4mc  
+r2^8^
 ;1
 
 l16
 {2}
-l16v50p24%e1 $2 |1r1  ^1  ^8o5<c32r8^^32c32r8^^32>b32r8^^32a+32r8  
-^^32<c32r8^^32c32r8^^32>b32r8^^32a+32r8  ^^32<c32r8^^32c32r^32>c+32r^32b32r8^^32a+32r8  
-^^32<c32r8^^32>a+32r^32<c32r2  ^^32c32r8^^32c32r^32>c+32r^32b32r4^^32f32  
-r^32<c32r8^^32c32r^32>c+32r^32b32r8^^32a+32r^32f32  r^32<c32r8^^32c32r^32>c+32r^32b32r8^^32a+32r8  
-^^32<c32r8^^32>a+32r^32<c32r1  ^1  ^4^8^^32[3>a+32r^32<f32r8^^32f32r^32>f+32  
-r^32<e32r8^^32d+32r^32]>a+32r^32<f32r8^^32d+32r^32c+32  r1  ^4^8^^32[3>a+32r^32<f32r8^^32f32r8  
-^^32e32r8^^32d+32r^32]>a+32r^32<f32r8^^32d+32r^32f32  r2^^32e32r8^^32e32r^32f32  
-r1  ^4^8^^32
+l16v50p24%e1 $2 |1r1  ^1  ^8o5<cr8^cr8^>br8^a+r8  
+^<cr8^cr8^>br8^a+r8  ^<cr8^cr>c+rbr8^a+r8  ^<cr8^>a+r<cr2  ^cr8^cr>c+rbr4^f  
+r<cr8^cr>c+rbr8^a+rf  r<cr8^cr>c+rbr8^a+r8  ^<cr8^>a+r<cr1  ^1  
+^4^8^[3>a+r<fr8^fr>f+  r<er8^d+r]>a+r<fr8^d+rc+  r1  ^4^8^[3>a+r<fr8^fr8  
+^er8^d+r]>a+r<fr8^d+rf  r2^er8^erf  r1  ^4^8^
 ;2
 
 l16
 {3}
-l16v80p74%e1 $3 |2r1  ^1  ^1  
-^1  ^1  ^1  ^8o5c32r8^^32c32r8^^32>b32r8^^32a+32r8  
-^^32g+32r^32c32r^32a+32r8^^32b32r^32a+32r^32c32r^32f32  r^32<c32r8^^32c32r8^^32>b32r8^^32a+32r^32c32  
-r^32g+32r^32c32r^32a+32r^32g+32r1  ^1  ^2^^32f32r8^^32f32r8  ^^32e32r8^^32d+32r^32>f32r^32<c+32r^32>f32r^32<d+32r8  
-^^32e32r^32d+32r^32>f32r^32a+32r^32<f32r8^^32f32r8  ^^32e32r8^^32d+32r8^^32f32r8^^32d+32r^32f32  
-r1  ^2^^32[3f32r8^^32f32r8  ^^32e32r8^^32d+32r8^^32]f32r8^^32d+32r^32f32  
-r1  ^1  ^4^8^^32
+l16v80p74%e1 $3 |2r1  
+^1  ^1  ^1  ^1  
+^1  ^8o5cr8^cr8^>br8^a+r8  ^g+rcra+r8^bra+rcrf  r<cr8^cr8^>br8^a+rc  
+rg+rcra+rg+r1  ^1  ^2^fr8^fr8  ^er8^d+r>fr<c+r>fr<d+r8  
+^erd+r>fra+r<fr8^fr8  ^er8^d+r8^fr8^d+rf  r1  ^2^[3fr8^fr8  
+^er8^d+r8^]fr8^d+rf  r1  ^1  ^4^8^
 ;3
 
 l16
 {4}
-l16v60p63%e1 $4 |3r1  ^1  
+l16v50p64%e1 $4 |3r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
-^1  ^1  o4<f32r^32a+32r^32<c+32r^32f32r^32e32r8^32d+32e32f32r8^^32  
-f32r^32a+32r^32a32r^32f+32r^32e32f32e32f32e32f32d+32e32f32r8^^32  
->f32r^32a+32r^32<c+32r^32f32r^32e32r8^32d+32e32f32r8^^32  f32r^32d+32r^32c+32r^32c32r^32>a+32r1  
-^4^8^^32f32r^32a+32r^32<c+32r^32f32r^32e32  r8^32d+32e32f32r8^^32f32r^32a+32r^32a32r^32f+32r^32e32  
-f32e32f32e32f32d+32e32f32r8^^32>f32r^32a+32r^32<c+32r^32f32r^32e32  
-r8^32d+32e32f32r8^^32f32r^32d+32r^32c+32r^32c32r^32>a+32  r4^8^^32o7c32r^32>a+32r^32g+32r^32g32r^32f32  
-r1  ^4^8^^32
+^1  ^1  ^1  o4<fra+r<c+rfrer8d+32e32fr8^  
+fra+rarf+re32f32e32f32e32f32d+32e32fr8^  >fra+r<c+rfrer8d+32e32fr8^  
+frd+rc+rcr>a+r1  ^4^8^fra+r<c+rfre  r8d+32e32fr8^fra+rarf+re32f32  
+e32f32e32f32d+32e32fr8^>fra+r<c+rfre  r8d+32e32fr8^frd+rc+rcr>a+  
+r4^8^o7cr>a+rg+rgrf  r1  ^4^8^
 ;4
 
 l16
 {5}
-l16v40p94%e1 $5 |4r1  ^1  o5fr8^d+r8^c+r8c^32r32cde  
-fr8^cr8^c+r8c^32r32cde  fr8^d+r8^c+r8c^32r32cde  fr8^cr8^fr4^8^  
-fr8^d+r8^c+r8c^32r32cde  fr8^cr8^c+r8c^32r32cde  fr8^d+r8^c+r8c^32r32cde  
+l16v40p94%e1 $5 |4r1  
+^1  o5fr8^d+r8^c+r8c^cde  fr8^cr8^c+r8c^cde  fr8^d+r8^c+r8c^cde  
+fr8^cr8^fr4^8^  fr8^d+r8^c+r8c^cde  fr8^cr8^c+r8c^cde  fr8^d+r8^c+r8c^cde  
 fr8^cr8^fr1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
@@ -81,45 +70,34 @@ fr8^cr8^fr1  ^1  ^1  ^1
 
 l16
 {6}
-l16v50p63%e1 $6 |1r1  ^1  ^1  
-^1  ^1  ^2o5f32r1  ^4^^32a+32r1  
-^1  ^2^^32f32r4^32v50|0f32r32g32  r32a32r32[2a+32r^32<f32r^32>g+32r^32<f32r^32>f+32r^32<f32r32>f^32r32f32r32g32  
-r32a32r32]v120a+32r8^^32g+32r8^^32f+32r8^32f32r^32f32r32g32  r32a32r32a+32r8^^32f32r8^^32f+32r8^32f32r8^32g32  
-r^32a+32r8^^32g+32r8^^32f+32r8^32f32r^32f32r32g32  r32a32r32a+32r8^^32f32r8^^32a+32r2  
-^4^8^^32<f32r^32f+32r^32f32r32d+32r32c+32r32c32r32>a+32  r8^^32g+32r8^^32f+32r8^32f32r^32f32r32g32r32a32r32a+32  
-r8^^32f32r8^^32f+32r8^32f32r8^32g32r^32a+32  r8^^32g+32r8^^32f+32r8^32f32r^32f32r32g32r32a32r32a+32  
-r8^^32f32r8^^32a+32r1  ^1  ^4^8^^32
+l16v50p64%e1 $6 |1r1  ^1  ^1  
+^1  ^1  ^2o5fr1  ^4^a+r1  
+^1  ^2^fr4>v60|0fg  a[2a+r<fr>g+r<fr>f+r<f>f^fg  a]<v120a+r8^g+r8^f+r8frfg  
+aa+r8^fr8^f+r8fr8g  ra+r8^g+r8^f+r8frfg  aa+r8^fr8^a+r2  ^4^8^v60frf+rf32r32d+32r32c+32r32c32>r32a+32r32  
+<v120r8^g+r8^f+r8frfgaa+  r8^fr8^f+r8fr8gra+  r8^g+r8^f+r8frfgaa+  
+r8^fr8^a+r1  ^1  ^4^8^
 ;6
 
 l16
 {7}
-l16v50p24%e1 $7 |1r1  
-^1  o5f32r^32g+32r^32d+32r^32g+32r^32c+32r^32g+32r32c^32r32c32r32g32r^32  
-f32r^32g+32r^32c32r^32g32r^32c+32r^32g+32r32c^32r32c32r32g32r^32  
-f32r^32g+32r^32d+32r^32g+32r8^^32g+32r32c^32r32c32r32g32r^32  f32r^32g+32r^32c32r^32g32r^32g+32r4^8^^32  
-f32r^32g+32r^32d+32r^32g+32r8^^32g+32r32c^32r32c32r32g32r8  ^^32g+32r^32c32r^32g32r8^^32g+32r32c^32r32c32r32g32r8  
-^^32g+32r^32d+32r^32g+32r8^^32g+32r32c^32r32c32r32g32r^32f32  r^32g+32r^32c32r^32g32r^32g+32r1  
-^1  ^2^^32<c+32r^32>g+32r^32<c+32r8  ^^32c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>f32r^32<c32r8  
-^^32c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>g+32r^32<c+32r8  ^^32c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>f32r^32<c32r^32c+32  
-r1  ^2^^32c+32r^32>g+32r^32<c+32r^32>f+32  r^32<c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>f32r^32<c32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>g+32r^32<c+32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r8^^32c+32r^32>f32r^32<c32r^32c+32  
-r2^^32>a+32r8^^32<c32r^32c32  r1  ^4^8^^32
+l16v50p24%e1 $7 |1r1  ^1  
+o5frg+rd+rg+rc+rg+c^cgr  frg+rcrgrc+rg+c^cgr  frg+rd+rg+r8^g+c^cgr  
+frg+rcrgrg+r4^8^  frg+rd+rg+r8^g+c^cgr8  ^g+rcrgr8^g+c^cgr8  ^g+rd+rg+r8^g+c^cgrf  
+rg+rcrgrg+r1  ^1  ^2^<c+r>g+r<c+r8  ^c+>f^f<cr8^c+r>fr<cr8  
+^c+>f^f<cr8^c+r>g+r<c+r8  ^c+>f^f<cr8^c+r>fr<crc+  r1  ^2^c+r>g+r<c+r>f+  
+r<c+>f^f<cr8^c+r>fr<cr>f+  r<c+>f^f<cr8^c+r>g+r<c+r>f+  r<c+>f^f<cr8^c+r>fr<crc+  
+r2^>a+r8^<crc  r1  ^4^8^
 ;7
 
 l16
 {8}
-l16v80p50%e1 $8 |2r1  
+l16v80p50%e0 $8 |2r1  ^1  
 ^1  ^1  ^1  ^1  
-^1  o3<f32r^32g+32r^32d+32r^32g+32r^32c+32r^32g+32r32c^32r32c32r32g32r^32  
-c32r^32f32r8^^32g32r^32c+32r^32f32r32c32r32g32r4  ^^32g+32r^32d+32r^32g+32r^32c+32r^32g+32r32c^32r32c32r32g32r8  
-^^32f32r8^^32e32r^32f32r1  ^1  ^4^8^^32>a+32r^32<c+32r^32>g+32r^32<c+32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r8^^32>a+32r8^^32<c32r^32>f+32  r^32a+32r32f32r32<c32r4^^32c+32r^32>g+32r^32<c+32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r^32>a+32r^32<c+32r^32>f32r^32<c32r^32>a+32  
-r1  ^4^8^^32a+32r^32<c+32r^32>g+32r^32<c+32r^32>f+32  r^32<c+32r32>f^32r32f32r32<c32r^32>a+32r^32<c+32r^32>f32r^32<c32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r^32>a+32r^32<c+32r^32>g+32r^32<c+32r^32>f+32  
-r^32<c+32r32>f^32r32f32r32<c32r^32>a+32r^32<c+32r^32>f32r^32<c32r^32>a+32  
-r2^^32g32r8^^32g32r^32g+32  r1  ^4^8^^32
+o3<frg+rd+rg+rc+rg+c^cgr  crfr8^grc+rfcgr4  ^g+rd+rg+rc+rg+c^cgr8  
+^fr8^erfr1  ^1  ^4^8^>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr8^>a+r8^<cr>f+  
+ra+f<cr4^c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>a+  r1  ^4^8^a+r<c+r>g+r<c+r>f+  
+r<c+>f^f<cr>a+r<c+r>fr<cr>f+  r<c+>f^f<cr>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>a+  
+r2^gr8^grg+  r1  ^4^8^
 ;8
 
 l16

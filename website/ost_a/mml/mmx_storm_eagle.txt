@@ -1,7 +1,7 @@
 #TITLE Storm Eagle (Storm Eagle & Flame Mammoth mix/medley)
 #ALBUM Mega Man X
 #COMPOSER Alph Lyla group
-#ARRANGED Gi Nattak
+#ARRANGED Jackimus
 
 #WAVE 0x20 0x1C ## bass (FF6)
 #WAVE 0x21 0x1E ## distortion guitar (FF6)

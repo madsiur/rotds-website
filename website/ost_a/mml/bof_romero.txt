@@ -1,6 +1,6 @@
 #TITLE Romero Cave
 #ALBUM Breath of Fire
-#COMPOSER Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura
+#COMPOSER Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x58 ## french horn (RS3)

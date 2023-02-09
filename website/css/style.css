@@ -1,0 +1,27 @@
+.pageDiv {
+    margin-top: 4px;
+}
+
+.creditsDiv {
+    margin-left: 8px;
+}
+
+.pageTitle {
+    margin-left: 8px;
+    margin-top: 4px;
+}
+
+.playImg {
+    width: 20px;
+    height: 20px;
+    fill: #212529
+}
+
+.playButton {
+
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    display: block;
+    margin: auto;
+}

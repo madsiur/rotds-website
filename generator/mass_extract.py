@@ -76,7 +76,7 @@ def mass_extract(fn):
     for i in range(1, 256):
         brrs[i] = config[c.BRR_SECTION][f"{i:02X}"].split(";")
         brrs[i][0] = brrs[i][0].strip().lower()
-        brrs[i][1] = brrs[i][1].strip()   
+        brrs[i][1] = brrs[i][1].strip().upper()  
         brr_idx = i - 1
         loc = brr_loop_offset + 2 * brr_idx
         brr_loop = int.from_bytes(brr_rom[loc:loc+2], "big")
@@ -197,7 +197,7 @@ def mass_extract(fn):
                 duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
             except IndexError:
                 print(f"Error getting duration for ID {song_idx}")
-                duration = 300
+                duration = 240
             
             spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
             meta_cfg.append(duration)

@@ -26,11 +26,10 @@ e4^8g2^8  <ddrddrddrddrdrdr1  ^1  ^1
 e4^8g2m30,-1^8  e4^8f2^8  e4^8g+2m20,-1^8  r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  t110cc8^cc8c8cc4^8  
-cc8^cc8c8cc+4^8  [3>bb<f+8d8^^>bb<a+8e4  >bb<f+8d8^^>bb<a+8^^e8  
-]>b<d8^>b<f8f+8^c+4^8  >b<d8^>b<f8f+8^g4^8  g+8r8v70g+8r8v34g+8r8v10g+8r8  
-t110v100>a8r8a8r8a8a8a8m16,16,224b2  ^4ma4f+8r8a8a4  a8a8a8m16,16,224b2^4  
-m<c4c8>a8r8a8r8a8  a8a8m16,16,224b2^4  ma4f+8r8a8a4a8  a8a8m16,16,224b2^4  
-m<c4c8c+8r8v70c+8r8v34c+8  r8v10c+8r8
+cc8^cc8c8cc+4^8  [3>bb<f+8d4>bb<a+8e4  >bb<f+8d4>bb<a+4e8  ]>b<d8^>b<f8f+8^c+4^8  
+>b<d8^>b<f8f+8^g4^8  g+8r8v70g+8r8v34g+8r8v10g+8r8  t110v100>a8r8a8r8a8a8a8m16,16,224b2  
+^4ma4f+8r8a8a4  a8a8a8m16,16,224b2^4  m<c4c8>a8r8a8r8a8  a8a8m16,16,224b2^4  
+ma4f+8r8a8a4a8  a8a8m16,16,224b2^4  m<c4c8c+8r8v70c+8r8v34c+8  r8v10c+8r8
 ;1
 
 l16
@@ -47,7 +46,7 @@ f8r4g4^8a8g8  f8r4e8r2  f8r4g4^8a8g8  f8r4e8r2
 >b4^8<c2^8  >b4^8<d2m30,-1^8  >b4^8<c2^8  >b4^8<d+2m30,-1^8  
 r1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
->ff8^ff8f8ff4^8  ff8^ff8f8ff+4^8  [3ee<c+8>a8^^ee<f8>b4  ee<c+8>a8^^ee<f8^^>b8  
+>ff8^ff8f8ff4^8  ff8^ff8f8ff+4^8  [3ee<c+8>a4ee<f8>b4  ee<c+8>a4ee<f4>b8  
 ]eg8^ea+8b8^f+4^8  eg8^ea+8b8^<c4^8  c+8r8v70c+8r8v34c+8r8v10c+8r8  
 v100>d8r8d8r8d8d8d8m16,16,224e2  ^4md4>b8r8<d8d4  d8d8d8m16,16,224e2^4  
 mf4f8d8r8d8r8d8  d8d8m16,16,224e2^4  md4>b8r8<d8d4d8  d8d8m16,16,224e2^4  
@@ -68,8 +67,8 @@ a8r4b4^8<c8>b8  a8r4g8 $3 r1  ^1  ^1
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
 ^1  ^2v50p64|4o5bbr8bbrb  rbbr4^bbr8bbrb  rbbr4^bbr2  
-^4^8bbr2  ^4^8^^32[22b]b32^^32b32^^32b32^4  ^32[23b]b32^^32b32^^32b32r4bbr8bb  
-rbrbbr4^bbr8bb  bbbbbrb32r32bbbbr1  ^1  ^2^brbrbr1  
+^4^8bbr2  ^4^8^^32[22b]b^b^b^4  [23b]b^b^b32r4bbr8bbr  brbbr4^bbr8bbb  
+bbbbrbbbbbr1  ^1  ^2^brbrbr1  
 ^1  ^1  ^2^8^brbrb  r1  
 ^1  ^b8r4^8
 ;3

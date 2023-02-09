@@ -1,6 +1,6 @@
 #TITLE Fire!
 #ALBUM Final Fantasy VI
-#COMPOSER Nobuo Uematsu
+#COMPOSER Minoru Akao
 #ARRANGED N/A
 
 

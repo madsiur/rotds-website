@@ -54,18 +54,14 @@ r2g2  r2g2  r2g2  r2e2
 r2e2  r2g2  r2g2  r2g2  
 r2g2  r2g2  r2g2  r2e2  
 r2e2  r2g2  r2g2  r2c2  
-r2c2  r2d2  r2d2  r2c2  
-r2c2  r2d2  r2d2  r2c2  
-r2c2  r2d2  r2d2  r2c2  
-r2c2  r4^8>f4r4<f2  ^8r2^4g2  r2g2  
+[3r2c2  r2d2  r2d2  r2c2  
+]r2c2  r4^8>f4r4<f2  ^8r2^4g2  r2g2  
 r2g2  r2g2  r2e2  r2e2  
 r2g2  r2g2  r2g2  r2g2  
 r2g2  r2g2  r2e2  r2e2  
 r2g2  r2g2  r2c2  r2c2  
-r2d2  r2d2  r2c2  r2c2  
-r2d2  r2d2  r2c2  r2c2  
-r2d2  r2d2  r2c2  r2c2  
-r4^8>f4r4<f2  ^8
+[3r2d2  r2d2  r2c2  r2c2  
+]r4^8>f4r4<f2  ^8
 ;3
 
 l16
@@ -122,18 +118,14 @@ l16v60p24%e1 $7 |2o3a1  a1  g1  g1
 f1  f1  g1  g1  
 a1  a1  g1  g1  
 f1  f1  g1  g1  
-d1  d1  e1  e1  
-d1  d1  e1  e1  
-d1  d1  e1  e1  
-d1  d1  e1  r2^4a1  
+[3d1  d1  e1  e1  
+]d1  d1  e1  r2^4a1  
 a1  g1  g1  f1  
 f1  g1  g1  a1  
 a1  g1  g1  f1  
 f1  g1  g1  d1  
-d1  e1  e1  d1  
-d1  e1  e1  d1  
-d1  e1  e1  d1  
-d1  e1  r1  
+[3d1  e1  e1  d1  
+]d1  e1  r1  
 ;7
 
 l16

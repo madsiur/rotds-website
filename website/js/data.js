@@ -23,7 +23,7 @@ const roms =
             "filename": "bof_dejection",
             "title": "Dejection",
             "game": "Breath of Fire",
-            "composer": "Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura",
+            "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
             "arranger": "Gi Nattak",
             "dir": 1,
             "duration": 93
@@ -46,7 +46,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 5,
@@ -163,7 +163,7 @@ const roms =
             "filename": "potc_pirate",
             "title": "He's a Pirate!",
             "game": "Pirate's of the Caribbean",
-            "composer": "Yoko Shimomura",
+            "composer": "Klaus Badelt, Hans Zimmer",
             "arranger": "Jackimus",
             "dir": 1,
             "duration": 131
@@ -204,7 +204,7 @@ const roms =
             "title": "Battle With Schiele",
             "game": "Romancing Saga",
             "composer": "Kenji Ito",
-            "arranger": "Gi Nattak",
+            "arranger": "Unknown",
             "dir": 1,
             "duration": 126
         },
@@ -216,7 +216,7 @@ const roms =
             "composer": "Hiroyuki Masuno",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 22,
@@ -243,7 +243,7 @@ const roms =
             "filename": "z4_dungeon",
             "title": "Dungeon",
             "game": "Zelda IV (GBC)",
-            "composer": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa, Koji Kondo",
+            "composer": "K. Totaka, M. Hamano, K. Ishikawa, K. Kondo",
             "arranger": "Gi Nattak",
             "dir": 1,
             "duration": 149
@@ -256,7 +256,7 @@ const roms =
             "composer": "ACE+",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 26,
@@ -264,9 +264,9 @@ const roms =
             "title": "Megalomania",
             "game": "Live a Live",
             "composer": "Yoko Shimomura",
-            "arranger": "Gi Nattak",
+            "arranger": "Unknown",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 27,
@@ -306,7 +306,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 31,
@@ -326,7 +326,7 @@ const roms =
             "composer": "Ryuji Sasai",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 33,
@@ -336,7 +336,7 @@ const roms =
             "composer": "Minako Hamano, Kenji Yamamoto",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 246
+            "duration": 240
         },
         {
             "id": 34,
@@ -393,7 +393,7 @@ const roms =
             "filename": "bof_romero",
             "title": "Romero Cave",
             "game": "Breath of Fire",
-            "composer": "Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura",
+            "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
             "arranger": "Gi Nattak",
             "dir": 1,
             "duration": 89
@@ -416,7 +416,7 @@ const roms =
             "composer": "Masanori Hikichi",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 42,
@@ -586,7 +586,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 59,
@@ -716,7 +716,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 72,
@@ -746,7 +746,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 75,
@@ -756,7 +756,7 @@ const roms =
             "composer": "ACE+",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 76,
@@ -796,7 +796,7 @@ const roms =
             "composer": "Masanori Hikichi",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 80,
@@ -806,7 +806,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 81,
@@ -816,7 +816,7 @@ const roms =
             "composer": "Michiru Yamane",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 82,
@@ -836,7 +836,7 @@ const roms =
             "composer": "Motoi Sakuraba",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 259
+            "duration": 240
         },
         {
             "id": 84,
@@ -956,7 +956,7 @@ const roms =
             "composer": "Motoi Sakuraba",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 248
+            "duration": 240
         },
         {
             "id": 96,
@@ -1036,7 +1036,7 @@ const roms =
             "composer": "Bobby Prince",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 104,
@@ -1056,7 +1056,7 @@ const roms =
             "composer": "Yasunori Mitsuda",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 106,
@@ -1106,7 +1106,7 @@ const roms =
             "composer": "Minako Hamano, Kenji Yamamoto",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 111,
@@ -1126,7 +1126,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 113,
@@ -1146,7 +1146,7 @@ const roms =
             "composer": "Motoi Sakuraba",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 294
+            "duration": 240
         },
         {
             "id": 115,
@@ -1186,7 +1186,7 @@ const roms =
             "composer": "ACE+",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 262
+            "duration": 240
         },
         {
             "id": 119,
@@ -1286,7 +1286,7 @@ const roms =
             "composer": "N/A",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 244
+            "duration": 240
         },
         {
             "id": 129,
@@ -1336,7 +1336,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 134,
@@ -1366,14 +1366,14 @@ const roms =
             "composer": "Toby Fox",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 137,
             "filename": "wk_determination",
             "title": "Determination",
-            "game": "William Kage",
-            "composer": "William Kage Music",
+            "game": "William Kage Music",
+            "composer": "William Kage",
             "arranger": "Gi Nattak",
             "dir": 1,
             "duration": 136
@@ -1386,7 +1386,7 @@ const roms =
             "composer": "FreakZone Games",
             "arranger": "Jackimus",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 139,
@@ -1406,7 +1406,7 @@ const roms =
             "composer": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 141,
@@ -1446,7 +1446,7 @@ const roms =
             "composer": "Hiroyuki Masuno",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 145,
@@ -1526,7 +1526,7 @@ const roms =
             "composer": "Tsuyoshi Sekito",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 153,
@@ -1696,7 +1696,7 @@ const roms =
             "composer": "Masaharu Iwata, Hitoshi Sakimoto",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 170,
@@ -1746,7 +1746,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 175,
@@ -1843,7 +1843,7 @@ const roms =
             "filename": "ff6_fire",
             "title": "Fire!",
             "game": "Final Fantasy VI",
-            "composer": "Nobuo Uematsu",
+            "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
             "duration": 6
@@ -1856,7 +1856,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 186,
@@ -1886,7 +1886,7 @@ const roms =
             "composer": "Kohei Tanaka",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 189,
@@ -1926,7 +1926,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 244
+            "duration": 240
         },
         {
             "id": 193,
@@ -1986,7 +1986,7 @@ const roms =
             "composer": "Kenji Ito",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 199,
@@ -1996,7 +1996,7 @@ const roms =
             "composer": "Sascha Dikiciyan",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 256
+            "duration": 240
         },
         {
             "id": 200,
@@ -2066,7 +2066,7 @@ const roms =
             "composer": "Tommy Tallarico",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 293
+            "duration": 240
         },
         {
             "id": 207,
@@ -2134,7 +2134,7 @@ const roms =
             "title": "Storm Eagle (Storm Eagle & Flame Mammoth mix/medley)",
             "game": "Mega Man X",
             "composer": "Alph Lyla group",
-            "arranger": "Gi Nattak",
+            "arranger": "Jackimus",
             "dir": 1,
             "duration": 214
         },
@@ -2234,7 +2234,7 @@ const roms =
             "title": "Boss Theme",
             "game": "Super Metroid/Prime",
             "composer": "Minako Hamano, Kenji Yamamoto",
-            "arranger": "Gi Nattak",
+            "arranger": "Jackimus",
             "dir": 1,
             "duration": 126
         },
@@ -2246,7 +2246,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 253
+            "duration": 240
         },
         {
             "id": 225,
@@ -2256,7 +2256,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 226,
@@ -2266,7 +2266,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "N/A",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 227,
@@ -2376,7 +2376,7 @@ const roms =
             "composer": "Leon Riskin",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 248
+            "duration": 240
         },
         {
             "id": 238,
@@ -2444,7 +2444,7 @@ const roms =
             "title": "Force Your Way",
             "game": "Final Fantasy VIII",
             "composer": "Nobuo Uematsu",
-            "arranger": "Gi Nattak",
+            "arranger": "emberling",
             "dir": 1,
             "duration": 226
         },
@@ -2476,7 +2476,7 @@ const roms =
             "composer": "Dr. Dre",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 248,
@@ -2506,7 +2506,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 296
+            "duration": 240
         },
         {
             "id": 251,
@@ -2526,7 +2526,7 @@ const roms =
             "composer": "Minoru Akao",
             "arranger": "N/A",
             "dir": 3,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 253,
@@ -2536,7 +2536,7 @@ const roms =
             "composer": "Yasuhiro Kawasaki",
             "arranger": "Gi Nattak",
             "dir": 1,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 254,
@@ -2578,7 +2578,7 @@ const roms =
             "composer": "Motoi Sakuraba, Shinji Tamura",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 253
+            "duration": 240
         },
         {
             "id": 5,
@@ -2695,7 +2695,7 @@ const roms =
             "filename": "potc_pirate",
             "title": "He's a Pirate!",
             "game": "Pirate's of the Caribbean",
-            "composer": "Yoko Shimomura",
+            "composer": "Klaus Badelt, Hans Zimmer",
             "arranger": "Jackimus",
             "dir": 2,
             "duration": 131
@@ -2708,7 +2708,7 @@ const roms =
             "composer": "Glenn Stafford",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 241
+            "duration": 240
         },
         {
             "id": 18,
@@ -2755,7 +2755,7 @@ const roms =
             "filename": "fmgh_nature",
             "title": "Nature",
             "game": "Front Mission: Gun Hazard",
-            "composer": "Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu",
+            "composer": "N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu",
             "arranger": "Gi Nattak",
             "dir": 2,
             "duration": 162
@@ -2768,7 +2768,7 @@ const roms =
             "composer": "Hiroki Kikuta",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 270
+            "duration": 240
         },
         {
             "id": 24,
@@ -2788,7 +2788,7 @@ const roms =
             "composer": "ACE+",
             "arranger": "Jackimus",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 26,
@@ -2805,7 +2805,7 @@ const roms =
             "filename": "fmgh_silencer",
             "title": "Silencer",
             "game": "Front Mission: Gun Hazard",
-            "composer": "Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu",
+            "composer": "N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu",
             "arranger": "Gi Nattak",
             "dir": 2,
             "duration": 128
@@ -2818,7 +2818,7 @@ const roms =
             "composer": "Noriko Matsueda",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 29,
@@ -2868,7 +2868,7 @@ const roms =
             "composer": "Yasunori Nishiki",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 35,
@@ -2918,7 +2918,7 @@ const roms =
             "composer": "ACE",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 294
+            "duration": 240
         },
         {
             "id": 41,
@@ -2948,7 +2948,7 @@ const roms =
             "composer": "Hiroki Kikuta",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 288
+            "duration": 240
         },
         {
             "id": 44,
@@ -3016,7 +3016,7 @@ const roms =
             "title": "Battle",
             "game": "Final Fantasy X",
             "composer": "Nobuo Uematsu",
-            "arranger": "Gi Nattak",
+            "arranger": "emberling",
             "dir": 2,
             "duration": 179
         },
@@ -3046,7 +3046,7 @@ const roms =
             "title": "Mount Gale",
             "game": "Final Fantasy Mystic Quest",
             "composer": "Ryuji Sasai, Yasuhiro Kawakami",
-            "arranger": "Gi Nattak",
+            "arranger": "emberling",
             "dir": 2,
             "duration": 110
         },
@@ -3098,7 +3098,7 @@ const roms =
             "composer": "Kenji Ito",
             "arranger": "Tsushiy",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 60,
@@ -3118,7 +3118,7 @@ const roms =
             "composer": "Motoi Sakuraba",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 62,
@@ -3215,7 +3215,7 @@ const roms =
             "filename": "fmgh_message",
             "title": "Message of Genoce",
             "game": "Front Mission: Gun Hazard",
-            "composer": "Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu",
+            "composer": "N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu",
             "arranger": "Gi Nattak",
             "dir": 2,
             "duration": 166
@@ -3238,7 +3238,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 75,
@@ -3248,7 +3248,7 @@ const roms =
             "composer": "Masayoshi Soken",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 76,
@@ -3298,7 +3298,7 @@ const roms =
             "composer": "Jun Senoue",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 81,
@@ -3338,7 +3338,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 85,
@@ -3378,7 +3378,7 @@ const roms =
             "composer": "Masanori Hikichi",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 287
+            "duration": 240
         },
         {
             "id": 89,
@@ -3444,11 +3444,11 @@ const roms =
             "id": 95,
             "filename": "snc_sonic",
             "title": "Sonic.exe",
-            "game": "Kyu S.",
-            "composer": "Kyu S. Music",
+            "game": "Kyu S. Music",
+            "composer": "Kyu S.",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 260
+            "duration": 240
         },
         {
             "id": 96,
@@ -3528,7 +3528,7 @@ const roms =
             "composer": "Bobby Prince",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 104,
@@ -3538,7 +3538,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 279
+            "duration": 240
         },
         {
             "id": 105,
@@ -3608,7 +3608,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Jackimus",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 113,
@@ -3628,7 +3628,7 @@ const roms =
             "composer": "Giorgio Moroder",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 115,
@@ -3668,14 +3668,14 @@ const roms =
             "composer": "ACE+",
             "arranger": "Jackimus",
             "dir": 2,
-            "duration": 262
+            "duration": 240
         },
         {
             "id": 119,
             "filename": "bof_battling",
             "title": "Battling",
             "game": "Breath of Fire",
-            "composer": "Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura",
+            "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
             "arranger": "Gi Nattak",
             "dir": 2,
             "duration": 68
@@ -3848,7 +3848,7 @@ const roms =
             "composer": "Toby Fox",
             "arranger": "Jackimus",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 137,
@@ -3868,7 +3868,7 @@ const roms =
             "composer": "FreakZone Games",
             "arranger": "Jakcimus",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 139,
@@ -3898,7 +3898,7 @@ const roms =
             "composer": "Yasunori Shiono",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 142,
@@ -3908,7 +3908,7 @@ const roms =
             "composer": "Minako Hamano, Kenji Yamamoto",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 143,
@@ -3955,10 +3955,10 @@ const roms =
             "filename": "fmgh_sentinal",
             "title": "Sentinal",
             "game": "Front Mission: Gun Hazard",
-            "composer": "Nobuo Uematsu, Yasunori Mitsuda, Junya Nakano, Masashi Hamauzu",
+            "composer": "N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 271
+            "duration": 240
         },
         {
             "id": 148,
@@ -3968,7 +3968,7 @@ const roms =
             "composer": "Yasunori Mitsuda",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 274
+            "duration": 240
         },
         {
             "id": 149,
@@ -4095,7 +4095,7 @@ const roms =
             "filename": "bof_alan",
             "title": "Alan and Cerl",
             "game": "Breath of Fire",
-            "composer": "Yasuaki Fujita, Mari Yamaguchi, Minae Fuji, Yoko Shimomura, Tatsuya Nishimura",
+            "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
             "arranger": "Gi Nattak",
             "dir": 2,
             "duration": 119
@@ -4148,7 +4148,7 @@ const roms =
             "composer": "Jay Barbeau",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 277
+            "duration": 240
         },
         {
             "id": 167,
@@ -4158,7 +4158,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 259
+            "duration": 240
         },
         {
             "id": 168,
@@ -4188,7 +4188,7 @@ const roms =
             "composer": "Hiroki Kikuta",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 171,
@@ -4198,17 +4198,17 @@ const roms =
             "composer": "Yuzo Koshiro",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 172,
             "filename": "xnbc2_morardain",
-            "title": "Morardain",
+            "title": "Mor Ardain",
             "game": "Xenoblade Chronicles 2",
             "composer": "ACE",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 175,
@@ -4218,7 +4218,7 @@ const roms =
             "composer": "Hiroki Kikuta",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 176,
@@ -4268,7 +4268,7 @@ const roms =
             "composer": "Tenpei Sato",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 258
+            "duration": 240
         },
         {
             "id": 181,
@@ -4348,7 +4348,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 244
+            "duration": 240
         },
         {
             "id": 193,
@@ -4468,7 +4468,7 @@ const roms =
             "composer": "Kenji Ito",
             "arranger": "JCE3000GT",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 205,
@@ -4488,7 +4488,7 @@ const roms =
             "composer": "David Wise",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 249
+            "duration": 240
         },
         {
             "id": 207,
@@ -4648,7 +4648,7 @@ const roms =
             "composer": "David Wise",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 262
+            "duration": 240
         },
         {
             "id": 223,
@@ -4668,7 +4668,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Jackimus",
             "dir": 2,
-            "duration": 253
+            "duration": 240
         },
         {
             "id": 225,
@@ -4678,7 +4678,7 @@ const roms =
             "composer": "Klaus Doldinger",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 226,
@@ -4688,7 +4688,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "N/A",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 227,
@@ -4743,7 +4743,7 @@ const roms =
         {
             "id": 232,
             "filename": "lal_cry",
-            "title": "Cry",
+            "title": "Cry-A-Live",
             "game": "Live A Live",
             "composer": "Yoko Shimomura",
             "arranger": "Gi Nattak",
@@ -4798,7 +4798,7 @@ const roms =
             "composer": "Nobuo Uematsu",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 246
+            "duration": 240
         },
         {
             "id": 238,
@@ -4938,7 +4938,7 @@ const roms =
             "composer": "Chinatsu Kuzuu",
             "arranger": "Gi Nattak",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 253,
@@ -4948,7 +4948,7 @@ const roms =
             "composer": "Yasuhiro Kawasaki",
             "arranger": "emberling",
             "dir": 2,
-            "duration": 300
+            "duration": 240
         },
         {
             "id": 254,

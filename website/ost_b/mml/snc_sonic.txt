@@ -1,6 +1,6 @@
 #TITLE Sonic.exe
-#ALBUM Kyu S.
-#COMPOSER Kyu S. Music
+#ALBUM Kyu S. Music
+#COMPOSER Kyu S.
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x20 ## marimba (FF6)

@@ -28,7 +28,7 @@ a8g8a4<d8c+8>b4  a8^32r^32<e8^32r^32a4.r8
 
 l16
 {2}
-l16%e0 $2 |9[4o5v90a8r8a2a8r8  
+l16%e0 $2 |9[4o5v90p64a8r8a2a8r8  
 a4a4r8a8a4  ]f8r8f2f8r8  g8r8g2g8r8  g8r8a2a8r8  
 a4a8g8.r8.g4  f8r8f2f8r8  g8r8g2g8r8  g8r8a2a8r8  
 a1  [4o5a8r8a2a8r8  a4a4r8a8a4  ]f8r8f2f8r8  
@@ -74,7 +74,7 @@ c1  d2>b2  <d4e8d8c+4>b4  <c+1
 
 l16
 {5}
-l16%e1 $5 |Co5v120a1  b1  
+l16%e1 $5 |Co5v120p64a1  b1  
 <c1  d1  >a1  b1  
 <c1  >b1  f1  g1  
 g4a2^4  <d4.c4.>b4  a1  b2g2  

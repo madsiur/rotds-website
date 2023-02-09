@@ -23,14 +23,14 @@ c8>g8<c8c8>g8<c8c8>g8  <c8>g8<c8c8>g8<c8r4
 
 l16
 {2}
-l16v50p54%e1 $2 |1o5<gr>crd+r>gr<crd+rgd+cr  
+l16%e1 $2 |1v50p54o5<gr>crd+r>gr<crd+rgd+cr  
 <g+r>crfr>g+r<crd+rgd+cr  <gr>crd+r>gr<crd+rgd+cr  <g+r>crfr>g+r<crd+rgd+cr  
 [4<gr>crd+r>gr<crd+rgd+cr  <g+r>crd+r>g+r<crd+rg+d+cr  <g+r>crfr>g+r<crfrg+fcr  
 <gr>crd+r>gr<drgrbgdr  ]v60b8e8g8>b4<e8g8>b8  <b8e8g8>b4<e8g8>b8  
 <g8c8e8>g4<c8e8c8  a8d8f+8>a4<d8f+8>a8  <b8e8g8>b4<e8g8>b8  <b8e8g8>b4<e8g8>b8  
 <g8c8e8>g4<c8e8c8  a8d8f+8>a4<d8f+8>a8  v50o6gr>cder>eg<crergecr  
 <f+ro4b<c+d+r>d+f+br<d+rf+d+>br  o6gr>cder>eg<crergecr  <ar>def+r>f+a<drf+raf+dr  
-<a+r>d+fgr>ga+<d+rgra+gd+r  <ar>cefr>fa<crfrafcr  v60<g8c8d8e8f8e8d8>g8  
+<a+r>d+fgr>ga+<d+rgra+gd+r  <ar>cefr>fa<crfrafcr  v70<g8c8d8e8f8e8d8>g8  
 <c8>g8e8g8c4^8^r  
 ;2
 

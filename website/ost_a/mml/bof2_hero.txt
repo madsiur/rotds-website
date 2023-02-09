@@ -71,13 +71,13 @@ v192,24^1   $5 v50[2frfrfrfrfrfrfrfr  ][2erererererererer  ][2drdrdrdrdrdrdrdr
 
 l16
 {6}
-l16%e0v100p64|3o5[6a8^^ar32aar32a^a^a^  
+l16%e0v100p64|3o5[6a4ar32aar32a^a^a^  
 a^] $6 <d^d^r8ddd^d^r8  ddd^d^r8ddd^d^r8  dd[2c^c^r8ccc^c^r8  cc]>a+^a+^r8a+a+a+^a+^r8  
 a+a+a+^a+^r8a+a+a+^a+^r8  a+a+<c^c^r8ccc^c^r8  ccc^c^r8ccc^c^rc  
 de[2d^d^r8ddd^d^r8  dd][2c^c^r8ccc^c^r8  cc]>a+^a+^r8a+a+a+^a+^r8  
 a+a+a+^a+^r8a+a+a+^a+^r8  a+a+<c^c^r8ccc^c^r8  ccc^c^r8ccc^c^rc  
-ded4^8^^r8d^d^  d^c4^8^^r8c^c^  c^c+4^8^^r8c+^c+^  c+^d4^8^^r8d^d^  
-d^>a+4^8^^r8a+^a+^  a+^a4^8^^r8a^a^  a^g4^8^^r8g^g^  g^a4^8^^r8a^a^  
+ded4^4r8d^d^  d^c4^4r8c^c^  c^c+4^4r8c+^c+^  c+^d4^4r8d^d^  
+d^>a+4^4r8a+^a+^  a+^a4^4r8a^a^  a^g4^4r8g^g^  g^a4^4r8a^a^  
 a^
 ;6
 

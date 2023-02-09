@@ -62,9 +62,9 @@ l16
 l16|2p63%e1 $5 v80o5r1  
 ^1  ^1  ^2^4^8b<c  m48,22,215d2^4mg8d8  
 c4^8>b8g4^8r8  <c8>b8g2a4  m48,22,215b2^4^8mr8  b4^8<c8d4e4  
-d4c2>g8a8  b4^8<c8>b4a4  g4f+8^%l1e32f+32%l0e4d8r8  b4^8<c8d2  
+d4c2>g8a8  b4^8<c8>b4a4  g4f+8^e32f+32e4d8r8  b4^8<c8d2  
 r8>b8<c8d8c8>b4ab  <c4^8>b8<c2  r8>a8b8<c8>b8a8^rga  m48,22,215b2^8m<e8f+8g8  
->b4<e4f+4g4  agabm48,22,215e2^8mf+g  a4g8^%l1f+32g32%l0f+4>a4  m48,22,215b2^8m<e8f+8g8  
+>b4<e4f+4g4  agabm48,22,215e2^8mf+g  a4g8^f+32g32f+4>a4  m48,22,215b2^8m<e8f+8g8  
 f+8^e8^d+ea8g8f+8e^  b8g8e2^4  a8f+8d4^8^rd4  c>bam48,22,215v255,0b1  
 ^4^mr2
 ;5

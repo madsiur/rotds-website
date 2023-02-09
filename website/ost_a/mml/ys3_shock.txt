@@ -31,8 +31,8 @@ e8aee<c>eee8<c>ee<e>ee  ]e8bee<d>eee8a+ee<c>ee  e8>a1  ^4g8a8^b8^<c8>e1
 l16
 {3}
 l16%e1 $3 v120p60|9%r6o5b^b^b^b^b^b^b^b^  brb4a8b8^<c8^d8  
-c>bm72,18,215<c1  ^2^4^^m>b^  b^b^b^b^b^b^b^br  b8^ra8b8^<c8^d8c>b  
-m72,18,215a1  ^2^4^^ma4  a4<c4c4>[3b4  b4a+4a+4a4  
+c>bm72,18,215<c1  ^2^4^8m>b^  b^b^b^b^b^b^b^br  b8^ra8b8^<c8^d8c>b  
+m72,18,215a1  ^2^4^8ma4  a4<c4c4>[3b4  b4a+4a+4a4  
 a4<c4c4>]b4  b4a+4a+4
 ;3
 

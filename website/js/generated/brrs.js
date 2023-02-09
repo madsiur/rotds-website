@@ -133,7 +133,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "FF6_closed_hi-hat"
+        "filename": "FF6_closed_hi_hat"
     },
     {
         "id": 16,
@@ -151,7 +151,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "FF6_open_hi-hat"
+        "filename": "FF6_open_hi_hat"
     },
     {
         "id": 18,
@@ -700,7 +700,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "RS3_open_hi-hat"
+        "filename": "RS3_open_hi_hat"
     },
     {
         "id": 79,
@@ -709,7 +709,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "RS3_closed_hi-hat"
+        "filename": "RS3_closed_hi_hat"
     },
     {
         "id": 80,
@@ -718,7 +718,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "RS3_open_pedal_hi-hat"
+        "filename": "RS3_open_pedal_hi_hat"
     },
     {
         "id": 81,
@@ -1996,7 +1996,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 0,
-        "filename": "CT_open_hi-hat"
+        "filename": "CT_open_hi_hat"
     },
     {
         "id": 223,
@@ -2005,7 +2005,7 @@ const brrs =
         "loop": 0,
         "env": 65504,
         "pitch": 32768,
-        "filename": "CT_open_hi-hat_2"
+        "filename": "CT_open_hi_hat_2"
     },
     {
         "id": 224,
@@ -2149,7 +2149,7 @@ const brrs =
         "loop": 37638,
         "env": 65504,
         "pitch": 0,
-        "filename": "SMRPG_close_hi-hat"
+        "filename": "SMRPG_close_hi_hat"
     },
     {
         "id": 240,

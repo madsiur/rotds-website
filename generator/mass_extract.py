@@ -93,7 +93,7 @@ def mass_extract(fn):
         brr_pointer = read_pointer(brr_rom, brr_pointer_offset + 3 * brr_idx)
         brr_data = load_data_from_rom(brr_rom, brr_pointer)
 
-        brr_name = brrs[i][0].replace(".", "_").replace(" ", "_")
+        brr_name = brrs[i][0].replace(".", "_").replace(" ", "_").replace("-", "_")
         brr_fn = f"{brrs[i][1]}_{brr_name}.brr"
         brrs[i].append(f"{brrs[i][1]}_{brr_name}")
 

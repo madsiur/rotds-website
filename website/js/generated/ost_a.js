@@ -828,7 +828,7 @@ const ost_a =
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 173
     },
     {
         "id": 84,

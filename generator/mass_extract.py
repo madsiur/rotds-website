@@ -73,10 +73,22 @@ def mass_extract(fn):
 
     brrs = {}
     seen = set()
+    occurences = dict()
     for i in range(1, 256):
         brrs[i] = config[c.BRR_SECTION][f"{i:02X}"].split(";")
-        brrs[i][0] = brrs[i][0].strip().lower()
-        brrs[i][1] = brrs[i][1].strip().upper()  
+
+        if(len(brrs[i]) > 3):
+            print(f"bad sample {str(song_idx)} metadata")
+            sys.exit()
+
+        while len(brrs[i]) < 3:
+            brrs[i].append("")
+        for j in range(len(brrs[i])):
+            brrs[i][j] = brrs[i][j].strip()
+
+        brrs[i][0] = brrs[i][0].lower()
+        brrs[i][1] = brrs[i][1].upper()  
+
         brr_idx = i - 1
         loc = brr_loop_offset + 2 * brr_idx
         brr_loop = int.from_bytes(brr_rom[loc:loc+2], "big")
@@ -92,6 +104,8 @@ def mass_extract(fn):
         
         brr_pointer = read_pointer(brr_rom, brr_pointer_offset + 3 * brr_idx)
         brr_data = load_data_from_rom(brr_rom, brr_pointer)
+        brrs[i].append(len(brr_data) - 2)
+        brrs[i].append(0)
 
         brr_name = brrs[i][0].replace(".", "_").replace(" ", "_").replace("-", "_")
         brr_fn = f"{brrs[i][1]}_{brr_name}.brr"
@@ -121,7 +135,7 @@ def mass_extract(fn):
                 rom = f.read()
         except IOError:
             print(f"ERROR: Couldn't load ROM file {romfile} for song purpose.")
-            continue
+            sys.exit()
         if len(rom) % 0x10000 == 0x200:
             rom = rom[0x200:]
             print(f"Loaded {romfile} with header for song purpose.")
@@ -157,6 +171,9 @@ def mass_extract(fn):
             for i in range(16):
                 inst_id = int.from_bytes(inst_table[i*2:i*2+2], "little")
                 if inst_id:
+                    # occurences increment
+                    brrs[inst_id][7] += 1
+
                     prg = i + 0x20
                     sample_defs.append(f"#WAVE 0x{prg:02X} 0x{inst_id:02X} ## {brrs[inst_id][0]} ({brrs[inst_id][1]})")
                     
@@ -165,7 +182,7 @@ def mass_extract(fn):
             ## Deal with metadata
             meta_cfg = config[romfile][song_idx_string].split(';')
             if(len(meta_cfg) > 6):
-                print("bad meta: " + str(song_idx))
+                print(f"bad song {str(song_idx)} metadata")
                 sys.exit()
 
             while len(meta_cfg) < 6:

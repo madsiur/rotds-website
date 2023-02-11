@@ -1,4 +1,4 @@
-import os, shutil
+import os, shutil, sys
 from mass_extract import mass_extract
 import constants as c
 import json
@@ -20,6 +20,8 @@ def generate_json(dirs, roms, brrs):
             f.write(file_string)
     except IOError:
         print("ERROR: failed to write {this_fn}")
+        sys.exit()
+        
 
     counter = 0
     for k1, v1 in roms.items():
@@ -45,6 +47,7 @@ def generate_json(dirs, roms, brrs):
                 f.write(file_string)
         except IOError:
             print("ERROR: failed to write {this_fn}")
+            sys.exit()
         counter += 1
 
     entries = []
@@ -52,11 +55,14 @@ def generate_json(dirs, roms, brrs):
         entry = {
             "id": k,
             "name": v[0],
-            "game": v[1],
-            "loop": v[2],
-            "env": v[3],
-            "pitch": v[4],
-            "filename": v[5],
+            "gameShort": v[1],
+            "gameLong": v[2],
+            "loop": v[3],
+            "env": v[4],
+            "pitch": v[5],
+            "size": v[6],
+            "occ": v[7],
+            "filename": v[8],
         }
         entries.append(entry)
 
@@ -69,7 +75,7 @@ def generate_json(dirs, roms, brrs):
             f.write(file_string)
     except IOError:
         print("ERROR: failed to write {this_fn}")
-
+        sys.exit()
 
 if __name__ == '__main__':
     dirs, roms, brrs = mass_extract('mass_extract.txt')

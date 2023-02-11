@@ -508,258 +508,258 @@ FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; emberlin
 FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak; 2
 
 [brr]
-01: spanish guitar; FF6
-02: electric bass; FF6
-03: wind flute; FF6
-04: sitar; FF6
-05: cello; FF6
-06: chorus; FF6
-07: flute; YI
-08: french horn; FF6
-09: atma synth; FF6
-0A: oboe; FF6
-0B: organ; FF6
-0C: piano; FF6
-0D: strings; FF6
-0E: trumpet; FF6
-0F: closed hi-hat; FF6
-10: e.piano; CT
-11: open hi-hat; FF6
-12: cymbal; FF6
-13: synth strings; FF4
-14: snare; FF6
-15: snapping; FF6
-16: timpani; FF6
-17: conga; FF6
-18: acoustic bass; FF6
-19: pizzo string; FF6
-1A: trombone; FF6
-1B: harp; FF6
-1C: bass; FF6
-1D: picked string; FF6
-1E: distortion guitar; FF6
-1F: ocarina; FF6
-20: marimba; FF6
-21: hard snare; SOM
-22: kick drum; FF6
-23: cowbell; FF6
-24: tubular bell; FF6
-25: pipe organ; FF6
-26: woot; FF6
-27: percussion; UNK
-28: rock organ; CT
-29: breath; FF6
-2A: finger snap; FF6
-2B: rimshot; FF6
-2C: contrabass; FF6
-2D: guiro; FF6
-2E: conga 2; FF6
-2F: shaker; FF6
-30: wood block; FF6
-31: bright piano; FF6
-32: acoustic guitar; FF6
-33: bagpipe; FF6
-34: strings; TOTR
-35: melodic tom; UNK
-36: sawtooth; UNK
-37: tambourine; FF6
-38: tenor male voice; FF6
-39: bass male voice; FF6
-3A: female voice; FF6
-3B: pipe organ 2; FF6
-3C: metal sound; RS3
-3D: metal sound; FF6
-3E: xylophone; FF6
-3F: tribal shout 1; RD
-40: slap bass; RS3
-41: tribal shout 2; RD
-42: electric guitar 1; RS3
-43: electric guitar 2; RS3
-44: strings; RS3
-45: voice 1; RS3
-46: voice 2; RS3
-47: voice 3; RS3
-48: trumpet; RS3
-49: violin; RS3
-4A: snare drum 1; RS3
-4B: celesta; RS3
-4C: e.piano; RS3
-4D: cembalo; RS3
-4E: open hi-hat; RS3
-4F: closed hi-hat; RS3
-50: open pedal hi-hat; RS3
-51: harp; RS3
-52: piano; RS3
-53: synth strings; RS3
-54: whistle; RS3
-55: agogo; RS3
-56: snare drum 2; RS3
-57: acoustic bass; RS3
-58: french horn; RS3
-59: dirty sax; SMRPG
-5A: metal bang; FF6
-5B: orch hit; THG
-5C: saxish; SMRPG
-5D: timpani; FF4
-5E: flute; FF6
-5F: hard snare; FF6
-60: violin; FF6
-61: kick drum; CT
-62: crowd noise; FF6
-63: bottle blow; FF6
-64: soft bass drum; RS3
-65: tam; RS3
-66: trans bass drum; RS3
-67: hard snare; CT
-68: grand piano; CT
-69: chorus; CT
-6A: electric guitar; CT
-6B: music box; CT
-6C: english horn; CT
-6D: guitar; CT
-6E: pizzicato; CT
-6F: trumpet; CT
-70: piano; CT
-71: future strings; CT
-72: harp; CT
-73: flute; CT
-74: marimba; CT
-75: wind flute; CT
-76: sax; CT
-77: bass; RD
-78: brass; TC
-79: synth strings; TC
-7A: kick; SOM
-7B: tub bell; FF7
-7C: synth kick drum; SOM
-7D: rim hit; SOM
-7E: vox; SOM
-7F: metal chime; SOM
-80: steam; SOM
-81: tubular bell; SOM
-82: strings; SOM
-83: chorus; SOM
-84: flute; SOM
-85: brass section; SOM
-86: xylophone; SOM
-87: synth trumpet; SOM
-88: industrial bang echo; SOM
-89: brass synth; SMRPG
-8A: future bass synth; SMRPG
-8B: e.piano; TC
-8C: metal bang; SMRPG
-8D: pan flute; FF6
-8E: piano; SOM
-8F: distortion guitar; TOTR
-90: tam; TOTR
-91: timpani; TOTR
-92: english horn; TOTR
-93: bassoon; TOTR
-94: clarinet; TOTR
-95: clap; TOTR
-96: brass; TOTR
-97: overdrive guitar; SD3
-98: acoustic guitar; SD3
-99: banjo; SD3
-9A: overdrive guitar; GH
-9B: e.piano; GH
-9C: ride cymbal; GH
-9D: halo; FM
-9E: bass synth hit; SOM
-9F: brass; SD3
-A0: snare; SD3
-A1: shaker; RD
-A2: sax; FM
-A3: gong; LAL
-A4: brass synth; FM
-A5: synth bass; FM
-A6: piano; FM
-A7: choir; GH
-A8: marimba; LAL
-A9: electric steel guitar; GH
-AA: synth bass; GH
-AB: conga drum; RS3
-AC: harp; GH
-AD: snare; RD
-AE: female voice; RD
-AF: reed organ; GH
-B0: synth strings; CT
-B1: trombone; GH
-B2: drum sequence; TC
-B3: synth voice; GH
-B4: synth strings; GH
-B5: plucked string; FF6
-B6: strings; SMRPG
-B7: accordion; SMRPG
-B8: grand piano; SD3
-B9: violin; SMRPG
-BA: piano; SMRPG
-BB: french horn; SMRPG
-BC: clarinet; SMRPG
-BD: classic guitar; FF7
-BE: Harmonica; RS3
-BF: organ; LAL
-C0: cymbal; RS3
-C1: e.guitar synth; EB
-C2: strings; CV4
-C3: synth; TOTR
-C4: ride; GH
-C5: maraca; FF6T
-C6: trumpet; ARS
-C7: synth; CS
-C8: piano; SD3
-C9: bass; FF6T
-CA: future; SMRPG
-CB: guitar; TOTR
-CC: matal bang; SD3
-CD: crash; FF5
-CE: dulcimer; FFX
-CF: vox; SO2
-D0: dulcimer; SOM
-D1: orchit; TOTR
-D2: synth bell; FF6T
-D3: bell; SOM
-D4: piano 2; SD3
-D5: piano 3; SD3
-D6: clavinet; TOTR
-D7: pizzo; SD3
-D8: tom; SMRPG
-D9: timbale; RS3
-DA: bassoon; SMRPG
-DB: snare; FF5
-DC: prg10; CT
-DD: conga; CT
-DE: open hi-hat; CT
-DF: open hi-hat 2; CT
-E0: bass 2; FF6T
-E1: sitar; FF6T
-E2: sitar; CT
-E3: soft cymbal; CT
-E4: magus laugh; CT
-E5: bright piano; CT
-E6: future bell; CT
-E7: shaker; TC
-E8: string; CT
-E9: drum track; SMRPG
-EA: trombone; SMRPG
-EB: timpani; SMRPG
-EC: cowbell; SMRPG
-ED: snare drum; SMRPG
-EE: shaker; SMRPG
-EF: close hi-hat; SMRPG
-F0: piano 2; SMRPG
-F1: piano 3; SMRPG
-F2: bass guitar; SMRPG
-F3: synth bass; TOTR
-F4: pipe organ; LAL
-F5: strings; LAL
-F6: guitar; LAL
-F7: brass; LAL
-F8: chorus; LAL
-F9: kick drum; LAL
-FA: snare; LAL
-FB: machine sound; LAL
-FC: snap; LAL
-FD: percussion; LAL
-FE: timpani; LAL
-FF: pizzo; LAL
+01: spanish guitar; FF6; Final Fantasy VI
+02: electric bass; FF6; Final Fantasy VI
+03: wind flute; FF6; Final Fantasy VI
+04: sitar; FF6; Final Fantasy VI
+05: cello; FF6; Final Fantasy VI
+06: chorus; FF6; Final Fantasy VI
+07: flute; YI; Yoshi's Island
+08: french horn; FF6; Final Fantasy VI
+09: atma synth; FF6; Final Fantasy VI
+0A: oboe; FF6; Final Fantasy VI
+0B: organ; FF6; Final Fantasy VI
+0C: piano; FF6; Final Fantasy VI
+0D: strings; FF6; Final Fantasy VI
+0E: trumpet; FF6; Final Fantasy VI
+0F: closed hi-hat; FF6; Final Fantasy VI
+10: e.piano; CT; Chrono Trigger
+11: open hi-hat; FF6; Final Fantasy VI
+12: cymbal; FF6; Final Fantasy VI
+13: synth strings; FF4; Final Fantasy IV
+14: snare; FF6; Final Fantasy VI
+15: snapping; FF6; Final Fantasy VI
+16: timpani; FF6; Final Fantasy VI
+17: conga; FF6; Final Fantasy VI
+18: acoustic bass; FF6; Final Fantasy VI
+19: pizzo string; FF6; Final Fantasy VI
+1A: trombone; FF6; Final Fantasy VI
+1B: harp; FF6; Final Fantasy VI
+1C: bass; FF6; Final Fantasy VI
+1D: picked string; FF6; Final Fantasy VI
+1E: distortion guitar; FF6; Final Fantasy VI
+1F: ocarina; FF6; Final Fantasy VI
+20: marimba; FF6; Final Fantasy VI
+21: hard snare; SOM; Secret of Mana
+22: kick drum; FF6; Final Fantasy VI
+23: cowbell; FF6; Final Fantasy VI
+24: tubular bell; FF6; Final Fantasy VI
+25: pipe organ; FF6; Final Fantasy VI
+26: woot; FF6; Final Fantasy VI
+27: percussion; UNK; Unknown
+28: rock organ; CT; Chrono Trigger
+29: breath; FF6; Final Fantasy VI
+2A: finger snap; FF6; Final Fantasy VI
+2B: rimshot; FF6; Final Fantasy VI
+2C: contrabass; FF6; Final Fantasy VI
+2D: guiro; FF6; Final Fantasy VI
+2E: conga 2; FF6; Final Fantasy VI
+2F: shaker; FF6; Final Fantasy VI
+30: wood block; FF6; Final Fantasy VI
+31: bright piano; FF6; Final Fantasy VI
+32: acoustic guitar; FF6; Final Fantasy VI
+33: bagpipe; FF6; Final Fantasy VI
+34: strings; TOTR; Treasure of the Rudras
+35: melodic tom; UNK; Unknown
+36: sawtooth; UNK; Unknown
+37: tambourine; FF6; Final Fantasy VI
+38: tenor male voice; FF6; Final Fantasy VI
+39: bass male voice; FF6; Final Fantasy VI
+3A: female voice; FF6; Final Fantasy VI
+3B: pipe organ 2; FF6; Final Fantasy VI
+3C: metal sound; RS3; Romancing Saga 3
+3D: metal sound; FF6; Final Fantasy VI
+3E: xylophone; FF6; Final Fantasy VI
+3F: tribal shout 1; RD; Radical Dreamers
+40: slap bass; RS3; Romancing Saga 3
+41: tribal shout 2; RD; Radical Dreamers
+42: electric guitar 1; RS3; Romancing Saga 3
+43: electric guitar 2; RS3; Romancing Saga 3
+44: strings; RS3; Romancing Saga 3
+45: voice 1; RS3; Romancing Saga 3
+46: voice 2; RS3; Romancing Saga 3
+47: voice 3; RS3; Romancing Saga 3
+48: trumpet; RS3; Romancing Saga 3
+49: violin; RS3; Romancing Saga 3
+4A: snare drum 1; RS3; Romancing Saga 3
+4B: celesta; RS3; Romancing Saga 3
+4C: e.piano; RS3; Romancing Saga 3
+4D: cembalo; RS3; Romancing Saga 3
+4E: open hi-hat; RS3; Romancing Saga 3
+4F: closed hi-hat; RS3; Romancing Saga 3
+50: open pedal hi-hat; RS3; Romancing Saga 3
+51: harp; RS3; Romancing Saga 3
+52: piano; RS3; Romancing Saga 3
+53: synth strings; RS3; Romancing Saga 3
+54: whistle; RS3; Romancing Saga 3
+55: agogo; RS3; Romancing Saga 3
+56: snare drum 2; RS3; Romancing Saga 3
+57: acoustic bass; RS3; Romancing Saga 3
+58: french horn; RS3; Romancing Saga 3
+59: dirty sax; SMRPG; Super Mario RPG
+5A: metal bang; FF6; Final Fantasy VI
+5B: orch hit; THG; THG
+5C: saxish; SMRPG; Super Mario RPG
+5D: timpani; FF4; Final Fantasy IV
+5E: flute; FF6; Final Fantasy VI
+5F: hard snare; FF6; Final Fantasy VI
+60: violin; FF6; Final Fantasy VI
+61: kick drum; CT; Chrono Trigger
+62: crowd noise; FF6; Final Fantasy VI
+63: bottle blow; FF6; Final Fantasy VI
+64: soft bass drum; RS3; Romancing Saga 3
+65: tam; RS3; Romancing Saga 3
+66: trans bass drum; RS3; Romancing Saga 3
+67: hard snare; CT; Chrono Trigger
+68: grand piano; CT; Chrono Trigger
+69: chorus; CT; Chrono Trigger
+6A: electric guitar; CT; Chrono Trigger
+6B: music box; CT; Chrono Trigger
+6C: english horn; CT; Chrono Trigger
+6D: guitar; CT; Chrono Trigger
+6E: pizzicato; CT; Chrono Trigger
+6F: trumpet; CT; Chrono Trigger
+70: piano; CT; Chrono Trigger
+71: future strings; CT; Chrono Trigger
+72: harp; CT; Chrono Trigger
+73: flute; CT; Chrono Trigger
+74: marimba; CT; Chrono Trigger
+75: wind flute; CT; Chrono Trigger
+76: sax; CT; Chrono Trigger
+77: bass; RD; Radical Dreamers
+78: brass; TC; Treasure Conflix
+79: synth strings; TC; Treasure Conflix
+7A: kick; SOM; Secret of Mana
+7B: tub bell; FF7; Final Fanatsy VII
+7C: synth kick drum; SOM; Secret of Mana
+7D: rim hit; SOM; Secret of Mana
+7E: vox; SOM; Secret of Mana
+7F: metal chime; SOM; Secret of Mana
+80: steam; SOM; Secret of Mana
+81: tubular bell; SOM; Secret of Mana
+82: strings; SOM; Secret of Mana
+83: chorus; SOM; Secret of Mana
+84: flute; SOM; Secret of Mana
+85: brass section; SOM; Secret of Mana
+86: xylophone; SOM; Secret of Mana
+87: synth trumpet; SOM; Secret of Mana
+88: industrial bang echo; SOM; Secret of Mana
+89: brass synth; SMRPG; Super Mario RPG
+8A: future bass synth; SMRPG; Super Mario RPG
+8B: e.piano; TC; Treasure Conflix
+8C: metal bang; SMRPG; Super Mario RPG
+8D: pan flute; FF6; Final Fantasy VI
+8E: piano; SOM; Secret of Mana
+8F: distortion guitar; TOTR; Treasure of the Rudras
+90: tam; TOTR; Treasure of the Rudras
+91: timpani; TOTR; Treasure of the Rudras
+92: english horn; TOTR; Treasure of the Rudras
+93: bassoon; TOTR; Treasure of the Rudras
+94: clarinet; TOTR; Treasure of the Rudras
+95: clap; TOTR; Treasure of the Rudras
+96: brass; TOTR; Treasure of the Rudras
+97: overdrive guitar; SD3; Seiken Densetsu 3
+98: acoustic guitar; SD3; Seiken Densetsu 3
+99: banjo; SD3; Seiken Densetsu 3
+9A: overdrive guitar; GH; Gun Hazard
+9B: e.piano; GH; Gun Hazard
+9C: ride cymbal; GH; Gun Hazard
+9D: halo; FM; Front Mission
+9E: bass synth hit; SOM; Secret of Mana
+9F: brass; SD3; Seiken Densetsu 3
+A0: snare; SD3; Seiken Densetsu 3
+A1: shaker; RD; Radical Dreamers
+A2: sax; FM; Front Mission
+A3: gong; LAL; Live A Live
+A4: brass synth; FM; Front Mission
+A5: synth bass; FM; Front Mission
+A6: piano; FM; Front Mission
+A7: choir; GH; Gun Hazard
+A8: marimba; LAL; Live A Live
+A9: electric steel guitar; GH; Gun Hazard
+AA: synth bass; GH; Gun Hazard
+AB: conga drum; RS3; Romancing Saga 3
+AC: harp; GH; Gun Hazard
+AD: snare; RD; Radical Dreamers
+AE: female voice; RD; Radical Dreamers
+AF: reed organ; GH; Gun Hazard
+B0: synth strings; CT; Chrono Trigger
+B1: trombone; GH; Gun Hazard
+B2: drum sequence; TC; Treasure Conflix
+B3: synth voice; GH; Gun Hazard
+B4: synth strings; GH; Gun Hazard
+B5: plucked string; FF6; Final Fantasy VI
+B6: strings; SMRPG; Super Mario RPG
+B7: accordion; SMRPG; Super Mario RPG
+B8: grand piano; SD3; Seiken Densetsu 3
+B9: violin; SMRPG; Super Mario RPG
+BA: piano; SMRPG; Super Mario RPG
+BB: french horn; SMRPG; Super Mario RPG
+BC: clarinet; SMRPG; Super Mario RPG
+BD: classic guitar; FF7; Final Fanatsy VII
+BE: Harmonica; RS3; Romancing Saga 3
+BF: organ; LAL; Live A Live
+C0: cymbal; RS3; Romancing Saga 3
+C1: e.guitar synth; EB; Earthbound
+C2: strings; CV4; Castlevania 4
+C3: synth; TOTR; Treasure of the Rudras
+C4: ride; GH; Gun Hazard
+C5: maraca; FF6T; Final Fantasy VI T-Edition
+C6: trumpet; ARS; ARS
+C7: synth; CS; CS
+C8: piano; SD3; Seiken Densetsu 3
+C9: bass; FF6T; Final Fantasy VI T-Edition
+CA: future; SMRPG; Super Mario RPG
+CB: guitar; TOTR; Treasure of the Rudras
+CC: matal bang; SD3; Seiken Densetsu 3
+CD: crash; FF5; Final Fantasy V
+CE: dulcimer; FFX; Final Fantasy X
+CF: vox; SO2; SO2
+D0: dulcimer; SOM; Secret of Mana
+D1: orchit; TOTR; Treasure of the Rudras
+D2: synth bell; FF6T; Final Fantasy VI T-Edition
+D3: bell; SOM; Secret of Mana
+D4: piano 2; SD3; Seiken Densetsu 3
+D5: piano 3; SD3; Seiken Densetsu 3
+D6: clavinet; TOTR; Treasure of the Rudras
+D7: pizzo; SD3; Seiken Densetsu 3
+D8: tom; SMRPG; Super Mario RPG
+D9: timbale; RS3; Romancing Saga 3
+DA: bassoon; SMRPG; Super Mario RPG
+DB: snare; FF5; Final Fantasy V
+DC: prg10; CT; Chrono Trigger
+DD: conga; CT; Chrono Trigger
+DE: open hi-hat; CT; Chrono Trigger
+DF: open hi-hat 2; CT; Chrono Trigger
+E0: bass 2; FF6T; Final Fantasy VI T-Edition
+E1: sitar; FF6T; Final Fantasy VI T-Edition
+E2: sitar; CT; Chrono Trigger
+E3: soft cymbal; CT; Chrono Trigger
+E4: magus laugh; CT; Chrono Trigger
+E5: bright piano; CT; Chrono Trigger
+E6: future bell; CT; Chrono Trigger
+E7: shaker; TC; Treasure Conflix
+E8: string; CT; Chrono Trigger
+E9: drum track; SMRPG; Super Mario RPG
+EA: trombone; SMRPG; Super Mario RPG
+EB: timpani; SMRPG; Super Mario RPG
+EC: cowbell; SMRPG; Super Mario RPG
+ED: snare drum; SMRPG; Super Mario RPG
+EE: shaker; SMRPG; Super Mario RPG
+EF: close hi-hat; SMRPG; Super Mario RPG
+F0: piano 2; SMRPG; Super Mario RPG
+F1: piano 3; SMRPG; Super Mario RPG
+F2: bass guitar; SMRPG; Super Mario RPG
+F3: synth bass; TOTR; Treasure of the Rudras
+F4: pipe organ; LAL; Live A Live
+F5: strings; LAL; Live A Live
+F6: guitar; LAL; Live A Live
+F7: brass; LAL; Live A Live
+F8: chorus; LAL; Live A Live
+F9: kick drum; LAL; Live A Live
+FA: snare; LAL; Live A Live
+FB: machine sound; LAL; Live A Live
+FC: snap; LAL; Live A Live
+FD: percussion; LAL; Live A Live
+FE: timpani; LAL; Live A Live
+FF: pizzo; LAL; Live A Live

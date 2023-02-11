@@ -18,8 +18,10 @@ function listSampleTable() {
         counter++;
 
         tr.append($('<td></td>').text(value.id));
-        tr.append($('<td></td>').text(value.game));
+        tr.append($('<td></td>').text(value.gameLong));
         tr.append($('<td></td>').text(value.name));
+        tr.append($('<td></td>').text(value.occ.toString()));
+        tr.append($('<td></td>').text(toHexString(value.size, 4)));
         tr.append($('<td></td>').text(toHexString(value.loop, 4)));
         tr.append($('<td></td>').text(toHexString(value.env, 4)));
         tr.append($('<td></td>').text(toHexString(value.pitch, 4)));

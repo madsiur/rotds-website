@@ -248,7 +248,7 @@ const ost_a =
         "composer": "ACE+",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 467
     },
     {
         "id": 26,
@@ -258,7 +258,7 @@ const ost_a =
         "composer": "Yoko Shimomura",
         "arranger": "Unknown",
         "dir": 1,
-        "duration": 240
+        "duration": 352
     },
     {
         "id": 27,
@@ -328,7 +328,7 @@ const ost_a =
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 246
     },
     {
         "id": 34,
@@ -708,7 +708,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 455
     },
     {
         "id": 72,
@@ -748,7 +748,7 @@ const ost_a =
         "composer": "ACE+",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 344
     },
     {
         "id": 76,
@@ -788,7 +788,7 @@ const ost_a =
         "composer": "Masanori Hikichi",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 391
     },
     {
         "id": 80,
@@ -798,7 +798,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 466
     },
     {
         "id": 81,
@@ -948,7 +948,7 @@ const ost_a =
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 248
     },
     {
         "id": 96,
@@ -1098,7 +1098,7 @@ const ost_a =
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 309
     },
     {
         "id": 111,
@@ -1138,7 +1138,7 @@ const ost_a =
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 294
     },
     {
         "id": 115,
@@ -1178,7 +1178,7 @@ const ost_a =
         "composer": "ACE+",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 262
     },
     {
         "id": 119,
@@ -1278,7 +1278,7 @@ const ost_a =
         "composer": "N/A",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 244
     },
     {
         "id": 129,
@@ -1358,7 +1358,7 @@ const ost_a =
         "composer": "Toby Fox",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 312
     },
     {
         "id": 137,
@@ -1378,7 +1378,7 @@ const ost_a =
         "composer": "FreakZone Games",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 328
     },
     {
         "id": 139,
@@ -1518,7 +1518,7 @@ const ost_a =
         "composer": "Tsuyoshi Sekito",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 313
     },
     {
         "id": 153,
@@ -1688,7 +1688,7 @@ const ost_a =
         "composer": "Masaharu Iwata, Hitoshi Sakimoto",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 335
     },
     {
         "id": 170,
@@ -1878,7 +1878,7 @@ const ost_a =
         "composer": "Kohei Tanaka",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 310
     },
     {
         "id": 189,
@@ -1918,7 +1918,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 244
     },
     {
         "id": 193,
@@ -1988,7 +1988,7 @@ const ost_a =
         "composer": "Sascha Dikiciyan",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 256
     },
     {
         "id": 200,
@@ -2058,7 +2058,7 @@ const ost_a =
         "composer": "Tommy Tallarico",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 293
     },
     {
         "id": 207,
@@ -2238,7 +2238,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 253
     },
     {
         "id": 225,
@@ -2248,7 +2248,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 332
     },
     {
         "id": 226,
@@ -2368,7 +2368,7 @@ const ost_a =
         "composer": "Leon Riskin",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 248
     },
     {
         "id": 238,
@@ -2468,7 +2468,7 @@ const ost_a =
         "composer": "Dr. Dre",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 316
     },
     {
         "id": 248,
@@ -2498,7 +2498,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 296
     },
     {
         "id": 251,

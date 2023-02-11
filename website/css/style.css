@@ -25,3 +25,11 @@
     display: block;
     margin: auto;
 }
+
+.tdValue {
+    width: 100px;
+}
+
+.tdIndex {
+    width: 45px;
+}

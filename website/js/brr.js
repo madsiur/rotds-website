@@ -25,7 +25,7 @@ function listSampleTable() {
         tr.append($('<td></td>').text(toHexString(value.loop, 4)));
         tr.append($('<td></td>').text(toHexString(value.env, 4)));
         tr.append($('<td></td>').text(toHexString(value.pitch, 4)));
-        tr.append($('<td><a href="brr/' + value.filename + '.brr">brr</a></td>'));
+        tr.append($('<td><a class="link-primary" href="brr/' + value.filename + '.brr">brr</a></td>'));
         table.append(tr);
     });
 }

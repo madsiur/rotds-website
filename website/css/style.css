@@ -1,23 +1,23 @@
-.pageDiv {
-    margin-top: 4px;
+.page-color {
+    background-color: #ced4da;
 }
 
-.creditsDiv {
+.page-title {
+    margin-top: 4px;
+    margin-bottom: 2px;
+}
+
+.credits-div {
     margin-left: 8px;
 }
 
-.pageTitle {
-    margin-left: 8px;
-    margin-top: 4px;
-}
-
-.playImg {
+.play-img {
     width: 20px;
     height: 20px;
     fill: #212529
 }
 
-.playButton {
+.play-button {
 
     background: transparent;
     border: none !important;
@@ -26,10 +26,6 @@
     margin: auto;
 }
 
-.tdValue {
-    width: 100px;
-}
-
-.tdIndex {
-    width: 45px;
-}
+.table-nonfluid {
+    width: auto !important;
+ }

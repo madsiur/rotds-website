@@ -8,7 +8,7 @@
     <link href="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc_player.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
-<body>
+<body class="page-color">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,21 +36,23 @@
             </div>
         </div>
     </nav>
-    <h3 class="pageTitle">Sound Effects</h3>
-    <div id="pageDiv" class="pageDiv">
-        <table class="table">
+    <div class="d-flex justify-content-center page-title">
+        <h3>Sound Effects</h3>
+    </div>
+    <div class="d-flex justify-content-center">
+        <table class="table table-nonfluid">
             <thead class="table-dark">
-                <tr>
-                    <th scope="col">Play</th>
-                    <th scope="col" class="tdIndex">ID</th>
-                    <th scope="col">Game</th>
-                    <th scope="col">Title</th>
-                    <th scope="col">Duration</th>
-                    <th scope="col">Composer</th>
-                    <th scope="col">Arranged</th>
-                    <th scope="col">SPC</th>
-                    <th scope="col">MML</th>
-                </tr>
+            <tr>
+                <th scope="col">Play</th>
+                <th scope="col">ID</th>
+                <th scope="col">Game</th>
+                <th scope="col">Title</th>
+                <th scope="col">Duration</th>
+                <th scope="col">Composer</th>
+                <th scope="col">Arranged</th>
+                <th scope="col">SPC</th>
+                <th scope="col">MML</th>
+            </tr>
             </thead>
             <tbody id="ostTbl"></tbody>
         </table>

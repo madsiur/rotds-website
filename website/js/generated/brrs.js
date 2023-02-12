@@ -1466,7 +1466,7 @@ const brrs =
     },
     {
         "id": 123,
-        "name": "tub bell",
+        "name": "tubular bell",
         "gameShort": "FF7",
         "gameLong": "Final Fanatsy VII",
         "loop": 27657,
@@ -1474,7 +1474,7 @@ const brrs =
         "pitch": 33096,
         "size": 2851,
         "occ": 1,
-        "filename": "FF7_tub_bell"
+        "filename": "FF7_tubular_bell"
     },
     {
         "id": 124,
@@ -2438,7 +2438,7 @@ const brrs =
     },
     {
         "id": 204,
-        "name": "matal bang",
+        "name": "metal bang",
         "gameShort": "SD3",
         "gameLong": "Seiken Densetsu 3",
         "loop": 51713,
@@ -2446,7 +2446,7 @@ const brrs =
         "pitch": 0,
         "size": 2248,
         "occ": 5,
-        "filename": "SD3_matal_bang"
+        "filename": "SD3_metal_bang"
     },
     {
         "id": 205,
@@ -2476,7 +2476,7 @@ const brrs =
         "id": 207,
         "name": "vox",
         "gameShort": "SO2",
-        "gameLong": "SO2",
+        "gameLong": "Star Ocean 2",
         "loop": 6165,
         "env": 36672,
         "pitch": 63744,
@@ -2774,7 +2774,7 @@ const brrs =
     },
     {
         "id": 232,
-        "name": "string",
+        "name": "strings",
         "gameShort": "CT",
         "gameLong": "Chrono Trigger",
         "loop": 5142,
@@ -2782,7 +2782,7 @@ const brrs =
         "pitch": 50477,
         "size": 5776,
         "occ": 1,
-        "filename": "CT_string"
+        "filename": "CT_strings"
     },
     {
         "id": 233,
@@ -2858,7 +2858,7 @@ const brrs =
     },
     {
         "id": 239,
-        "name": "close hi-hat",
+        "name": "closed hi-hat",
         "gameShort": "SMRPG",
         "gameLong": "Super Mario RPG",
         "loop": 37638,
@@ -2866,7 +2866,7 @@ const brrs =
         "pitch": 0,
         "size": 1681,
         "occ": 1,
-        "filename": "SMRPG_close_hi_hat"
+        "filename": "SMRPG_closed_hi_hat"
     },
     {
         "id": 240,

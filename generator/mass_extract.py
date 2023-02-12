@@ -214,7 +214,7 @@ def mass_extract(fn):
                 duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
             except IndexError:
                 print(f"Error getting duration for ID {song_idx}")
-                duration = 240
+                duration = 360
             
             spc = text_insert(spc, 0xA9, f"{duration:03}", 3)
             meta_cfg.append(duration)

@@ -10,7 +10,7 @@
 #WAVE 0x25 0xCB ## guitar (TOTR)
 #WAVE 0x28 0x64 ## soft bass drum (RS3)
 #WAVE 0x29 0x5F ## hard snare (FF6)
-#WAVE 0x2A 0xCC ## matal bang (SD3)
+#WAVE 0x2A 0xCC ## metal bang (SD3)
 
 {1}
 l16t132%x240%v32%b0,70%f0,0 $4 |4o5v64m%e1%a14%r9p96[2[2a4.gra4.gr  

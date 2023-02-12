@@ -38,7 +38,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 587
     },
     {
         "id": 5,
@@ -208,7 +208,7 @@ const ost_a =
         "composer": "Hiroyuki Masuno",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 22,
@@ -298,7 +298,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 673
     },
     {
         "id": 31,
@@ -318,7 +318,7 @@ const ost_a =
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 33,
@@ -408,7 +408,7 @@ const ost_a =
         "composer": "Masanori Hikichi",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 42,
@@ -578,7 +578,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 59,
@@ -738,7 +738,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 75,
@@ -808,7 +808,7 @@ const ost_a =
         "composer": "Michiru Yamane",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 82,
@@ -1028,7 +1028,7 @@ const ost_a =
         "composer": "Bobby Prince",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 104,
@@ -1048,7 +1048,7 @@ const ost_a =
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 106,
@@ -1118,7 +1118,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 113,
@@ -1328,7 +1328,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 134,
@@ -1398,7 +1398,7 @@ const ost_a =
         "composer": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 141,
@@ -1438,7 +1438,7 @@ const ost_a =
         "composer": "Hiroyuki Masuno",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 145,
@@ -1738,7 +1738,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 175,
@@ -1848,7 +1848,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 186,
@@ -1978,7 +1978,7 @@ const ost_a =
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 598
     },
     {
         "id": 199,
@@ -2258,7 +2258,7 @@ const ost_a =
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
         "dir": 1,
-        "duration": 240
+        "duration": 632
     },
     {
         "id": 227,
@@ -2518,7 +2518,7 @@ const ost_a =
         "composer": "Minoru Akao",
         "arranger": "N/A",
         "dir": 3,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 253,
@@ -2528,7 +2528,7 @@ const ost_a =
         "composer": "Yasuhiro Kawasaki",
         "arranger": "Gi Nattak",
         "dir": 1,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 254,

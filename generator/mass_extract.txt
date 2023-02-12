@@ -630,7 +630,7 @@ FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak;
 78: brass; TC; Treasure Conflix
 79: synth strings; TC; Treasure Conflix
 7A: kick; SOM; Secret of Mana
-7B: tub bell; FF7; Final Fanatsy VII
+7B: tubular bell; FF7; Final Fanatsy VII
 7C: synth kick drum; SOM; Secret of Mana
 7D: rim hit; SOM; Secret of Mana
 7E: vox; SOM; Secret of Mana
@@ -711,10 +711,10 @@ C8: piano; SD3; Seiken Densetsu 3
 C9: bass; FF6T; Final Fantasy VI T-Edition
 CA: future; SMRPG; Super Mario RPG
 CB: guitar; TOTR; Treasure of the Rudras
-CC: matal bang; SD3; Seiken Densetsu 3
+CC: metal bang; SD3; Seiken Densetsu 3
 CD: crash; FF5; Final Fantasy V
 CE: dulcimer; FFX; Final Fantasy X
-CF: vox; SO2; SO2
+CF: vox; SO2; Star Ocean 2
 D0: dulcimer; SOM; Secret of Mana
 D1: orchit; TOTR; Treasure of the Rudras
 D2: synth bell; FF6T; Final Fantasy VI T-Edition
@@ -739,14 +739,14 @@ E4: magus laugh; CT; Chrono Trigger
 E5: bright piano; CT; Chrono Trigger
 E6: future bell; CT; Chrono Trigger
 E7: shaker; TC; Treasure Conflix
-E8: string; CT; Chrono Trigger
+E8: strings; CT; Chrono Trigger
 E9: drum track; SMRPG; Super Mario RPG
 EA: trombone; SMRPG; Super Mario RPG
 EB: timpani; SMRPG; Super Mario RPG
 EC: cowbell; SMRPG; Super Mario RPG
 ED: snare drum; SMRPG; Super Mario RPG
 EE: shaker; SMRPG; Super Mario RPG
-EF: close hi-hat; SMRPG; Super Mario RPG
+EF: closed hi-hat; SMRPG; Super Mario RPG
 F0: piano 2; SMRPG; Super Mario RPG
 F1: piano 3; SMRPG; Super Mario RPG
 F2: bass guitar; SMRPG; Super Mario RPG

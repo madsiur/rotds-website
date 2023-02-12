@@ -268,7 +268,7 @@ const ost_b =
         "composer": "Noriko Matsueda",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 29,
@@ -568,7 +568,7 @@ const ost_b =
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 62,
@@ -748,7 +748,7 @@ const ost_b =
         "composer": "Jun Senoue",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 81,
@@ -1058,7 +1058,7 @@ const ost_b =
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 113,
@@ -1078,7 +1078,7 @@ const ost_b =
         "composer": "Giorgio Moroder",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 115,
@@ -1348,7 +1348,7 @@ const ost_b =
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 142,
@@ -1358,7 +1358,7 @@ const ost_b =
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 143,
@@ -1638,7 +1638,7 @@ const ost_b =
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 171,
@@ -1658,7 +1658,7 @@ const ost_b =
         "composer": "ACE",
         "arranger": "emberling",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 175,
@@ -1918,7 +1918,7 @@ const ost_b =
         "composer": "Kenji Ito",
         "arranger": "JCE3000GT",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 205,
@@ -2128,7 +2128,7 @@ const ost_b =
         "composer": "Klaus Doldinger",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 226,
@@ -2138,7 +2138,7 @@ const ost_b =
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
         "dir": 2,
-        "duration": 240
+        "duration": 632
     },
     {
         "id": 227,
@@ -2388,7 +2388,7 @@ const ost_b =
         "composer": "Chinatsu Kuzuu",
         "arranger": "Gi Nattak",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 253,
@@ -2398,7 +2398,7 @@ const ost_b =
         "composer": "Yasuhiro Kawasaki",
         "arranger": "emberling",
         "dir": 2,
-        "duration": 240
+        "duration": 360
     },
     {
         "id": 254,

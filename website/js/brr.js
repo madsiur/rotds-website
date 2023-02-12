@@ -1,21 +1,25 @@
 $(document).ready(function() {
     listSampleTable();
+
+    $('#sortTbl').DataTable({
+        "order": [[1, 'asc']],
+        "columnDefs": [
+            { orderable: false, targets: 5 },
+            { orderable: false, targets: 6 },
+            { orderable: false, targets: 7 },
+            { orderable: false, targets: 8 }
+        ],
+        "paging": false,
+        "searching": false,
+        "info": false
+    });
 });
 
 function listSampleTable() {
     var table = $('#ostTbl');
-    var counter = 1;
 
     $.each(brrs, function(key,value) {
         var tr = $('<tr></tr>');
-
-        // alternate row colors
-        if(counter % 2 == 1) {
-            tr.addClass("table-primary");
-        } else {
-            tr.addClass("table-secondary");
-        }
-        counter++;
 
         tr.append($('<td></td>').text(value.id));
         tr.append($('<td></td>').text(value.gameLong));

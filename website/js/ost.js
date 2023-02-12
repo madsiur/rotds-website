@@ -1,6 +1,5 @@
 function listSongTable(array, dirName) {
     var table = $('#ostTbl');
-    var counter = 1;
     var playImg = '<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-play-circle-fill play-img" viewBox="0 0 16 16">';
     playImg += '<path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z"/></svg>';
     
@@ -12,14 +11,6 @@ function listSongTable(array, dirName) {
        
         var playLink = '<td><button type="button" class="play-button" onclick="playSpcFile(\'' + value.filename + '\')"/>' + playImg + '</button></td>';
         var tr = $('<tr></tr>');
-
-        // alternate row colors
-        if(counter % 2 == 1) {
-            tr.addClass("table-primary");
-        } else {
-            tr.addClass("table-secondary");
-        }
-        counter++;
 
         // write row cells
         tr.append($(playLink));

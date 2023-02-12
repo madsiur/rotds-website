@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>RotDS OST</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link href="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.css" rel="stylesheet">
     <link href="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc_player.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -39,24 +40,22 @@
     <div class="d-flex justify-content-center page-title">
         <h3>Soundtrack B</h3>
     </div>
-    <div class="d-flex justify-content-center">
-        <table class="table table-nonfluid">
-            <thead class="table-dark">
-                <tr>
-                    <th scope="col">Play</th>
-                    <th scope="col">ID</th>
-                    <th scope="col">Game</th>
-                    <th scope="col">Title</th>
-                    <th scope="col">Duration</th>
-                    <th scope="col">Composer</th>
-                    <th scope="col">Arranged</th>
-                    <th scope="col">SPC</th>
-                    <th scope="col">MML</th>
-                </tr>
-            </thead>
-            <tbody id="ostTbl"></tbody>
-        </table>
-    </div>
+    <table id="sortTbl" class="table table-primary table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Play</th>
+                <th scope="col">ID</th>
+                <th scope="col">Game</th>
+                <th scope="col">Title</th>
+                <th scope="col">Duration</th>
+                <th scope="col">Composer</th>
+                <th scope="col">Arranged</th>
+                <th scope="col">SPC</th>
+                <th scope="col">MML</th>
+            </tr>
+        </thead>
+        <tbody id="ostTbl"></tbody>
+    </table>
     
     <!-- begin smwcentral-spc-player code -->
     <!-- github.com/telinc1/smwcentral-spc-player -->
@@ -90,24 +89,17 @@
     </div>
     <!-- end smwcentral-spc-player code -->
 
-    <!-- functions from emberling.github.io -->
+    <!-- function from emberling.github.io -->
     <!-- https://github.com/emberling/emberling.github.io -->
     <script>
         function playSpcFile(name) {
             SMWCentral.SPCPlayer.loadFromLink(document.getElementById(name));
         }
-
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-
-        document.addEventListener("DOMContentLoaded", function(){ 
-        if (urlParams.has('fn')) {
-            playSpcFile(urlParams.get('fn'));
-        }});
     </script>
-    <!-- end functions from emberling.github.io -->
+    <!-- end function from emberling.github.io -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.js"></script>
     <script src="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc.js"></script>
     <script src="js/generated/common.js"></script>
     <script src="js/generated/ost_b.js"></script>

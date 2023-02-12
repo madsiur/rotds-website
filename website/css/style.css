@@ -1,14 +1,9 @@
 .page-color {
-    background-color: #ced4da;
-}
-
-.credits-page-color {
-    background-color: #e9ecef;
+    background-color: #bbcbe6;
 }
 
 .page-title {
-    margin-top: 4px;
-    margin-bottom: 2px;
+    margin-top: 6px;
 }
 
 .credits-div {
@@ -29,7 +24,3 @@
     display: block;
     margin: auto;
 }
-
-.table-nonfluid {
-    width: auto !important;
- }

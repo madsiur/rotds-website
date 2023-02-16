@@ -1,0 +1,124 @@
+#TITLE Overworld
+#ALBUM Zelda II
+#COMPOSER Akito Nakatsuka
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0E ## trumpet (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x14 ## snare (FF6)
+
+{1}
+l16t151%v32%e1%b0,70%f0,0%x240v80p0|0o6>a8^32r2a12a12a12a^32  
+g8^32g^32g8^32r4g^32g12g12g12  g+8^32g+^32g+8^32r4g+12g+12g+12g+^32  
+g8eee8eee8eee8e8   $1 o6c4r4^8^32c12c12d12a^32  f8^32d^32f8^32d^32f8^32d^32f8^32d^32  
+c8^32c^32c4r4<c12c12c12  >a4<c12c12c12>a4<c12c12c12  >c4r4^8^32c12c12d12a^32  
+f8^32d^32f8^32d^32f8^32d^32f8^32d^32  c8^32c^32c4r4<c12c12c12  >a4<c12c12c12>a4<c12c12c12  
+o5a+4r4^8^32<c^32d8^32a+^32  <d4c4d4>a4  g8^32g^32f4r8^32f12d12f12a+^32  
+a8^32a^32ag+aa+a4f4  >a+4r4^8^32<c^32d8^32a+^32  <d4c4d4>a4  g12g12g12g4r8^32e12e12e12e12>g12  
+g12g^32g4r8^32g12g12g12g^32a4  r2<d4d8^32d^32  c4r2>a4  r2<d4d8^32d^32  
+c4r2d12g12a+12  <d12>a+12g12d12g12a+12<d12>a+12g12a+<d>a+<d  >a+<d>a+<d>ga+ga+ga+ga+d12g12a+12  
+<d12>a+12g12d12g12a+12<d12>a+12g12<c4  o6a+8^32g4r^32e4
+;1
+
+l16
+{2}
+l16%e1v80p0|0o6f4  
+r4^8^32f^32f12f12f12f8^32d+^32  f8^32r4f^32f12f12f12f8^32d+^32  
+f8^32r4f12f12f12f^32f8cc  c8ccc8ccc8c8 $2 o6a4  r4^8^32a12a12a+12<c^32d+8^32>f^32  
+<d8^32>f^32<c8^32>f^32a+8^32f^32a8^32g^32  a4r4<f12f12f12c4  f12f12f12c4f12f12f12>a4  
+r4^8^32a12a12a+12<c^32d+8^32>f^32  <d8^32>f^32<c8^32>f^32a+8^32f^32a8^32g^32  
+a4r4<f12f12f12c4  f12f12f12c4f12f12f12>g4  r4^8^32a^32a+8^32<d^32a+4  
+a4g4f4d+8^32d+^32  d4r8^32>a+12a+12<c12d^32d8^32d^32  c4r2>g4  r4^8^32a^32a+8^32<d^32a+4  
+a4g4f4e12d12e12  c4r8^32>g12g12g12g12e12d12e^32  c4r8^32c12c12c12c^32f4  
+r2a+4a+8^32a+^32  a4r2f4  r2a+4a+8^32a+^32  a4r2g12a+12<d12  
+f^32d>a+12g12a+12<d12f12d12>a+12<g12a12g12f12  g12f12e12f12e12d12e12d12>g12a+12<d12f12  
+d12>a+12g12a+12<d12f12d12>a+^32<e8^fd8  ^ec8^d>a+8^<c
+;2
+
+l16
+{3}
+l16%e1v120p63|1o5o3f8^rf24r24f24  
+r24f24r24f8^rf32r24f24r24f^32d+8^rd+24r24d+24  r24d+24r24d+8^rd+24r24d+24r24d+24r24c+8^rc+24r24c+24  
+r24c+24r24c+8^rc+24r24c+24r24c+24r24c8^rc8  ^rc8^rd8e8 $3 o3f8^rf24r24f24  
+r24f24r24a8^rf8^ra+8^ra+8  ^ra+8^ra+8^rf8^rf24r24f24  r24f24r24f8^ro5c24r24c24r24c24r24>a8^r<c24r24c24  
+r24c24r24>a8^r<c24r24c24r24c24r24o3f8^rf24r24f24  r24f24r24a8^rf8^ra+8^ra+8  
+^ra+8^ra+8^rf8^rf24r24f24  r24f24r24f8^ro5c24r24c24r24c24r24>a8^r<c24r24c24  
+r24c24r24>a8^r<c24r24c24r24c24r24o3g8^rg24r24g24  r24g24r24g8^rg8^rg24r24f+24r24g24r24a8  
+^ra+24r24a24r24a+24r24<d8^r>a+8^ra+24r24f24  r24a+24r24<d8^r>a+8^rf12r12f12a8  
+^r<c8^r>f8^rg8^rg24r24g24  r24g24r24g8^rg8^rg24r24f+24r24g24r24a8  
+^ra+24r24a24r24a+24r24<d8^r>c8^re24r24d+24  r24e24r24g8^ra+8^r<c8^r>a+24r24a24  
+r24a+24r24e8^rc8^rf8^rf24r24f24  r24f24r24f8^rf8^rf8^rf24r24f24  
+r24f24r24f8^rf8^rf8^rf24r24f24  r24f24r24f8^rf8^rf8^rf24r24f24  
+r24f24r24f8^rf8^rg^r2  ^8a+32ro4d8^32>g^r2  ^8a+32ro4d8^32>g^r2  
+^8a+32ro4d8^32>c8^ee8^gg8  ^32d^32a+8^32c^32
+;3
+
+l16
+{4}
+l16%e1v120p63|1o5>f8^rf24r24f24r24f24r24f8  
+^rf24r24f24r24f24r24d+8^rd+24r24d+24r24d+24r24d+8  ^rd+24r24d+24r24d+24r24c+8^rc+24r24c+24r24c+24r24c+8  
+^rc+24r24c+24r24c+24r24c8^rc8^rc8  ^rd8e8 $4 o4f8^rf24r24f24r24f24r24a8  
+^rf8^ra+8^ra+8^ra+8  ^ra+8^rf8^rf24r24f24r24f24r24f8  ^ro6c24r24c24r24c24r24>a8^r<c24r24c24r24c24r24>a8  
+^r<c24r24c24r24c24r24o4f8^rf24r24f24r24f24r24a8  ^rf8^ra+8^ra+8^ra+8  
+^ra+8^rf8^rf24r24f24r24f24r24f8  ^ro6c24r24c24r24c24r24>a8^r<c24r24c24r24c24r24>a8  
+^r<c24r24c24r24c24r24o4g8^rg24r24g24r24g24r24g8  ^rg8^rg24r24f+24r24g24r24a8^ra+24r24a24  
+r24a+24r24<d8^r>a+8^ra+24r24f24r24a+24r24<d8  ^r>a+8^rf12r12f12a8^r<c8  
+^r>f8^rg8^rg24r24g24r24g24r24g8  ^rg8^rg24r24f+24r24g24r24a8^ra+24r24a24  
+r24a+24r24<d8^r>c8^re24r24d+24r24e24r24g8  ^ra+8^r<c8^r>a+24r24a24r24a+24r24e8  
+^rc8^rf8^rf24r24f24r24f24r24f8  ^rf8^rf8^rf24r24f24r24f24r24f8  
+^rf8^rf8^rf24r24f24r24f24r24f8  ^rf8^rf8^rf24r24f24r24f24r24f8  
+^rf8^rg^r2  ^8a+32ro5d8^32>g^r2  ^8a+32ro5d8^32>g^r2  ^8a+32ro5d8^32>c8^ee8^gg8  
+^32d^32a+8^32c^32
+;4
+
+l16
+{5}
+l16%e1v120p63|1o5>a8^32r2  a^32a12a12a12g8^32g^32g8^32r4  
+g^32g12g12g12g+8^32g+^32g+8^32r4  g+^32g+12g+12g+12g8eee8eee8e  
+ee8e8 $5 o5c4d12c12>b12<c12r12c12  c12d12a12f8^32d^32f8^32d^32f8^32d^32  
+f8^32d^32c8^32c^32c4r4  <c12c12c12>a4<c12c12c12>a4  <c12c12c12>c4d12c12>b12<c12r12c12  
+c12d12a12f8^32d^32f8^32d^32f8^32d^32  f8^32d^32c8^32c^32c4r4  <c12c12c12>a4<c12c12c12>a4  
+<c12c12c12o4a+4<c12>a+12a12a+8^32<c^32  d8^32a+^32<d4c4d4  >a4g8^32g^32f4r8^32f^32  
+d12f12a+12a8^32a^32ar2  ^8^>a+4<c12>a+12a12a+8^32<c^32d8  ^32a+^32<d4c4d4>a4  
+g12g12g12g4r8^32e^32e12e12e12  >g12g12g12g4r8^32g^32g12g12g12  a4r2<d4  
+d8^32d^32c4r2  >a4r2<d4  d8^32d^32c4r2  d12g12a+12<d12>a+12g12d12g12a+12<d12>a+12g12  
+a+<d>a+<d>a+<d>a+<d>ga+ga+ga+ga+  d12g12a+12<d12>a+12g12d12g12a+12<d12>a+12g12  
+<c4o5a+8^32g4r^32e4  
+;5
+
+l16
+{6}
+l16%e1v100p64|2o5[4e4e4e4e4  ] $6 [20e4e12e12e12e4e4  
+][3e^2^8re12e12e12  ][2e8^ee8^e]
+;6
+
+l16
+{7}
+l16%e1v34p127|0o6r8^>a8^32r2  
+a12a12a12a^32g8^32g^32g8^32r4  g12g12g12g^32g+8^32g+^32g+8^32r4  
+g+12g+12g+12g+^32g8eee8eee8e  ee $7 ro6c4r4^8^32c12c12  d12a^32f8^32d^32f8^32d^32f8^32d^32f8  
+^32d^32c8^32c^32c4r4<c12c12  c12>a4<c12c12c12>a4<c12c12  c12>c4r4^8^32c12c12d12a  
+^32f8^32d^32f8^32d^32f8^32d^32f8^32d  ^32c8^32c^32c4r4<c12c12c12  
+>a4<c12c12c12>a4<c12c12c12  o5a+4r4^8^32<c^32d8^32a+^32  <d4c4d4>a4  
+g8^32g^32f4r8^32f12d12f12a+^32  a8^32a^32ag+aa+a4f4  >a+4r4^8^32<c^32d8^32a+^32  
+<d4c4d4>a4  g12g12g12g4r8^32e12e12e12e^32  >g12g12g12g4r8^32g12g12g12g^32  
+a4r2<d4  d8^32d^32c4r2  >a4r2<d4  d8^32d^32c4r2  
+d^32ga+12<d12>a+12g12d12g12a+12<d12>a+12g^32  a+<d>a+<d>a+<d>a+<d>ga+ga+ga+ga+  
+d12g12a+12<d12>a+12g12d12g12a+12<d12>a+12g12  <c4o6a+8^32g4r^32e8^
+;7
+
+l16
+{8}
+l16%e1v34p127|0o6r8  
+^f4r4^8^32f12f12f12f  ^32f8^32d+^32f8^32r4f12f12f12f  ^32f8^32d+^32f8^32r4f12f12f12f  
+^32f8ccc8ccc8ccc $8 o6a4  r4^8^32a12a12a+12<c^32d+8^32>f^32  <d8^32>f^32<c8^32>f^32a+8^32f^32a8^32g^32  
+a4r4<f12f12f12c4  f12f12f12c4f12f12f12>a4  r4^8^32a12a12a+12<c^32d+8^32>f^32  
+<d8^32>f^32<c8^32>f^32a+8^32f^32a8^32g^32  a4r4<f12f12f12c4  f12f12f12c4f12f12f12>g4  
+r4^8^32a^32a+8^32<d^32a+4  a4g4f4d+8^32d+^32  d4r8^32>a+12a+12<c12d^32d8^32d^32  
+c4r2>g4  r4^8^32a^32a+8^32<d^32a+4  a4g4f4e^32de^32  c4r8^32>g12g12g12g12e12d12e^32  
+c4r8^32c12c12c12c^32f4  r2a+4a+8^32a+^32  a4r2f4  r2a+4a+8^32a+^32  
+a4r2g12a+12<d12  f12d12>a+12g12a+12<d12f12d12>a+12<g12a12g12  f12g12f12e12f12e12d12e12d12>g12a+12<d12  
+f12d12>a+12g12a+12<d12f12d12>a+12<e8^f  d8^ec8^d>a+8^<c
+;8
+
+l16

@@ -1,0 +1,115 @@
+#TITLE The Sandy Beach of Ganbo
+#ALBUM Grandia
+#COMPOSER Noriyuki Iwadare
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x60 ## violin (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x0C ## piano (FF6)
+#WAVE 0x23 0x32 ## acoustic guitar (FF6)
+#WAVE 0x24 0x05 ## cello (FF6)
+
+{1}
+l16t63%v20%e1%b0,70%f0,0v80p64|0o6r1  ^1  ^1  ^1  
+^1  ^2^4%r10m48,24,227<c+8e8  >b2^4<c+8e8  g+2^4e8f+8  
+g+8a8a8g+8g+8f+8e8f+8  g+2^4g+8a8  c+2^4g+8a8  f+4^8e8d+8^e8^f+8  
+>b1  ^2^4<c+8e8  >b2^4<c+8e8  g+2^4e8f+8  
+g+8a8a8g+8g+8f+8e8f+8  <c+1  ^2d+4c+4  >b4^8g+8<c+4^8>g+8  
+b8a4g+ac+1  e4f+4g+1  ^1  
+v50|4%r10r4>g+4f+2  [3r4g+4f+2  ]r4a4g+2  r4a4f+2  
+r4g+4f+2  r2^4v80p64|0%r10<c+8e8  >b2^4<c+8e8  g+2^4e8f+8  
+g+8a8a8g+8g+8f+8e8f+8  <c+1  ^2d+4c+4  >b4^8g+8<c+4^8>g+8  
+b8a4g+a<e1  r8v50|4%r10o5b8<e8f+8a8^32g+8^f+^32e  e2e2  r8v80|0%r10b8<e8f+8a8^32g+8^f+^32e  
+b8^32a8^g+^32aa4f+4  
+;
+
+l16
+{2}
+l16%e1v100p64|1o5r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^4%a4%r10>b4a2  r4b4a2  r4b4a2  
+r4b4a2  r4<c+4>b2  r4<c+4>b2  r4b4a2  
+
+;
+
+l16
+{3}
+l16%e1v100p64|3o5o4e8g+8<e4o4d+8b8<d+4  o4c+8g+8<c+4>g+2  
+>b2o4c+8g+8<c+4  o3f+8o4c+8f+4o2b8<b8<f+4  o3e8b8<e2^8>b8  [5e8b8<e2^8>b8  
+]f+8o4c+8f+2^8c+8  o3f+8o4c+8f+4>b2  [5e8b8<e2^8>b8  ]a8<e8a2>a8g+8  
+g1  g+8o4d+8g+4c+8g+8<c+4  o3f+8o4c+8f+4>b1  ^2e8b8<e2  
+^8>b8e8<e2^4  ^8[4o3e8b8<e2^4  ]o3f+8o4c+8f+2^4  o3f+8o4c+8f+4>b2  
+[5e8b8<e2^8>b8  ]a8<e8a2>a8g+8  g1  g+8o4d+8g+4c+8g+8<c+4  
+o3f+8o4c+8f+4a2  >a2e8b8<e4  o3a8o4e8a4o3c8g8<c4  o2b8o3f+8b4e8b8<e4  
+o3a8o4e8a4o3c8g8<c4  o2b8o3f+8b4e8b8o4e8g+8  b2>e1  ^2
+;
+
+l16
+{4}
+l16%e1v120p64|2o5r8b8<e8f+8  
+g+4^^32a12b12<c+4^8>g+8  a^32g+^32f+f+12e12f+12e8>g+8a8b8  <c+4>b4r8a8b8<c+8  
+e4f+4g+4>g+4  f+2[5r4g+4  f+2]r4a4  g+2r4a4  
+f+2[5r4g+4  f+2]r4^8c+8  e8a8<c+8>b8a+1  b2<c+4>b4  
+r4a4a1  e4f+4g+4g+4  f+2[5r4g+4  f+2]r4a4  
+g+2r4a4  c+32a32<c+2r8^>g+4  f+2[4r4g+4  f+2]r4^8c+8  
+e8a8<c+8>b8a+1  b2<c+4>b4  r4a4<c2  <e8c8>a8e8g+4>e4  
+c+4a4g2  e4f+4g+4g+4  c+4a4g2  e4f+4b2  
+o4g+8<d+8g+8b8o6d+32b1  ^4^8^^32
+;
+
+l16
+{5}
+l16%e1v120p64|2o5r2<d+4  
+^^32r8^32g+4^8r8f+8^32r4  ^8^^32>e8e8g+8g+4g+4  r8e4^8<c+4d+4  e4>d+4c+2  
+[5r4d+4c+2  ]r4f+2^4  r4f+4c+2  [5r4d+4c+2  
+]r2^4a8g+8  g1  f+2g+4g+4  r4e4e1  
+c+2r4d+4  c+2r4d+4  c+4o7v100c+8e8>b2  ^4<c+8e8g+2  
+^4e8f+8g+8a8a8g+8  g+8f+8e8f+8g+2  ^4g+8a8c+2  ^4g+8a8f+4o5f+8o7e8  
+d+8^e8^f+8>b1  r4>d+4c+2  [3r4d+4c+2  ]r2^4a8g+8  
+g1  f+2g+4g+4  r4e4a2  o7c8>a8e8c8e4o4b4  
+r4<e4e2  c+4d+4r4e4  >a4<e4e2  c+4d+4g+2  
+r2b32<g+1  ^4^8^^32
+;
+
+l16
+{6}
+l16%e1v120p64|2o5r2b4  ^^32r8^32<e4^8r8c2  
+r8o4b8<c+8e8f4f4  r8c+4^8a4b4  b4>b4a2  [5r4b4a2  
+]r4<c+2^4  r4c+4>a2  [5r4b4a2  ]r2^4<e8e8  
+e1  d+2f4f4  r4c+4c+1  >a2[4r4b4  
+a2]r4<d+4  c+2r4>b4  a2r4<c+2  ^4r4c+4>a2  
+[5r4b4a2  ]r2^4<e8e8  e1  d+2f4f4  
+r4c+4f+2  r2b4>g+4  r4<c+4c2  >a4b4r4b4  
+e4<c+4c2  >a4b4<e2  
+;
+
+l16
+{7}
+l16%e1v120p64|2o5r1  <c+4^8r1  
+^1  ^8>f+4a4g+4r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  d+4c+2r4  d+4c+2r4  >b4a2r4  
+<d+4c+2r4  f+2^4r1  ^4d+4c+2  
+;
+
+l16
+{8}
+l16%e1v120p64|2o5r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^2^4<c+8e8  >b2^4<c+8e8  
+g+2^4e8f+8  g+8a8a8g+8g+8f+8e8f+8  g+2^4g+8a8  c+2^4g+8a8  
+f+4^8e8d+8^e8^f+8  >b1  
+;
+
+l16

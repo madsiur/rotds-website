@@ -1,0 +1,121 @@
+#TITLE Battle 1
+#ALBUM doranarasi Music
+#COMPOSER doranarasi
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x48 ## trumpet (RS3)
+#WAVE 0x21 0xC0 ## cymbal (RS3)
+#WAVE 0x22 0x4F ## closed hi-hat (RS3)
+#WAVE 0x23 0x4E ## open hi-hat (RS3)
+#WAVE 0x24 0x65 ## tam (RS3)
+#WAVE 0x25 0x64 ## soft bass drum (RS3)
+#WAVE 0x26 0x56 ## snare drum 2 (RS3)
+#WAVE 0x27 0x44 ## strings (RS3)
+#WAVE 0x28 0x40 ## slap bass (RS3)
+
+{1}
+l16t152%v50%b0,70%f0,0 $6 |7%e1p45o5v77bagf+agf+egf+edf+edc+  
+>b2<d>b<df+af+ab  <c+2d8.c+8.>b8  b1  ^1  
+<|0m16,18,209v60p60o6[2[2d2>b8.<c+8.d8  e4.dej2,1 f+8.e8.d8  c+2d8.c+8.>e8  
+a1  <] $1 j2,2 f+8.e8.f+8a8.g8.f+8  e8.f+8.g8f+1  ] $2 >a8.<d8.c+8c+4.>b2  
+^8[2|7p45v77mo5bbb8r4>p64v80b8.<c+8.  d8f+4.e4a8g8  f+8e4d4c+4d4  
+f+2e8.f+8.e8  d+4>b4<b4a4  a8.g8.f+8e2  g8.f+8.e8d4c+4  
+d8.e8.f+8e8.f+8.g8  f+8.g8.a8g8.a8.b8  <c+2d8.c+8.>b8  <c+1  
+>|0m16,18,209v60p60o5b2b8.<c+8.d8  c+2c+8.>b8.<e8  a4g4f+4e4  f+2e8.f+8.g8  
+a4.d4.f+4  e2e8.d8.>b8  <c+1  d8.c+8.>b8a8.b8.<c+8  
+d8.c+8.d8e8.d8.e8  f+8.e8.f+8a8.j2,3 f+8.a8  b1  >m|7p45v77o5bagf+agf+egf+edf+edc+  
+>b2<d>b<df+af+ab  <c+1  |0m16,18,209v60p60o6[2[2d2>b8.<c+8.d8  e4.dej2,4 f+8.e8.d8  
+c+2d8.c+8.>e8  a1  <] $4 j2,5 f+8.e8.f+8a8.g8.f+8  e8.f+8.g8f+1  
+] $5 f+8.a8.<d8c+4.>b2  ^8>] $3 <d8.c+8>b1  >m
+;6
+
+l16
+{2}
+l16p64%e0|5v120p64o5g+4g+4g+8[6|6v120p64o5g+]p21[4|2v50p22o5b8bb]p64[8|6v120p64o5g+  
+]g+8.g+8.g+8 $11 p21[6|3v60p22o5b8|2v50bb]|3v60b8|4v100o5v96%r22p42bb  
+p62ggp105ff%y[2[2[2p21[12|3v60p22o5b8|2v50bb]j2,7 [2|3v60b8|2v50bb]|3v60b8|4v100o5v96%r22p42bb  
+p62ggp105ff%y] $7 j2,8 [2b8|2v50bb]|3v60b8p64|6v120p64g+g+g+8g+g+  
+] $8 |6v120p64g+8g+4.|4v100o5v96%r22p42bbbp62gggp105ff  %y[2p21[15|2v50p22o5b8b8b8bb]j2,9 b8b8b|4v100o5v96%r22p42bp62gp105f  
+%yp21[6|3v60p22o5b8|2v50bb]|3v60b8p64[6|6v120p64o5g+]] $9 |2v50p22bp64|6v120p64g+8g+|4v100o5v96%r22[8rp42bp62gp105f]%yp64|6v120p64o5g+8  
+g+g+[2p21[4|2v50p22o5b8bb]j2,10 p64|5v120p64g+4g+4g+8  [6|6v120p64o5g+]] $10 p64[8|6v120p64o5g+]g+8.g+8.g+8]
+;11
+
+l16
+{3}
+l16 $15 |8p64v120%r15o6%e0f+4e4  
+d4c+4>[5b8]a8b8<d8  [4c+8]d8.c+8.>[6b8]a8b8f+8  [5b8]<d8c+8>b8[2[2[4b8<br>][4a8<ar  
+>][4g8<gr>][4f+8<f+r>][4g8<gr>][4a8<ar  >]j2,12 [4g8<gr>][4f+8<f+r>]] $12 [2b8<br>]b8a8  
+b8<d8>b8b8<r2  m48,-6d4>f+8e8f+8a8f+8e8  f+8c+8g8f+8g8b8g8f+8  g8e8[2b8a8b8f+8]b4  
+b4<c+4d+4>[4b8]<[4c+8  ]>[4f+8]b8b8a8a8[4g8][4a8][4b8  ]<[4c+8]>[4f+8][4g8][4a8]a8.<a8.e8  
+>[2[5b8]a8b8j2,13 f+8] $13 <d8d4c+4  >b4<c+4>b8<c+8>b8a8  b8a8b8f+8<[8d8]>[8a8]<[8f+8][4c+8  
+]>[4b8][4g8][4a8][4b8]<[4c+8]>b8a8b8  <c+8>b8a8b8f+8<j2,14 f+4e4  
+d4c+4>[5b8]a8b8<d8  [4c+8]>f+4<m48,-6f+4>] $14 
+;15
+
+l16
+{4}
+l16 $18 |7p55v64%e1o5f+4e4  
+d4c+4>f+2  f+8a8<c+8f+8a2  b8.a8.f+8f+1  ^1  
+[2>[2b2f+4b4  <c+2>a4<c+4  >b2b8.a8.c+8  f+1  
+b2f+4b4  <j2,16 c+4>b4a4b4  <f+8.e8.d8c+8.d8.e8  c+4>b4a4g4  
+] $16 c+2>a4<c+4  >f+2bf+b<df+df+a  f+f+f+8>r2^4  b2^4<d4  
+c+4>b4a4b4  <d2c+8.d8.c+8  >b4g4<g4f+4  f+8.e8.d+8c+2  
+e8.d8.c+8>b4a4  b8.<c+8.d8c+8.d8.e8  d8.e8.f+8e8.f+8.g8  f+2g8.f+8.g8  
+a2<|0m16,18,209v60p60o6e8.d8.c+8  >m|7p55v64o5d2d8.e8.f+8  e4g4f+4e4  
+f+4e4d4c+4  d4c+4>b4a4  <f+4.>b4.<d4  c+2>a2  
+f+2a2  b2a2  b8.a8.b8<c+8.>b8.<c+8  d8.c+8.d8e8.d8.e8  
+f+1  j2,17 f+4e4d4c+4  >f+2f+8a8<c+8f+8  a1  
+] $17 
+;18
+
+l16
+{5}
+l16 $21 |7p78v64%e1o5d4c+4>b4a4  d2a2  <f+2>a2  
+<d1  ^1  [2>[2f+2c+4f+4  a2e4a4  
+f+2>b2  <c+1  f+2c+4f+4  a2e4j2,19 f+4  
+<c+8.>b8.a8g8.a8.b8  a4g4f+4e4  ] $19 a4b2d8f+8  a8<c+8ddd8r2  
+^4>f+1  a4g4f+4g4  b2a2  f+4d4<c+4d4  
+d8.c+8.>b8%l1agab<c+>b<c+e  %l0c+8.>b8.a8g4f+4  g2a2  b2<c+2  
+>c+2d2  e1  b2b8.<c+8.d8  c+4e4d4c+4  
+a4g4f+4e4  f+4e4f+4g4  d4.>g4.b4  a1  
+c+1  c+2e2  g2a2  b2<c+2  
+d1  j2,20 d4c+4>b4a4  d2a2  <f+1  
+] $20 
+;21
+
+l16
+{6}
+l16%e1[2p40|1v80p32o5b4p96a+4]%e0p64[4|5v120p64o5g+4][8g+]g+8.  
+g+8.g+8 $25 [6g+4]g+2  [2[3[14g+4]g+2][12g+4  ]g+8g+2^4.  [2[4|5v120p64o5g+4|6v120g+4|5v120g+8g+8j4,22 |6v120g+4  
+] $22 j2,23 g+8|5v120g+8] $23 |6v120g+4[6|5v120p64o5g+4]g+2  [4|5v120p64o5g+4|6v120g+4|5v120g+8g+8j4,24 |6v120g+4  
+] $24 g+8|5v120g+8[3|5v120p64o5g+4|6v120g+4|5v120g+8g+8  |6v120g+4]|5v120g+4|6v120g+8|5v120g+8g+4  
+|6v120g+4|5v120g+4g+4g+4  |6v120g+4|5v120g+4|6v120g+4|5v120g+2  
+g+4|6v120g+4|5v120g+8g+8|6v120g+8g+g+  %e1[2p40|1v80p32o5b4p96a+4]%e0p64[4|5v120p64o5g+4][8g+]g+8.  
+g+8.g+8]
+;25
+
+l16
+{7}
+l16 $28 |7p64v72o4%e1b4a4g4  f+4>b1  a1  b1  
+^1  [2[2v78%l1[3babf+]b<dc+>b%l0%l1[3agae]a<c+>ba  %l0%l1[3gf+gd]gbag%l0%l1[3f+ef+c+]f+agf+  
+%l0%l1[4gf+gd]%l0%l1[4agae]%l0%l1[2babf+]j2,26 babf+  bab<d%l0v72c+4>b4a4  
+g4] $26 %l0v72b4<f+4b8b8  r2^4>b1  a1  b2f+2  
+b2<c+4d4  >b2<c+2  >f+2b2  g2a2  
+b2<c+2  >f+2g2  a1  b1  
+<c+1  d4c+4>b4<c+4  >b2a2  <d1  
+>a1  f+1  c+2f+2  b2<c+2  
+d2e2  f+1  j2,27 b4a4g4f+4  >b1  
+a1  ] $27 
+;28
+
+l16
+{8}
+l16%e1r1  |1v100p64o5b1  r2b8.p88a+8.p40b8  
+ $29 p64b1  r1  [2[6b1  r1  
+r1  r1  ]b1  r1  
+[2b1  r1  r1  r1  
+][2b4p88a+4p40b2  ]b1  r1  b1  
+r2b8.p88a+8.p40b8  ]
+;29
+
+l16

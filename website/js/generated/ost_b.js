@@ -1316,7 +1316,7 @@ const ost_b =
         "title": "Future Fuckballs 2010",
         "game": "Angry Video Game Nerd Adventures",
         "composer": "FreakZone Games",
-        "arranger": "Jakcimus",
+        "arranger": "Jackimus",
         "dir": 2,
         "duration": 328
     },
@@ -2002,8 +2002,8 @@ const ost_b =
     },
     {
         "id": 213,
-        "filename": "mmx_storm_eagle",
-        "title": "Storm Eagle (Storm Eagle & Flame Mammoth mix/medley)",
+        "filename": "mmx_storm_mammoth",
+        "title": "Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley)",
         "game": "Mega Man X",
         "composer": "Alph Lyla group",
         "arranger": "Jackimus",
@@ -2216,7 +2216,7 @@ const ost_b =
         "title": "Battle 3",
         "game": "Lufia 1",
         "composer": "Yasunori Shiono",
-        "arranger": "Gi Nattak",
+        "arranger": "emberling",
         "dir": 2,
         "duration": 145
     },

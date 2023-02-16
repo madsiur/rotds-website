@@ -1,0 +1,109 @@
+#TITLE Solid State Scouter
+#ALBUM Dragon Ball Z
+#COMPOSER Fuminori Iwazaki
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0xB4 ## synth strings (GH)
+#WAVE 0x21 0xC3 ## synth (TOTR)
+#WAVE 0x22 0x5B ## orch hit (THG)
+#WAVE 0x23 0x12 ## cymbal (FF6)
+#WAVE 0x24 0xAA ## synth bass (GH)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x56 ## snare drum 2 (RS3)
+#WAVE 0x27 0x4F ## closed hi-hat (RS3)
+
+{1}
+l16t150%v32%b0,70%f0,0%e1v60p34|0o5r1  ^1  d+1  d1  
+d+1  c+1  c1  d1  
+d+1  f1   $1 o5v70p64|1r8g8<c8f8d+8>a+8r8g8  <c8f8d+8>a+8r2  
+^8g8<c8f8d+8>a+8r8g8  <c8f8d+8>a+8r2  ^8g8<c8f8d+8>a+8r8<m24,+1f+8  
+^rg8f8f8d8>a+8f8g2  ^8r2d+4^8  f8^rf4^8r8g8<c8  f8d+8>a+8r8g8<c8f8d+8  
+>a+8r2^8g8<c8  f8d+8>a+8r8g8<c8f8d+8  >a+8r2^8g8<c8  f8d+8>a+8r8<m24,+1f+8^rg8f8  
+f8d8>a+8f8g2  <c2r2  ^4^8c8d8d+4d8  d+8^rf8^rd2  
+^8r4c8d8d+4d8  d+4f4g4d2  r8c8d8d+4d8d+4  f4d2^4  
+r8c8d8d+4d8d+4  f4g2^8b2  
+;1
+
+l16
+{2}
+l16%e1v60p94|0o5r1  ^1  
+c1  f+1  g1  f1  
+d+1  f+1  g1  g+1  
+ $2 g1  ^1  ^1  ^1  
+d+1  f1  g1  ^1  
+g1  ^1  ^1  ^1  
+d+1  f1  g1  ^1  
+>g+1  a+1  g+1  a+1  
+<c1  d1  c1  d1  
+
+;2
+
+l16
+{3}
+l16%e1v100p64|2o5r8g8<c8f8d+8>a+8r8g8  <c8f8d+8>a+8<c8>f8g8g+8  
+<c8r1  ^1  ^1  ^1  
+^1  ^1  ^2^4^8v60p34|0>c+1   $3 d+1  
+^1  ^1  ^1  c1  
+d1  d+1  c4^8d8^rd4^8  d+1  
+^1  ^1  ^1  c1  
+d1  d+1  ^1  >f1  
+g1  f1  g1  g+1  
+a+1  g+1  a+1  <
+;3
+
+l16
+{4}
+l16%e1r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1   $4 v80p64|0o5c1  ^1  ^1  
+^1  >g+1  a+1  <c1  
+|1v70g+4^8a+8^ra+4^8  |0v80c1  ^1  ^1  
+^1  >g+1  a+1  <c1  
+^1  v120|3%e0%r16c+1  r1  c+1  
+r1  c+1  r1  c+1  
+v70|1%e1g1  
+;4
+
+l16
+{5}
+l16%e1v120p64|4r1  ^1  [8o7>cr<cr>cr<cr>cr<cr>cr<cr  
+] $5 o7[4>cr<cr>cr<cr>cr<cr>cr<cr  ]o5g+r<g+r>g+r<g+r>g+r<g+r>g+r<g+r  
+>a+r<a+r>a+r<a+r>a+r<a+r>a+r<a+r  cr<cr>cr<cr>cr<cr>cr<cr  o5a+r<a+r>a+ro6c8r8c8crcr  
+[4>cr<cr>cr<cr>cr<cr>cr<cr  ]o5g+r<g+r>g+r<g+r>g+r<g+r>g+r<g+r  
+>a+r<a+r>a+r<a+r>a+r<a+r>a+r<a+r  cr<cr>cr<cr>cr<cr>cr<cr  o5a+r<a+r>a+ro6c8r8c8crcr  
+[2>fr<fr>fr<fr>fr<fr>fr<fr  >gr<gr>gr<gr>gr<gr>gr<gr  ]>g+r<g+r>g+r<g+r>g+r<g+r>g+r<g+r  
+>a+r<a+r>a+r<a+r>a+r<a+r>a+r<a+r  >g+r<g+r>g+r<g+r>g+r<g+r>g+r<g+r  
+>gr<gr>gr<gr>gr<gr>gr<gr  
+;5
+
+l16
+{6}
+l16%e0v120p64o6r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1   $6 [24|5c4|6d8r8|5c8c8|6d8r8  
+]
+;6
+
+l16
+{7}
+l16%e0v60p64|7o5r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1   $7 [24r8f+f+r8f+f+r8f+f+r8f+f+  ]
+;7
+
+l16
+{8}
+l16p64r1  
+^1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^1   $8 o5|3%e0%r16v120c+1  r1  ^1  
+^1  ^1  ^1  ^1  
+^4^8|4%e1c8r8c8crcr  |3%e0%r16c+1  r1  ^1  
+^1  ^1  ^1  ^1  
+^4^8|4%e1c8r8c8crcr1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^
+;8
+
+l16

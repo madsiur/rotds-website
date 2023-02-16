@@ -77,7 +77,7 @@ def mass_extract(fn):
     for i in range(1, 256):
         brrs[i] = config[c.BRR_SECTION][f"{i:02X}"].split(";")
 
-        if(len(brrs[i]) > 3):
+        if len(brrs[i]) != 3:
             print(f"bad sample {str(song_idx)} metadata")
             sys.exit()
 
@@ -181,12 +181,10 @@ def mass_extract(fn):
             
             ## Deal with metadata
             meta_cfg = config[romfile][song_idx_string].split(';')
-            if(len(meta_cfg) > 6):
+            if len(meta_cfg) != 6:
                 print(f"bad song {str(song_idx)} metadata")
                 sys.exit()
 
-            while len(meta_cfg) < 6:
-                meta_cfg.append("")
             for i in range(len(meta_cfg)):
                 meta_cfg[i] = meta_cfg[i].strip()
                 
@@ -210,6 +208,7 @@ def mass_extract(fn):
             spc[0x23] = 0x1A
             spc = byte_insert(spc, 0xAC, b"\x35\x30\x30\x30")
 
+            #duration = 1
             try:
                 duration = int(round(mfvi_trace(spc[0x1D00:0x4900])))
             except IndexError:

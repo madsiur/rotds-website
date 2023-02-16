@@ -1,0 +1,31 @@
+#TITLE Goodnight Until Tomorrow
+#ALBUM Final Fantasy VII
+#COMPOSER Nobuo Uematsu
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1B ## harp (FF6)
+#WAVE 0x21 0x5E ## flute (FF6)
+
+{1}
+l16t60%v32v68p60%e1%b0,70%f0,0|0o5<e>a<c+eg+4>df+a<c+ed>af+  
+f+a<c+eg+f+ba+32a32g+2  
+;
+
+l16
+{2}
+l16v68p60%e1|1o4<g+8e8e8c+8c+8>a8f+8a8  
+v255,0a1  
+;
+
+l16
+{3}
+l16v31p60%e1|1o4>f+4d4>b4g4  v255,0f+1  
+;
+
+l16
+{4}
+l16v68p60%e1|1o4r1  
+v255,0e1  
+;
+
+l16

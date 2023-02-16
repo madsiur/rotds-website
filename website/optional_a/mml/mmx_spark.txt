@@ -1,0 +1,130 @@
+#TITLE Spark Mandrill
+#ALBUM Mega Man X
+#COMPOSER Alph Lyla group
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1E ## distortion guitar (FF6)
+#WAVE 0x21 0xC1 ## e.guitar synth (EB)
+#WAVE 0x22 0x44 ## strings (RS3)
+#WAVE 0x23 0x02 ## electric bass (FF6)
+#WAVE 0x24 0x11 ## open hi-hat (FF6)
+#WAVE 0x25 0x5F ## hard snare (FF6)
+#WAVE 0x26 0x35 ## melodic tom (UNK)
+#WAVE 0x27 0x22 ## kick drum (FF6)
+
+{1}
+l16t163%v20%b0,70%f0,0%x240%e1v60p64|0o6%r8r8%l1c+32d+^32%l0c+8c8c+8c8>g+8a+8  
+^ra+a+ $1 a+ra+a+a+ra+a+a+ra+a+  [3a+ra+a+a+ra+a+a+ra+a+a+ra+a+  
+g+rg+g+g+rg+g+g+rg+g+g+rg+g+  g+rg+g+g+rg+g+g+rg+g+g+rg+g+  a+ra+a+a+ra+a+a+ra+a+a+ra+a+  
+]a+ra+a+a+ra+a+a+ra+a+a+ra+a+  g+rg+g+g+rg+g+g+rg+g+g+rg+g+  g+rg+g+g+rg+g+g+rgrf+rf8  
+^rfffrfffrfffrff  frfffrfffrfffrff  a+ra+a+a+ra+a+<crcccrcc  c+rc+c+c+rc+c+c+rc+c+c+rc+c+  
+>g+rg+g+g+rg+g+g+rg+g+g+rg+g+  g+rg+g+g+rg+g+g+rg+g+g+rg+g+  frfffrfffrfffrff  
+frff<d+4r8d4r8  >f+rf+f+f+rf+f+f+rf+f+f+rf+f+  g+rg+g+g+rg+g+g+rg+g+g+rg+g+  
+frfffrfffrfffrff  a+ra+a+a+ra+a+g+rg+g+g+rg+g+  f+rf+f+f+rf+f+f+rf+f+f+rf+f+  
+frfffrfffrfffrff  r8<%l1c+32d+^32%l0c+8c8c+8c8>g+8a+1  ^8r1  
+^1  a+ra+a+
+;1
+
+l16
+{2}
+l16%e1v60p64|0o6%r8r8>%l1f+32g+^32%l0f+8f8f+8f8  
+c+8d+8^rd+d+ $2 d+rd+d+d+rd+d+  d+rd+d+[2d+rd+d+d+rd+d+d+rd+d+  
+d+rd+d+][3c+rc+c+c+rc+c+c+rc+c+  c+rc+c+d+rd+d+d+rd+d+d+rd+d+  d+rd+d+d+rd+d+d+rd+d+d+rd+d+  
+d+rd+d+d+rd+d+d+rd+d+d+rd+d+  d+rd+d+]c+rc+c+c+rc+c+c+rcr  >bra+8^ra+a+a+ra+a+a+ra+a+  
+a+ra+a+a+ra+a+a+ra+a+a+ra+a+  a+ra+a+<d+rd+d+d+rd+d+frff  frfff+rf+f+f+rf+f+grgg  
+grggd+rd+d+d+rd+d+d+rd+d+  d+rd+d+c+rc+c+c+rc+c+c+rc+c+  c+rc+c+>a+ra+a+a+ra+a+a+ra+a+  
+a+ra+a+a+ra+a+<a+4r8a+4  r8>brbbbrbbbrbbbr  bb<c+rc+c+c+rc+c+c+rc+c+c+r  
+c+c+>a+ra+a+a+ra+a+a+ra+a+a+r  a+a+<d+rd+d+d+rd+d+c+rc+c+c+r  c+c+>brbbbrbbbrbbbr  
+bba+ra+a+a+ra+a+a+ra+a+a+r  a+a+r8<%l1f+32g+^32%l0f+8f8f+8f8c+8  
+d+1  ^8r1  ^1  d+rd+d+
+;2
+
+l16
+{3}
+l16%e1v40p34|1o5m24,18,239%r8r8^^32<%l1f+32g+^32%l0f+8f8f+8f8  
+c+8d+1   $3 r4>a+8<f8>a+8<f+8>a+8<g+8  >a+8<%l1g+32a+8^32%l0rg+8g+4^8r8  
+f+8fd+c+2^8d+>f+  a+<c+d+2^4^8  r4>a+8<ff>a+8<f+f+>a+8<g+g+  >a+8<%l1g+32a+8^32%l0rg+8g+8^rf+8d+8  
+f4c+2>r32d+f+a+<c+  m>|2v80d+2f2  f+2a+2  g+2a+2  
+b2<c+2  >d+2f2  f+2a+2  g+2a+2  
+b2<c+2  r8<|1v40m24,18,239%r8>ff+f8d+8f8>f+8<d8f8  d+8r8d8r8c8r8d8r8  
+d+f4rd+4^rd4  r8>f+a+<d+8^rdd+f8d+ff+8  r32b1  f1  
+>a+1  %l1a+32b32<c+32d+32f32f+32g+32a+32%l0<d+8^r8^d4^8  r4>g+a+4^8ra+g+fd+  
+%l1d+32f^32%l0f8g+8d+f4rd+24f24d+24c+8  d+f8^fd+c+>a+<c+>a+<cc+d+ff+g+  
+a+<d+f+>a+<d+f+>a+<d+>g+<c+f>g+<c+f>g+<c+  >a+b4^ba+f4^rf+f  d+4^rd+>a+<d+cc+d+ff+g+a+  
+r8%l1f+32g+^32%l0f+8f8f+8f8c+8d+2  ^4^8^r1  ^1  >a+b<c+dd+2^4  
+^8
+;3
+
+l16
+{4}
+l16%e0v100p64|3%r8r8o6g+8f+8f8f+8f8c+8  d+8r8d+d+ $4 g+a+c+dd+8d+d+g+a+  
+c+dd+8d+d+g+a+c+dd+8d+d+g+a+  c+dg+8g+g+<c+d+>f+gg+8g+g+<c+d+  >f+gc+8c+c+f+g+>b<cc+8c+c+f+g+  
+>b<cd+8d+d+g+a+c+dd+8d+d+g+a+  c+dd+8d+d+g+a+c+dd+8d+d+g+a+  c+dg+8g+g+<c+d+>f+gg+8g+g+<c+d+  
+>f+gc+8c+c+f+g+>b<cc+b<c+>c+<ef  c+>g+d+8d+d+g+a+c+dd+8d+d+g+a+  
+c+dd+8d+d+g+a+c+dd+8d+d+g+a+  c+dg+8g+g+<c+d+>f+gg+8g+g+<c+d+  >f+gc+8c+c+f+g+>b<cc+8c+c+f+g+  
+>b<cd+8d+d+g+a+c+dd+8d+d+g+a+  c+dd+8d+d+g+a+c+dd+8d+d+g+a+  c+dg+8g+g+<c+d+>f+gg+8g+g+<c+d+  
+>f+gc+8c+c+f+g+>b<cc+b<c+>c+<ef  c+>g+>a+8a+a+a+8a+a+a+8a+a+a+8  
+a+a+a+8a+a+a+8a+a+a+<d+f>a+o7c+d+  >g+a+d+8d+d+g+a+d+d+f8ffa+<c  
+>fff+8f+f+b<c+>f+f+g8gg<f+g  >ggg+8g+g+<c+d+>f+gg+8g+g+<c+d+  >f+gc+8c+c+f+g+>b<cc+8c+c+f+g+  
+>b<c>a+8a+a+a+8a+a+a+8a+a+a+8  a+a+a+8a+a+a+8a+a+a+<g+a+d+fc+  d+>a+b8bbb<a+b>bb8bbb<a+  
+b>b<c+8c+c+c+b<c+>c+c+8c+c+c+b  <c+>c+>a+8a+a+<a+8>a+a+a+8a+a+<a+8  
+>a+a+<d+8d+d+d+8d+d+c+8c+c+c+8  c+c+>b8bbb<a+b>bb8bbb<a+  b>ba+8a+a+a+<g+a+>a+a+8a+a+a+<g+  
+a+>a+r8<g+8f+8f8f+8f8c+8  <d+8>d+1  r1  ^1  
+d+8d+d+
+;4
+
+l16
+{5}
+l16%e1v60p94|1o5m24,18,239%r8r8<%l1f+32g+^32%l0f+8f8f+8f8  
+c+8d+1   $5 v60r4>a+8<f8>a+8<f+8>a+8<g+8  >a+8<%l1g+32a+8^^32%l0g+8g+4^8^r  
+f+8fd+c+2^rd+>f+  a+<c+d+2^4^8  r4>a+8<ff>a+8<f+f+>a+8<g+g+  >a+8<%l1g+32a+8^^32%l0g+8g+8^rf+8d+8  
+f4c+2^r>d+f+  a+<c+v80%l1c+32d+2^4^^32  r4>a+8<f8>a+8<f+8>a+8<g+8  
+>a+8<%l1g+32a+8^^32%l0g+8g+4^8^r  f+8fd+c+2^rd+>f+  a+<c+d+2^4^8  
+r4>a+8<ff>a+a+<f+f+>a+a+<g+g+  >a+a+<%l1g+32a+8^^32%l0g+8g+8^rf+8d+8  
+f1  r4g+a+g+8f+8g+8>a+8<d8  g+8f+8>a+8<f8>a+8<d+8>a+8<f8  >a+8<f+g+4rf+4^rf8  
+^r>f+a+<d+8^rdd+f8d+ff+4  r2^8g+a+g+8f+8  f8>g+8<c+8f8g+8f8g+8<c+8  
+%l1c+32d+^32%l0c+8>a+8<%l1c+32d+^32%l0c+8>a+8<%l1c+32d+^32%l0d1  
+r4^8c+d+4^8rd+c+  >a+g+%l1g+32a+^32%l0a+8<c+8>f+g+4rf+24g+24f+24  
+f8g+a+8^a+g+f+d+fc+d+ff+g+  a+b<%l1f32f+^32%l0f8%l1f32f+^32%l0f8%l1f32f+^32%l0f8c+8  
+d+8c+d+4^d+c+>a+4^r  a+g+f+4^rf+d+f+d+ff+g+a+  b<c+r8%l1f+32g+^32%l0f+8f8f+8f8c+8  
+d+2^4^8^r1  ^2^4^8^o5a+  b<c+dd+2^4^8  
+
+;5
+
+l16
+{6}
+l16o5r2^4^8|4%e1v50p34f+4  r8 $6 p94a+4a+4a+4a+4  a+4a+4a+4a+4  
+a+4a+4a+4p34f+4  p94a+4a+4a+4p34f+4  p94a+4a+4a+4[2a+4  a+4a+4a+4a+4  
+a+4a+4a+4a+4  a+4a+4a+4p34f+4  p94a+4a+4a+4]a+4  a+4a+4a+4a+4  
+a+4a+4a+4a+4  a+4a+4a+4p34f+4  r8p94a+4a+4a+4a+4  a+4a+4a+8p34f+4p94a+8  
+p34f+4p94a+8p34f+4p94a+8p34f+4  p94a+8p34f+4p94a+4p34f+4p94a+4  
+a+4a+4a+4a+4  a+4a+4p34f+4p94a+4  a+4a+4a+4a+4  a+4a+4p34f+4f+4  
+p94a+4a+4a+4a+4  a+4a+4p34f+4p94a+4  a+4a+4p34f+4p94a+8p34f+4  p94a+8p34f+4f+4p94a+4a+4  
+a+4a+4a+4a+4  a+4r8p34f+4^8p94a+4  a+4p34f+4rv100p64|5b8b8r|7c8  
+c8c8|4v50p34f+4|7%e0v100p64c8|5%e1b8|7%e0c8r1  ^4^8|4%e1v50p34f+4
+;6
+
+l16
+{7}
+l16%e1v100p64|5o5r8bbbb8  
+^|6p94ggp64eep34cc4^8^ $7 |5p64b2  b2b2  b2b2  b2^4|6p94ggp74gg  
+p54eep34cc4^|5p64b2  b2b2  b2b2  b4bbbb|6p94ggggp64eeee  
+p34cccc4^|5p64b2  b2b2  b2b2  b4b8bb8b8b|6p94g24g24p64e24e24p34c24c24  
+|5p64bb4^8^b2  b2b2  b2b2  b4bbbb|6p94ggggp64eeee  
+p34cccc4^|5p64b2  b2b2  b2b2  b2b4^8|6gg  
+eecc4^|5b2  b2b2  b2b2  b4v10v192,100%g1bbbbbbbbbbbb  
+bbb%g0b4^b2  b2b2  b2b2  b2b2  
+b2b2  b2b4b8bb8  b8b8b|6p94eep34cc8^|5v80p64bb8^b  b8^bbbbb8b8b4r4  
+bbb8^b8b8^b8bbbb  b24b24b24b|6v100p94g24g24g24gp64e24e24e24ep34c24c24c24c|5p64bbbb  
+r4
+;7
+
+l16
+{8}
+l16%e0v100p64|7o5r4^8cc4^8  ^c8 $8 [4c4^8^cc8cc4  
+cc8cc4cc8ccr4  c8cc4cc8ccr4  c4c4c4c4  ][6c8cc8^ccc8cc8^cc  
+]c8cc8^ccc8cc8^cc2  ^4^r4[5c8cc8^c  cc8cc8^cc]c8cc8^c  c4^r4c4^8c  
+c8^cc8^cc2  ^8c8c8c8c8r8c8r8  ^ccr4^8c4c4  c4c4
+;8
+
+l16

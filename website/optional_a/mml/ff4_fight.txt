@@ -1,0 +1,102 @@
+#TITLE Fight 1
+#ALBUM Final Fantasy IV
+#COMPOSER Nobuo Uematsu
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0E ## trumpet (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x12 ## cymbal (FF6)
+#WAVE 0x24 0x0F ## closed hi-hat (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x22 ## kick drum (FF6)
+
+{1}
+l16t168%v50%b0,70%f0,0v100p75|0%r0%e1r2 $3 m70,50,197r1  r1  
+o6[2a2<c2  f4e4d4c4  >b<c>bab2<c4  j2,1 d2>b4g4  
+r1  r1  ] $1 d2e4f4  [2g2d4f4  
+e1  r4d4e4f4  g4f4e4d4  e2>b4<d4  
+c1  r4>b4<c4d4  j2,2 e4d4e4f4  ] $2 e4d4c4>b4  
+a2b2  <c4d4e4f4  g2a2  b4<c4d4e4  
+fd>b<d>bg+fdbg+fg+fd>bg+  <fd>b<d>bg+fdbg+fdg+fd>b  
+;3
+
+l16
+{2}
+l16v90p85|0%r0%e1r2 $5 m75,50,197r1  
+r1  o6f2g2  a4g4f4e4  dedcd2e4  
+f2f4f4  r1  r1  f2g2  
+a4g4f4e4  g+ag+f+g+2a4  b2<c4d4  [2e2>b4<d4  
+c1  r4>b4<c4d4  e4d4c4>b4  <c2>g+4b4  
+a1  r4g+4a4b4  j2,4 <c4>b4<c4d4  ] $4 <c4>b4a4g4  
+f2g2  a4b4<c4d4  e2f2  g4a4b4<c4  
+d>bg+bg+fd>b<g+fdfd>bg+f  <d>bg+bg+fd>b<g+fd>b<fd>bg+  
+;5
+
+l16
+{3}
+l16v100p55|1%r3%e1m95,50,198o3f24g+24b24<d24f24g+24b24<d24f24g+24b24<d24 $6 r1  
+r2o6dc>bagfed  c1  ^1  d1  
+^1  a8<c8e8d+8g8f+8r8d+8  e4>b8<c4>g+8a8e8  c1  
+^1  d2^4e4  f2e4d4  [2e2g2  
+<c4d4e4g4  <c1  ^1  >>e2g+2  
+a4b4<c4e4  a1  ^1  >]a2g2  
+f1  e2f2  e1  d1  
+^1  
+;6
+
+l16
+{4}
+l16v90p45|1%r3%e1m90,50,198o4f24g+24b24<d24f24g+24b24<d24f24g+24b24<d24 $7 r1  
+r2o5bagfedc>b  a1  ^1  b1  
+^1  a8<c8e8d+8g8f+8r8d+8  e4>b8<c4>g+8a8e8  a1  
+^1  b2^4<c4  d2c4>b4  <[2c2d2  
+e4g4<c4d4  e1  ^1  >c2d2  
+c4d4e4a4  <c1  ^1  >]f2e2  
+d1  >b2a2  g1  g+1  
+^1  
+;7
+
+l16
+{5}
+l16v100p65|2%r13%e0r2 $8 o6[2a8a8a8a8  a8a8g8g8]f8<fr>f8<fr  
+>e8<er>e8<er>d8<dr>e8<er  >f8<fr>f+8<f+r>[8g8<gr>][2a8a8  a8a8a8a8g8g8]f8<fr  
+>f8<fr>e8<er>e8<er>d8<dr  >e8<er>f8<fr>f+8<f+r>[3g+8<g+r  >]a8<ar>[4e8<er>]c4.c8  
+g4.g8c4<c8>g4  g8b8g8c4.c8g4.  g8c8c8g8c4c8<c8  >b8a4.a8e4.  
+e8a4.a4a8e4  a4.a8e4.e8  a8a8e8<c4>b8<e8d8  >c4.c8g4.g8  
+c4<c8>g4g8b8g8  c4.c8g4.g8  c8c8g8c4c8<c8>b8  a4.a8e4.e8  
+a4.a4a8e4  a4.a8e4.e8  a8a8e8<c4>b8a8g8  [32f8]b1  
+^1  
+;8
+
+l16
+{7}
+l16v75p40|3%r13%e1r2 $9 o5r1  r2^4a1  
+r4r1  r1  r1  r1  
+a4.p90a4.p40a1  r4r1  r1  
+r1  [2p90a1  r1  r1  
+r1  p40a1  r1  r1  
+r1  ]r1  r1  r1  
+r1  a1  r1  
+;9
+
+l16
+{8}
+l16v25p70|4%r0%e0r2 $10 o5[8a4][32a8]a4  
+a4a4a4r1  [192a8]r1  r1  
+;10
+
+l16
+{6}
+l16v127p60|6%r0%e0o5r2 $12 |6v127o5a4a4  
+a4a4a4a4  |5v127o5a8|6v127o5a8|5v127o5a8|6v127o5a8[2a8r8|5v127o5a8r8  
+|6v127o5a8a8|5v127o5a8r8|6v127o5a8r8|5v127o5a8|6v127o5a8  r8a8|5v127o5a8|6v127o5a8]a8r8a8r8  
+a8r8a8r8a8|5v127o5aaa8|6v127o5a8  |5v127o5aaa8a8|6v127o5a8[2a8r8|5v127o5a8r8  
+|6v127o5a8a8|5v127o5a8r8|6v127o5a8r8|5v127o5a8|6v127o5a8  r8a8|5v127o5a8|6v127o5a8][4a8r8|5v127o5a8|6v127o5a8  
+a8r8|5v127o5a8|6v127o5a8a8r8|5v127o5a8|6v127o5a8  r8a8|5v127o5a8|6v127o5a8a8r8|5v127o5a8|6v127o5a8  
+a8r8|5v127o5a8|6v127o5a8j4,11 a8r8|5v127o5a8|6v127o5a8  r8a8|5v127o5a8aa|6v127o5] $11 a8r8|5v127o5a8r8  
+|6v127o5a8|5v127o5a8a8a8|6v127o5[2a8r8|5v127o5a8r8  |6v127o5a8a8|5v127o5a8r8|6v127o5a8r8|5v127o5a8|6v127o5a8  
+r8a8|5v127o5a8|6v127o5a8]|5v127o5a8r2  ^4r8r1  
+;12
+
+l16

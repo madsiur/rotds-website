@@ -2,12 +2,14 @@
 1 = ost_a
 2 = ost_b
 3 = sfx
+4 = optional_a
+5 = optional_b
+6 = optional_c
 
 [rotds_a.smc]
 01: dw3_battle; Battle Theme; Dragon Warrior 3; Koichi Sugiyama; Gi Nattak; 1
 02: bof_dejection; Dejection; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak; 1
 03: totr_worlds; Between Two Worlds; Treasure of the Rudra; Ryuji Sasai; Gi Nattak; 1
-04: ff6_wind; Wind; Final Fantasy VI; Minoru Akao; N/A; 3
 05: mkr_emeraude; Emeraude's Theme; Magic Knight Rayearth; Yayoi Wachi, Seirou Okamoto; Gi Nattak; 1
 06: dq_alefgard; Alefgard; DQ/FF4 Remix; Koichi Sugiyama, Nobuo Uematsu ; Gi Nattak, Jackimus; 1
 07: bl_jojo; Jojo and the God Dragons; Bahamut Lagoon; Noriko Matsueda; Gi Nattak; 1
@@ -33,7 +35,6 @@
 1B: lf_island; Island in the Void; Lufia 1; Yasunori Shiono; Gi Nattak; 1
 1C: feg_army; Army of Grannvale 2; Fire Emblem: Genealogy of the Holy War; Yuka Tsujiyoko; Gi Nattak; 1
 1D: lag_voice; Voice of Spirits; Lagoon; Hideki Suzuki; Gi Nattak; 1
-1E: ff6_river; Rushing River; Final Fantasy VI; Minoru Akao; N/A; 3
 1F: ys3_shock; Shock of the Death God; Ys III; Mieko Ishikawa; Gi Nattak; 1
 20: totr_zombies; Dance of the Zombies; Treasure of the Rudra; Ryuji Sasai; Gi Nattak; 1
 21: smtd_maridia; Maridia; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; 1
@@ -41,7 +42,6 @@
 23: ff8_way; Find Your Way; Final Fantasy VIII; Nobuo Uematsu; Gi Nattak; 1
 24: rs_conflict; The Conflict; Romancing Saga; Kenji Ito; Gi Nattak; 1
 25: rs3_vanguard; Vanguard Take Off 2; Romancing Saga 3; Kenji Ito; Gi Nattak; 1
-26: ct_blackbird; Blackbird Interior; Chrono Trigger; Minoru Akao; N/A; 3
 27: bof_romero; Romero Cave; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak; 1
 28: vp_anxieties; Eternal Hydrogen Anxieties; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; 1
 29: trnm_spirits; Wandering Spirits; Terranigma; Masanori Hikichi; Gi Nattak; 1
@@ -61,7 +61,6 @@
 37: kh2_afternoon; Lazy Afternoon; Kingdom Hearts II; Yoko Shimomura; Gi Nattak; 1
 38: xng_sleep; Back to Sleep; Xenogears; Yasunori Mitsuda; Gi Nattak; 1
 39: ff3_amur; Town of Amur; Final Fantasy III; Nobuo Uematsu; Gi Nattak; 1
-3A: ff6_ocean; Ocean; Final Fantasy VI; Minoru Akao; N/A; 3
 3B: lf2_sinistral; Sinistral Battle; Lufia II; Yasunori Shiono; Gi Nattak; 1
 3C: som_wind; The Wind Never Ceases; Secret of Mana; Hiroki Kikuta; Gi Nattak; 1
 3D: mrpnt_exercice; Creative Exercise; Mario Paint; Hirokazu Tanaka, Ryoji Yoshitomi, Kazumi Totaka; Gi Nattak; 1
@@ -77,7 +76,6 @@
 47: ff5_ronka; Machina Ronka; Final Fantasy V; Nobuo Uematsu; Gi Nattak; 1
 48: bld_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus; 1
 49: ffmq_doom; Doom Castle; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Gi Nattak; 1
-4A: ff6_burning; Burning House; Final Fantasy VI; Minoru Akao; N/A; 3
 4B: xnb_mechonis; Mechonis Field; Xenoblade; ACE+; Jackimus; 1
 4C: rmb_stage; Stage Theme; Rambo; Tohru Hasabe; Gi Nattak; 1
 4D: ct_tyrano; Tyrano Lair; Chrono Trigger Beta; Yasunori Mitsuda; Gi Nattak; 1
@@ -111,7 +109,6 @@
 69: cc_garden; Garden of the Gods; Chrono Cross; Yasunori Mitsuda; Gi Nattak; 1
 6A: mmx_boss; Boss Appears; Mega Man X; Alph Lyla group; Gi Nattak; 1
 6B: tc_ship; Salvage Ship; Treasure Conflix; Junya Nakano; Gi Nattak; 1
-6C: ct_wormhole; Wormhole; Chrono Trigger; Minoru Akao; N/A; 3
 6D: vp_world; Rise Above the World; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; 1
 6E: smtd_norfair; Lower Norfair; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; 1
 6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; 1
@@ -176,8 +173,6 @@ A9: ob_wall; Wall of Defense; Ogre Battle; Masaharu Iwata, Hitoshi Sakimoto; Gi 
 AA: shfc2_village; Elven Village; Shining Force II; Motoaki Takenouchi; Gi Nattak; 1
 AB: ct_lavos; Lavos Core; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; 1
 AC: mmpr_city; Stage 1, City; Mighty Morphin Power Rangers; Kinuyo Yamashita, Iku Mizutani; Gi Nattak; 1
-AD: ct_shell; Inside the Shell; Chrono Trigger; Minoru Akao; N/A; 3
-AE: ff5_crickets; Crickets; Final Fantasy V; Minoru Akao; N/A; 3
 AF: rs_beat; Beat Them Up!; Romancing Saga; Kenji Ito; Gi Nattak; 1
 B0: sf2_vega; Vega's Theme; Street Fighter II; Yoko Shimomura; Gi Nattak; 1
 B1: rs2_heroes; Seven Heroes Battle; Romancing Saga 2; Kenji Ito; Gi Nattak; 1
@@ -186,10 +181,6 @@ B3: udt_bonetrousle; Bonetrousle; Undertale; Toby Fox; Gi Nattak; 1
 B4: shfc_sad; Sad Theme; Shining Force 1; Motoaki Takenouchi; Gi Nattak; 1
 B5: smrpg_sewers; Kero Sewers; Super Mario RPG; Yoko Shimomura; Gi Nattak; 1
 B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 1
-B7: ff6_river_raft; The Raft and the Flowing River; Final Fantasy VI; Minoru Akao; N/A; 3
-B8: ff6_fire; Fire!; Final Fantasy VI; Minoru Akao; N/A; 3
-B9: ff6_train; Dream of a Train; Final Fantasy VI; Minoru Akao; N/A; 3
-BA: ff6_chocobo; Chocobos Running; Final Fantasy VI; Minoru Akao; N/A; 3
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak; 1
 BC: pq_lullaby; Godom Lullaby; Paladin's Quest; Kohei Tanaka; Gi Nattak; 1
 BD: som_oracle; Oracle; Secret of Mana; Hiroki Kikuta; Gi Nattak; 1
@@ -216,7 +207,7 @@ D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawa
 D2: cc_emotions; Singing Emotions; Chrono Cross; Yasunori Mitsuda; Gi Nattak; 1
 D3: vp_leaf; Turn Over a New Leaf; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; 1
 D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; 1
-D5: mmx_storm_eagle; Storm Eagle (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; 1
+D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; 1
 D6: gs2_battle; Felix Battle Theme; Golden Sun 2; Motoi Sakuraba; Jackimus; 1
 D7: fz_field; Fire Field (Metal Remix); F-Zero; Yumiko Kanki, Naoto Ishida; Gi Nattak; 1
 D8: ffl2_aspiration; Aspiration; Final Fantasy Legend II; Kenji Ito; Gi Nattak; 1
@@ -255,7 +246,6 @@ F8: arcana_armageddon; Second Armageddon; Arcana; Jun Ishikawa, Hirokazu Ando; G
 F9: rs3_devils; Four Noble Devils; Romancing Saga 3; Kenji Ito; Gi Nattak; 1
 FA: ff7_flowers; Flowers Blooming in the Church; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; 1
 FB: top_night; Bright Moonlit Night; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; 1
-FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A; 3
 FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak; 1
 FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; 1
 
@@ -295,7 +285,6 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; 1
 23: rng_cathedral; Cursed Cathedral; RednGreen; RednGreen Music; Gi Nattak; 2
 24: rs3_battle; The Battle; Romancing Saga 3; Kenji Ito; Gi Nattak; 2
 25: swom_battlefield; Endless Battlefield; Sword of Mana; Kenji Ito; Gi Nattak; 2
-#26: ct_blackbird; Blackbird Interior; Chrono Trigger; Minoru Akao; N/A; 3
 27: smtd_crateria; Crateria; Super Metroid; Minako Hamano, Kenji Yamamoto; emberling; 2
 28: xnbc2_tantal; Kingdom Of Tantal (Day); Xenoblade Chronicles 2; ACE; emberling; 2
 29: cc_dragon; Ancient Dragon's Stronghold; Chrono Cross; Yasunori Mitsuda; emberling; 2
@@ -363,7 +352,6 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; 1
 69: rd_flame; Frozen Flame; Radical Dreamers; Yasunori Mitsuda; Gi Nattak; 2
 6A: smtd_incoming; Hostiles Incoming; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; 2
 6B: khb_place; Enter the Place; Koi Ha Balance; Kenji Ito; Gi Nattak; 2
-#6C: ct_wormhole; Wormhole; Chrono Trigger; Minoru Akao; N/A; 3
 6D: top_overworld; Overworld Theme 3; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; 2
 6E: gs_ruins; Tunnel Ruins; Golden Sun; Motoi Sakuraba; emberling; 2
 6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; 2
@@ -393,7 +381,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; 1
 87: lo_barrel; The Gun Barrel of Battle; Lost Odyssey; Nobuo Uematsu; emberling; 2
 88: udt_megalovania; Megalovania; Undertale; Toby Fox; Jackimus; 2
 89: so2_operation; Rescue Operation; Star Ocean 2; Motoi Sakuraba; emberling; 2
-8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jakcimus; 2
+8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus; 2
 8B: xng_knight; Red Knight; Xenogears; Yasunori Mitsuda; emberling; 2
 8C: dq3_world; Unknown World; Dragon Quest 3; Koichi Sugiyama; Gi Nattak; 2
 8D: lf2_battle_2; Battle 2; Lufia 2; Yasunori Shiono; Gi Nattak; 2
@@ -428,8 +416,6 @@ A9: lf2_watchtowers; Watchtowers of the Seal; Lufia II; Yasunori Shiono; Gi Natt
 AA: som_whisper; Whisper And Mantra; Secret of Mana; Hiroki Kikuta; Gi Nattak; 2
 AB: eo3_waves; The End of the Raging Waves; Etrian Odyssey III; Yuzo Koshiro; emberling; 2
 AC: xnbc2_morardain; Mor Ardain; Xenoblade Chronicles 2; ACE; emberling; 2
-#AD: ct_shell; Inside the Shell; Chrono Trigger; Minoru Akao; N/A; 3
-#AE: ff5_crickets; Crickets; Final Fantasy V; Minoru Akao; N/A; 3
 AF: sd3_sacrifice; Sacrifice; Seiken Densetsu 3; Hiroki Kikuta; emberling; 2
 B0: fzc_big_blue; Big Blue; F-Zero Climax; Kenji Hikita; Gi Nattak; 2
 B1: rs3_last_battle; The Last Battle; Romancing SaGa 3; Kenji Ito; Tsushiy; 2
@@ -464,7 +450,7 @@ D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawa
 D2: ff5_lenna; Lenna's Theme; Final Fantasy V; Nobuo Uematsu; Gi Nattak; 2
 D3: stp_argonians; Argonians; Startropics; Yoshio Hirai; Gi Nattak; 2
 D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; 2
-D5: mmx_storm_eagle; Storm Eagle (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; 2
+D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; 2
 D6: gs2_battle; Isaac Battle Theme; Golden Sun 2; Motoi Sakuraba; Gi Nattak; 2
 D7: ffmq_dome; Lava Dome; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; 2
 D8: ff9_spirit; Spirit of the Hunt; Final Fantasy IX; Nobuo Uematsu; emberling; 2
@@ -485,7 +471,7 @@ E6: ff4_paladin; The Paladin; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 2
 E7: ms_footstep; My Footstep On This World; Metal Saga; Satoshi Kadokura; Gi Nattak; 2
 E8: lal_cry; Cry-A-Live; Live A Live; Yoko Shimomura; Gi Nattak; 2
 E9: ff7_god; Birth of a God; Final Fantasy VII; Nobuo Uematsu; emberling; 2
-EA: lf_battle_3; Battle 3; Lufia 1; Yasunori Shiono; Gi Nattak; 2
+EA: lf_battle_3; Battle 3; Lufia 1; Yasunori Shiono; emberling; 2
 EB: top_absentminded; Be Absentminded; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; 2
 EC: rs3_castle; Gen's Castle Battle; Romancing Saga 3; Kenji Ito; Tsushiy; 2
 ED: ff9_alone; You're Not Alone!; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; 2
@@ -503,9 +489,62 @@ F8: ob_war; Guerilla War; Ogre Battle; Masaharu Iwata, Hitoshi Sakimoto; emberli
 F9: rs3_devils; Four Noble Devils 2; Romancing Saga 3; Kenji Ito; Gi Nattak; 2
 FA: ff7_aerith; Aerith's Theme; Final Fantasy VII; Nobuo Uematsu; Tsushiy; 2
 FB: aglq_love; When You Confess Love; Angelique; Chinatsu Kuzuu; Gi Nattak; 2
-#FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; Gi Nattak; 3
 FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; emberling; 2
 FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak; 2
+
+[sfx.smc]
+04: ff6_wind; Wind; Final Fantasy VI; Minoru Akao; N/A; 3
+1E: ff6_river; Rushing River; Final Fantasy VI; Minoru Akao; N/A; 3
+26: ct_blackbird; Blackbird Interior; Chrono Trigger; Minoru Akao; N/A; 3
+3A: ff6_ocean; Ocean; Final Fantasy VI; Minoru Akao; N/A; 3
+4A: ff6_burning; Burning House; Final Fantasy VI; Minoru Akao; N/A; 3
+6C: ct_wormhole; Wormhole; Chrono Trigger; Minoru Akao; N/A; 3
+AD: ct_shell; Inside the Shell; Chrono Trigger; Minoru Akao; N/A; 3
+AE: ff5_crickets; Crickets; Final Fantasy V; Minoru Akao; N/A; 3
+B7: ff6_river_raft; The Raft and the Flowing River; Final Fantasy VI; Minoru Akao; N/A; 3
+B8: ff6_fire; Fire!; Final Fantasy VI; Minoru Akao; N/A; 3
+B9: ff6_train; Dream of a Train; Final Fantasy VI; Minoru Akao; N/A; 3
+BA: ff6_chocobo; Chocobos Running; Final Fantasy VI; Minoru Akao; N/A; 3
+FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A; 3
+
+[optional_a.smc]
+06: ff4_overworld; Overworld; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 4
+C4: xng_mermaid; June Mermaid; Xenogears; Yasunori Mitsuda; Gi Nattak; 4
+4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak; 4
+2F: ct_fanfare; Fanfare 1; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; 4
+73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak; 4
+4B: ff4_giant; Within the Giant; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 4
+28: sm64_docks; Dire, Dire Docks; Super Mario 64; Koji Kondo; Gi Nattak; 4
+7F: mm9_robots; We're the Robots; Mega Man 9; Ryo Kawakami; Gi Nattak; 4 
+29: zamn_pyramid; Pyramid of Fear; Zombies Ate My Neighbors; Joe McDermott; Gi Nattak; 4
+18: kss_trees; Trees in the Depths of the Earth; Kirby Super Star; Jun Ishikawa; Gi Nattak; 4
+84: ms_drokmar; At Drokmar's Gate; Magic Sword; Manami Matsumae; Gi Nattak; 4
+96: rag_theme; Main Theme; Ragnarok Online; SoundTeMP; Gi Nattak; 4
+80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak; 4
+8B: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak; 4
+E1: grnd_ganbo; The Sandy Beach of Ganbo; Grandia; Noriyuki Iwadare; Gi Nattak; 4
+9E: lf2_village; Village Theme; Lufia 2; Yasunori Shiono; Gi Nattak; 4
+24: rpgmvxa_battle1; Battle 1; RPG Maker VX Ace; Joel Steudler; Gi Nattak; 4 
+EC: dbz_scouter; Solid State Scouter; Dragon Ball Z; Fuminori Iwazaki; Gi Nattak; 4
+44: mmx_boomer; Boomer Kuwanger; Mega Man X; Alph Lyla group; Gi Nattak; 4
+13: tgr_track1; Track 1; Top Gear; Barry Leitch; Gi Nattak; 4
+38: ff7_goodnight; Goodnight Until Tomorrow; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; 4
+33: ff4_fight; Fight 1; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; 4
+4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak; 4
+F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak; 4
+4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak; 4
+71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak; 4
+14: doran_battle2; Battle 2; doranarasi Music; doranarasi; Gi Nattak; 4 
+
+[optional_b.smc]
+06: z2_overworld; Overworld; Zelda II; Akito Nakatsuka; Gi Nattak; 5
+4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak; 5
+24: ff1_battle; Battle Scene; Final Fantasy I; Nobuo Uematsu; Gi Nattak; 5 
+33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak; 5
+
+[optional_c.smc]
+4F: top_act; The Second Act; Tales of Phantasia; Motoi Sakuraba; Gi Nattak; 6
+24: doran_battle1; Battle 1; doranarasi Music; doranarasi; Gi Nattak; 6
 
 [brr]
 01: spanish guitar; FF6; Final Fantasy VI
@@ -598,7 +637,7 @@ FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak;
 58: french horn; RS3; Romancing Saga 3
 59: dirty sax; SMRPG; Super Mario RPG
 5A: metal bang; FF6; Final Fantasy VI
-5B: orch hit; THG; THG
+5B: orch hit; THG; Treasure Hunter G
 5C: saxish; SMRPG; Super Mario RPG
 5D: timpani; FF4; Final Fantasy IV
 5E: flute; FF6; Final Fantasy VI
@@ -705,8 +744,8 @@ C2: strings; CV4; Castlevania 4
 C3: synth; TOTR; Treasure of the Rudras
 C4: ride; GH; Gun Hazard
 C5: maraca; FF6T; Final Fantasy VI T-Edition
-C6: trumpet; ARS; ARS
-C7: synth; CS; CS
+C6: trumpet; ARS; Actraiser
+C7: synth; CS; Cool Spot
 C8: piano; SD3; Seiken Densetsu 3
 C9: bass; FF6T; Final Fantasy VI T-Edition
 CA: future; SMRPG; Super Mario RPG

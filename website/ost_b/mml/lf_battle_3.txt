@@ -1,7 +1,7 @@
 #TITLE Battle 3
 #ALBUM Lufia 1
 #COMPOSER Yasunori Shiono
-#ARRANGED Gi Nattak
+#ARRANGED emberling
 
 #WAVE 0x20 0x9A ## overdrive guitar (GH)
 #WAVE 0x21 0x34 ## strings (TOTR)

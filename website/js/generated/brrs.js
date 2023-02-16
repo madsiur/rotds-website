@@ -9,7 +9,7 @@ const brrs =
         "env": 65521,
         "pitch": 64928,
         "size": 3031,
-        "occ": 28,
+        "occ": 29,
         "filename": "FF6_spanish_guitar"
     },
     {
@@ -21,7 +21,7 @@ const brrs =
         "env": 65518,
         "pitch": 43328,
         "size": 1159,
-        "occ": 110,
+        "occ": 127,
         "filename": "FF6_electric_bass"
     },
     {
@@ -33,7 +33,7 @@ const brrs =
         "env": 65504,
         "pitch": 45184,
         "size": 4399,
-        "occ": 18,
+        "occ": 19,
         "filename": "FF6_wind_flute"
     },
     {
@@ -57,7 +57,7 @@ const brrs =
         "env": 65504,
         "pitch": 45088,
         "size": 5965,
-        "occ": 12,
+        "occ": 14,
         "filename": "FF6_cello"
     },
     {
@@ -69,7 +69,7 @@ const brrs =
         "env": 65504,
         "pitch": 44928,
         "size": 5155,
-        "occ": 45,
+        "occ": 46,
         "filename": "FF6_chorus"
     },
     {
@@ -81,7 +81,7 @@ const brrs =
         "env": 65504,
         "pitch": 57688,
         "size": 1123,
-        "occ": 7,
+        "occ": 8,
         "filename": "YI_flute"
     },
     {
@@ -93,7 +93,7 @@ const brrs =
         "env": 65504,
         "pitch": 64928,
         "size": 2131,
-        "occ": 59,
+        "occ": 60,
         "filename": "FF6_french_horn"
     },
     {
@@ -117,7 +117,7 @@ const brrs =
         "env": 65504,
         "pitch": 43286,
         "size": 1519,
-        "occ": 58,
+        "occ": 60,
         "filename": "FF6_oboe"
     },
     {
@@ -129,7 +129,7 @@ const brrs =
         "env": 65504,
         "pitch": 48784,
         "size": 1042,
-        "occ": 31,
+        "occ": 32,
         "filename": "FF6_organ"
     },
     {
@@ -141,7 +141,7 @@ const brrs =
         "env": 65519,
         "pitch": 45152,
         "size": 7063,
-        "occ": 27,
+        "occ": 28,
         "filename": "FF6_piano"
     },
     {
@@ -153,7 +153,7 @@ const brrs =
         "env": 65504,
         "pitch": 44960,
         "size": 9412,
-        "occ": 275,
+        "occ": 292,
         "filename": "FF6_strings"
     },
     {
@@ -165,7 +165,7 @@ const brrs =
         "env": 65504,
         "pitch": 43264,
         "size": 1078,
-        "occ": 96,
+        "occ": 104,
         "filename": "FF6_trumpet"
     },
     {
@@ -177,7 +177,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 727,
-        "occ": 80,
+        "occ": 89,
         "filename": "FF6_closed_hi_hat"
     },
     {
@@ -201,7 +201,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 4831,
-        "occ": 70,
+        "occ": 79,
         "filename": "FF6_open_hi_hat"
     },
     {
@@ -213,7 +213,7 @@ const brrs =
         "env": 65518,
         "pitch": 0,
         "size": 4291,
-        "occ": 182,
+        "occ": 197,
         "filename": "FF6_cymbal"
     },
     {
@@ -237,7 +237,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 2248,
-        "occ": 106,
+        "occ": 120,
         "filename": "FF6_snare"
     },
     {
@@ -261,7 +261,7 @@ const brrs =
         "env": 65504,
         "pitch": 63744,
         "size": 3598,
-        "occ": 94,
+        "occ": 97,
         "filename": "FF6_timpani"
     },
     {
@@ -285,7 +285,7 @@ const brrs =
         "env": 65516,
         "pitch": 46928,
         "size": 1771,
-        "occ": 35,
+        "occ": 36,
         "filename": "FF6_acoustic_bass"
     },
     {
@@ -297,7 +297,7 @@ const brrs =
         "env": 65525,
         "pitch": 28672,
         "size": 1600,
-        "occ": 22,
+        "occ": 24,
         "filename": "FF6_pizzo_string"
     },
     {
@@ -309,7 +309,7 @@ const brrs =
         "env": 65504,
         "pitch": 64928,
         "size": 2356,
-        "occ": 23,
+        "occ": 24,
         "filename": "FF6_trombone"
     },
     {
@@ -321,7 +321,7 @@ const brrs =
         "env": 65520,
         "pitch": 43328,
         "size": 952,
-        "occ": 136,
+        "occ": 145,
         "filename": "FF6_harp"
     },
     {
@@ -333,7 +333,7 @@ const brrs =
         "env": 65504,
         "pitch": 64928,
         "size": 1312,
-        "occ": 121,
+        "occ": 125,
         "filename": "FF6_bass"
     },
     {
@@ -357,7 +357,7 @@ const brrs =
         "env": 65504,
         "pitch": 10688,
         "size": 3994,
-        "occ": 48,
+        "occ": 52,
         "filename": "FF6_distortion_guitar"
     },
     {
@@ -369,7 +369,7 @@ const brrs =
         "env": 65504,
         "pitch": 47615,
         "size": 1249,
-        "occ": 24,
+        "occ": 26,
         "filename": "FF6_ocarina"
     },
     {
@@ -381,7 +381,7 @@ const brrs =
         "env": 65514,
         "pitch": 43264,
         "size": 3148,
-        "occ": 45,
+        "occ": 46,
         "filename": "FF6_marimba"
     },
     {
@@ -393,7 +393,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 4498,
-        "occ": 41,
+        "occ": 43,
         "filename": "SOM_hard_snare"
     },
     {
@@ -405,7 +405,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 1231,
-        "occ": 180,
+        "occ": 200,
         "filename": "FF6_kick_drum"
     },
     {
@@ -441,7 +441,7 @@ const brrs =
         "env": 65504,
         "pitch": 42920,
         "size": 3499,
-        "occ": 37,
+        "occ": 39,
         "filename": "FF6_pipe_organ"
     },
     {
@@ -525,7 +525,7 @@ const brrs =
         "env": 65504,
         "pitch": 50432,
         "size": 4426,
-        "occ": 29,
+        "occ": 30,
         "filename": "FF6_contrabass"
     },
     {
@@ -537,7 +537,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 3706,
-        "occ": 2,
+        "occ": 3,
         "filename": "FF6_guiro"
     },
     {
@@ -549,7 +549,7 @@ const brrs =
         "env": 65523,
         "pitch": 0,
         "size": 3004,
-        "occ": 17,
+        "occ": 18,
         "filename": "FF6_conga_2"
     },
     {
@@ -561,7 +561,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 2185,
-        "occ": 61,
+        "occ": 64,
         "filename": "FF6_shaker"
     },
     {
@@ -573,7 +573,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 2527,
-        "occ": 9,
+        "occ": 11,
         "filename": "FF6_wood_block"
     },
     {
@@ -597,7 +597,7 @@ const brrs =
         "env": 65520,
         "pitch": 26876,
         "size": 3355,
-        "occ": 29,
+        "occ": 31,
         "filename": "FF6_acoustic_guitar"
     },
     {
@@ -633,7 +633,7 @@ const brrs =
         "env": 65521,
         "pitch": 0,
         "size": 2509,
-        "occ": 56,
+        "occ": 64,
         "filename": "UNK_melodic_tom"
     },
     {
@@ -645,7 +645,7 @@ const brrs =
         "env": 65504,
         "pitch": 43360,
         "size": 2203,
-        "occ": 18,
+        "occ": 20,
         "filename": "UNK_sawtooth"
     },
     {
@@ -657,7 +657,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 5623,
-        "occ": 10,
+        "occ": 11,
         "filename": "FF6_tambourine"
     },
     {
@@ -705,7 +705,7 @@ const brrs =
         "env": 65504,
         "pitch": 38144,
         "size": 2689,
-        "occ": 11,
+        "occ": 13,
         "filename": "FF6_pipe_organ_2"
     },
     {
@@ -741,7 +741,7 @@ const brrs =
         "env": 65516,
         "pitch": 43360,
         "size": 1753,
-        "occ": 30,
+        "occ": 34,
         "filename": "FF6_xylophone"
     },
     {
@@ -765,7 +765,7 @@ const brrs =
         "env": 65518,
         "pitch": 54144,
         "size": 2365,
-        "occ": 23,
+        "occ": 26,
         "filename": "RS3_slap_bass"
     },
     {
@@ -813,7 +813,7 @@ const brrs =
         "env": 65504,
         "pitch": 6144,
         "size": 7369,
-        "occ": 43,
+        "occ": 46,
         "filename": "RS3_strings"
     },
     {
@@ -861,7 +861,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 1843,
-        "occ": 24,
+        "occ": 28,
         "filename": "RS3_trumpet"
     },
     {
@@ -897,7 +897,7 @@ const brrs =
         "env": 65516,
         "pitch": 57600,
         "size": 1366,
-        "occ": 10,
+        "occ": 11,
         "filename": "RS3_celesta"
     },
     {
@@ -933,7 +933,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 3931,
-        "occ": 1,
+        "occ": 4,
         "filename": "RS3_open_hi_hat"
     },
     {
@@ -945,7 +945,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 1960,
-        "occ": 24,
+        "occ": 33,
         "filename": "RS3_closed_hi_hat"
     },
     {
@@ -957,7 +957,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 3373,
-        "occ": 31,
+        "occ": 35,
         "filename": "RS3_open_pedal_hi_hat"
     },
     {
@@ -993,7 +993,7 @@ const brrs =
         "env": 65504,
         "pitch": 7680,
         "size": 7162,
-        "occ": 13,
+        "occ": 14,
         "filename": "RS3_synth_strings"
     },
     {
@@ -1029,7 +1029,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 2806,
-        "occ": 36,
+        "occ": 43,
         "filename": "RS3_snare_drum_2"
     },
     {
@@ -1084,12 +1084,12 @@ const brrs =
         "id": 91,
         "name": "orch hit",
         "gameShort": "THG",
-        "gameLong": "THG",
+        "gameLong": "Treasure Hunter G",
         "loop": 0,
         "env": 65504,
         "pitch": 0,
         "size": 6073,
-        "occ": 5,
+        "occ": 7,
         "filename": "THG_orch_hit"
     },
     {
@@ -1125,7 +1125,7 @@ const brrs =
         "env": 65504,
         "pitch": 57688,
         "size": 1105,
-        "occ": 74,
+        "occ": 80,
         "filename": "FF6_flute"
     },
     {
@@ -1137,7 +1137,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 4498,
-        "occ": 44,
+        "occ": 48,
         "filename": "FF6_hard_snare"
     },
     {
@@ -1149,7 +1149,7 @@ const brrs =
         "env": 65504,
         "pitch": 36096,
         "size": 2626,
-        "occ": 8,
+        "occ": 9,
         "filename": "FF6_violin"
     },
     {
@@ -1161,7 +1161,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 2248,
-        "occ": 15,
+        "occ": 17,
         "filename": "CT_kick_drum"
     },
     {
@@ -1185,7 +1185,7 @@ const brrs =
         "env": 65504,
         "pitch": 43360,
         "size": 1285,
-        "occ": 8,
+        "occ": 9,
         "filename": "FF6_bottle_blow"
     },
     {
@@ -1197,7 +1197,7 @@ const brrs =
         "env": 65504,
         "pitch": 57688,
         "size": 2662,
-        "occ": 7,
+        "occ": 9,
         "filename": "RS3_soft_bass_drum"
     },
     {
@@ -1209,7 +1209,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 3652,
-        "occ": 27,
+        "occ": 29,
         "filename": "RS3_tam"
     },
     {
@@ -1233,7 +1233,7 @@ const brrs =
         "env": 65504,
         "pitch": 0,
         "size": 4498,
-        "occ": 6,
+        "occ": 7,
         "filename": "CT_hard_snare"
     },
     {
@@ -1329,7 +1329,7 @@ const brrs =
         "env": 65504,
         "pitch": 57708,
         "size": 1726,
-        "occ": 11,
+        "occ": 12,
         "filename": "CT_trumpet"
     },
     {
@@ -1413,7 +1413,7 @@ const brrs =
         "env": 65504,
         "pitch": 54016,
         "size": 3706,
-        "occ": 8,
+        "occ": 9,
         "filename": "CT_sax"
     },
     {
@@ -1449,7 +1449,7 @@ const brrs =
         "env": 65504,
         "pitch": 57088,
         "size": 6604,
-        "occ": 4,
+        "occ": 5,
         "filename": "TC_synth_strings"
     },
     {
@@ -1557,7 +1557,7 @@ const brrs =
         "env": 65504,
         "pitch": 48544,
         "size": 6712,
-        "occ": 12,
+        "occ": 17,
         "filename": "SOM_strings"
     },
     {
@@ -1569,7 +1569,7 @@ const brrs =
         "env": 65248,
         "pitch": 57856,
         "size": 3400,
-        "occ": 16,
+        "occ": 17,
         "filename": "SOM_chorus"
     },
     {
@@ -1593,7 +1593,7 @@ const brrs =
         "env": 65504,
         "pitch": 35872,
         "size": 2770,
-        "occ": 4,
+        "occ": 5,
         "filename": "SOM_brass_section"
     },
     {
@@ -1701,7 +1701,7 @@ const brrs =
         "env": 65516,
         "pitch": 43488,
         "size": 4012,
-        "occ": 4,
+        "occ": 5,
         "filename": "SOM_piano"
     },
     {
@@ -1773,7 +1773,7 @@ const brrs =
         "env": 40864,
         "pitch": 57338,
         "size": 781,
-        "occ": 11,
+        "occ": 12,
         "filename": "TOTR_clarinet"
     },
     {
@@ -1845,7 +1845,7 @@ const brrs =
         "env": 65504,
         "pitch": 52224,
         "size": 4714,
-        "occ": 9,
+        "occ": 10,
         "filename": "GH_overdrive_guitar"
     },
     {
@@ -1881,7 +1881,7 @@ const brrs =
         "env": 65504,
         "pitch": 65520,
         "size": 5290,
-        "occ": 3,
+        "occ": 4,
         "filename": "FM_halo"
     },
     {
@@ -1977,7 +1977,7 @@ const brrs =
         "env": 65504,
         "pitch": 57584,
         "size": 1609,
-        "occ": 4,
+        "occ": 5,
         "filename": "FM_synth_bass"
     },
     {
@@ -2037,7 +2037,7 @@ const brrs =
         "env": 65504,
         "pitch": 47824,
         "size": 3202,
-        "occ": 1,
+        "occ": 2,
         "filename": "GH_synth_bass"
     },
     {
@@ -2097,7 +2097,7 @@ const brrs =
         "env": 65504,
         "pitch": 24576,
         "size": 1357,
-        "occ": 4,
+        "occ": 5,
         "filename": "GH_reed_organ"
     },
     {
@@ -2157,7 +2157,7 @@ const brrs =
         "env": 65504,
         "pitch": 6144,
         "size": 7081,
-        "occ": 5,
+        "occ": 6,
         "filename": "GH_synth_strings"
     },
     {
@@ -2217,7 +2217,7 @@ const brrs =
         "env": 65504,
         "pitch": 57433,
         "size": 1717,
-        "occ": 3,
+        "occ": 4,
         "filename": "SMRPG_violin"
     },
     {
@@ -2301,7 +2301,7 @@ const brrs =
         "env": 65520,
         "pitch": 0,
         "size": 5326,
-        "occ": 4,
+        "occ": 6,
         "filename": "RS3_cymbal"
     },
     {
@@ -2313,7 +2313,7 @@ const brrs =
         "env": 65504,
         "pitch": 43113,
         "size": 619,
-        "occ": 1,
+        "occ": 6,
         "filename": "EB_e_guitar_synth"
     },
     {
@@ -2337,7 +2337,7 @@ const brrs =
         "env": 65504,
         "pitch": 57032,
         "size": 6928,
-        "occ": 6,
+        "occ": 9,
         "filename": "TOTR_synth"
     },
     {
@@ -2368,7 +2368,7 @@ const brrs =
         "id": 198,
         "name": "trumpet",
         "gameShort": "ARS",
-        "gameLong": "ARS",
+        "gameLong": "Actraiser",
         "loop": 12036,
         "env": 65512,
         "pitch": 54960,
@@ -2380,7 +2380,7 @@ const brrs =
         "id": 199,
         "name": "synth",
         "gameShort": "CS",
-        "gameLong": "CS",
+        "gameLong": "Cool Spot",
         "loop": 40716,
         "env": 65504,
         "pitch": 62064,
@@ -2637,7 +2637,7 @@ const brrs =
         "env": 65504,
         "pitch": 57600,
         "size": 2311,
-        "occ": 1,
+        "occ": 2,
         "filename": "CT_prg10"
     },
     {

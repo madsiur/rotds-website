@@ -20,7 +20,7 @@ l16t100%v32%e1%b0,70%f0,0v90p60|0r1  ^1   $1 o5r8m21,18,239erd+rercr>ba4^
 
 l16
 {2}
-l16%e1v127p60|1o4ar<er>ar<er>ar<er>ar<e  r%g1c32c+32c+32c+32c+32c+32c+c32c+32c+32c+32c+32c+32%g0c+f4e8^  
+l16%e1v127p60|1o4ar<er>ar<er>ar<er>ar<e  rc32c+32c+32c+32c+32c+24c+24c24c+32c+32c+32c+32c+32c+f4e8^  
 ^ $2 ar1  ^2^4^e8a  r1  ^1  
 ^1  ^2^4^e8a  r1  ^2^e8>a8^r1  
 ^1  ^o5dr>ar<d^r8d+r>a+r<d+^r8  dr>ar<dr>are8^r<e8^r1  

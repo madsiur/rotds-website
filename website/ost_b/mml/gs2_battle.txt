@@ -91,7 +91,7 @@ e1  e1  d1  e1
 l16
 {6}
 l16%e0v80|1ro4p64bb<p94ddp74ccp94dddp74cc>p64bp54ap44gp34f  
- $6 v100p64o5[7|7b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b8b<|8e>|7b  ]b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b<|8eeee  
+ $6 v90p64o5[7|7b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b8b<|8e>|7b  ]b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b<|8eeee  
 >[6|7b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b8b<|8e>|7b  ]b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b<|8eeee  
 >[7|7b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b8b<|8e>|7b  ]b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b<|8eeee  
 >[3|7b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b8b<|8e>|7b  ]b8<|8e>|7b8b<|8e>|7bbb<|8e>|7b<|8eeee  
@@ -103,16 +103,11 @@ er>|7bb<|8e>|7brb<|8er>|7bb<|8e>|7brb  [2<|8er>|7bb<|8e>|7brb<|8er>|7bb<|8e>|7br
 
 l16
 {7}
-l16r1   $7 %e1v100p64|2%a12%r4o5r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^2d2  d1  r2d2  a2g2  
-a2b2  a2g2  f2g2  a1  
-e1  e1  d1  e1  
-r8|0%r8v80o4f+r8^ef+r8f+r8^ef+  r1  ^8f+r8^ef+r8f+r8ef+e  r2^4|1%e0v100o5p94dp74c>p64bp54a  
-
+l16r1   $7 %e1v100p64|2%a12%r4o5[19r1  ]r2d2  d1  
+r2d2  a2g2  a2b2  a2g2  
+f2g2  a1  e1  e1  
+d1  e1  r8|0%r8v80o4f+r8^ef+r8f+r8^ef+  r1  
+^8f+r8^ef+r8f+r8ef+e  r2^4|1%e0v100o5p94dp74c>p64bp54a  
 ;7
 
 l16

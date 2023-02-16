@@ -60,7 +60,7 @@ l16%e1v120p60|6o6r1
 ^1  ^1  ^1   $5 v80p60|1o5r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^2^4^8m48,18,215d+e  <%l1c+d+c+1  
-v50,0^4v80r8c+8>brf+rg+2  ^4v20,0^8v80<%l1d+ed+2  ^4^8^32r8^^32e8d+r>g+r  
+v50,0^4v80r8c+8>brf+rg+2  ^4v20,0^8v80<%l1d+ed+2  ^4^8^r8^e8d+r>g+r  
 b1  v20,0^8v80b8<c+rerg+rf+1  ^2v50,0^4v80r8>f+g+  <%l1ef+e1  
 v50,0^4v80r8e8d+r>a+rb1  v100,0^2^8v80r2  v50o7c+1  ^2>d+8>f+rg+8<d+r  
 e2^4^8^32%l1e32d+32d32  c+2>%l0b2  m[2p117v50g+rv24g+rv10g+rp10v50brv24brv10brp117v50a+rv24a+r  

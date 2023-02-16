@@ -45,42 +45,35 @@ a4e1  ^2e4a2  ^4<e4>b2  ^4a8g8a4<e1
 
 l16
 {4}
-l16%e1v120p64|1o5r1  ^1  ^1  ^2^4 $4 r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^4a+1  
-a+2<c4>a+4  r1  ^1  a+1  
-a+2<c4>a+4  r1  ^2^4
+l16%e1v120p64|1o5r1  ^1  ^1  ^2^4 $4 [16r1  
+]r4a+1  a+2<c4>a+4  r1  ^1  
+a+1  a+2<c4>a+4  r1  ^2^4
 ;4
 
 l16
 {5}
-l16%e1v100p64|2o3[3a4  e4a4e4]a4  
-e4a4 $5 e4[8a4  e4a4e4]f4  c4f4c4g4  d4g4d4a4  
-e4a4e4a4  e4a4e4f4  c4f4c4g4  d4g4d4a4  
-e4a4e4a4  e4a4eeeea+4  r2^8ffa+4  r4<c4>a+4a4  
-e4a4e4a4  e4a4e4a+4  r2^8ffa+4  r4<c4>a+4a4  
-e4a4e4g+4  e4g+4
+l16%e1v100p64|2o3[3a4  
+e4a4e4]a4  e4a4 $5 e4[8a4  e4a4e4]f4  c4f4c4g4  
+d4g4d4a4  e4a4e4a4  e4a4e4f4  c4f4c4g4  
+d4g4d4a4  e4a4e4a4  e4a4eeeea+4  r2^8ffa+4  
+r4<c4>a+4a4  e4a4e4a4  e4a4e4a+4  r2^8ffa+4  
+r4<c4>a+4a4  e4a4e4g+4  e4g+4
 ;5
 
 l16
 {6}
-l16%e1v100p64|3o5[3drdddrdd  drdddddd]drdddrdd  
-drdd $6 dddd[16drdddrdd  drdddddd]r2  ^4dddddr2  ^4^8^[2drdddrddd  
-rdddddd]r2^4  dddddr2^4  ^8^drdddrdddrddd  ddddrdddrdddrdd
+l16%e1v100p64|3o5[3drdddrdd  
+drdddddd]drdddrdd  drdd $6 dddd[16drdddrdd  drdddddd]r2  ^4dddddr2  
+^4^8^[2drdddrddd  rdddddd]r2^4  dddddr2^4  ^8^drdddrdddrddd  
+ddddrdddrdddrdd
 ;6
 
 l16
 {7}
-l16%e1v127p64|4o5r1  
-^1  ^1  ^2^4 $7 r4  c+1  
-r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  c+1  
-c+2c+4c+4  c+1  r1  c+1  
-c+2c+4c+4  c+2c+2  c+2c+4
+l16%e1v127p64|4o5r1  ^1  ^1  ^2^4 $7 r4  
+c+1  [15r1  ]c+1  c+2c+4c+4  
+c+1  r1  c+1  c+2c+4c+4  
+c+2c+2  c+2c+4
 ;7
 
 l16

@@ -521,7 +521,7 @@ C4: xng_mermaid; June Mermaid; Xenogears; Yasunori Mitsuda; Gi Nattak; 4
 84: ms_drokmar; At Drokmar's Gate; Magic Sword; Manami Matsumae; Gi Nattak; 4
 96: rag_theme; Main Theme; Ragnarok Online; SoundTeMP; Gi Nattak; 4
 80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak; 4
-8B: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak; 4
+87: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak; 4
 E1: grnd_ganbo; The Sandy Beach of Ganbo; Grandia; Noriyuki Iwadare; Gi Nattak; 4
 9E: lf2_village; Village Theme; Lufia 2; Yasunori Shiono; Gi Nattak; 4
 24: rpgmvxa_battle1; Battle 1; RPG Maker VX Ace; Joel Steudler; Gi Nattak; 4 

@@ -1,4 +1,4 @@
-#TITLE Wily Stange 1
+#TITLE Wily Stage 1
 #ALBUM Mega Man 2
 #COMPOSER Takashi Tateishi
 #ARRANGED Gi Nattak

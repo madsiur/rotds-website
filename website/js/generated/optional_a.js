@@ -43,7 +43,7 @@ const optional_a =
     {
         "id": 115,
         "filename": "mm7_street",
-        "title": "Fanfare 1",
+        "title": "Ruined Street",
         "game": "Mega Man 7",
         "composer": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa",
         "arranger": "Gi Nattak",
@@ -131,14 +131,14 @@ const optional_a =
         "duration": 179
     },
     {
-        "id": 139,
+        "id": 135,
         "filename": "rpgmvxa_battle4",
         "title": "Battle 4",
         "game": "RPG Maker VX Ace",
         "composer": "Joel Steudler",
         "arranger": "Gi Nattak",
         "dir": 4,
-        "duration": 180
+        "duration": 152
     },
     {
         "id": 225,
@@ -243,7 +243,7 @@ const optional_a =
     {
         "id": 77,
         "filename": "mm2_wily1",
-        "title": "Wily Stange 1",
+        "title": "Wily Stage 1",
         "game": "Mega Man 2",
         "composer": "Takashi Tateishi",
         "arranger": "Gi Nattak",

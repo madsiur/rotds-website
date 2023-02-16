@@ -30,7 +30,7 @@ r1  ^1  ^8^ $2 |3%r4v70r32o6c^32r8c^c^>a^a^g4  ^r<c^>g^g^a^a^<c^c^32r
 c^c^r8c^c^c^32r1  ^c^32r8c^c^>a^a^g4  ^r<c^>g^g^a^a^<c^c^32r  >br8^32b^b^a^a^g2  
 r8g^a^a^a+^a+^32rbr8^32  b^b^a^a^g2  r8b^g^g^a^b^<c^r8  c^c^r8c^c^c^r1  
 |4%r5v50o6a4^8f4^8f2  ^4f4a4g4  ^8e4^8e2  ^4^8r4^8g4  
-^8g4^rd2  ^8r2^8g1  ^2r8e4^^  a4^8f4^8f2  
+^8g4^rd2  ^8r2^8g1  ^2r8e4^8  a4^8f4^8f2  
 ^4^8r4^8g4  ^8e4^8e2  ^4^8r4^8d4  ^8d4^8d2  
 ^8b4<d8c8>b8e1  ^2^8r4^8  
 ;2

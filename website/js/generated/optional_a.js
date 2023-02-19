@@ -7,7 +7,6 @@ const optional_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 154
     },
     {
@@ -17,7 +16,6 @@ const optional_a =
         "game": "Xenogears",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 260
     },
     {
@@ -27,7 +25,6 @@ const optional_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 124
     },
     {
@@ -37,7 +34,6 @@ const optional_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 33
     },
     {
@@ -47,7 +43,6 @@ const optional_a =
         "game": "Mega Man 7",
         "composer": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 105
     },
     {
@@ -57,7 +52,6 @@ const optional_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 122
     },
     {
@@ -67,7 +61,6 @@ const optional_a =
         "game": "Super Mario 64",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 184
     },
     {
@@ -77,7 +70,6 @@ const optional_a =
         "game": "Mega Man 9",
         "composer": "Ryo Kawakami",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 166
     },
     {
@@ -87,7 +79,6 @@ const optional_a =
         "game": "Zombies Ate My Neighbors",
         "composer": "Joe McDermott",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 121
     },
     {
@@ -97,7 +88,6 @@ const optional_a =
         "game": "Kirby Super Star",
         "composer": "Jun Ishikawa",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 215
     },
     {
@@ -107,7 +97,6 @@ const optional_a =
         "game": "Magic Sword",
         "composer": "Manami Matsumae",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 76
     },
     {
@@ -117,7 +106,6 @@ const optional_a =
         "game": "Ragnarok Online",
         "composer": "SoundTeMP",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 71
     },
     {
@@ -127,7 +115,6 @@ const optional_a =
         "game": "Ys IV: The Dawn of Ys",
         "composer": "Masaru Nakajima",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 179
     },
     {
@@ -137,7 +124,6 @@ const optional_a =
         "game": "RPG Maker VX Ace",
         "composer": "Joel Steudler",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 152
     },
     {
@@ -147,7 +133,6 @@ const optional_a =
         "game": "Grandia",
         "composer": "Noriyuki Iwadare",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 175
     },
     {
@@ -157,7 +142,6 @@ const optional_a =
         "game": "Lufia 2",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 133
     },
     {
@@ -167,7 +151,6 @@ const optional_a =
         "game": "RPG Maker VX Ace",
         "composer": "Joel Steudler",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 125
     },
     {
@@ -177,7 +160,6 @@ const optional_a =
         "game": "Dragon Ball Z",
         "composer": "Fuminori Iwazaki",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 93
     },
     {
@@ -187,7 +169,6 @@ const optional_a =
         "game": "Mega Man X",
         "composer": "Alph Lyla group",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 128
     },
     {
@@ -197,7 +178,6 @@ const optional_a =
         "game": "Top Gear",
         "composer": "Barry Leitch",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 383
     },
     {
@@ -207,7 +187,6 @@ const optional_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 8
     },
     {
@@ -217,7 +196,6 @@ const optional_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 98
     },
     {
@@ -227,7 +205,6 @@ const optional_a =
         "game": "Lufia",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 118
     },
     {
@@ -237,7 +214,6 @@ const optional_a =
         "game": "Mega Man X",
         "composer": "Alph Lyla group",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 103
     },
     {
@@ -247,7 +223,6 @@ const optional_a =
         "game": "Mega Man 2",
         "composer": "Takashi Tateishi",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 153
     },
     {
@@ -257,7 +232,6 @@ const optional_a =
         "game": "Mega Man 10",
         "composer": "Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 104
     },
     {
@@ -267,7 +241,6 @@ const optional_a =
         "game": "doranarasi Music",
         "composer": "doranarasi",
         "arranger": "Gi Nattak",
-        "dir": 4,
         "duration": 189
     }
 ];

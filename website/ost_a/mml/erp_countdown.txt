@@ -56,38 +56,36 @@ d1  c+1  %yr8ere8^re^e8r8e4  ^8r1
 
 l16
 {3}
-l16%e1 $3 v60p50|1o5r1  
-^1  ^1  ^1  ^1  
-^1  ^1  m168,+4f+1  f+2^4e4  
-^32d2^4^8^^32  o4b2^8^32o5c+8^d8^32  c+2^32>b4^8^^32  o5f+2^4e4  
-^32d2^4^8^^32  o4b2^8^32o5c+8^d8^32  c+2^32>b4^8^^32  <c+2f+rerdr>br  
-<c+2f+^erdr>br  <c+1  f2^4^8^r  f+1  
-f+1  f+1  e1  f+1  
-f+1  f+1  e1  f+2g+2  
-a2f+2  g+1  g+1  v127p64|9a1  
-r1  ^1  ^1  %a12v80p60|0a1  
-^1  ^1  f+1  a1  
-^1  ^2g+2  a1  >a1  
-b1  <c+2>b2  <c+2>b2  a1  
-a1  r8o5v50p50|1g+rg+4g+^g+8r8g+4  ^8r2^4v60p50o5|0%a12a1  
-a1  b1  g+1  a1  
-a1  b1  g+1  
+l16%e1 $3 v60p50|1o5[7r1  
+]m168,+4f+1  f+2^4e4  ^32d2^4^8^^32  o4b2^8^32o5c+8^d8^32  
+c+2^32>b4^8^^32  o5f+2^4e4  ^32d2^4^8^^32  o4b2^8^32o5c+8^d8^32  
+c+2^32>b4^8^^32  <c+2f+rerdr>br  <c+2f+^erdr>br  <c+1  
+f2^4^8^r  f+1  f+1  f+1  
+e1  f+1  f+1  f+1  
+e1  f+2g+2  a2f+2  g+1  
+g+1  v127p64|9a1  r1  ^1  
+^1  %a12v80p60|0a1  ^1  ^1  
+f+1  a1  ^1  ^2g+2  
+a1  >a1  b1  <c+2>b2  
+<c+2>b2  a1  a1  r8o5v50p50|1g+rg+4g+^g+8r8g+4  
+^8r2^4v60p50o5|0%a12a1  a1  b1  g+1  
+a1  a1  b1  g+1  
+
 ;3
 
 l16
 {4}
-l16%e1 $4 v60p60|0o5%r1<c+1  
-[3d1  d1  >b2b2  <c+1  
-]d1  d1  >b2b2  <c+2e2  
-e2d2  f+1  f1  c+1  
-d1  d1  >b1  <c+1  
-d1  d1  >b1  <c+2e2  
-e2d2  f+1  f1  >f+1  
-^1  ^1  ^1  v50%a12<f+1  
-^1  ^1  d1  f+1  
-^1  ^2e2  e1  >f+1  
-g+1  a2g+2  a2g+2  f+1  
-e1  r8v50p74|1brb4b^b8r8b4  ^8r2^4o6v60p74|0%a12c+1  
+l16%e1 $4 v60p60|0o5%r1<c+1  [3d1  d1  >b2b2  
+<c+1  ]d1  d1  >b2b2  
+<c+2e2  e2d2  f+1  f1  
+c+1  d1  d1  >b1  
+<c+1  d1  d1  >b1  
+<c+2e2  e2d2  f+1  f1  
+>f+1  ^1  ^1  ^1  
+v50%a12<f+1  ^1  ^1  d1  
+f+1  ^1  ^2e2  e1  
+>f+1  g+1  a2g+2  a2g+2  
+f+1  e1  r8v50p74|1brb4b^b8r8b4  ^8r2^4o6v60p74|0%a12c+1  
 d1  d1  >b1  <c+1  
 d1  d1  >b1  
 ;4
@@ -144,11 +142,7 @@ a+4^8a+ra+2  a+4^8a+ra+2  [3a+4^8a+ra+2  ]a4^8a+ra+2
 
 l16
 {8}
-l16%e0 $8 v127p64|4o5r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^2^4^8^o4b  
+l16%e0 $8 v127p64|4o5[18r1  ]r2^4^8^o4b  
 v80p61|6o5ccro4b<bbr>b<aar>b<v70p64|7a+r8^  v127p64|4[23cr8c|8dr|4cr]cr8c|8drdd  
 [33|4cr8c|8dr|4cr]cr8c|8dr|4cr  ^32cr^32c|8dr|4crcr8c|8drdr  |4c^|8drdr|4cr|8d^d8|4cr|8d4  
 r2^^32v80|6g^8^^32v127|4cr8  c|8dr[3|4crcr8c|8dr]|4crcr8  [5c|8dr|4crcr8c|8dr|4crcr8  

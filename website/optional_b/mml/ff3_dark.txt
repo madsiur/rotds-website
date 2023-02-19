@@ -69,26 +69,22 @@ l16v80p64%e1|3o2b1
 ^1  a1  ^1  <g1  
 ^1  f+1  e2r8d8c+8>a+8  b1  
 ^1  a1  ^1  <g1  
-^1  f+1   $5 e4d4c+4>a+4  r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  b1  
-^1  a1  ^1  <g1  
-^1  f+1  e2r8d8c+8>a+8  b1  
-^1  a1  ^1  <g1  
-^1  f+1  
+^1  f+1   $5 e4d4c+4>a+4  [16r1  
+]b1  ^1  a1  ^1  
+<g1  ^1  f+1  e2r8d8c+8>a+8  
+b1  ^1  a1  ^1  
+<g1  ^1  f+1  
 ;5
 
 l16
 {6}
-l16v80p34%e1|4o5b1  ^1  
-a1  ^1  <g1  ^1  
-f+1  e2r8d8c+8>a+8  b1  ^1  
-a1  ^1  <g1  ^1  
-f+1  e4d4c+4>a+4   $6 <grgr8^d8grgr8^d8  grgr8^d8grgr8^d8  
-arar8^e8arar8^e8  arar8^e8arar8^e8  f+rf+r8^c+8f+rf+r8^c+8  f+rf+r8^c+8f+rf+r8^c+8  
-grgr8^d8grgr8^d8  grgr8^d8grd8arc+8  >b8<f+^>b8<f+^>b8<f+^>b8<f+^  
+l16v80p34%e1|4o5b1  
+^1  a1  ^1  <g1  
+^1  f+1  e2r8d8c+8>a+8  b1  
+^1  a1  ^1  <g1  
+^1  f+1  e4d4c+4>a+4   $6 <grgr8^d8grgr8^d8  
+grgr8^d8grgr8^d8  arar8^e8arar8^e8  arar8^e8arar8^e8  f+rf+r8^c+8f+rf+r8^c+8  
+f+rf+r8^c+8f+rf+r8^c+8  grgr8^d8grgr8^d8  grgr8^d8grd8arc+8  >b8<f+^>b8<f+^>b8<f+^>b8<f+^  
 >a8<e^>a8<e^>a8<e^>a8<e^  g8d^g8d^g8d^g8d^  g8d^g8d^g8d^a8e^  >b8<f+^>b8<f+^>b8<f+^>b8<f+^  
 >a8<e^>a8<e^>a8<e^>a8<e^  drdr8^drdrdr8^dr  f+rf+rererdrdrc+rc+r  
 >b1  ^1  a1  ^1  

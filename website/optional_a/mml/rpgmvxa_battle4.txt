@@ -55,37 +55,36 @@ d2b2  g2<c1  ^1
 
 l16
 {4}
-l16%e1 $4 v80p84|3o5%r8r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^8cr4^c4r4  
-^8cr4^c8^r>b8^r8  ^<cr4^c4r4^8  cr4^c8^r>b8^rga  a+r2^4^a+<c  
->ar2^4^ga  a+r2^4^a+<c  >ar2^4^ga  a+ra+4<c4>a4<c4  
-d2f4g4  c4d4>a4a+4  <c4>a+4a4c2  g2f4^8d+d  
-c4g4a1  g+1  g+1  <d4>b4a+4g+4  
-g1  b2^4g4  c2g2  f4^8d+dc4g4  
-a1  g+1  g+1  <d4>b4a+4g+4  
-g1  b2^4g4  g+1  f+1  
-
+l16%e1 $4 v80p84|3o5%r8[8r1  
+]r8cr4^c4r4  ^8cr4^c8^r>b8^r8  ^<cr4^c4r4^8  cr4^c8^r>b8^rga  
+a+r2^4^a+<c  >ar2^4^ga  a+r2^4^a+<c  >ar2^4^ga  
+a+ra+4<c4>a4<c4  d2f4g4  c4d4>a4a+4  <c4>a+4a4c2  
+g2f4^8d+d  c4g4a1  g+1  g+1  
+<d4>b4a+4g+4  g1  b2^4g4  c2g2  
+f4^8d+dc4g4  a1  g+1  g+1  
+<d4>b4a+4g+4  g1  b2^4g4  g+1  
+f+1  
 ;4
 
 l16
 {5}
-l16%e1 $5 v100p64|4o7r1  ^1  ^1  ^1  
-m24,10,215>c4^rcdd+4c4  f4^8d+dd+4^rd+f  g4^8g+a+<c4>g4  g+4g4f4c+4  
-r8>gr4^g4r4  ^8gr4^g8^rf+8^r8  ^gr4^g4r4^8  gr4^g8^rf+8^rmo6v40|5p0,192,127[4<c>g  
-a+<cd+>a+<c>ga+<cd+>a+<c>ga+<cd+>a+  <c>ga+<cd+>a+<c>ga+<cd+>a+<c>g]pv80p64|9%r4o5[4c2  
-^4^8^r]d2  ^4^8^rf2  d4c4>b2  ^4^8^r<d2  
-^4^8^r[4c2  ^4^8^r]d2  ^4^8^rf2  d4c4>b2  
-^4^8^r<d2  ^4^8^r[2c+2  ^4^8^r]
+l16%e1 $5 v100p64|4o7r1  ^1  ^1  
+^1  m24,10,215>c4^rcdd+4c4  f4^8d+dd+4^rd+f  g4^8g+a+<c4>g4  
+g+4g4f4c+4  r8>gr4^g4r4  ^8gr4^g8^rf+8^r8  ^gr4^g4r4^8  
+gr4^g8^rf+8^rmo6v40|5p0,192,127[4<c>g  a+<cd+>a+<c>ga+<cd+>a+<c>ga+<cd+>a+  
+<c>ga+<cd+>a+<c>ga+<cd+>a+<c>g]pv80p64|9%r4o5[4c2  ^4^8^r]d2  ^4^8^rf2  
+d4c4>b2  ^4^8^r<d2  ^4^8^r[4c2  ^4^8^r]d2  
+^4^8^rf2  d4c4>b2  ^4^8^r<d2  ^4^8^r[2c+2  
+^4^8^r]
 ;5
 
 l16
 {6}
-l16%e0 $6 v100p64|6o5[12<c>cc<c>cc<c>c  
-<c>cc<c>cc<c>c<c>cc<c>c<c>cc  <c>cc<c>cc<c>c]<d>dd<d>dd<d>d  <d>dd<d>dd<d>d<d>dd<d>d<d>dd  
-<d>dd<d>dd<d>d<g>gg<g>gg<g>g  <g>gg<g>gg<g>g<g>gg<g>g<g>gg  <g>gg<g>gg<g>g[2<c>cc<c>cc<c>c  
-<c>cc<c>cc<c>c<c>cc<c>c<c>cc  <c>cc<c>cc<c>c]<d>dd<d>dd<d>d  <d>dd<d>dd<d>d<d>dd<d>d<d>dd  
-<d>dd<d>dd<d>d<g>gg<g>gg<g>g  <g>gg<g>gg<g>g<g>gg<g>g<g>gg  <g>gg<g>gg<g>g<c+>c+c+<c+>c+c+<c+>c+  
+l16%e0 $6 v100p64|6o5[12<c>cc<c>cc<c>c  <c>cc<c>cc<c>c<c>cc<c>c<c>cc  
+<c>cc<c>cc<c>c]<d>dd<d>dd<d>d  <d>dd<d>dd<d>d<d>dd<d>d<d>dd  <d>dd<d>dd<d>d<g>gg<g>gg<g>g  
+<g>gg<g>gg<g>g<g>gg<g>g<g>gg  <g>gg<g>gg<g>g[2<c>cc<c>cc<c>c  <c>cc<c>cc<c>c<c>cc<c>c<c>cc  
+<c>cc<c>cc<c>c]<d>dd<d>dd<d>d  <d>dd<d>dd<d>d<d>dd<d>d<d>dd  <d>dd<d>dd<d>d<g>gg<g>gg<g>g  
+<g>gg<g>gg<g>g<g>gg<g>g<g>gg  <g>gg<g>gg<g>g<c+>c+c+<c+>c+c+<c+>c+  
 <c+>c+c+<c+>c+c+<c+>c+<f+>f+f+<f+>f+<f+>f+f+  <f+>f+f+<f+>f+f+<f+>f+
 ;6
 

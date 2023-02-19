@@ -67,12 +67,9 @@ l16%e1 $6 v50p64|7o5[24f+rf+f+f+rf+f+  f+rf+f+f+rf+f+]r1
 
 l16
 {7}
-l16%e1 $7 v60p64|8o5r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^8[3d+r8^d+d+r8d+r8^d+d+  r8d+r8^d+d+r8d+d+r8d+r8  ^]d+r8^d+d+r8d+r8^d+d+r8  
-d+r8^d+d+r8d+d+r8d+r1  ^
+l16%e1 $7 v60p64|8o5[16r1  ]r8[3d+r8^d+d+r8d+r8^d+d+  
+r8d+r8^d+d+r8d+d+r8d+r8  ^]d+r8^d+d+r8d+r8^d+d+r8  d+r8^d+d+r8d+d+r8d+r1  
+^
 ;7
 
 l16

@@ -11,23 +11,16 @@
 #WAVE 0x25 0x2E ## conga 2 (FF6)
 
 {1}
-l16%v50t97%v50v127p94%e1%b0,70%f0,0|0r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^4 $1 o4v80m24,16,227<m6,+4g+4<m6,+4c4>m6,-4e2  m6,-4d+4m6,+4g4m6,-4f+4m6,-4f4  
-^8%l1m6,-4e24m6,-4d+24m6,+4d24%l0m6,+4f+4m6,+4g4m6,+4g+4  <m6,+4c4r4>m6,+4d+4m6,-4g4  
-m6,+4f+4r4m6,+4a+4<m6,-4c+4  m6,-4c4>m6,-4b4<m6,+4f8^r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^o4m6,+4a+4^8<v192,0m6,+4f2m6,-4v127d+4  m6,+4f4>m6,-4b8m6,-4m6,-4a+8^m6,+4b8^<m6,+4a+2  
-^8m6,-4g+4<m6,+4c+4m>m18,20,239a+1  v240,0^1  mr1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^2
+l16%v50t97%v50v127p94%e1%b0,70%f0,0|0[8r1  ]r4 $1 o4v80m24,16,227<m6,+4g+4<m6,+4c4>m6,-4e2  
+m6,-4d+4m6,+4g4m6,-4f+4m6,-4f4  ^8%l1m6,-4e24m6,-4d+24m6,+4d24%l0m6,+4f+4m6,+4g4m6,+4g+4  
+<m6,+4c4r4>m6,+4d+4m6,-4g4  m6,+4f+4r4m6,+4a+4<m6,-4c+4  m6,-4c4>m6,-4b4<m6,+4f8^[15r1  
+]ro4m6,+4a+4^8<v192,0m6,+4f2m6,-4v127d+4  m6,+4f4>m6,-4b8m6,-4m6,-4a+8^m6,+4b8^<m6,+4a+2  
+^8m6,-4g+4<m6,+4c+4m>m18,20,239a+1  v240,0^1  m[9r1  ]r2
 ;1
 
 l16
 {2}
-l16%v50p64%e1|1r1  
+l16p64%e1|1r1  
 ^1  ^1  ^1   $2 o5v0v192,115e1  
 v0r1  ^1  ^1  ^1  
 ^1  v192,115e1  %r6e2^4d+2  d2f+4a4  
@@ -42,7 +35,7 @@ v192,115e1  r1  ^1  ^1
 
 l16
 {3}
-l16%v50p74%e1 $3 |1o5r1  ^1  ^1  ^1  
+l16p74%e1 $3 |1o5r1  ^1  ^1  ^1  
 v0o5<v192,113c1  r1  ^1  ^1  
 ^1  ^1  v0v192,113c1  r1  
 ^1  ^1  ^1  ^1  
@@ -55,92 +48,51 @@ v240,0^2r1  ^2^4
 
 l16
 {4}
-l16%v50v10p64%e1 $4 @7o7c1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^
+l16v10p64%e1@7o7v20,255,255%a4%l1c64 $4 c64
 ;4
 
 l16
 {5}
-l16%v50v44p68%e1|2r1  
+l16v44p68%e1|2r1  
 ^1  ^4 $5 o5<e4g+4c4  r4>b4<d+4d4  c+4r8c24>b24a+24<d4d+4  
 e4g+4r4>b4  <d+4d4r4f+4  a4g+4g4<c+4  r4>e4g+4c4  
 r4>b4<d+4d4  c+4r8c24>b24a+24<d4d+4  e4g+4r4>b4  <d+4d4r4f+4  
 a4g+4g4<c+4  r1  ^1  ^8>e8g+8c8r8>b8<d+8d8  
 c+8rc32>a+32<d8d+8e8g+8r8>b8  <d+8d8r8f+8a8g+8g8<c+8  >e8g+8c8>b8r8<d+8d8c+8  
 r8^c32>a+32<d8d+8e8g+8r8>b8  <d+8d8r8f+8a8g+8g8r8  <c+c>br8^ba+ar8^g+<c+c>b  
-r8^a+ag+r8^<c+c>br1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^2^4
+r8^a+ag+r8^<c+c>b[13r1  ]r2^4
 ;5
 
 l16
 {6}
-l16%v50p64%e1|3r1  ^1   $6 v127o5a1  
-<c1  >b1  g+1  a+1  
-f1  e1  <c1  >b1  
-g+2^4a+2  ^4e2f1  r1  
-^1  a8^ra8^ra8^ra8^r  g+8^rg+8^rg+8^rg+8^r  g8^rg8^rg8^rg8^r  
-f+8^rf+8^rf+8^rf+8^r  f8^rf8^rf8^rf8^r  e8^re8^re8^re8<ee  >e1  
-<e1  >e1  f+1  ^1  
-f+1  ^^<f+8^e8^>a+8^b4^  f+rf+8^f+8^f+^f+<f+>f+^f+8  ^f+8^f+8f+^f+^f+8^f+8^  
-f+^f+<f+>f+^f+8^f+8^f+^f+f+  e1  ^2v192,0^4r1  ^1  
-^1  ^2
+l16p64%e1|3r1  ^1  
+ $6 v127o5a1  <c1  >b1  g+1  
+a+1  f1  e1  <c1  
+>b1  g+2^4a+2  ^4e2f1  
+r1  ^1  a8^ra8^ra8^ra8^r  g+8^rg+8^rg+8^rg+8^r  
+g8^rg8^rg8^rg8^r  f+8^rf+8^rf+8^rf+8^r  f8^rf8^rf8^rf8^r  e8^re8^re8^re8<ee  
+>e1  <e1  >e1  f+1  
+^1  f+1  ^^<f+8^e8^>a+8^b4^  f+rf+8^f+8^f+^f+<f+>f+^f+8  
+^f+8^f+8f+^f+^f+8^f+8^  f+^f+<f+>f+^f+8^f+8^f+^f+f+  e1  ^2v192,0^4r1  
+^1  ^1  ^2
 ;6
 
 l16
 {7}
-l16%v50 $7 v127p20%e1|4%r14o6c+1  c+1  c+1  
-^1  c+1  ^1  c+1  
-^1  c+1  ^1  c+1  
-^1  c+1  r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  c+2^4c+1  ^4c+2^4  
-c+1  ^4c+2^4  c+2^4c+2  ^4c+1  
-^1  r1  ^1  
+l16 $7 v127p20%e1|4%r14o6c+1  c+1  
+[5c+1  ^1  ]c+1  [12r1  
+]c+2^4c+1  ^4c+2^4  c+1  ^4c+2^4  
+c+2^4c+2  ^4c+1  ^1  r1  
+^1  
 ;7
 
 l16
 {8}
-l16%v50v92p34%e1|5r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^4^8 $8 o4b<cr>grgaggg  ggggggabbggggagg  <d>gggggaa32a32bgggaaga  
-ggggggabbgggabgg  <d>gggagaa32a32bggggagg  ggagagabbggggagg  <d>gggagaa32a32bgggaagg  
-ggggaga32a32bggaagg<c32>ab32  <d>gggaaaa32a32bgggaaga  ggagagaaagggaagg  
-<d>gagagaa32a32bggga32a32a32a32r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^2^4
+l16v92p34%e1|5[14r1  ]r4^8 $8 o4b<cr>grgaggg  ggggggabbggggagg  
+<d>gggggaa32a32bgggaaga  ggggggabbgggabgg  <d>gggagaa32a32bggggagg  
+ggagagabbggggagg  <d>gggagaa32a32bgggaagg  ggggaga32a32bggaagg<c32>ab32  
+<d>gggaaaa32a32bgggaaga  ggagagaaagggaagg  <d>gagagaa32a32bggga32a32a32a32[24r1  
+]r2^4
 ;8
 
 l16

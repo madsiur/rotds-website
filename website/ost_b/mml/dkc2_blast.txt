@@ -1,5 +1,5 @@
 #TITLE Bramble Blast
-#ALBUM Donkey King Country 2
+#ALBUM Donkey Kong Country 2
 #COMPOSER David Wise
 #ARRANGED Gi Nattak
 

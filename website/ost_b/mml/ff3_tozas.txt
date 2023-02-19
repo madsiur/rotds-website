@@ -45,32 +45,17 @@ l16%e0v80p54|2r4 $3 o5f4<f8r8  [3>c4<f8r8>f4<f8r8
 
 l16
 {4}
-l16%e1v50p54|3r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^4< $4 o6f4f4d4  
-d8f8e8f8g8e8cccc  cccc>a+8<c8d8r8>g8a8  a+8r8aaaaa+a+a+a+bbbb  o6ccccf4f4d4  
-d8f8e8f8g8e8c4  d8e8f8e8d8c8o5a+8a8  g8f8e2o6gggg  ggggr1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  
+l16%e1v50p54|3[16r1  
+]r4< $4 o6f4f4d4  d8f8e8f8g8e8cccc  cccc>a+8<c8d8r8>g8a8  a+8r8aaaaa+a+a+a+bbbb  
+o6ccccf4f4d4  d8f8e8f8g8e8c4  d8e8f8e8d8c8o5a+8a8  g8f8e2o6gggg  
+gggg[16r1  ]
 ;4
 
 l16
 {5}
-l16%e1v50p74|3r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^4< $5 o6d2f4  
-f8a8g8a8a+8g8e4  r4g8a8a+4e8f8  g4fffff+f+f+f+gggg  g+g+g+g+d2f4  
-^8a8g8a8a+8g8e4  a+8<c8d8c8>a+8a8g8f8  e8d8c8r4^8<eeee  eeeer1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  
+l16%e1v50p74|3[16r1  ]r4< $5 o6d2f4  f8a8g8a8a+8g8e4  
+r4g8a8a+4e8f8  g4fffff+f+f+f+gggg  g+g+g+g+d2f4  ^8a8g8a8a+8g8e4  
+a+8<c8d8c8>a+8a8g8f8  e8d8c8r4^8<eeee  eeee[16r1  ]
 ;5
 
 l16

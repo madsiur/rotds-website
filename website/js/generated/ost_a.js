@@ -7,7 +7,6 @@ const ost_a =
         "game": "Dragon Warrior 3",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 67
     },
     {
@@ -17,7 +16,6 @@ const ost_a =
         "game": "Breath of Fire",
         "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 93
     },
     {
@@ -27,7 +25,6 @@ const ost_a =
         "game": "Treasure of the Rudra",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 160
     },
     {
@@ -37,7 +34,6 @@ const ost_a =
         "game": "Magic Knight Rayearth",
         "composer": "Yayoi Wachi, Seirou Okamoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 115
     },
     {
@@ -47,7 +43,6 @@ const ost_a =
         "game": "DQ/FF4 Remix",
         "composer": "Koichi Sugiyama, Nobuo Uematsu",
         "arranger": "Gi Nattak, Jackimus",
-        "dir": 1,
         "duration": 147
     },
     {
@@ -57,7 +52,6 @@ const ost_a =
         "game": "Bahamut Lagoon",
         "composer": "Noriko Matsueda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 80
     },
     {
@@ -67,7 +61,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 212
     },
     {
@@ -77,7 +70,6 @@ const ost_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 4
     },
     {
@@ -87,7 +79,6 @@ const ost_a =
         "game": "Romancing Saga 3",
         "composer": "Kenji Ito",
         "arranger": "JCE3000GT",
-        "dir": 1,
         "duration": 168
     },
     {
@@ -97,7 +88,6 @@ const ost_a =
         "game": "Legend of Mana",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 140
     },
     {
@@ -107,7 +97,6 @@ const ost_a =
         "game": "ActRaiser",
         "composer": "Yuzo Koshiro",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 96
     },
     {
@@ -117,7 +106,6 @@ const ost_a =
         "game": "Breath of Fire 2",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 96
     },
     {
@@ -127,7 +115,6 @@ const ost_a =
         "game": "Ys 5",
         "composer": "Naoki Kaneda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 166
     },
     {
@@ -137,7 +124,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 228
     },
     {
@@ -147,7 +133,6 @@ const ost_a =
         "game": "Pirate's of the Caribbean",
         "composer": "Klaus Badelt, Hans Zimmer",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 131
     },
     {
@@ -157,7 +142,6 @@ const ost_a =
         "game": "Metroid",
         "composer": "Hirokazu Tanaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 185
     },
     {
@@ -167,7 +151,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "emberling",
-        "dir": 1,
         "duration": 159
     },
     {
@@ -177,7 +160,6 @@ const ost_a =
         "game": "T&C Skate Session",
         "composer": "Tsukasa Masuko",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 147
     },
     {
@@ -187,7 +169,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Unknown",
-        "dir": 1,
         "duration": 126
     },
     {
@@ -197,7 +178,6 @@ const ost_a =
         "game": "Drakkhen",
         "composer": "Hiroyuki Masuno",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -207,7 +187,6 @@ const ost_a =
         "game": "Treasure of the Rudra",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 192
     },
     {
@@ -217,7 +196,6 @@ const ost_a =
         "game": "Albert Odyssey 2",
         "composer": "Naoki Kodaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 114
     },
     {
@@ -227,7 +205,6 @@ const ost_a =
         "game": "Zelda IV (GBC)",
         "composer": "K. Totaka, M. Hamano, K. Ishikawa, K. Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 149
     },
     {
@@ -237,7 +214,6 @@ const ost_a =
         "game": "Xenoblade",
         "composer": "ACE+",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 467
     },
     {
@@ -247,7 +223,6 @@ const ost_a =
         "game": "Live a Live",
         "composer": "Yoko Shimomura",
         "arranger": "Unknown",
-        "dir": 1,
         "duration": 352
     },
     {
@@ -257,7 +232,6 @@ const ost_a =
         "game": "Lufia 1",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 69
     },
     {
@@ -267,7 +241,6 @@ const ost_a =
         "game": "Fire Emblem: Genealogy of the Holy War",
         "composer": "Yuka Tsujiyoko",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 185
     },
     {
@@ -277,7 +250,6 @@ const ost_a =
         "game": "Lagoon",
         "composer": "Hideki Suzuki",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 105
     },
     {
@@ -287,7 +259,6 @@ const ost_a =
         "game": "Ys III",
         "composer": "Mieko Ishikawa",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 51
     },
     {
@@ -297,7 +268,6 @@ const ost_a =
         "game": "Treasure of the Rudra",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -307,7 +277,6 @@ const ost_a =
         "game": "Super Metroid",
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 246
     },
     {
@@ -317,7 +286,6 @@ const ost_a =
         "game": "Legend of Mana",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 94
     },
     {
@@ -327,7 +295,6 @@ const ost_a =
         "game": "Final Fantasy VIII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 220
     },
     {
@@ -337,7 +304,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 99
     },
     {
@@ -347,7 +313,6 @@ const ost_a =
         "game": "Romancing Saga 3",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 53
     },
     {
@@ -357,7 +322,6 @@ const ost_a =
         "game": "Breath of Fire",
         "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 89
     },
     {
@@ -367,7 +331,6 @@ const ost_a =
         "game": "Valkyrie Profile",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 185
     },
     {
@@ -377,8 +340,7 @@ const ost_a =
         "game": "Terranigma",
         "composer": "Masanori Hikichi",
         "arranger": "Gi Nattak",
-        "dir": 1,
-        "duration": 360
+        "duration": 210
     },
     {
         "id": 42,
@@ -387,7 +349,6 @@ const ost_a =
         "game": "Final Fantasy Mystic Quest",
         "composer": "Ryuji Sasai, Yasuhiro Kawakami",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 168
     },
     {
@@ -397,7 +358,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 136
     },
     {
@@ -407,7 +367,6 @@ const ost_a =
         "game": "Seiken Densetsu 3",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 186
     },
     {
@@ -417,7 +376,6 @@ const ost_a =
         "game": "Final Fantasy II",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 102
     },
     {
@@ -427,7 +385,6 @@ const ost_a =
         "game": "Aaron Walz Music",
         "composer": "Aaron Walz",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 110
     },
     {
@@ -437,7 +394,6 @@ const ost_a =
         "game": "Saga Frontier",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 33
     },
     {
@@ -447,7 +403,6 @@ const ost_a =
         "game": "Chrono Tigger",
         "composer": "Nobuo Uematsu",
         "arranger": "JCE3000GT",
-        "dir": 1,
         "duration": 129
     },
     {
@@ -457,7 +412,6 @@ const ost_a =
         "game": "The Chronic 2001",
         "composer": "Dr. Dre",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 101
     },
     {
@@ -467,7 +421,6 @@ const ost_a =
         "game": "Treasure of the Rudra",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 60
     },
     {
@@ -477,7 +430,6 @@ const ost_a =
         "game": "Tales of Phantasia",
         "composer": "Motoi Sakuraba, Shinji Tamura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 144
     },
     {
@@ -487,7 +439,6 @@ const ost_a =
         "game": "Treasure Conflix",
         "composer": "Junya Nakano",
         "arranger": "JCE3000GT",
-        "dir": 1,
         "duration": 115
     },
     {
@@ -497,7 +448,6 @@ const ost_a =
         "game": "Wild Arms",
         "composer": "Michiko Naruke",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 113
     },
     {
@@ -507,7 +457,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 209
     },
     {
@@ -517,7 +466,6 @@ const ost_a =
         "game": "Kingdom Hearts II",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 171
     },
     {
@@ -527,7 +475,6 @@ const ost_a =
         "game": "Xenogears",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 11
     },
     {
@@ -537,7 +484,6 @@ const ost_a =
         "game": "Final Fantasy III",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 102
     },
     {
@@ -547,7 +493,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 195
     },
     {
@@ -557,7 +502,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 135
     },
     {
@@ -567,7 +511,6 @@ const ost_a =
         "game": "Mario Paint",
         "composer": "Hirokazu Tanaka, Ryoji Yoshitomi, Kazumi Totaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 105
     },
     {
@@ -577,7 +520,6 @@ const ost_a =
         "game": "Final Fantasy XII",
         "composer": "Hitoshi Sakimoto, Hayato Matsuo, Masaharu Iwata",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 16
     },
     {
@@ -587,7 +529,6 @@ const ost_a =
         "game": "Live A Live",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 104
     },
     {
@@ -597,7 +538,6 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 190
     },
     {
@@ -607,7 +547,6 @@ const ost_a =
         "game": "Saga Frontier",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 192
     },
     {
@@ -617,7 +556,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 188
     },
     {
@@ -627,7 +565,6 @@ const ost_a =
         "game": "Final Fantasy I",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 52
     },
     {
@@ -637,7 +574,6 @@ const ost_a =
         "game": "Final Fantasy VIII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 147
     },
     {
@@ -647,7 +583,6 @@ const ost_a =
         "game": "Live A Live",
         "composer": "Yoko Shimomura",
         "arranger": "emberling",
-        "dir": 1,
         "duration": 71
     },
     {
@@ -657,7 +592,6 @@ const ost_a =
         "game": "Seiken Densetsu 3",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 140
     },
     {
@@ -667,7 +601,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 455
     },
     {
@@ -677,7 +610,6 @@ const ost_a =
         "game": "Brainlord",
         "composer": "Masanao Akahori",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 182
     },
     {
@@ -687,7 +619,6 @@ const ost_a =
         "game": "Final Fantasy Mystic Quest",
         "composer": "Ryuji Sasai, Yasuhiro Kawakami",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 169
     },
     {
@@ -697,7 +628,6 @@ const ost_a =
         "game": "Xenoblade",
         "composer": "ACE+",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 344
     },
     {
@@ -707,7 +637,6 @@ const ost_a =
         "game": "Rambo",
         "composer": "Tohru Hasabe",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 118
     },
     {
@@ -717,7 +646,6 @@ const ost_a =
         "game": "Chrono Trigger Beta",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 142
     },
     {
@@ -727,7 +655,6 @@ const ost_a =
         "game": "King Aurther's World",
         "composer": "Justin Scharvona",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 107
     },
     {
@@ -737,7 +664,6 @@ const ost_a =
         "game": "Terranigma",
         "composer": "Masanori Hikichi",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 391
     },
     {
@@ -747,7 +673,6 @@ const ost_a =
         "game": "Final Fantasy X",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 466
     },
     {
@@ -757,7 +682,6 @@ const ost_a =
         "game": "Castlevania SOTN",
         "composer": "Michiru Yamane",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -767,7 +691,6 @@ const ost_a =
         "game": "Chocobo From Hell",
         "composer": "Andrew Thompson",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 131
     },
     {
@@ -777,7 +700,6 @@ const ost_a =
         "game": "Valkyrie Profile",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 173
     },
     {
@@ -787,7 +709,6 @@ const ost_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 106
     },
     {
@@ -797,7 +718,6 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 126
     },
     {
@@ -807,7 +727,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 141
     },
     {
@@ -817,7 +736,6 @@ const ost_a =
         "game": "Final Fantasy I",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 52
     },
     {
@@ -827,7 +745,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 96
     },
     {
@@ -837,7 +754,6 @@ const ost_a =
         "game": "Sword of Mana",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 137
     },
     {
@@ -847,7 +763,6 @@ const ost_a =
         "game": "Super Mario 64",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 178
     },
     {
@@ -857,7 +772,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 95
     },
     {
@@ -867,7 +781,6 @@ const ost_a =
         "game": "E.V.O. Search for Eden",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 159
     },
     {
@@ -877,7 +790,6 @@ const ost_a =
         "game": "Saga Frontier",
         "composer": "Kenji Ito",
         "arranger": "Tsushiy",
-        "dir": 1,
         "duration": 121
     },
     {
@@ -887,7 +799,6 @@ const ost_a =
         "game": "Chrono Trigger Beta",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 82
     },
     {
@@ -897,7 +808,6 @@ const ost_a =
         "game": "Star Ocean",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 248
     },
     {
@@ -907,7 +817,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 101
     },
     {
@@ -917,7 +826,6 @@ const ost_a =
         "game": "Seiken Densetsu 3",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 155
     },
     {
@@ -927,7 +835,6 @@ const ost_a =
         "game": "Dragon Quest 2",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 110
     },
     {
@@ -937,7 +844,6 @@ const ost_a =
         "game": "Pokemon red/blue/yellow",
         "composer": "Junichi Masuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 128
     },
     {
@@ -947,7 +853,6 @@ const ost_a =
         "game": "Ys",
         "composer": "Ryo Yonemitsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 123
     },
     {
@@ -957,7 +862,6 @@ const ost_a =
         "game": "Tales of Phantasia",
         "composer": "Motoi Sakuraba, Shinji Tamura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 141
     },
     {
@@ -967,7 +871,6 @@ const ost_a =
         "game": "Metal Max 2",
         "composer": "Satoshi Kadokura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 96
     },
     {
@@ -977,7 +880,6 @@ const ost_a =
         "game": "Doom",
         "composer": "Bobby Prince",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -987,7 +889,6 @@ const ost_a =
         "game": "Brave Fencer Musashi",
         "composer": "Tsuyoshi Sekito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 153
     },
     {
@@ -997,7 +898,6 @@ const ost_a =
         "game": "Chrono Cross",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -1007,7 +907,6 @@ const ost_a =
         "game": "Mega Man X",
         "composer": "Alph Lyla group",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 18
     },
     {
@@ -1017,7 +916,6 @@ const ost_a =
         "game": "Treasure Conflix",
         "composer": "Junya Nakano",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 100
     },
     {
@@ -1027,7 +925,6 @@ const ost_a =
         "game": "Valkyrie Profile",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 160
     },
     {
@@ -1037,8 +934,7 @@ const ost_a =
         "game": "Super Metroid",
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
-        "duration": 309
+        "duration": 254
     },
     {
         "id": 111,
@@ -1047,7 +943,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 134
     },
     {
@@ -1057,7 +952,6 @@ const ost_a =
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -1067,7 +961,6 @@ const ost_a =
         "game": "Final Fantasy Mystic Quest",
         "composer": "Ryuji Sasai, Yasuhiro Kawakami",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 127
     },
     {
@@ -1077,7 +970,6 @@ const ost_a =
         "game": "Star Ocean 3",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 294
     },
     {
@@ -1087,7 +979,6 @@ const ost_a =
         "game": "Suikoden II",
         "composer": "Miki Higashino, Keiko Fukami",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 213
     },
     {
@@ -1097,7 +988,6 @@ const ost_a =
         "game": "Donkey Kong Country 2",
         "composer": "David Wise",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 221
     },
     {
@@ -1107,7 +997,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 150
     },
     {
@@ -1117,7 +1006,6 @@ const ost_a =
         "game": "Xenoblade",
         "composer": "ACE+",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 262
     },
     {
@@ -1127,7 +1015,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 86
     },
     {
@@ -1137,7 +1024,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 100
     },
     {
@@ -1147,7 +1033,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 77
     },
     {
@@ -1157,7 +1042,6 @@ const ost_a =
         "game": "Saga Frontier",
         "composer": "Kenji Ito",
         "arranger": "Tsushiy",
-        "dir": 1,
         "duration": 152
     },
     {
@@ -1167,7 +1051,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 137
     },
     {
@@ -1177,7 +1060,6 @@ const ost_a =
         "game": "Xenogears",
         "composer": "Yasunori Mitsuda",
         "arranger": "Tsushiy",
-        "dir": 1,
         "duration": 217
     },
     {
@@ -1187,7 +1069,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 142
     },
     {
@@ -1197,7 +1078,6 @@ const ost_a =
         "game": "Super Mario RPG",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 106
     },
     {
@@ -1207,7 +1087,6 @@ const ost_a =
         "game": "Batman: The Video Game",
         "composer": "Naoki Kodaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 122
     },
     {
@@ -1217,7 +1096,6 @@ const ost_a =
         "game": "Europe",
         "composer": "N/A",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 244
     },
     {
@@ -1227,7 +1105,6 @@ const ost_a =
         "game": "ActRaiser 2",
         "composer": "Yuzo Koshiro",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 32
     },
     {
@@ -1237,7 +1114,6 @@ const ost_a =
         "game": "Xenogears",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 171
     },
     {
@@ -1247,7 +1123,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 32
     },
     {
@@ -1257,7 +1132,6 @@ const ost_a =
         "game": "Ys",
         "composer": "Ryo Yonemitsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 64
     },
     {
@@ -1267,7 +1141,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -1277,7 +1150,6 @@ const ost_a =
         "game": "Wild Arms",
         "composer": "Michiko Naruke",
         "arranger": "Gi Nattak, emberling",
-        "dir": 1,
         "duration": 80
     },
     {
@@ -1287,7 +1159,6 @@ const ost_a =
         "game": "Final Fantasy II",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 190
     },
     {
@@ -1297,7 +1168,6 @@ const ost_a =
         "game": "Undertale",
         "composer": "Toby Fox",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 312
     },
     {
@@ -1307,7 +1177,6 @@ const ost_a =
         "game": "William Kage Music",
         "composer": "William Kage",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 136
     },
     {
@@ -1317,7 +1186,6 @@ const ost_a =
         "game": "Angry Video Game Nerd Adventures",
         "composer": "FreakZone Games",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 328
     },
     {
@@ -1327,7 +1195,6 @@ const ost_a =
         "game": "Final Fantasy Tactics",
         "composer": "Masaharu Iwata",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 180
     },
     {
@@ -1337,7 +1204,6 @@ const ost_a =
         "game": "The Legend of Zelda: Link's Awakening",
         "composer": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -1347,7 +1213,6 @@ const ost_a =
         "game": "Earthbound",
         "composer": "Keiichi Suzuki, Hirokazu Tanaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 200
     },
     {
@@ -1357,7 +1222,6 @@ const ost_a =
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 90
     },
     {
@@ -1367,7 +1231,6 @@ const ost_a =
         "game": "Final Fantasy Tactics",
         "composer": "Hitoshi Sakimoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 51
     },
     {
@@ -1377,7 +1240,6 @@ const ost_a =
         "game": "Drakkhen",
         "composer": "Hiroyuki Masuno",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -1387,7 +1249,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 103
     },
     {
@@ -1397,7 +1258,6 @@ const ost_a =
         "game": "Seiken Densetsu 3",
         "composer": "Hiroki Kikuta",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 180
     },
     {
@@ -1407,7 +1267,6 @@ const ost_a =
         "game": "Lufia 1",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 64
     },
     {
@@ -1417,7 +1276,6 @@ const ost_a =
         "game": "Street Fighter 2",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 128
     },
     {
@@ -1427,7 +1285,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 233
     },
     {
@@ -1437,7 +1294,6 @@ const ost_a =
         "game": "Demon's Souls",
         "composer": "Shunsuke Kida",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 76
     },
     {
@@ -1447,7 +1303,6 @@ const ost_a =
         "game": "7th Saga",
         "composer": "Norihiko Yamanuki",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 144
     },
     {
@@ -1457,7 +1312,6 @@ const ost_a =
         "game": "Brave Fencer Musashi",
         "composer": "Tsuyoshi Sekito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 313
     },
     {
@@ -1467,7 +1321,6 @@ const ost_a =
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 145
     },
     {
@@ -1477,7 +1330,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 114
     },
     {
@@ -1487,7 +1339,6 @@ const ost_a =
         "game": "Jade Cocoon",
         "composer": "Kimitaka Matsumae",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 161
     },
     {
@@ -1497,7 +1348,6 @@ const ost_a =
         "game": "Romancing Saga 3",
         "composer": "Kenji Ito",
         "arranger": "JCE3000GT",
-        "dir": 1,
         "duration": 99
     },
     {
@@ -1507,7 +1357,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "MetroidQuest",
-        "dir": 1,
         "duration": 126
     },
     {
@@ -1517,7 +1366,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 110
     },
     {
@@ -1527,7 +1375,6 @@ const ost_a =
         "game": "Dragon Quest VII",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 212
     },
     {
@@ -1537,7 +1384,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 207
     },
     {
@@ -1547,7 +1393,6 @@ const ost_a =
         "game": "Suikoden 2",
         "composer": "Miki Higashino, Keiko Fukami",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 146
     },
     {
@@ -1557,7 +1402,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 41
     },
     {
@@ -1567,7 +1411,6 @@ const ost_a =
         "game": "Super Mario 3",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 67
     },
     {
@@ -1577,7 +1420,6 @@ const ost_a =
         "game": "Star Wars",
         "composer": "John Williams",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 64
     },
     {
@@ -1587,7 +1429,6 @@ const ost_a =
         "game": "Final Fantasy VIII",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 168
     },
     {
@@ -1597,7 +1438,6 @@ const ost_a =
         "game": "Illusion of Gaia",
         "composer": "Yasuhiro Kawasaki",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 210
     },
     {
@@ -1607,7 +1447,6 @@ const ost_a =
         "game": "Bahamut Lagoon",
         "composer": "Noriko Matsueda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 158
     },
     {
@@ -1617,7 +1456,6 @@ const ost_a =
         "game": "Super Mario RPG",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 42
     },
     {
@@ -1627,7 +1465,6 @@ const ost_a =
         "game": "Ogre Battle",
         "composer": "Masaharu Iwata, Hitoshi Sakimoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 335
     },
     {
@@ -1637,7 +1474,6 @@ const ost_a =
         "game": "Shining Force II",
         "composer": "Motoaki Takenouchi",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 91
     },
     {
@@ -1647,7 +1483,6 @@ const ost_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 208
     },
     {
@@ -1657,7 +1492,6 @@ const ost_a =
         "game": "Mighty Morphin Power Rangers",
         "composer": "Kinuyo Yamashita, Iku Mizutani",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 198
     },
     {
@@ -1667,7 +1501,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 202
     },
     {
@@ -1677,7 +1510,6 @@ const ost_a =
         "game": "Street Fighter II",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 104
     },
     {
@@ -1687,7 +1519,6 @@ const ost_a =
         "game": "Romancing Saga 2",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 158
     },
     {
@@ -1697,7 +1528,6 @@ const ost_a =
         "game": "Final Fantasy X",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 194
     },
     {
@@ -1707,7 +1537,6 @@ const ost_a =
         "game": "Undertale",
         "composer": "Toby Fox",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 115
     },
     {
@@ -1717,7 +1546,6 @@ const ost_a =
         "game": "Shining Force 1",
         "composer": "Motoaki Takenouchi",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 139
     },
     {
@@ -1727,7 +1555,6 @@ const ost_a =
         "game": "Super Mario RPG",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 59
     },
     {
@@ -1737,7 +1564,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 47
     },
     {
@@ -1747,7 +1573,6 @@ const ost_a =
         "game": "Final Fantasy III",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 97
     },
     {
@@ -1757,7 +1582,6 @@ const ost_a =
         "game": "Paladin's Quest",
         "composer": "Kohei Tanaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 310
     },
     {
@@ -1767,7 +1591,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 171
     },
     {
@@ -1777,7 +1600,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 210
     },
     {
@@ -1787,7 +1609,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 177
     },
     {
@@ -1797,7 +1618,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 244
     },
     {
@@ -1807,7 +1627,6 @@ const ost_a =
         "game": "Romancing Saga Minstrel Song",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 232
     },
     {
@@ -1817,7 +1636,6 @@ const ost_a =
         "game": "Romancing Saga 2",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 162
     },
     {
@@ -1827,7 +1645,6 @@ const ost_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "MetroidQuest",
-        "dir": 1,
         "duration": 73
     },
     {
@@ -1837,7 +1654,6 @@ const ost_a =
         "game": "Alundra",
         "composer": "Kohei Tanaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 208
     },
     {
@@ -1847,7 +1663,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 135
     },
     {
@@ -1857,7 +1672,6 @@ const ost_a =
         "game": "Sword of Mana",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 598
     },
     {
@@ -1867,7 +1681,6 @@ const ost_a =
         "game": "Quake 2",
         "composer": "Sascha Dikiciyan",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 256
     },
     {
@@ -1877,7 +1690,6 @@ const ost_a =
         "game": "Chrono Trigger",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 180
     },
     {
@@ -1887,7 +1699,6 @@ const ost_a =
         "game": "Kingdom Hearts",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 213
     },
     {
@@ -1897,7 +1708,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 133
     },
     {
@@ -1907,7 +1717,6 @@ const ost_a =
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 231
     },
     {
@@ -1917,7 +1726,6 @@ const ost_a =
         "game": "Illusion of Gaia",
         "composer": "Yasuhiro Kawasaki",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 62
     },
     {
@@ -1927,7 +1735,6 @@ const ost_a =
         "game": "Seiken Densetsu 3",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 162
     },
     {
@@ -1937,7 +1744,6 @@ const ost_a =
         "game": "Earthworm Jim 2",
         "composer": "Tommy Tallarico",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 293
     },
     {
@@ -1947,7 +1753,6 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 118
     },
     {
@@ -1957,7 +1762,6 @@ const ost_a =
         "game": "Final Fantasy Mystic Quest",
         "composer": "Ryuji Sasai, Yasuhiro Kawakami",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 98
     },
     {
@@ -1967,7 +1771,6 @@ const ost_a =
         "game": "Final Fantasy Mystic Quest",
         "composer": "Ryuji Sasai, Yasuhiro Kawakami",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 119
     },
     {
@@ -1977,7 +1780,6 @@ const ost_a =
         "game": "Chrono Cross",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 144
     },
     {
@@ -1987,7 +1789,6 @@ const ost_a =
         "game": "Valkyrie Profile",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 86
     },
     {
@@ -1997,7 +1798,6 @@ const ost_a =
         "game": "Suikoden II",
         "composer": "Miki Higashino, Keiko Fukami",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 226
     },
     {
@@ -2007,7 +1807,6 @@ const ost_a =
         "game": "Mega Man X",
         "composer": "Alph Lyla group",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 214
     },
     {
@@ -2017,7 +1816,6 @@ const ost_a =
         "game": "Golden Sun 2",
         "composer": "Motoi Sakuraba",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 102
     },
     {
@@ -2027,7 +1825,6 @@ const ost_a =
         "game": "F-Zero",
         "composer": "Yumiko Kanki, Naoto Ishida",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 229
     },
     {
@@ -2037,7 +1834,6 @@ const ost_a =
         "game": "Final Fantasy Legend II",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 72
     },
     {
@@ -2047,7 +1843,6 @@ const ost_a =
         "game": "Tales of Phantasia",
         "composer": "Motoi Sakuraba, Shinji Tamura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 67
     },
     {
@@ -2057,7 +1852,6 @@ const ost_a =
         "game": "E.V.O. Search for Eden",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 140
     },
     {
@@ -2067,7 +1861,6 @@ const ost_a =
         "game": "Secret of Mana",
         "composer": "Hiroki Kikuta",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 235
     },
     {
@@ -2077,7 +1870,6 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 192
     },
     {
@@ -2087,7 +1879,6 @@ const ost_a =
         "game": "Super Mario RPG",
         "composer": "Yoko Shimomura",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 100
     },
     {
@@ -2097,7 +1888,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "emberling",
-        "dir": 1,
         "duration": 133
     },
     {
@@ -2107,7 +1897,6 @@ const ost_a =
         "game": "Super Metroid/Prime",
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Jackimus",
-        "dir": 1,
         "duration": 126
     },
     {
@@ -2117,7 +1906,6 @@ const ost_a =
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 253
     },
     {
@@ -2127,7 +1915,6 @@ const ost_a =
         "game": "Final Fantasy XI",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 332
     },
     {
@@ -2137,7 +1924,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 632
     },
     {
@@ -2147,7 +1933,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 48
     },
     {
@@ -2157,7 +1942,6 @@ const ost_a =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 81
     },
     {
@@ -2167,7 +1951,6 @@ const ost_a =
         "game": "Poltergheist",
         "composer": "Jerry Goldsmith",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 128
     },
     {
@@ -2177,7 +1960,6 @@ const ost_a =
         "game": "Final Fantasy IV",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 20
     },
     {
@@ -2187,7 +1969,6 @@ const ost_a =
         "game": "RPG Tsukuru Super Dante",
         "composer": "Shigeharu Isoda, Mitsuhiro Arisaka",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 217
     },
     {
@@ -2197,7 +1978,6 @@ const ost_a =
         "game": "Lufia 1",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 58
     },
     {
@@ -2207,7 +1987,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "emberling",
-        "dir": 1,
         "duration": 236
     },
     {
@@ -2217,7 +1996,6 @@ const ost_a =
         "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak, emberling",
-        "dir": 1,
         "duration": 109
     },
     {
@@ -2227,8 +2005,7 @@ const ost_a =
         "game": "Sword of Mana",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
-        "duration": 115
+        "duration": 108
     },
     {
         "id": 236,
@@ -2237,7 +2014,6 @@ const ost_a =
         "game": "Dragon Ball Z Budokai",
         "composer": "Kenji Yamamoto",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 141
     },
     {
@@ -2247,7 +2023,6 @@ const ost_a =
         "game": "Five Nights at Freddys",
         "composer": "Leon Riskin",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 248
     },
     {
@@ -2257,7 +2032,6 @@ const ost_a =
         "game": "Final Fantasy VI",
         "composer": "Nobuo Uematsu",
         "arranger": "N/A",
-        "dir": 1,
         "duration": 43
     },
     {
@@ -2267,7 +2041,6 @@ const ost_a =
         "game": "Terranigma",
         "composer": "Masanori Hikichi",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 24
     },
     {
@@ -2277,7 +2050,6 @@ const ost_a =
         "game": "Treasure Conflix",
         "composer": "Junya Nakano",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 93
     },
     {
@@ -2287,7 +2059,6 @@ const ost_a =
         "game": "Wild Arms",
         "composer": "Michiko Naruke",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 27
     },
     {
@@ -2297,7 +2068,6 @@ const ost_a =
         "game": "Lufia 2",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 173
     },
     {
@@ -2307,7 +2077,6 @@ const ost_a =
         "game": "Xenogears",
         "composer": "Yasunori Mitsuda",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 237
     },
     {
@@ -2317,7 +2086,6 @@ const ost_a =
         "game": "Final Fantasy VIII",
         "composer": "Nobuo Uematsu",
         "arranger": "emberling",
-        "dir": 1,
         "duration": 226
     },
     {
@@ -2327,7 +2095,6 @@ const ost_a =
         "game": "Romancing Saga",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 146
     },
     {
@@ -2337,7 +2104,6 @@ const ost_a =
         "game": "Energy Breaker",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 107
     },
     {
@@ -2347,7 +2113,6 @@ const ost_a =
         "game": "Eminem",
         "composer": "Dr. Dre",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 316
     },
     {
@@ -2357,7 +2122,6 @@ const ost_a =
         "game": "Arcana",
         "composer": "Jun Ishikawa, Hirokazu Ando",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 128
     },
     {
@@ -2367,7 +2131,6 @@ const ost_a =
         "game": "Romancing Saga 3",
         "composer": "Kenji Ito",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 137
     },
     {
@@ -2377,7 +2140,6 @@ const ost_a =
         "game": "Final Fantasy VII",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 296
     },
     {
@@ -2387,7 +2149,6 @@ const ost_a =
         "game": "Tales of Phantasia",
         "composer": "Motoi Sakuraba, Shinji Tamura",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 128
     },
     {
@@ -2397,7 +2158,6 @@ const ost_a =
         "game": "Illusion of Gaia",
         "composer": "Yasuhiro Kawasaki",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 360
     },
     {
@@ -2407,7 +2167,6 @@ const ost_a =
         "game": "King's Quest VI",
         "composer": "Chris Braymen",
         "arranger": "Gi Nattak",
-        "dir": 1,
         "duration": 145
     }
 ];

@@ -7,7 +7,6 @@ const optional_c =
         "game": "Tales of Phantasia",
         "composer": "Motoi Sakuraba",
         "arranger": "Gi Nattak",
-        "dir": 6,
         "duration": 219
     },
     {
@@ -17,7 +16,6 @@ const optional_c =
         "game": "doranarasi Music",
         "composer": "doranarasi",
         "arranger": "Gi Nattak",
-        "dir": 6,
         "duration": 263
     }
 ];

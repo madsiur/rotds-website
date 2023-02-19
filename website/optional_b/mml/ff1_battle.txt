@@ -26,13 +26,11 @@ d8f+8dra8f+8a8v80p64g4  f+4g4a4a+4  a4a+4<c4drdr  drdr8^d+4frdr2
 l16
 {2}
 l16%e1r1  ^1  
- $2 v60p64|2r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^4o5d+4^8d+4^8  d+1  r4d+4^8d+4^8  d+4r8v100|1o7dd+dc>a+agf+d+d  
-v80|2o5d+1  r1  d+1  r1  
-d+1  r1  d+1  r1  
-d+1  d+1  v80|1o5<arararar8^<c4cr  >ar2^4^8^  
-a+ra+ra+ra+r8^a+4a+r  ar2^4^8^  
+ $2 v60p64|2[8r1  ]^4o5d+4^8d+4^8  d+1  r4d+4^8d+4^8  
+d+4r8v100|1o7dd+dc>a+agf+d+d  v80|2o5d+1  r1  d+1  
+r1  d+1  r1  d+1  
+r1  d+1  d+1  v80|1o5<arararar8^<c4cr  
+>ar2^4^8^  a+ra+ra+ra+r8^a+4a+r  ar2^4^8^  
 ;2
 
 l16
@@ -91,13 +89,8 @@ g+8g+8g+8r4g+8r4  [12g+8g+8g+8g+8g+8g+8g+8g+8  ]g+8r2^8g+8g+8  [2g+8g+8g+8g+8g+8
 
 l16
 {8}
-l16%e1v80p64|2o5r1  ^1   $8 r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-[2d+2r8d+4^8  d+4r2^4  ]
+l16%e1v80p64|2o5r1  ^1   $8 [22r1  ][2d+2r8d+4^8  
+d+4r2^4  ]
 ;8
 
 l16

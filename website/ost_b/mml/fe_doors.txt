@@ -53,20 +53,12 @@ a+4a+r8^a+r32a+a+r32a+r8^  a+4
 
 l16
 {4}
-l16v100p62%e1|1r2^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^32 $4 o6f+r8^f+4f+r8^f+4  f+r8^f+4f+r8^f+4  fr8^f4fr8^f4  
-fr8^f4fr8^f4  d+r8^d+r32d+d+r32d+r8^d+r32d+d+r32  d+r8^d+r32d+d+r32d+r8^d+4  
-c+r8^c+r32c+c+r32c+r8^c+4  c+r8^c+r32c+c+r32c+r8^c+4  >br8^br32bbr32br8^b4  
-br8^br32bbr32br8^b4  [2a+r8^a+r32a+a+r32a+r8^a+4  ][2g+r8^g+r32g+g+r32g+r8^g+4  
-][2f+r8^f+r32f+f+r32f+r8^f+4  ]r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  
+l16v100p62%e1|1[18r1  
+]r2^32 $4 o6f+r8^f+4  f+r8^f+4f+r8^f+4  f+r8^f+4fr8^f4  fr8^f4fr8^f4  
+fr8^f4d+r8^d+r32d+d+r32  d+r8^d+r32d+d+r32d+r8^d+r32d+d+r32  d+r8^d+4c+r8^c+r32c+c+r32  
+c+r8^c+4c+r8^c+r32c+c+r32  c+r8^c+4>br8^br32bbr32  br8^b4br8^br32bbr32  
+br8^b4[2a+r8^a+r32a+a+r32  a+r8^a+4][2g+r8^g+r32g+g+r32  g+r8^g+4][2f+r8^f+r32f+f+r32  
+f+r8^f+4][18r1  ]
 ;4
 
 l16

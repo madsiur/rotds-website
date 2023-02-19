@@ -7,7 +7,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 587
     },
     {
@@ -17,7 +16,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 673
     },
     {
@@ -27,7 +25,6 @@ const sfx =
         "game": "Chrono Trigger",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 11
     },
     {
@@ -37,7 +34,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 360
     },
     {
@@ -47,7 +43,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 360
     },
     {
@@ -57,7 +52,6 @@ const sfx =
         "game": "Chrono Trigger",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 24
     },
     {
@@ -67,7 +61,6 @@ const sfx =
         "game": "Chrono Trigger",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 71
     },
     {
@@ -77,7 +70,6 @@ const sfx =
         "game": "Final Fantasy V",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 360
     },
     {
@@ -87,7 +79,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 15
     },
     {
@@ -97,7 +88,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 6
     },
     {
@@ -107,7 +97,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 360
     },
     {
@@ -117,7 +106,6 @@ const sfx =
         "game": "Final Fantasy VI",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 1
     },
     {
@@ -127,7 +115,6 @@ const sfx =
         "game": "Romancing Saga 3",
         "composer": "Minoru Akao",
         "arranger": "N/A",
-        "dir": 3,
         "duration": 360
     }
 ];

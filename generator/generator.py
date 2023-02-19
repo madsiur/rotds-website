@@ -3,29 +3,14 @@ from mass_extract import mass_extract
 import constants as c
 import json
 
-def generate_json(dirs, roms, brrs):
+def generate_json(roms, brrs):
     parent_dir = os.path.dirname(os.path.dirname(__file__))
     js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
 
-    if(os.path.exists(js_dir)):
-        shutil.rmtree(js_dir)
-    os.makedirs(js_dir)
-
-    json_object = json.dumps(dirs, indent=4)
-    file_string = f'const dirs = \n{json_object};'
-
-    this_fn = os.path.join(js_dir, "common.js")
-    try:
-        with open(this_fn, "w") as f:
-            f.write(file_string)
-    except IOError:
-        print("ERROR: failed to write {this_fn}")
-        sys.exit()
-        
-
-    counter = 0
+    dirs = []
     for k1, v1 in roms.items():
         entries = []
+        dirs.append(k1)
         for k2, v2 in v1.items():
             entry = {
                 "id": k2,
@@ -34,21 +19,29 @@ def generate_json(dirs, roms, brrs):
                 "game": v2[2],
                 "composer": v2[3],
                 "arranger": v2[4],
-                "dir": int(v2[5]),
-                "duration": v2[6],
+                "duration": v2[5],
             }
             entries.append(entry)
         json_object = json.dumps(entries, indent=4)
-        file_string = f'const {dirs[counter]} = \n{json_object};'
+        file_string = f'const {k1} = \n{json_object};'
 
-        this_fn = os.path.join(js_dir, f"{dirs[counter]}.js")
+        this_fn = os.path.join(js_dir, f"{k1}.js")
         try:
             with open(this_fn, "w") as f:
                 f.write(file_string)
         except IOError:
             print("ERROR: failed to write {this_fn}")
             sys.exit()
-        counter += 1
+
+    json_object = json.dumps(dirs, indent=4)
+    file_string = f'const dirs = \n{json_object};'
+    this_fn = os.path.join(js_dir, "common.js")
+    try:
+        with open(this_fn, "w") as f:
+            f.write(file_string)
+    except IOError:
+        print("ERROR: failed to write {this_fn}")
+        sys.exit()
 
     entries = []
     for k, v in brrs.items():
@@ -78,5 +71,5 @@ def generate_json(dirs, roms, brrs):
         sys.exit()
 
 if __name__ == '__main__':
-    dirs, roms, brrs = mass_extract('mass_extract.txt')
-    generate_json(dirs, roms, brrs)
+    roms, brrs = mass_extract('mass_extract.txt')
+    generate_json(roms, brrs)

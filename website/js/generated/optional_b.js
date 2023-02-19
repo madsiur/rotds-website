@@ -7,7 +7,6 @@ const optional_b =
         "game": "Zelda II",
         "composer": "Akito Nakatsuka",
         "arranger": "Gi Nattak",
-        "dir": 5,
         "duration": 83
     },
     {
@@ -17,7 +16,6 @@ const optional_b =
         "game": "Final Fantasy III",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 5,
         "duration": 120
     },
     {
@@ -27,7 +25,6 @@ const optional_b =
         "game": "Final Fantasy I",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 5,
         "duration": 78
     },
     {
@@ -37,7 +34,6 @@ const optional_b =
         "game": "Final Fantasy V",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "dir": 5,
         "duration": 64
     }
 ];

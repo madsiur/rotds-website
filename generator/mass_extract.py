@@ -38,17 +38,6 @@ def mass_extract(fn):
         shutil.rmtree(brr_dir)
     os.makedirs(brr_dir)
 
-    folders = config[c.FOLDER_SECTION]
-    dirs = []
-    for k in folders:
-        dir = os.path.join(website_dir, config[c.FOLDER_SECTION][k])
-        dirs.append(config[c.FOLDER_SECTION][k])
-        if(os.path.exists(dir)):
-            shutil.rmtree(dir)
-        os.makedirs(dir)
-        os.makedirs(os.path.join(dir, c.MML_DIR))
-        os.makedirs(os.path.join(dir, c.SPC_DIR))
-
     romfiles = [cs for cs in config.sections() if cs != c.FOLDER_SECTION and cs != c.BRR_SECTION]
     brr_rom_name = romfiles[0]
     print(brr_rom_name)
@@ -73,7 +62,6 @@ def mass_extract(fn):
 
     brrs = {}
     seen = set()
-    occurences = dict()
     for i in range(1, 256):
         brrs[i] = config[c.BRR_SECTION][f"{i:02X}"].split(";")
 
@@ -129,6 +117,12 @@ def mass_extract(fn):
     roms = {}
     for romfile in romfiles:
         romid = os.path.basename(romfile).split('.')[0].strip().replace(' ', '_')
+        dir = os.path.join(website_dir, romid)
+        if(os.path.exists(dir)):
+            shutil.rmtree(dir)
+        os.makedirs(dir)
+        os.makedirs(os.path.join(dir, c.MML_DIR))
+        os.makedirs(os.path.join(dir, c.SPC_DIR))
         
         try:
             with open(romfile, 'rb') as f:
@@ -181,7 +175,7 @@ def mass_extract(fn):
             
             ## Deal with metadata
             meta_cfg = config[romfile][song_idx_string].split(';')
-            if len(meta_cfg) != 6:
+            if len(meta_cfg) != 5:
                 print(f"bad song {str(song_idx)} metadata")
                 sys.exit()
 
@@ -228,7 +222,7 @@ def mass_extract(fn):
             out_mml = "\n".join(out_mml)
             
             ## file output       
-            dir = os.path.join(website_dir, folders[meta_cfg[5]], c.SPC_DIR)
+            dir = os.path.join(website_dir, romid, c.SPC_DIR)
             this_fn = os.path.join(dir, songfn + ".spc")
             try:
                 with open(this_fn, "wb") as f:
@@ -237,7 +231,7 @@ def mass_extract(fn):
                 print("ERROR: failed to write {this_fn}")
                 sys.exit()
                 
-            dir = os.path.join(website_dir, folders[meta_cfg[5]], c.MML_DIR)
+            dir = os.path.join(website_dir, romid, c.MML_DIR)
             this_fn = os.path.join(dir, songfn + ".txt")
             try:
                 with open(this_fn, "w") as f:
@@ -247,7 +241,7 @@ def mass_extract(fn):
                 sys.exit()
             songs[song_idx] = meta_cfg
         roms[romid] = songs
-    return dirs, roms, brrs
+    return roms, brrs
 
             
                 

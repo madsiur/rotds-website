@@ -33,12 +33,12 @@ d4e4f4>g4  <g4g8f8e8f8e8d8  d4c4>g4
 l16
 {3}
 l16v50p64%e0|2%r8o5c2  
-^8^r>b2^8^r  a2^8^rg+4  ^8^rg+8^^a4^8^r  <f8^^e2^8^r  
-d+2^8^r>g+2  ^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+8^^  
-a4^8^r<f8^^e2  ^8^rd8^^g4^8^r  c2^8^ $3 rc2  ^8^r>b2^8^r  
-a2^8^rg+4  ^8^rg+8^^a4^8^r  <f8^^e2^8^r  d+2^8^r>g+2  
-^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+8^^  a4^8^r<f8^^e2  
-^8^rd8^^g4^8^r  c2^8^
+^8^r>b2^8^r  a2^8^rg+4  ^8^rg+4a4^8^r  <f4e2^8^r  
+d+2^8^r>g+2  ^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+4  
+a4^8^r<f4e2  ^8^rd4g4^8^r  c2^8^ $3 rc2  ^8^r>b2^8^r  
+a2^8^rg+4  ^8^rg+4a4^8^r  <f4e2^8^r  d+2^8^r>g+2  
+^8^r<c2^8^r  >b2^8^ra2  ^8^rg+4^8^rg+4  a4^8^r<f4e2  
+^8^rd4g4^8^r  c2^8^
 ;3
 
 l16
@@ -67,7 +67,7 @@ l16
 l16v60p94%e1|5o5>g8g8<c8c8e8g8>g8g8  
 <d8d8f8a8>a8a8<e8e8  a8<c8o4g+8g+8<d8d8f8a8  >a8a8<e8e8f8a8>g8g8  
 <c8c8a8b8>f8f8b8b8  <d8e8>g8g8<d8d8e8f8  >g8g8<d8d8e8g8>g8g8  <c8c8g8a8>a8a8<c8c8  
-g8a8>a8a8<d8d8f8b8  >g8g8<c8c8e8g8>g8g8  <c8c8f8g8g8f8e8f8   $6 e8d8d8^^c8^^>g8^^  
+g8a8>a8a8<d8d8f8b8  >g8g8<c8c8e8g8>g8g8  <c8c8f8g8g8f8e8f8   $6 e8d8d4c4>g4  
 g8g8<c8c8e8g8>g8g8  <d8d8f8a8>a8a8<e8e8  a8<c8o4g+8g+8<d8d8f8a8  
 >a8a8<e8e8f8a8>g8g8  <c8c8a8b8>f8f8b8b8  <d8e8>g8g8<d8d8e8f8  >g8g8<d8d8e8g8>g8g8  
 <c8c8g8a8>a8a8<c8c8  g8a8>a8a8<d8d8f8b8  >g8g8<c8c8e8g8>g8g8  <c8c8f8g8g8f8e8f8  

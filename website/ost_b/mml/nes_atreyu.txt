@@ -44,9 +44,7 @@ c+1  c1
 
 l16
 {3}
-l16%e1v80p64|0o5r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^2o3d2  
+l16%e1v80p64|0o5[9r1  ]r2o3d2  
 d+1  ^1  c1  ^2^4^8^r  
  $3 v76p74|2%r4o5c2f2  g2<c2  >a+2a4g4  f1  
 a2g4f4  e2g2  m24,18,201c1  ^1  
@@ -62,30 +60,23 @@ c8r8c8r8c8r8c8r8
 
 l16
 {4}
-l16%e1v60p34|0r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1   $4 o3f1  
-e1  d1  c1  b1  
-a+1  a1  g2^4c4  f1  
-e1  d1  c+1  c1  
->b1  o4c4>a+4g+2  g1  f1  
-d+1  d1  c+1  c1  
->a+1  <g+1  g2d+2  f1  
-e1  d+1  d1  d+rd+rd+rd+rd+rd+rd+rd+r  
-d+rd+rd+rd+rfrfrfrfr  f+rf+rf+rf+rf+rf+rf+rf+r  f+rf+rf+rf+rg+rg+rg+rg+r  
-a+ra+ra+ra+ra+ra+ra+ra+r  <crcrcrcrcrcrcrcr  c+rc+rc+rc+rc+rc+rc+rc+r  
-crcrcrcrcrcrcrcr  
+l16%e1v60p34|0[14r1  ] $4 o3f1  e1  
+d1  c1  b1  a+1  
+a1  g2^4c4  f1  e1  
+d1  c+1  c1  >b1  
+o4c4>a+4g+2  g1  f1  d+1  
+d1  c+1  c1  >a+1  
+<g+1  g2d+2  f1  e1  
+d+1  d1  d+rd+rd+rd+rd+rd+rd+rd+r  d+rd+rd+rd+rfrfrfrfr  
+f+rf+rf+rf+rf+rf+rf+rf+r  f+rf+rf+rf+rg+rg+rg+rg+r  a+ra+ra+ra+ra+ra+ra+ra+r  
+<crcrcrcrcrcrcrcr  c+rc+rc+rc+rc+rc+rc+rc+r  crcrcrcrcrcrcrcr  
 ;4
 
 l16
 {5}
-l16%e1r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1   $5 o5v80p64|0c1  
-^1  >a+1  a1  a1  
-g1  g2f1  r2<c1  
+l16%e1[14r1  
+] $5 o5v80p64|0c1  ^1  >a+1  a1  
+a1  g1  g2f1  r2<c1  
 c1  >a+1  a1  g+1  
 g1  g+1  g2a+2  g+1  
 a+2g+2  <c1  >a+1  a+2g+1  
@@ -97,19 +88,12 @@ m24,18,201f1  ^2me2
 
 l16
 {6}
-l16%e1v24p94|0o5r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^2>v80,60d2  
-v24r1  ^1  v80,60g1  ^2^4^8^ $6 o5v24|0p94r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  v80,60g+1  v24v80,60g1  v24v80,60g+1  
-v24<v80,60c1  v24>v80,60b1  v24v80,60a+1  v24v104p94|4o5d+4d+4d+4d+4  
-d+4d+4f4f4  f+4f+4f+4f+4  f+4f+4g+4g+4  a+4a+4a+4a+4  
-<c4c4c4c4  c+4c+4c+4c+4  c4c4c4c4  
+l16%e1v24p94|0o5[9r1  ]r2>v80,60d2  
+v24r1  ^1  v80,60g1  ^2^4^8^ $6 o5v24|0p94[22r1  
+]v80,60g+1  v24v80,60g1  v24v80,60g+1  v24<v80,60c1  
+v24>v80,60b1  v24v80,60a+1  v24v104p94|4o5d+4d+4d+4d+4  d+4d+4f4f4  
+f+4f+4f+4f+4  f+4f+4g+4g+4  a+4a+4a+4a+4  <c4c4c4c4  
+c+4c+4c+4c+4  c4c4c4c4  
 ;6
 
 l16
@@ -137,16 +121,10 @@ l16
 l16%e1v24p94|0o3v80,60f1  ^1  v24v80,60c+1  
 ^1  v24v80,60f1  ^2v24v80,60g2  v24v80,60a1  
 v24v80,60g+2^4v24v80,60a+4  v24<v80,60c1  ^2v24v80,60a+2  v24v80,60a+1  
-^1  v24<v80,60e1  ^2^4^8^v24 $8 r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^o2p64v80d+8r8d+8r8d+8r8d+8r8  d+8r8d+8r8f8r8f8r8  
-f+8r8f+8r8f+8r8f+8r8  f+8r8f+8r8g+8r8g+8r8  a+8r8a+8r8a+8r8a+8r8  
-<c8r8c8r8c8r8c8r8  c+8r8c+8r8c+8r8c+8r8  c8r8c8r8c8r8c8r8  
+^1  v24<v80,60e1  ^2^4^8^v24 $8 [28r1  ]ro2p64v80d+8r8d+8r8d+8r8d+8r8  
+d+8r8d+8r8f8r8f8r8  f+8r8f+8r8f+8r8f+8r8  f+8r8f+8r8g+8r8g+8r8  
+a+8r8a+8r8a+8r8a+8r8  <c8r8c8r8c8r8c8r8  c+8r8c+8r8c+8r8c+8r8  c8r8c8r8c8r8c8r8  
+
 ;8
 
 l16

@@ -14,9 +14,9 @@ l16t104%v40%e1%b0,70%f0,0v50p114|1o5%x240r8^32fffr8^fr4^ff
 fr8^fr8v24|3o7c $1 o7c+>g+8r4e  fefefg+8^r4^f+rf  rf+rfrd+rc+rcrc+r>g+8^  
 r4^grg+r<d+^r8c+rc  ^r8c+rd+rfrf+ra+rg+rf+  rf8^r4^f+rg+rd+2  ^r<cc+>g+8r4efefef  
 g+8^r4^f+rfrf+rfr  d+rc+rcrc+r>g+8^r4^  grg+ra+r<crc+rd+rfrf+r  
-g+rfrg+rf+rd+rfrc+2  ^4^8^r4^v60|2o5c8c+8  d+4^^g+4^^<c4  ^^c+4c8c8>a+8a8a+8  
-f8g8a+8g+8f8d+rc8c+8  d+4^^g+4^^<c4  ^^c+4c8c8>a+8a8a+8  f8g8g+4^4>v50|0o5g+8f+8  
-e4^^e8g+8<c+8e4  ^4d+8d8d+4c8>g+8  <c8>g+8d+4^4g+8f+8  e4^^e8g+8<c+8e4  
+g+rfrg+rf+rd+rfrc+2  ^4^8^r4^v60|2o5c8c+8  d+4^8g+4^8<c4  ^8c+4c8c8>a+8a8a+8  
+f8g8a+8g+8f8d+rc8c+8  d+4^8g+4^8<c4  ^8c+4c8c8>a+8a8a+8  f8g8g+4^4>v50|0o5g+8f+8  
+e4^8e8g+8<c+8e4  ^4d+8d8d+4c8>g+8  <c8>g+8d+4^4g+8f+8  e4^8e8g+8<c+8e4  
 ^4f+8g+8g2  ^8^rd+2^8v24|3<c
 ;1
 
@@ -59,13 +59,13 @@ r8^er4^d+rd+r8^d+  r4^d+rd+r8^d+r8^
 l16
 {5}
 l16%e1v100p74|2o5r1  
-^2 $5 r8o5c+fg+<cc+4  ^^r8>c+fg+<c+f4^^r8  c+rcr>a+rg+rf+rfrff+ff+  
-f4^^c4^8d+4  ^8g+4^8<d+4c8c+4  ^8f4^8d+4^8>f+4  ^8r8c+fg+<cc+4^^r8  
->c+fg+<c+f4^^r8c+rcr  >a+rg+rf+rfrff+ff+f4  ^^a+<cc+cc+>a+a<cc+cc+>ag+4  
+^2 $5 r8o5c+fg+<cc+4  ^8r8>c+fg+<c+f4^8r8  c+rcr>a+rg+rf+rfrff+ff+  
+f4^8c4^8d+4  ^8g+4^8<d+4c8c+4  ^8f4^8d+4^8>f+4  ^8r8c+fg+<cc+4^8r8  
+>c+fg+<c+f4^8r8c+rcr  >a+rg+rf+rfrff+ff+f4  ^8a+<cc+cc+>a+a<cc+cc+>ag+4  
 ^8<c4^8c+4^4  >g+8f8c+4^4c8c+8  d+4^8g+4^8<c4  ^8c+4c8c8>a+8a8a+8  
 f8g8a+8g+8f8d+rc8c+8  d+4^8g+4^8<c4  ^8c+4c8c8>a+8a8a+8  f8g8g+2^4  
 r8>eg+<c+eg+8f+8e8<c+4  ^4c8>a+8<c4>g+8d+4  c+8c4^4c+8d+8c+r  >eg+<c+eg+8f+8e8<c+4^4  
-d+8e8d+8d+24f24d+24f24d+24f24d+24f24d+24f24d+24f24d+24d24d+24  g4^^d+4^^
+d+8e8d+8d+24f24d+24f24d+24f24d+24f24d+24f24d+24f24d+24d24d+24  g4^8d+4^8
 ;5
 
 l16
@@ -76,7 +76,7 @@ d+rf+rfrd+rc+8^r4^  d+rfrc4^r1  ^1  ^1
 ^4^8^>f+rg+ra+r<crc+  rd+rfrc+rfrd+rcrc+r>g+1  r32v100|2o4r4^8^^32<c4^8d+4  
 ^8g+4^8a+4g+8g+8  g8f+8g8c+8d+8g8f8c+8  cr>g+8a+8<c4^8d+4  ^8g+4^8a+4g+8g+8  
 g8f+8g8c+8d+8d+2  ^4r2^4  v100|0o5c+4^4c8>a+8<c4  >g+8d+8g+8d+8c4^4  
-r1  <c+4^4d+8e8d+2  ^4c+2^^r8  
+r1  <c+4^4d+8e8d+2  ^4c+2^8r8  
 ;6
 
 l16
@@ -88,7 +88,7 @@ l16%e1v80p64|3o5r1
 frg+rf+rd+rfrc+1  r32v100|0r4^8^^32>c4^8d+4  ^8g+4^8d+4^8g4  ^8a+4^8g+rg+a+<cc+d+4  
 ^8>c4^8d+4^8g+4  ^8d+4^8g4^8a+4  ^8g+4^4g+8f+8e4  ^8e8g+8<c+8e2  
 d+8d8d+4c8>g+8<c8>g+8  d+2g+8f+8e4  ^8e8g+8<c+8e2  f+8g+8g2^4  
-d+2^^v80p64|3<cc+
+d+2^8v80p64|3<cc+
 ;7
 
 l16

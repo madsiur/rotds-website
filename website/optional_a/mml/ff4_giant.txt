@@ -89,11 +89,8 @@ gggg+gggg+gggg+gggg+  gggg+gggg+gggg+gggg+  fffgfffgfffgfffg  fffgfffgfffgfffg
 l16
 {6}
 l16%e1r1  ^1  
-^1  ^1   $6 |3v80p64o5b1  ^1  
-r1  ^1  b1  ^1  
-r1  ^1  b1  ^1  
-r1  ^1  b1  ^1  
-r1  ^1  v40|6o4p0,192,127g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  
+^1  ^1   $6 |3v80p64o5[4b1  ^1  
+r1  ^1  ]v40|6o4p0,192,127g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  
 >a+<dfa+<dfa+<dfd>a+fd>a+fd  >a+<dfa+<dfa+<dfd>a+fd>a+fd  >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  
 >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  >b<dgb<dgb<dgd>bgd>bgd  >b<dgb<dgb<dgd>bgd>bgd  
 >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  >g+<cd+g+<cd+g+<cd+c>g+d+c>g+d+c  

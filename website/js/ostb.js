@@ -1,6 +1,5 @@
 $(document).ready(function() {
-    var dirName = dirs[1]; 
-    listSongTable(ost_b, dirName);
+    listSongTable(ost_b, dirs[1]);
 
     $('#sortTbl').DataTable({
         "order": [[2, 'asc']],

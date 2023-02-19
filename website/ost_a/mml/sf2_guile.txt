@@ -1,5 +1,5 @@
 #TITLE Guile's Theme
-#ALBUM Street Fighter 2
+#ALBUM Street Fighter II
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
 
@@ -142,7 +142,7 @@ f8d+4d4f8f8f8  d+1  ^2^8r1  ^1
 
 l16
 {7}
-l16%e0 $7 v100p64|3o5b8r4^8b8r2  b8b8b8|7<d8r4^8>|3b8  
+l16%e0 $7 v90p64|3o5b8r4^8b8r2  b8b8b8|7<d8r4^8>|3b8  
 r4^8b8r2  b8b8b8<|7d8r4^8>|3b8  b8r4<|7d8r4>|3b8r4  ^8b8<|7d8r4^8>|3b8r4  
 ^8<|7d8r4>|3b8r4b8  b8<|7d8r4^8>|3b8r4  ^8<|7d8r4>|3b8r4b8  b8<|7d8r4^8>|3b8b8r4  
 <|7d8r4>|3b8r1  b8r4^8<|7d8r4>|3b8  r4b8b8<|7d8r4^8  >|3b8r4^8<|7d8r8>|3b8r4  
@@ -169,17 +169,11 @@ l16
 l16%e1 $8 v120p40|4%r15o5c+1  ^1  p80v76a1  ^1  
 r1  ^2^8v100o5p64|6c8r8>g8  v120p40|4%r15o5c+1  ^1  
 v76p80a1  ^1  r1  ^8v100o5p64|6d8>b8r8b8g8r8g8  
-v120o5|4%r15c+1  ^1  v192,0^1  r1  
-^1  ^1  ^1  ^1  
-^1  v48p80a1  ^1  r1  
-v80p40c+1  ^1  v80p64|8a8r4^8v120p40|4%r15c+1  ^1  
-v192,0^1  r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^2p80v80|8a8r4p40c+8  r4p80a8^4v100p64o5|6d8>b8r8  a12a12a12g12g12g12v120o5p64|4%r15c+1  
-^1  v192,0^1  r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  p80v80|8a8r4p40v120o5|4%r15c+1  
+v120o5|4%r15c+1  ^1  v192,0^1  [6r1  
+]v48p80a1  ^1  r1  v80p40c+1  
+^1  v80p64|8a8r4^8v120p40|4%r15c+1  ^1  v192,0^1  
+[12r1  ]r2p80v80|8a8r4p40c+8  r4p80a8^4v100p64o5|6d8>b8r8  a12a12a12g12g12g12v120o5p64|4%r15c+1  
+^1  v192,0^1  [9r1  ]p80v80|8a8r4p40v120o5|4%r15c+1  
 ^4^8p64v100o5|6d8r1  ^4d8r8>b8r2  p40v120o5|4%r15c+1  ^1  
 r1  ^1  v80p80|8a8r4p40c+8r2  v96o5p64|6dddd>b8b8g8g8f8v80p80o5|8a8  
 r4p40c+8r4|4%r15v80p80a1  v96,0^8v100o5|6d8>b8

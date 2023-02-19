@@ -1,5 +1,5 @@
 #TITLE Ken's Theme
-#ALBUM Street Fighter 2
+#ALBUM Street Fighter II
 #COMPOSER Yoko Shimomura
 #ARRANGED emberling
 

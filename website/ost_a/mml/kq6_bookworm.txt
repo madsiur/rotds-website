@@ -47,14 +47,11 @@ rg+rcra+rg+r1  ^1  ^2^fr8^fr8  ^er8^d+r>fr<c+r>fr<d+r8
 
 l16
 {4}
-l16v50p64%e1 $4 |3r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  o4<fra+r<c+rfrer8d+32e32fr8^  
-fra+rarf+re32f32e32f32e32f32d+32e32fr8^  >fra+r<c+rfrer8d+32e32fr8^  
-frd+rc+rcr>a+r1  ^4^8^fra+r<c+rfre  r8d+32e32fr8^fra+rarf+re32f32  
-e32f32e32f32d+32e32fr8^>fra+r<c+rfre  r8d+32e32fr8^frd+rc+rcr>a+  
-r4^8^o7cr>a+rg+rgrf  r1  ^4^8^
+l16v50p64%e1 $4 |3[12r1  
+]o4<fra+r<c+rfrer8d+32e32fr8^  fra+rarf+re32f32e32f32e32f32d+32e32fr8^  
+>fra+r<c+rfrer8d+32e32fr8^  frd+rc+rcr>a+r1  ^4^8^fra+r<c+rfre  
+r8d+32e32fr8^fra+rarf+re32f32  e32f32e32f32d+32e32fr8^>fra+r<c+rfre  
+r8d+32e32fr8^frd+rc+rcr>a+  r4^8^o7cr>a+rg+rgrf  r1  ^4^8^
 ;4
 
 l16
@@ -62,18 +59,16 @@ l16
 l16v40p94%e1 $5 |4r1  
 ^1  o5fr8^d+r8^c+r8c^cde  fr8^cr8^c+r8c^cde  fr8^d+r8^c+r8c^cde  
 fr8^cr8^fr4^8^  fr8^d+r8^c+r8c^cde  fr8^cr8^c+r8c^cde  fr8^d+r8^c+r8c^cde  
-fr8^cr8^fr1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^4^8^
+fr8^cr8^f[13r1  ]r4^8^
 ;5
 
 l16
 {6}
-l16v50p64%e1 $6 |1r1  ^1  ^1  
-^1  ^1  ^2o5fr1  ^4^a+r1  
-^1  ^2^fr4>v60|0fg  a[2a+r<fr>g+r<fr>f+r<f>f^fg  a]<v120a+r8^g+r8^f+r8frfg  
-aa+r8^fr8^f+r8fr8g  ra+r8^g+r8^f+r8frfg  aa+r8^fr8^a+r2  ^4^8^v60frf+rf32r32d+32r32c+32r32c32>r32a+32r32  
+l16v50p64%e1 $6 |1r1  ^1  
+^1  ^1  ^1  ^2o5fr1  
+^4^a+r1  ^1  ^2^fr4>v60|0fg  a[2a+r<fr>g+r<fr>f+r<f>f^fg  
+a]<v120a+r8^g+r8^f+r8frfg  aa+r8^fr8^f+r8fr8g  ra+r8^g+r8^f+r8frfg  
+aa+r8^fr8^a+r2  ^4^8^v60frf+rf32r32d+32r32c+32r32c32>r32a+32r32  
 <v120r8^g+r8^f+r8frfgaa+  r8^fr8^f+r8fr8gra+  r8^g+r8^f+r8frfgaa+  
 r8^fr8^a+r1  ^1  ^4^8^
 ;6
@@ -91,13 +86,12 @@ r2^>a+r8^<crc  r1  ^4^8^
 
 l16
 {8}
-l16v80p50%e0 $8 |2r1  ^1  
-^1  ^1  ^1  ^1  
-o3<frg+rd+rg+rc+rg+c^cgr  crfr8^grc+rfcgr4  ^g+rd+rg+rc+rg+c^cgr8  
-^fr8^erfr1  ^1  ^4^8^>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr8^>a+r8^<cr>f+  
-ra+f<cr4^c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>a+  r1  ^4^8^a+r<c+r>g+r<c+r>f+  
-r<c+>f^f<cr>a+r<c+r>fr<cr>f+  r<c+>f^f<cr>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>a+  
-r2^gr8^grg+  r1  ^4^8^
+l16v80p50%e0 $8 |2[6r1  ]o3<frg+rd+rg+rc+rg+c^cgr  
+crfr8^grc+rfcgr4  ^g+rd+rg+rc+rg+c^cgr8  ^fr8^erfr1  ^1  
+^4^8^>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr8^>a+r8^<cr>f+  ra+f<cr4^c+r>g+r<c+r>f+  
+r<c+>f^f<cr>a+r<c+r>fr<cr>a+  r1  ^4^8^a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>f+  
+r<c+>f^f<cr>a+r<c+r>g+r<c+r>f+  r<c+>f^f<cr>a+r<c+r>fr<cr>a+  r2^gr8^grg+  
+r1  ^4^8^
 ;8
 
 l16

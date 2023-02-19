@@ -42,51 +42,46 @@ l16
 l16v50%e1 $3 |2o5p64p0,100,70[2>ar<ce>a<ceg>ar<ce>a<ceg  
 ][2>ar<df+>a<df+a>ar<df+>a<df+a  ][2>ar<cf>a<cfa>ar<cf>a<cfa  ][2>br<dg>b<dgb>br<dg>b<dgb  
 ][2>ar<ce>a<ceg>ar<ce>a<ceg  ][2>ar<df+>a<df+a>ar<df+>a<df+a  ]>ar<cf>a<cfa>ar<cf>a<cfa  
->br<dg>b<dgb>br<dg>b<dgb  [2>ar<c+e>a<c+ea>ar<c+e>a<c+ea  ]r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  
+>br<dg>b<dgb>br<dg>b<dgb  [2>ar<c+e>a<c+ea>ar<c+e>a<c+ea  ][16r1  
+]
 ;3
 
 l16
 {4}
-l16%e1 $4 v80p70|3o5%r14e1  ^1  
-d1  ^1  c1  ^1  
-d1  ^1  e1  ^1  
-d1  ^1  c1  d1  
-e1  ^1  c+1  ^1  
->b1  ^1  b1  ^1  
-a1  ^1  <c+1  ^1  
->b1  ^1  b1  ^1  
-a1  b1  
+l16%e1 $4 v80p70|3o5%r14e1  ^1  d1  ^1  
+c1  ^1  d1  ^1  
+e1  ^1  d1  ^1  
+c1  d1  e1  ^1  
+c+1  ^1  >b1  ^1  
+b1  ^1  a1  ^1  
+<c+1  ^1  >b1  ^1  
+b1  ^1  a1  b1  
+
 ;4
 
 l16
 {5}
-l16%e1 $5 v80p70|3o5%r14c1  ^1  
->a1  ^1  a1  ^1  
-b1  ^1  <c1  ^1  
->a1  ^1  a1  b1  
-<c+1  ^1  >a1  ^1  
-g+1  ^1  g1  ^1  
-f+1  ^1  a1  ^1  
-g+1  ^1  g1  ^1  
-f+1  g+1  
+l16%e1 $5 v80p70|3o5%r14c1  ^1  >a1  ^1  
+a1  ^1  b1  ^1  
+<c1  ^1  >a1  ^1  
+a1  b1  <c+1  ^1  
+>a1  ^1  g+1  ^1  
+g1  ^1  f+1  ^1  
+a1  ^1  g+1  ^1  
+g1  ^1  f+1  g+1  
+
 ;5
 
 l16
 {6}
-l16%e1r1  ^1  
+l16%e1r1  ^1  ^1  ^1  
 ^1  ^1  ^1  ^1  
-^1  ^1   $6 |0o5v80p50a2<c2  >a4<c4e4a4  
-a4^8%l1g+g%l0m24,18,201f+1  mf+4g4a4^8g4  ^8f+4b4^8a4  ^8b4<m24,18,201c+1  
-v192,0^1  mr8v40p50|6>m24,18,201c+2f+2  c+4f+4g+4a4  g+4^8f+8e2  
-^4r2f+4  g4^8f+4^8e4  e2^4g4  f+4^8d8f+1  
-r2c+2  f+2c+4f+4  g+4a4g+4^8f+8  e1  
-e4f+4g4^8f+4  ^8e4e1  a4^8g4^8f+4  e1  
-mr1  ^1  ^1  ^1  
-^1  ^1  ^1  ^2^4^8
+ $6 |0o5v80p50a2<c2  >a4<c4e4a4  a4^8%l1g+g%l0m24,18,201f+1  mf+4g4a4^8g4  
+^8f+4b4^8a4  ^8b4<m24,18,201c+1  v192,0^1  mr8v40p50|6>m24,18,201c+2f+2  
+c+4f+4g+4a4  g+4^8f+8e2  ^4r2f+4  g4^8f+4^8e4  
+e2^4g4  f+4^8d8f+1  r2c+2  f+2c+4f+4  
+g+4a4g+4^8f+8  e1  e4f+4g4^8f+4  ^8e4e1  
+a4^8g4^8f+4  e1  m[7r1  ]r2^4^8
 ;6
 
 l16

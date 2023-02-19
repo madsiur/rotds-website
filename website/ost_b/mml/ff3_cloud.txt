@@ -29,17 +29,14 @@ g+8f8b8g+8<d8>b8<f8d8  <c8c+8d+8>f+8g8a8c8d8  d+8>f+8g8a8o7c8c+8d+8>f+8
 g8a8c8d8d+8>f+8g8a8  d8>b8<f8d8g+8f8b8g+8  <d8>b8<f8d8>d8>b8<f8d8  
 g+8f8b8g+8<d8>b8<f8d8  [16r1  ]>b8r4<e4d8c8>b8   $2 <f4e4d4c4  
 >b4^8a4^8a4  g4^8g+2^8  a8f8g8a4a8f8b8  <c8>a8b8g8a8e8a8<c8  
->a8a+b<c8d4c8>b8b8  <d8c>b<c8>bab8ag+ed>bg+  r1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  <b8r4<e4d8c8>b8  
+>a8a+b<c8d4c8>b8b8  <d8c>b<c8>bab8ag+ed>bg+  [8r1  ]<b8r4<e4d8c8>b8  
+
 ;2
 
 l16
 {3}
-l16v80p44%e1|2o5%a10%r2a1  
-^2a1  ^2b1  ^2b1  
-^2a1  ^2a1  ^2b1  
-^2b1  ^2t160a2  <c2>b2  <d2c2  
+l16v80p44%e1|2o5%a10%r2[2a1  ^2a1  ^2b1  
+^2b1  ^2]t160a2  <c2>b2  <d2c2  
 e2d2  f2>a2  <c2>b2  <d2c4e4  
 d4f4e4a4  g+4b4%y $3 v80>e>b<c>b<c>b<cd  e>b<c>b<c>b<c>b<e>b<c>b<c>b<cd  
 e>b<c>abab<ce>b<c>b<c>b<cd  e>b<c>b<c>b<c>b<e>b<c>b<c>b<cd  e>b<c>abab<caefefefg  
@@ -54,11 +51,9 @@ l16v80p40%e1|2o5%a10%r2[2f+1
 ^2f+1  ^2g+1  ^2g+1  
 ^2]e2  g2f+2  a2g2  b2a2  
 <c2>e2  g2f+2  a2g4b4  a4<c4>b4<e4  
-d+4f+4%y $4 r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-o6e8r4e4r4^8  c4c+4>a4g4  d4^8d2^8  d4^8g+2^8  
-f8r4f2^8  a4g4e4a4  a8r4b2^8  b1  
-
+d+4f+4%y $4 [8r1  ]o6e8r4e4r4^8  c4c+4>a4g4  d4^8d2^8  
+d4^8g+2^8  f8r4f2^8  a4g4e4a4  a8r4b2^8  
+b1  
 ;4
 
 l16
@@ -97,10 +92,7 @@ g+8r8g+8g+8r4g+8g+8  r8g+8g+8r8g+8g+8rg+g+g+
 l16
 {8}
 l16v60p60%e1|2o6[28r1  
-] $8 b8r4b4r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^4^8
+] $8 b8r4b4[15r1  ]r4^8
 ;8
 
 l16

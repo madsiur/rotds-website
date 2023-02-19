@@ -140,7 +140,7 @@
 91: ff6_overture_1; Overture 1; Final Fantasy VI; Nobuo Uematsu; N/A
 92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus
 93: lf_evil; Wave of Evil; Lufia 1; Yasunori Shiono; Gi Nattak
-94: sf2_guile; Guile's Theme; Street Fighter 2; Yoko Shimomura; Gi Nattak
+94: sf2_guile; Guile's Theme; Street Fighter II; Yoko Shimomura; Gi Nattak
 95: ff6_aria; Aria di Mezzo Carattere; Final Fantasy VI; Nobuo Uematsu; N/A
 96: dms_allant; Old King Allant; Demon's Souls; Shunsuke Kida; Gi Nattak
 97: 7th_saizer; Valsu Saizer; 7th Saga; Norihiko Yamanuki; Gi Nattak
@@ -361,7 +361,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 7B: ff5_clash; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 7C: bl_gudruff; Gudruff's Theme; Bahamut Lagoon; Noriko Matsueda; Gi Nattak
 7D: xng_clouds; The Sky Clouds and You; Xenogears; Yasunori Mitsuda; Gi Nattak
-7E: sf2_ken; Ken's Theme; Street Fighter 2; Yoko Shimomura; emberling
+7E: sf2_ken; Ken's Theme; Street Fighter II; Yoko Shimomura; emberling
 7F: mm9_flash; Flash in the Dark; Megaman 9; Ryo Kawakami; Gi Nattak
 80: es3_morrowind; Morrowind Theme; Elder Scrolls III; Jeremy Soule; Gi Nattak
 81: ar2_palace; Ice Palace; ActRaiser 2; Yuzo Koshiro; Gi Nattak

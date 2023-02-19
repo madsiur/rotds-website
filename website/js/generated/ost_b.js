@@ -1075,7 +1075,7 @@ const ost_b =
         "id": 126,
         "filename": "sf2_ken",
         "title": "Ken's Theme",
-        "game": "Street Fighter 2",
+        "game": "Street Fighter II",
         "composer": "Yoko Shimomura",
         "arranger": "emberling",
         "duration": 123

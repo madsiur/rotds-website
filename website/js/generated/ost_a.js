@@ -1273,7 +1273,7 @@ const ost_a =
         "id": 148,
         "filename": "sf2_guile",
         "title": "Guile's Theme",
-        "game": "Street Fighter 2",
+        "game": "Street Fighter II",
         "composer": "Yoko Shimomura",
         "arranger": "Gi Nattak",
         "duration": 128

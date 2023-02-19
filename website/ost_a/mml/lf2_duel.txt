@@ -51,9 +51,8 @@ a+8f8<c8>f8<d8>f8c8g8  <c8>g8<d8>g8<e8>g8d8a8  <d8>a8<e8>a8<f8>a8d8a8
 l16
 {3}
 l16v120p64%e0 $3 |2o6d1  
-^2^4^8c8  d1  ^1  d1  
-^2^4c4  >a+1  ^2^4<c4  d1  
-^2^4c4  >a+1  ^2^4<c4  d1  
+^2^4^8c8  d1  ^1  [2d1  
+^2^4c4  >a+1  ^2^4<c4  ]d1  
 ^2^4^8c8  d1  ^2^4c4  d8d8d8d8d8d8d8dd  
 d8d8d8d8f8d8e8c8  >a+8a+8a+8a8<c8d8d8d8  d8d8d8d8d8d8d8d8  d8d8d8d8f8d8e8c8  
 >a+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8a+8a+8a+8b8a+8<c8  [5d8d8d8d8d8d8d8d8  

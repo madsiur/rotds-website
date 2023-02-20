@@ -1,5 +1,5 @@
 #TITLE Spoils of War
-#ALBUM Lufia 1
+#ALBUM Lufia
 #COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 

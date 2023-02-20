@@ -499,7 +499,7 @@ const ost_b =
         "id": 60,
         "filename": "lf2_mountain",
         "title": "Towering Mountain",
-        "game": "Lufia 2",
+        "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "emberling",
         "duration": 209
@@ -1210,7 +1210,7 @@ const ost_b =
         "id": 141,
         "filename": "lf2_battle_2",
         "title": "Battle 2",
-        "game": "Lufia 2",
+        "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 360
@@ -1631,11 +1631,11 @@ const ost_b =
     },
     {
         "id": 194,
-        "filename": "rs2_last",
-        "title": "Last Battle",
-        "game": "Romancing Saga 2",
-        "composer": "Kenji Ito",
-        "arranger": "Gi Nattak",
+        "filename": "ct_magus",
+        "title": "Battle With Magus",
+        "game": "Chrono Trigger",
+        "composer": "Yasunori Mitsuda",
+        "arranger": "Tsushiy",
         "duration": 164
     },
     {
@@ -1993,7 +1993,7 @@ const ost_b =
         "id": 234,
         "filename": "lf_battle_3",
         "title": "Battle 3",
-        "game": "Lufia 1",
+        "game": "Lufia",
         "composer": "Yasunori Shiono",
         "arranger": "emberling",
         "duration": 145

@@ -1,5 +1,5 @@
 #TITLE Battle 3
-#ALBUM Lufia 1
+#ALBUM Lufia
 #COMPOSER Yasunori Shiono
 #ARRANGED emberling
 

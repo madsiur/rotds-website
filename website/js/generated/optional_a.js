@@ -139,7 +139,7 @@ const optional_a =
         "id": 158,
         "filename": "lf2_village",
         "title": "Village Theme",
-        "game": "Lufia 2",
+        "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 133

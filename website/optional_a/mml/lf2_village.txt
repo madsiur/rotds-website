@@ -1,5 +1,5 @@
 #TITLE Village Theme
-#ALBUM Lufia 2
+#ALBUM Lufia II
 #COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 

@@ -1,5 +1,5 @@
 #TITLE Wave of Evil
-#ALBUM Lufia 1
+#ALBUM Lufia
 #COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
 

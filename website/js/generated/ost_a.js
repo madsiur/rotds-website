@@ -229,7 +229,7 @@ const ost_a =
         "id": 27,
         "filename": "lf_island",
         "title": "Island in the Void",
-        "game": "Lufia 1",
+        "game": "Lufia",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 69
@@ -1264,7 +1264,7 @@ const ost_a =
         "id": 147,
         "filename": "lf_evil",
         "title": "Wave of Evil",
-        "game": "Lufia 1",
+        "game": "Lufia",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 64
@@ -1975,7 +1975,7 @@ const ost_a =
         "id": 232,
         "filename": "lf_war",
         "title": "Spoils of War",
-        "game": "Lufia 1",
+        "game": "Lufia",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 58
@@ -2065,7 +2065,7 @@ const ost_a =
         "id": 242,
         "filename": "lf2_island",
         "title": "Island in the Void",
-        "game": "Lufia 2",
+        "game": "Lufia II",
         "composer": "Yasunori Shiono",
         "arranger": "Gi Nattak",
         "duration": 173

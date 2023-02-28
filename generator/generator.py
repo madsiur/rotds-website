@@ -1,12 +1,10 @@
 import os, shutil, sys
 from mass_extract import mass_extract
+from monsters import create_monster_json
 import constants as c
 import json
 
-def generate_json(roms, brrs):
-    parent_dir = os.path.dirname(os.path.dirname(__file__))
-    js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
-
+def generate_json(roms, brrs, js_dir):
     dirs = []
     for k1, v1 in roms.items():
         entries = []
@@ -71,5 +69,35 @@ def generate_json(roms, brrs):
         sys.exit()
 
 if __name__ == '__main__':
-    roms, brrs = mass_extract('mass_extract.txt')
-    generate_json(roms, brrs)
+    parent_dir = os.path.dirname(os.path.dirname(__file__))
+    common_dir = os.path.join(parent_dir, c.COMMON_DIR)
+    js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
+
+    #rom, roms, brrs = mass_extract('mass_extract.txt')
+    #generate_json(roms, brrs, js_dir)
+
+    try:
+        with open("ost_a.smc", 'rb') as f:
+            rom = f.read()
+    except IOError:
+        print(f"ERROR: Couldn't load ROM file")
+        sys.exit()
+    if len(rom) % 0x10000 == 0x200:
+        rom = rom[0x200:]
+        print(f"Loaded rom with header for monsters.")
+    else:
+        print(f"Loaded rom without header for monsters.")
+
+    if os.path.exists(common_dir):
+        shutil.rmtree(common_dir)
+    os.makedirs(common_dir)
+
+    json_object = create_monster_json(rom)
+
+    this_fn = os.path.join(common_dir, "monsters.json")
+    try:
+        with open(this_fn, "w") as f:
+            f.write(json_object)
+    except IOError:
+        print("ERROR: failed to write {this_fn}")
+        sys.exit()

@@ -24,3 +24,28 @@
     display: block;
     margin: auto;
 }
+
+.mons-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;    
+}
+
+.mons-img-div {
+    height: 160px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mons-btn-div {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.mons-btn-left {
+    margin-left: 5px;
+}
+
+.mons-btn-right {
+    margin-right: 5px;
+}

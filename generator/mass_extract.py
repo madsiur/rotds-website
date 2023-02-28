@@ -40,7 +40,6 @@ def mass_extract(fn):
 
     romfiles = [cs for cs in config.sections() if cs != c.FOLDER_SECTION and cs != c.BRR_SECTION]
     brr_rom_name = romfiles[0]
-    print(brr_rom_name)
 
     try:
         with open(brr_rom_name, 'rb') as f:
@@ -241,7 +240,7 @@ def mass_extract(fn):
                 sys.exit()
             songs[song_idx] = meta_cfg
         roms[romid] = songs
-    return roms, brrs
+    return brr_rom, roms, brrs
 
             
                 

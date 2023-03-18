@@ -1,6 +1,10 @@
 .page-color {
-    background-color: #bbcbe6;
+    background-color: #acbfe0;
 }
+
+.text-justify {
+    text-align: justify;
+  }
 
 .page-title {
     margin-top: 6px;
@@ -8,6 +12,36 @@
 
 .credits-div {
     margin-left: 8px;
+}
+
+.guide-div {
+    min-width: 1040px;
+    width:60%;
+    background-color: #bbcbe6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-color: #212529;
+    border: 2px solid;
+}
+
+.guide-header {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.guide-content img {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.guide-content h4 {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .play-img {
@@ -43,9 +77,9 @@
 }
 
 .mons-btn-left {
-    margin-left: 5px;
+    margin-left: 3px;
 }
 
 .mons-btn-right {
-    margin-right: 5px;
+    margin-right: 3px;
 }

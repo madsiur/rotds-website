@@ -527,6 +527,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak
 71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak
 14: doran_battle2; Battle 2; doranarasi Music; doranarasi; Gi Nattak 
+BC: ff4_lunarians; The Lunarians; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
 
 [optional_b.smc]
 06: z2_overworld; Overworld; Zelda II; Akito Nakatsuka; Gi Nattak

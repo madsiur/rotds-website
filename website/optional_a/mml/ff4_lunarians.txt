@@ -1,0 +1,44 @@
+#TITLE The Lunarians
+#ALBUM Final Fantasy IV
+#COMPOSER Nobuo Uematsu
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x8B ## e.piano (TC)
+#WAVE 0x21 0x68 ## grand piano (CT)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x24 ## tubular bell (FF6)
+
+{1}
+l16t86%v70%b0,70%f0,0%x240v65p65|0%r17%e1[8r2r8] $1 [2o5v100v255,15[4a+8g8<d8  
+>a+8g8]v100v255,15[4<c8>a8<f8c8>a8]]v100v255,15[4g+8  f8<c8>g+8f8]v100v255,15[4g8e8<c8>g8  
+e8]v100v255,15[4a8f8<d8>a8f8]v100v255,15[4b8g8  <d8>b8g8]
+;1
+
+l16
+{2}
+l16p50|0%r17%e1[8r2r8  
+] $2 [2o5v100d+2^8v75d+2  ^8v50d+2^8v25d+2  ^8v100f2^8v75f2  ^8v50f2^8v25f2  
+^8]v100c+2^8v75c+2  ^8v50c+2^8v25c+2  ^8v100c2^8v75c2  ^8v50c2^8v25c2  
+^8v100d2^8v75d2  ^8v50d2^8v25d2  ^8v100d2^8v75d2  ^8v50d2^8v25d2  
+^8
+;2
+
+l16
+{3}
+l16v120p90|1%r10%e1o3 $3 f2^8^2  ^8^2^8^2  ^8
+;3
+
+l16
+{4}
+l16p40|2%r0%e1[8r2r8] $4 [2o6v85v255,15[4dc>a+g  
+a+<cdc>a+g<]v85v255,15[4dc>afa<cdc>af  <]]v85v255,15[4c+c>g+fg+<cc+c>g+f<]v85v255,15[4c>bgegb  
+<c>bge<]v85v255,15[4dc>afa<cdc>af<]v85v255,15[4d>b  gfgb<d>bgf<]
+;4
+
+l16
+{5}
+l16v120p40|3%r10%e1o5 $5 f2  
+^8^2^8^2  ^8^2^8
+;5
+
+l16

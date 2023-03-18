@@ -41,28 +41,26 @@ g+8^a8^b8<e8^>b8^g+8  a1  g2b2  <c1
 d2>b2  a1  g2b2  <c1  
 r1  >a1  g2b2  <c1  
 d2>b2  a1  g2b2  <c+1  
-^1  r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^2^4^8o4[3ar1  ^2^4^8^]a  r2^4^8^r8  
-
+^1  [7r1  ]r2^4^8o4[3ar1  ^2^4^8^]a  
+r2^4^8^r8  
 ;2
 
 l16
 {3}
-l16%e1v60p50|1o5<c>afabg+eg+<d+c>a<cd>bg+b  <ec>a<cd+>bf+b<ge>b<ef+d+>b<d+  
- $3 o4b<egbegb<e>gb<eg>b<egb  o4a<df+adf+a<d>f+a<df+>a<df+a  o4b<egbegb<e>gb<eg>b<egb  
-eg>b<e>gbeg>b<egbge>bg  b<egbegb<e>gb<eg>b<egb  o4a<df+adf+a<d>f+a<df+>a<df+a  
-o4b<egbegb<e>gb<eg>b<egb  g+beg+>b<e>g+beg+>b<e>g+b<eg+  v104|3e1  
-d1  c2d2  f+2e2  f1  
-g1  a2g2  g+2b2  |1v60>a<ceacea<c>ea<ce>a<cea  
-o4b<dgbdgb<d>gb<dg>b<dgb  o4a<cfacfa<c>fa<cf>a<cfa  o4b<dgbdgb<do4b<dgb<d>bgd  
->a<cfacfa<c>cfa<c>fa<cf  o4b<dgbdgb<d>gb<dgd>bgd  >ab<ce>b<ceaeab<cec>ba  
-r1  >a<ceacea<c>ea<ce>a<cea  o4b<dgbdgb<d>gb<dg>b<dgb  o4a<cfacfa<c>fa<cf>a<cfa  
+l16%e1v60p50|1o5<c>afabg+eg+<d+c>a<cd>bg+b  
+<ec>a<cd+>bf+b<ge>b<ef+d+>b<d+   $3 o4b<egbegb<e>gb<eg>b<egb  o4a<df+adf+a<d>f+a<df+>a<df+a  
+o4b<egbegb<e>gb<eg>b<egb  eg>b<e>gbeg>b<egbge>bg  b<egbegb<e>gb<eg>b<egb  
+o4a<df+adf+a<d>f+a<df+>a<df+a  o4b<egbegb<e>gb<eg>b<egb  g+beg+>b<e>g+beg+>b<e>g+b<eg+  
+v104|3e1  d1  c2d2  f+2e2  
+f1  g1  a2g2  g+2b2  
+|1v60>a<ceacea<c>ea<ce>a<cea  o4b<dgbdgb<d>gb<dg>b<dgb  o4a<cfacfa<c>fa<cf>a<cfa  
 o4b<dgbdgb<do4b<dgb<d>bgd  >a<cfacfa<c>cfa<c>fa<cf  o4b<dgbdgb<d>gb<dgd>bgd  
->a<c+eac+ea<c+>ea<c+e>a<c+ea  eac+e>a<c+>eac+e>a<c+ea<c+e  e>beb<e>beb<e>beb<e>beb  
-[10<e>beb]<f+d>f+<df+d>f+<dgc>g<c  gc>g<cgc>g<cgc>g<cgc>g<c  gc>g<cgc>g<cgc>g<cf+d>f+<d  
-f+d>f+<df+d>f+<df+d>f+<dg>bgb  <g>bgb<f+d+>bf+d+>b<d+f+g1  f+1  
-dgb<d>gb<dg>ea<c+e>a<c+ea  >cfa<c>fa<cf>dgb<d>gb<dg  facf>a<c>fa<facf>a<c>fa  
+>ab<ce>b<ceaeab<cec>ba  r1  >a<ceacea<c>ea<ce>a<cea  o4b<dgbdgb<d>gb<dg>b<dgb  
+o4a<cfacfa<c>fa<cf>a<cfa  o4b<dgbdgb<do4b<dgb<d>bgd  >a<cfacfa<c>cfa<c>fa<cf  
+o4b<dgbdgb<d>gb<dgd>bgd  >a<c+eac+ea<c+>ea<c+e>a<c+ea  eac+e>a<c+>eac+e>a<c+ea<c+e  
+e>beb<e>beb<e>beb<e>beb  [10<e>beb]<f+d>f+<df+d>f+<dgc>g<c  gc>g<cgc>g<cgc>g<cgc>g<c  
+gc>g<cgc>g<cgc>g<cf+d>f+<d  f+d>f+<df+d>f+<df+d>f+<dg>bgb  <g>bgb<f+d+>bf+d+>b<d+f+g1  
+f+1  dgb<d>gb<dg>ea<c+e>a<c+ea  >cfa<c>fa<cf>dgb<d>gb<dg  facf>a<c>fa<facf>a<c>fa  
 <afcfc>a<c>afa<cf>a<cfa  >d8f8g+8f8g+8b8<d8f8  
 ;3
 

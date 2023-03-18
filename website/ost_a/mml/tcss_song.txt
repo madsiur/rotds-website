@@ -42,31 +42,27 @@ rd+8e8d+d+8e8r8^d+8d+8  d+8c+8d+d+8c+8r8^d+8d+8  d+8e8d+d+8e8r8^
 
 l16
 {3}
-l16%e0 $3 v80p64|1o6r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  >c+rc+rc+rc+rc+rc+rc+rc+r  
-[7c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  [7arararararararar  
+l16%e0 $3 v80p64|1o6[8r1  
+]>c+rc+rc+rc+rc+rc+rc+rc+r  [7c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  
+[7arararararararar  ]g+rg+rg+rar2^  g+rg+rg+rf+r2^  g+rg+rg+rar2^  
+g+rg+rg+r4^8^<%l1g+32f+32e32d32c32>a+32g+32f+32  %l0v60<c+rc+rc+rc+rc+rc+rc+rc+r  
+[3c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  [3arararararararar  
 ]g+rg+rg+rar2^  g+rg+rg+rf+r2^  g+rg+rg+rar2^  g+rg+rg+r4^8^<%l1g+32f+32e32d32c32>a+32g+32f+32  
-%l0v60<c+rc+rc+rc+rc+rc+rc+rc+r  [3c+rc+rc+rc+rc+rc+rc+rc+r  ]>arararararararar  
-[3arararararararar  ]g+rg+rg+rar2^  g+rg+rg+rf+r2^  g+rg+rg+rar2^  
-g+rg+rg+r4^8^<%l1g+32f+32e32d32c32>a+32g+32f+32  %l0
+%l0
 ;3
 
 l16
 {4}
-l16v50p94%e1|2o5r1  
-^1  ^1  ^1  ^1  
-[3aaaaaaaaaaaaaaaa  ]aaaar8aaaaaar8aa  [15aaaar8aaaaaar8aa  ] $4 r2aaaar8aa  
-r2aaaar8aa  r2aaaar8aa  r4^8aaaaaar4  [8aaaar8aaaaaar8aa  
-][3r2aaaar8aa  ]r4^8aaaaaar4  [8arararararararar  ][16aaaar8aaaaaar8aa  
-]
+l16v50p94%e1|2o5[5r1  ][3aaaaaaaaaaaaaaaa  ]aaaar8aaaaaar8aa  
+[15aaaar8aaaaaar8aa  ] $4 r2aaaar8aa  r2aaaar8aa  r2aaaar8aa  
+r4^8aaaaaar4  [8aaaar8aaaaaar8aa  ][3r2aaaar8aa  ]r4^8aaaaaar4  
+[8arararararararar  ][16aaaar8aaaaaar8aa  ]
 ;4
 
 l16
 {5}
-l16v100p94%e1 $5 |3o5r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^4[15d8r4^8d8r4  ^8]d8r4^8d8r8[3d8  d8d8d8r4d8r8]d8  d8d8r4^8d8d8r4  
+l16v100p94%e1 $5 |3o5[8r1  
+]r4[15d8r4^8d8r4  ^8]d8r4^8d8r8[3d8  d8d8d8r4d8r8]d8  d8d8r4^8d8d8r4  
 [7d8r4^8d8r4^8  ]d8r4^8d8r8[3d8d8  d8d8r4d8r8]d8d8  d8r4^8d8d8
 ;5
 

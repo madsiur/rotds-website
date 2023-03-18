@@ -110,21 +110,17 @@ bbb8b8b8bbb8b8e8  eee8e8e8eee8e8
 
 l16
 {6}
-l16%e1 $6 v90p60|2r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  o5%r4[2f+rf+f+f+rf+f+f+rf+f+f+rf+r  
-drdddrdddrdddrdr  brbbbrbbbrbbbrbr  ereeereeereeerer  ]f+rf+f+f+rf+f+g+rg+g+g+rg+g+  
-araaaraa<drdddrdd  [2c+rc+c+c+rc+c+c+rc+c+c+rc+c+  ]r32>f+1  ^1  
-^1  ^2^4^8r^32f+1  ^1  ^1  
-b1  f+1  ^1  ^2g+2  
-a1  <drdddrdddrdddrdd  ereeereeereeeree  >araaaraag+rg+g+g+rg+g+  
-f+rf+f+f+rf+f+ereeeree  <drdddrdddrdddrdd  c+rc+c+c+rc+c+c+rc+c+c+rc+c+  
-r8ere8^rere8^re4  ^8r2^4>f+r  f+f+f+rf+f+f+rf+f+f+rf+rdr  dddrdddrdddrdrbr  
-bbbrbbbrbbbrbrer  eeereeereeererf+r  f+f+f+rf+f+f+rf+f+f+rf+rdr  
-dddrdddrdddrdrbr  bbbrbbbrbbbrbrer  eeereeereeerer
+l16%e1 $6 v90p60|2[20r1  
+]o5%r4[2f+rf+f+f+rf+f+f+rf+f+f+rf+r  drdddrdddrdddrdr  brbbbrbbbrbbbrbr  
+ereeereeereeerer  ]f+rf+f+f+rf+f+g+rg+g+g+rg+g+  araaaraa<drdddrdd  
+[2c+rc+c+c+rc+c+c+rc+c+c+rc+c+  ]r32>f+1  ^1  ^1  
+^2^4^8r^32f+1  ^1  ^1  b1  
+f+1  ^1  ^2g+2  a1  
+<drdddrdddrdddrdd  ereeereeereeeree  >araaaraag+rg+g+g+rg+g+  f+rf+f+f+rf+f+ereeeree  
+<drdddrdddrdddrdd  c+rc+c+c+rc+c+c+rc+c+c+rc+c+  r8ere8^rere8^re4  
+^8r2^4>f+r  f+f+f+rf+f+f+rf+f+f+rf+rdr  dddrdddrdddrdrbr  bbbrbbbrbbbrbrer  
+eeereeereeererf+r  f+f+f+rf+f+f+rf+f+f+rf+rdr  dddrdddrdddrdrbr  
+bbbrbbbrbbbrbrer  eeereeereeerer
 ;6
 
 l16

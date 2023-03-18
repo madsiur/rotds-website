@@ -24,8 +24,7 @@ f+8^f+f+8f+gf+eef+ede8  ]f+8^f+f+8f+gag8a8gf+8  f+4f+4e4e4  r4v70|1o4g4o6c32%r2%
 
 l16
 {2}
-l16%e1 $2 v120p63|2o5r1  ^1  ^1  ^1  
-^1  >d4c+2^4  b4a2^4  <c+4>f+2^4  
+l16%e1 $2 v120p63|2o5[5r1  ]>d4c+2^4  b4a2^4  <c+4>f+2^4  
 <e4d+2^4  c+r8>f+f+8f+gag8a8gf+8  a4a8^bag+g+ag+f+g+r  <f+4f+8^gagga8gf+8  
 <c+2d+2  %r1e1  ^1  d+1  
 ^1  d1  ^1  c+1  
@@ -36,28 +35,23 @@ g2g2  g2e2  c+2>b2  >v192,0f+1
 
 l16
 {3}
-l16%e1 $3 v120p63|2o6r1  
-^1  ^1  ^1  ^1  
-^1  o3b4a2^4  <c+4>f+2^4  <e4d+2^4  
-c+r8>f+f+8f+gag8a8gf+8  <f+4f+8^g+f+eef+eder  <c+4c+8^dedde8dc+8  
->a2b2  %r1<c1  ^1  >b1  
-^1  a+1  ^1  a1  
-d+1  %yr2<b2  b2b2  r2f+2  
-f+2e2  r2>b2  g2f+2  >v192,0f+1  
-^2r1  ^1  ^1  ^2
+l16%e1 $3 v120p63|2o6[6r1  
+]o3b4a2^4  <c+4>f+2^4  <e4d+2^4  c+r8>f+f+8f+gag8a8gf+8  
+<f+4f+8^g+f+eef+eder  <c+4c+8^dedde8dc+8  >a2b2  %r1<c1  
+^1  >b1  ^1  a+1  
+^1  a1  d+1  %yr2<b2  
+b2b2  r2f+2  f+2e2  r2>b2  
+g2f+2  >v192,0f+1  ^2r1  ^1  
+^1  ^2
 ;3
 
 l16
 {4}
-l16%e1 $4 v120p63|2o5r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  >f+2e2  
-d1  ^1  %r1c+1  ^1  
-c1  ^1  e1  >f1  
-%yr1  o5g2e2  r1  e2c+2  
-r1  ^1  ^1  ^1  
-^1  ^1  ^1  
+l16%e1 $4 v120p63|2o5[12r1  ]>f+2e2  d1  
+^1  %r1c+1  ^1  c1  
+^1  e1  >f1  %yr1  
+o5g2e2  r1  e2c+2  [7r1  
+]
 ;4
 
 l16

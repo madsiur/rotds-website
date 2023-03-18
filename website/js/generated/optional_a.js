@@ -242,5 +242,14 @@ const optional_a =
         "composer": "doranarasi",
         "arranger": "Gi Nattak",
         "duration": 189
+    },
+    {
+        "id": 188,
+        "filename": "ff4_lunarians",
+        "title": "The Lunarians",
+        "game": "Final Fantasy IV",
+        "composer": "Nobuo Uematsu",
+        "arranger": "Gi Nattak",
+        "duration": 125
     }
 ];

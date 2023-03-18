@@ -1,9 +1,6 @@
-## Return of the Dark Sorcerer OST website
-This repository will contain every RotDS song in mml and spc format as well as a website to see info and listen to them.
+## Return of the Dark Sorcerer website
+This repository (will) contains most RotDS assets such as song and sprite as well as a strategy guide.
 
-## Credits
-This project is possible because of emberling, check out her FF6 music hacking tools here: https://github.com/emberling/mfvitools
-
-The content of this project is the work of Gi Nattak and his song hacking collaborators.
+The code in `generator` (Python/C#) is what is used to generate javascript and asset extraction and the `website` folder is for the static website. The website use Bootstrap and jquery, as well as the smwcentral SPC player.
 
 

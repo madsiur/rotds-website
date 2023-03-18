@@ -68,10 +68,8 @@ d8d8d8d8d4d4  r4d4d8r8d8r4  ^8d8r2^8dd  ddddddd8r8d8r4
 l16
 {7}
 l16%e1 $7 v100p64|5o5c+1  
-r2c+2  c+1  r1  c+1  
-r1  c+1  r1  c+1  
-r1  ^1  ^1  ^1  
-^1  ^1  ^1  
+r2c+2  [3c+1  r1  ]c+1  
+[7r1  ]
 ;7
 
 l16

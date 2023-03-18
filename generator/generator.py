@@ -73,8 +73,8 @@ if __name__ == '__main__':
     common_dir = os.path.join(parent_dir, c.COMMON_DIR)
     js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
 
-    #rom, roms, brrs = mass_extract('mass_extract.txt')
-    #generate_json(roms, brrs, js_dir)
+    rom, roms, brrs = mass_extract('mass_extract.txt')
+    generate_json(roms, brrs, js_dir)
 
     try:
         with open("ost_a.smc", 'rb') as f:

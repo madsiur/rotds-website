@@ -538,7 +538,7 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "duration": 190
+        "duration": 360
     },
     {
         "id": 65,

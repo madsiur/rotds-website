@@ -15,11 +15,11 @@
 }
 
 .guide-container {
-    min-width: 448px;
+    min-width: 384px;
     width: 100%;
 }
 .guide-div {
-    min-width: 444px;
+    min-width: 380px;
     max-width: 1032px;
     background-color: #bbcbe6;
     padding-left: 15px;

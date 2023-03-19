@@ -14,9 +14,13 @@
     margin-left: 8px;
 }
 
+.guide-container {
+    min-width: 448px;
+    width: 100%;
+}
 .guide-div {
-    min-width: 1040px;
-    width:60%;
+    min-width: 444px;
+    max-width: 1032px;
     background-color: #bbcbe6;
     padding-left: 15px;
     padding-right: 15px;
@@ -37,6 +41,9 @@
     margin-bottom: 15px;
     margin-left: 2px;
     margin-right: 2px;
+    min-width: 50%;
+    max-width: 100%;
+    height: auto;
 }
 
 .guide-content h4 {

@@ -10,7 +10,7 @@
 #WAVE 0x24 0x68 ## grand piano (CT)
 
 {1}
-l16t61%v32%e1%b0,70%f0,0v80p60|0o5egf+ef+gaebeaegf+ef+   $1 geaegef+gaebeagef+  
+l16t61%v40%e1%b0,70%f0,0v80p60|0o5egf+ef+gaebeaegf+ef+   $1 geaegef+gaebeagef+  
 gf+eaegf+ebeaegf+eb  eaegf+ef+g<d>def+gab<c  >gf+gaef+geaef+ge<ed>f+  
 gebeaf+gaef+gebega  ag+f+bf+ag+f+<c+>f+bf+abf+<c+  >f+bf+ag+f+g+abef+g+ab<c+>a  
 <c+>g+abf+g+af+bf+g+af+<f+>g+a  bg+<d>g+<c+>g+b<c+>g+abg+<d>g+b<c+  

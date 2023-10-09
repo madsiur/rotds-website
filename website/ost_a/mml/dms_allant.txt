@@ -10,7 +10,7 @@
 #WAVE 0x24 0x25 ## pipe organ (FF6)
 
 {1}
-l16t60%v50%e1v50p85%b0,70%f0,0|0r4o7d4d+4^r4  ^8^d4c+4^r4  
+l16t60%v50%e1v50p85%b0,100%f0,0|0r4o7d4d+4^r4  ^8^d4c+4^r4  
 ^8^d4d+4f4d+2  d2c+2  r2o6d1  ^1  
 ^1  ^2>a+4<c4  g+2^4^r8^  a2^4^8^r1  
 >%l1b32o6c32%l0>b4^8r8a4b4  <c1  c+2^8^rd8^r  d4>b4<d4e2  

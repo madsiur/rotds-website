@@ -15,7 +15,7 @@
 #WAVE 0x29 0x35 ## melodic tom (UNK)
 
 {1}
-l16t120%v32v120p63%e1%b0,70%f0,0|0o5[8eeerereeererdefg  ] $1 o5[8r1  
+l16t120%v40v120p63%e1%b0,70%f0,0|0o5[8eeerereeererdefg  ] $1 o5[8r1  
 ][4gggbgggggbggfgg+8  ]edf>b<edf>b<edf>b<edf>b  <edf>b<edf>b<edf>b<edf>b  
 o6v110edf>b<edf>b<edf>b<edf>b  <edf>b<edf>b<edgaa+e[8r1  ]r8>v120[8gggbgggggbggfg  
 g+8]r1  ^1  [2gggbgggggbggfgg+8  ]r1  

@@ -8,7 +8,7 @@
 #WAVE 0x22 0x24 ## tubular bell (FF6)
 
 {1}
-l16t83%v32%e1%b0,70%f0,0 $1 v80p50|0o3g1  g1  g1  g1  
+l16t83%v50%e1%b0,70%f0,0 $1 v80p50|0o3g1  g1  g1  g1  
 d+1  d+1  c1  d+1  
 <c1  c1  c1  c1  
 >g1  c1  c1  a1  

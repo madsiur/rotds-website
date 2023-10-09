@@ -12,7 +12,7 @@
 #WAVE 0x26 0x50 ## open pedal hi-hat (RS3)
 
 {1}
-l16t130%v25%e1%b0,70%f0,0%x240 $1 v60p64|0%r16o3m12,24,203g8o4d8g8a8^8b8^8<d8  
+l16t130%v40%e1%b0,70%f0,0%x240 $1 v60p64|0%r16o3m12,24,203g8o4d8g8a8^8b8^8<d8  
 g8o4d8g8o6g^2^  o3f8o4c8f8a8^8b8^8<d8  g8>c8f8o6g^4^o4c8^8  >g8o4d8g8a8^8b8^8<d8  
 g8>d8g8o6g^2^  o3f8<c8f8a8^8b8^8<d8  g8>c8f8o6g^2^  o3d+8a+8<d+8a8^8a+8^8<d8  
 g8o3a+8o4d+8o6g^2^  o3f8o4c8f8a8^8<c8^8d8  g8>c8f8o6g^4^o4c8^8  

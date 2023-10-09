@@ -8,7 +8,7 @@
 #WAVE 0x22 0x16 ## timpani (FF6)
 
 {1}
-l16t166%v32%e1%b0,70%f0,0 $1 v95p68|0o3d+8c8d8c8d+8c8f+8c8  
+l16t166%v50%e1%b0,70%f0,0 $1 v95p68|0o3d+8c8d8c8d+8c8f+8c8  
 r4g+8r4^8a8r8  d+8c8d8c8d+8c8f+8c8  r4g+8r4^8a8r8  a+1  
 a1  g+1  f+1  r1  
 ^4g+2a4  c2g2  ^4g+8d+8g+8d+8a8d+8  a+1  

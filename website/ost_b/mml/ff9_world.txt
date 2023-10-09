@@ -8,7 +8,7 @@
 #WAVE 0x22 0x09 ## atma synth (FF6)
 
 {1}
-l16t75%v32%e1%b0,70%f0,0 $1 v34p34|0o5>cd+gb<cd+gb<cd+gb<cd+gb  
+l16t75%v50%e1%b0,100%f0,0 $1 v34p34|0o5>cd+gb<cd+gb<cd+gb<cd+gb  
 r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o4cd+gb<cd+gb<cd+gb<cd+gb  
 r1  o4c+eg+<cc+eg+<cc+eg+<cc+eg+<c  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  
 r1  o3g+b<d+gg+b<d+gg+b<d+gg+b<d+g  r1  o3a+<c+faa+<c+faa+<c+faa+<c+fa  

@@ -14,7 +14,7 @@
 #WAVE 0x28 0x65 ## tam (RS3)
 
 {1}
-l16t210%v32%e1%b0,70%f0,0 $1 v50p24|0o6>d8d+8d8d+8d8d8r4  d8d+8d8d+8d8d8r4  
+l16t210%v40%e1%b0,70%f0,0 $1 v50p24|0o6>d8d+8d8d+8d8d8r4  d8d+8d8d+8d8d8r4  
 d8d+8d8d+8d8d8r8d8  [3d8d+8d8d+8d8d8r4  d8d+8d8d+8d8d8r4  d8d+8d8d+8d8d8r4  
 d8d+8d8d+8d8d8r8d8  ]d8d+8d8d+8d8d8r4  d8d8r8d8r8d8r8d8  d8e8f8d8f8g8g+8a8  
 [3d8d8r8d8r8d8r8d8  d8e8f8d8f8g8g+8a8  d8d8r8d8r8d8r8d8  d8e8f8d8f8g8g+8a8  

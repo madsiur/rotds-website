@@ -1,0 +1,87 @@
+#TITLE Matoya's Cave
+#ALBUM Final Fantasy I
+#COMPOSER Nobuo Uematsu
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x5E ## flute (FF6)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x22 ## kick drum (FF6)
+#WAVE 0x24 0x14 ## snare (FF6)
+#WAVE 0x25 0x11 ## open hi-hat (FF6)
+
+{1}
+l16t145%v50%b0,70%f0,0%e1 $1 v80p64|0%y1%s6%r4m12,24,201o4b8<d8f+8>b8<g4f+8e8  
+d4e8d8c+2  d8f+8a8d8b4a8g8  f+4g8f+8e4f+8g8  a2c+4e4  
+d12c+12d12>b2<g8a8  b2d4g4  f+12g12f+12e2a8b8  <c+2^8>a8b8<c+8  
+edc+d>b4^8a8g8f+8  e2^8c8d8e8  d2c+8r8>a4  <d1  
+^2^4dc+>b<c+  d1  ^2^4f+ede  f+1  
+^2^4agf+g  a1  ^2f+edc+edc+>a+  
+;1
+
+l16
+{2}
+l16%e1 $2 v60p94|1o5d8f+8d8f+8e8g8e8g8  
+d8g8d8g8e8a8e8a8  f+8a8f+8a8g8b8g8b8  f+8b8f+8b8e8a8e8a8  a8a8r4a8a8r4  
+f+8f+8r4f+8f+8r4  g8g8r4g8g8r4  <c+8c+8r4c+8c+8r4  >a8a8r4a8a8r4  
+f+8f+8r4f+8f+8r4  e8g8e8g8e8g8e8g8  e8g8e8g8agf+ef+edc+  [3f+4d4g4d4  
+a8a8d8a8g4e4  ]f+4d4g4d4  a8a8d8a8f+4e4  
+;2
+
+l16
+{3}
+l16%e1 $3 v80p64|1o3b2<e2  
+g2a4g4  d2g2  b2a8e8c+8>a8  f+8f+8r4f+8f+8r4  
+b8b8r4b8b8r4  g8g8r4g8g8r4  a8a8r4a8a8r4  f+8f+8r4f+8f+8r4  
+b8b8r4b8b8r4  <c8c8c8c8c8c8c8c8  >a8a8a8a8a8a8a8a8  [7d8d8r4d8d8r4  
+]d8d8r4f+8f+8f+8f+8  
+;3
+
+l16
+{4}
+l16%e0 $4 v100p64|2o4b2<e2  g2a4g4  
+d2g2  b2a8e8c+8>a8  r8<f+8<c+8f+8r8>f+8<f+8c+8  r8>b8<f+8b8r8>b8<b8f+8  
+r8>g8<d8g8r8>g8<g8d8  r8>a8<e8a8r8>a8<a8e8  r8>f+8<c+8f+8r8>f+8<f+8c+8  
+r8>b8<f+8b8r8>b8<b8f+8  >c8<c8>c8<c8>c8<c8>c8<c8  >a8<a8>a8<a8>a8<a8>a8<a8  
+[3>d8a8r8a8d8b8r8b8  d8<c+8r8c+8>d8b8r8b8  <]d8a8r8a8d8b8r8b8  d8<c+8r8c+8>f+8<f+8>f+8<f+8  
+
+;4
+
+l16
+{5}
+l16%e1 $5 v60p34|1o5>b8<d8>b8<d8>b8<e8>b8<e8  >b8<d8>b8<d8c+8e8c+8e8  
+d8f+8d8f+8d8g8d8g8  d8f+8d8f+8c+8e8c+8e8  f+8f+8r4f+8f+8r4  d8d8r4d8d8r4  
+d8d8r4d8d8r4  a8a8r4a8a8r4  f+8f+8r4f+8f+8r4  d8d8r4d8d8r4  
+c8e8c8e8c8e8c8e8  c8e8c8e8e4c+4  [3d4>a4<d4>a4  <d8d8>a8<d8e4c+4  
+]d4>a4<d4>a4  <d8d8>a8<d8d4c+4  
+;5
+
+l16
+{6}
+l16%e1 $6 v80p64|1o2b2<e2  
+g2a4g4  d2g2  b2a8e8c+8>a8  o5c+8c+8r4c+8c+8r4  
+>b8b8r4b8b8r4  b8b8r4b8b8r4  <e8e8r4e8e8r4  c+8c+8r4c+8c+8r4  
+>b8b8r4b8b8r1  ^2^4<c+4  >a4[8r1  
+]
+;6
+
+l16
+{7}
+l16%e0 $7 v100p64o5|3b4<|4d8>|3b8b4<|4d4  >|3b4<|4d8>|3b8b4<|4d8dd  
+>|3b4<|4d8>|3b8b4<|4d4  >|3b4<|4d8>|3b8b4<|4dddd  >|3b4<|4d8>|3b8r8b8<|4d8>|3b8  
+[5b4<|4d8>|3b8r8b8<|4d8>|3b8  ]b8b8<|4d8>|3b8r8b8<|4d8r8  >|3b8b8<|4d8>|3b8r8b8<|4d8dd  
+[3>|3b4<|4d8>|3b8b4<|4d4  >|3b8b8<|4d8>|3b8b4<|4d8dd  ]>|3b4<|4d8>|3b8b4<|4d4  
+>|3b8b8<|4d8>|3b8b4<|4dddd  
+;7
+
+l16
+{8}
+l16%e1 $8 v60p64|5o5b1  
+r1  b1  r1  b1  
+r1  b1  r1  b1  
+r1  b1  b2b4b4  b1  
+r1  b1  r1  b1  
+r1  b1  r2b4b4  
+;8
+
+l16

@@ -3,63 +3,67 @@
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
 
-#WAVE 0x20 0x25 ## pipe organ (FF6)
-#WAVE 0x21 0x1F ## ocarina (FF6)
-#WAVE 0x22 0x0C ## piano (FF6)
-#WAVE 0x23 0x06 ## chorus (FF6)
+#WAVE 0x20 0x34 ## strings (TOTR)
+#WAVE 0x21 0x08 ## french horn (FF6)
+#WAVE 0x22 0x1B ## harp (FF6)
+#WAVE 0x23 0x5E ## flute (FF6)
+#WAVE 0x24 0x68 ## grand piano (CT)
+#WAVE 0x25 0x0F ## closed hi-hat (FF6)
+#WAVE 0x26 0x11 ## open hi-hat (FF6)
 
 {1}
-l16t80%v32%e1%b0,70%f0,0 $1 v80p60|0o4g2^4g+2  ^4g2^4  f+2^4g2  
-^4a2^4  a+2^4a2  ^4g2^4  a2^4a+2  
-^4a2^4  g2^4a2  ^4a+2^4  a2^4g2  
-^4a2^4  a+2^4a2  ^4
+l16t80%v50%b0,70%f0,0%e1v120p64|0o5v0,255,255%l1>g2^4g+2  ^4g2^4  
+f+2^4 $1 [4g2  ^4a2^4  a+2^4a2  ^4]
 ;1
 
 l16
 {2}
-l16%e1 $2 v80p60|0o4g<cd+g<cd+c>gd+c>gd+  
-g<cd+g<cd+c>gd+c>gd+g<cd+g  <cd+c>gd+c>gd+f+b<df+b<d>bf+  d>bf+do5d+4^8d8d+8c8  
-f+2^4g4  ^8f+8g8d+8a2  ^4d+4^8d8d+8c8  f+2^4g4  
-^8f+8g8d+8a2  ^4[6r1  ]
+l16%e1r1  
+^1  ^1   $2 v110p54|0o5v0,255,255d+4^8d8d+8c8f+2  ^4g4^8f+8g8d+8  
+a2^4d+4  ^8d8d+8c8f+2  ^4g4^8f+8g8d+8  a2^4<c4  
+>a+4d+4a4g4  c4f+1  ^2<c4>a+4  d+4a4g4c4  
+f+2^8g8a2  ^4
 ;2
 
 l16
 {3}
-l16%e1 $3 v80p60|0o4c2^4c2  
-^4c2^4  >b2^4<c2  ^4c2^4  c2^4c2  
-^4c2^4  c2^4c2  ^4c2^4  c1  
-^1  ^1  c1  ^1  
-^1  
+l16%e1r1  ^1  ^1  
+ $3 v80p54|1o6%y1%s6%r4r1  ^1  ^1  m48,18,12d+4^8d8d+8c8f+2  
+^4g4^8f+8g8d+8  a2^4r1  ^1  ^1  
+|2v100o4[3v100,0p64g24<p34c24p94f24p64g24p34a+24<p94d+24o4]r1  ^1  
+^4
 ;3
 
 l16
 {4}
-l16%e1 $4 v100p74|1[6r1  ]o6d+4^8d8d+8c8f+2  ^4g4^8f+8g8d+8  
-a2^4[6r1  ]
+l16%e1r1  ^1  ^1   $4 |2o5r1  
+^1  ^1  >v100[3v100,0p64g24<p34c24p94f24p64g24p34a+24<p94d+24o4]r1  
+^1  ^1  ^1  ^1  
+^4v50p74|3o5%y1%s6%r4m48,24,215<c4>a+4d+4  a4g4c4f+2  ^8g8a2^4  
+
 ;4
 
 l16
 {5}
-l16%e1 $5 v104p50|2o5[9r1  ]o7c4>a+4d+4a4  
-g4c4f+1  ^2<c4>a+4  d+4a4g4c4  f+2g4a2  
-^4
+l16%e1r1  ^1  ^1   $5 v80p54|1o5%y1%s6%r4[9r1  
+]<c4>a+4d+4a4  g4c4f+2  ^8g8a2^4  
 ;5
 
 l16
 {6}
-l16%e1 $6 v50p126|3o5%a18d+2^4  d+2^4d+2  ^4d2^4  
-d+2^4d2  ^4d+2^4  d2^4d+2  ^4d2^4  
-d+2^4d2  ^4d+2^4  d+2^4d2  ^4d2^4  
-d+1  ^2d+2  ^4d2^4  
+l16%e1v120p64|4%r8r1  
+^1  ^1   $6 r1  ^1  
+^1  o4c1  ^1  ^1  
+r1  ^2c1  ^1  ^1  
+^1  ^2
 ;6
 
 l16
 {7}
-l16%e1 $7 v50p0|3o5%a18>g2^4g+2  
-^4g2^4  f+2^4g2  ^4a2^4  a+2^4a2  
-^4g2^4  a2^4a+2  ^4a2^4  g2^4a2  
-^4a+2^4  a2^4g2  ^4a2^4  a+2^4a2  
-^4
+l16%e0v50p64|5o6|5c4|6d2  |5c4|6d2|5c8c8  |6d2|5c4|6d2  
+ $7 [2|5c8c8|6d8|5c8|6d4|5c4  |6d2|5c4|6d4  ^8|5c8c4|6d2  ]d2^4d2  
+^4|5c8c8|6d8|5c8|6d4  |5c4|6d2d2  ^4d2^4  |5c8c8|6d8|5c8|6d4|5c4  
+|6d2
 ;7
 
 l16

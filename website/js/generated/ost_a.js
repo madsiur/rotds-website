@@ -277,7 +277,7 @@ const ost_a =
         "game": "Super Metroid",
         "composer": "Minako Hamano, Kenji Yamamoto",
         "arranger": "Gi Nattak",
-        "duration": 246
+        "duration": 169
     },
     {
         "id": 34,
@@ -538,7 +538,7 @@ const ost_a =
         "game": "The Legend of Zelda: A Link to the Past",
         "composer": "Koji Kondo",
         "arranger": "Gi Nattak",
-        "duration": 360
+        "duration": 177
     },
     {
         "id": 65,
@@ -1222,7 +1222,7 @@ const ost_a =
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
-        "duration": 90
+        "duration": 81
     },
     {
         "id": 143,

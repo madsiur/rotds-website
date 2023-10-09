@@ -970,7 +970,7 @@ const ost_b =
         "game": "Electric Dreams",
         "composer": "Giorgio Moroder",
         "arranger": "Gi Nattak",
-        "duration": 360
+        "duration": 274
     },
     {
         "id": 115,
@@ -1212,7 +1212,7 @@ const ost_b =
         "title": "Battle 2",
         "game": "Lufia II",
         "composer": "Yasunori Shiono",
-        "arranger": "Gi Nattak",
+        "arranger": "Tsushiy",
         "duration": 360
     },
     {

@@ -10,7 +10,7 @@
 #WAVE 0x24 0x1C ## bass (FF6)
 
 {1}
-l16t80%v20%e1%b0,70%f0,0%k0 $1 v104p60|0o5g+8e8g+8a32b^32a2  
+l16t80%v30%e1%b0,70%f0,0%k0 $1 v104p60|0o5g+8e8g+8a32b^32a2  
 f+8d+8f+8g+32a^32g+2  e8c+8e8f+32g+^32f+4^8e8  e2d+4e8f+8  g+8e8g+8a32b^32a2  
 f+8d+8f+8g+32a^32g+4f+4  e8c+8e8g+8a32b^32a4g+f+  e4d+4e2  <c+4c+12d+12e12d+4c+4  
 >b2^8f+32g+^32f+8e8  g+32a8^^32a12b12<c+12>b8f+8g+8a8  g+1  <c+4c+12d+12e12d+4c+4  

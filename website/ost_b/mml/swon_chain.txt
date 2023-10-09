@@ -10,7 +10,7 @@
 #WAVE 0x27 0xB4 ## synth strings (GH)
 
 {1}
-l16t60%v32%e1%b0,70%f0,0v80p64|0%r2o5<d8d+8f8g8f8d+8d8d+8  
+l16t60%v40%e1%b0,70%f0,0v80p64|0%r2o5<d8d+8f8g8f8d+8d8d+8  
 >a+2a2  g1  v128,0^1   $1 o5v80r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  g4a4e4f+4  r1  

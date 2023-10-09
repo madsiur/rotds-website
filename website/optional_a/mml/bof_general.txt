@@ -1,0 +1,90 @@
+#TITLE A Brave General
+#ALBUM Breath of Fire
+#COMPOSER Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x16 ## timpani (FF6)
+#WAVE 0x21 0x12 ## cymbal (FF6)
+#WAVE 0x22 0x02 ## electric bass (FF6)
+#WAVE 0x23 0x0D ## strings (FF6)
+#WAVE 0x24 0x0E ## trumpet (FF6)
+#WAVE 0x25 0x08 ## french horn (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+
+{1}
+l16t180%b0,70%f0,0%v50%e1p64|0r1  o3v20g+4v40g+4v60g+8v80g+8v100g+8v120g+8  
+ $1 o5|1%r18c+4|0o3g+4^8g+4g+4  g+4<d8>g+2g+4  ^8g+4g+4<d8d8d8  
+g+g+g+g+^4>g+4^8g+4  g+4g+4<d8>g+2  g+4^8g+4g+4<d8  d8d8g+g+g+g+o5|1v120%r16c+1  
+^1  ^1  ^2|0o3v50g+v60g+v70g+v80g+v90g+v100g+v110g+v120g+  <d4d8>g+8g+8<d4>g+8  
+g+8g+4^8g+4^8g+8  g+4<dddd>g+4<d8>g+8  g+8<d4>g+8g+8g+4^8  g+4^8g+8g+4<dddd  
+>g+4<d8>g+8g+8<d4>g+8  g+8g+4^8g+4^8g+8  g+4<dddd>g+4<d8>g+8  g+8<d4>g+8g+8g+4^8  
+g+4^8g+8g+4<dddd  d4^8>g+8<d8>g+8<d4  ^8>g+8<d8>g+8<f8>g+8<f8>g+8  
+<f8>g+8<f8>g+8<f8>g+8<f8>g+8  
+;1
+
+l16
+{2}
+l16%e0v100p64|2o6a4a+4b4<c4  
+c+4d4d+4e4   $2 |2v100r4o6a+8r4a+8r8a+8  r8a+8a+4a4r4  a+8r4a+8r8a+8r8a+8  
+a+4b4r4a+8r4  a+8r8a+8r8a+8a+4a4  r4a+8r4a+8r8a+8  r8a+8a+4b4|3%e1v80o6c2  
+>g+4<c+4c4d+4  c+2d2  c+4>f4a+1  |2%e0v100o6g+8r8g+8r4g+8r8g+8  
+g+8r8g+8r8g+8r4g+8  r8g+8g+8r8f+8r8f+8r4  f+8r8f+8f+8r8f+8r8f+8  
+r4f+8r8f+8f+8r8g+8  r8g+8r4g+8r8g+8g+8  r8g+8r8g+8r4g+8r8  g+8g+8r8f+8r8f+8r4  
+f+8r8f+8f+8r8f+8r8f+8  r4f+8r8f+8f+8r8|3%e1v80d+r  dd+g+8f+8d4d+rdd+g+8  
+f+8d4r2|6v10o5%g1v192,100[32f+32]%g0
+;2
+
+l16
+{3}
+l16%e1v40p0|3p192,127o7%l1dd+  
+>aa+f+gdd+>aa+f+gdd+f+g%l0<<|4v60p192,0a6  g+6g6f+6f6e6> $3 |3v80p64dd+e  
+fd1  ^8d+8f8f+8g8g+8a1  ^2dd+efd2  
+^4^8d+8f8f+8g8g+8  a8a+8<c+1  ^2o5a2  <c+4e4f+2  
+e2g+2  ^4b4b4a+4  g2v60p0g+rgg+b4  ^8a+8g8g+8<e8d+8v70p127o5g+rgg+  
+b4^8a+8g8g+8<e8d+8  v60p0f+rff+a4^8g+8f8f+8  <d8c+8v70p127o5f+rff+a4^8g+8  
+f8f+8<d8c+8v60p0g+rgg+b4  ^8a+8g8g+8<e8d+8v70p127o5g+rgg+  b4^8a+8g8g+8<e8d+8  
+v60p0f+rff+a4^8g+8f8f+8  <d8c+8v70p127o5f+rff+a4^8g+8  f8f+8<d8c+8v80p64f+rff+b8a+8  
+g+8f8f+rff+b8a+8g+8f8  brdrbrdrbrdr<dr>dr  <dr>dr<dr>dr
+;3
+
+l16
+{4}
+l16%e1v40p0|3o5ro7p192,127%l1dd+>aa+f+gd  
+d+>aa+f+gdd+f+%l0<<|4v60p192,0d+6d6c+6  c6>b6a+6 $4 |4v60p34a8r8a8r4  
+a8r8a8r8a8a4a+4  a8r8a8r4a8r8a8  r8a8a4g+4a8r8  a8r4a8r8a8r8a8  
+a4a+4a8r8a8r4  a8r8a8r8a8a4g+4  >|3v80g+4f+4e4>a4  g+4<f+4e4c+4  
+d4c+4f4>g4  <d+4>d+4<d+4g4  <|4v60c+8r8c+8r4c+8r8c+8  c+4c+8r8c+8r4c+8  
+r8c+8c+4c8r8c8r4  c8r8c8c4c8r8c8  r4c8r8c8c4c+8  r8c+8r4c+8r8c+8c+4  
+c+8r8c+8r4c+8r8c+8  c+4r1  ^1  ^2>|3d+8a8a+8d+8  
+f+8a8d+8a8a+8d+8f+8a8  fr8^fr8^fr8^g+r8^  g+r8^g+r8^<
+;4
+
+l16
+{5}
+l16%e1v60p64|5o5c+4c4  
+d+4d4f4e4  g4f+4 $5 o6|4v60p94d+8r8d+8r4  d+8r8d+8r8d+8d+4e4  d+8r8d+8r4d+8r8d+8  
+r8d+8d+4d4d+8r8  d+8r4d+8r8d+8r8d+8  d+4e4d+8r8d+8r4  d+8r8d+8r8d+8d+4d4  
+>|3v80d+2e4g+4  a2g+2  b2^4<d4  >d+1  
+<|4v60f8r8f8r4f8r8f8  f4f8r8f8r4f8  r8f8f4e8r8e8r4  e8r8e8e4e8r8e8  
+r4e8r8e8e4f8  r8f8r4f8r8f8f4  f8r8f8r4f8r8f8  f4e8r8e8r4e8  
+r8e8e4e8r8e8r4  e8r8e8e4|3o5a+8<d8d+8  >a+8b8<d8>a+8<d8d+8>a+8b8  
+<d8>g+r8^g+r8^g+r8^br8  ^br8^br8^
+;5
+
+l16
+{6}
+l16%e1v60p64|5o5%y1%s6%r4f4e4  
+g4f+4a4g+4  b4a+4 $6 v80o4g1  ^2f+4d+1  
+^2^4g1  ^2f+4d+1  ^2^4r1  
+^1  ^1  ^1  g+1  
+<d4d+1  ^4>f+1  <c4c+1  ^4>g+1  
+<d4d+1  ^4>f+1  <c4c+1  ^4>d+2^4  
+d+2^4>b2  ^4<d2^4  
+;6
+
+l16
+{7}
+l16%e1v10p64|6o5r1  %g1v192,100[32f+32]
+;
+
+l16

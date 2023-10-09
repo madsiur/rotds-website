@@ -14,7 +14,7 @@
 #WAVE 0x28 0x14 ## snare (FF6)
 
 {1}
-l16t180%v32%e1%b0,70%f0,0 $1 v50p60|0%r2o5<g+1  g2d+2  f+2d+2  
+l16t180%v40%e1%b0,70%f0,0 $1 v50p60|0%r2o5<g+1  g2d+2  f+2d+2  
 f1  ^1  ^1  ^1  
 r2^4g+a+b<c+  d+1  ^1  ^1  
 ^2^4^8^r  c+4>a+4g+1  ^1  ^1  
@@ -95,7 +95,7 @@ l16
 {5}
 l16%e1 $5 v80p84|2r1  
 ^1  ^1  o5g+1  ^1  
-^1  ^1  r1  p127|7v100<g+r4^g+r2^  
+^1  ^1  r1  p127|7v80<g+r4^g+r2^  
 g+r4^g+r8^g+rg+r8^  g+rg+rg+r8^g+r4^8^  g+r4^g+r8^g+rg+r8^  g+r4^g+r2^  
 g+r4^g+r8^g+rg+r8^  g+rg+rg+r8^g+r4^8^  g+r4^g+r8^g+rg+r8^  a+r4^a+r2^  
 a+r4^a+r8^a+ra+r8^  a+ra+ra+r8^a+r4^8^  a+r4^a+r8^a+ra+r8^  a+r4^a+r2^  
@@ -120,13 +120,13 @@ g+r4^g+r8^g+r
 l16
 {6}
 l16%e1 $6 v80p84|2r1  ^1  ^1  o4g+1  
-^1  ^1  ^1  p127|7v100r1  
+^1  ^1  ^1  p127|7v80r1  
 o6d+r4^d+r2^  d+r4^d+r8^d+rd+r8^  d+rd+rd+r8^d+r4^8^  d+r4^d+r8^d+rd+r8^  
 d+r4^d+r2^  d+r4^d+r8^d+rd+r8^  d+rd+rd+r8^d+r4^8^  d+r4^d+r8^d+rd+r8^  
 fr4^fr2^  fr4^fr8^frfr8^  frfrfr8^fr4^8^  fr4^fr8^frfr8^  
 fr4^fr2^  fr4^fr8^frfr8^  frfrfr8^fr4^8^  fr4^fr8^frfr8^  
 d+2d4>a+4  <d+r4^d+r8^d+rd+r8^  d+rd+rd+r8^d+r4^8^  d+r4^d+r8^d+rd+r8^  
-d+r4^d+r2^  d+r4^d+r8^d+rd+r8^  v24m24,18,201v128,100d+1  ^1  
+d+r4^d+r2^  d+r4^d+r8^d+rd+r8^  v24m24,18,201v128,80d+1  ^1  
 md+r4^d+r8^<g+g+g+r8^  >d+r4^d+r8^<g+rg+g+g+r  >d+r4^d+r8^<g+g+g+r8^  
 >d+r4^d+r8^<g+rg+g+g+r  >er4^er8^<g+g+g+r8^  >er4^er8^<g+rg+g+g+r  
 >d+r4^d+r8^<g+g+g+r8^  >d+r4^d+r8^<g+rg+g+g+r  >d+r4^d+r2^  d+r4^d+r8^d+rd+r8^  
@@ -143,7 +143,7 @@ frfrm24,18,201f1  ^2^4md+r4  ^d+r2^d+r4  ^d+r8^d+rd+r8^d+rd+rm24,18,201d+1
 
 l16
 {7}
-l16%e1 $7 v100p0|3r1  
+l16%e1 $7 v80p0|3r1  
 ^1  ^1  ^1  o3g+8r4g+8r2  
 [2g+8r4g+8r8g+8d+8r8  d+8f+8d+8r8g+8r4^8  g+8r4g+8r8g+8d+8r8  g+8r4g+8r2  
 ]g+8r4g+8r8g+8d+8r8  d+8f+8d+8r8g+8r4^8  g+8r4g+8r8g+8d+8r8  a+8r4a+8r2  

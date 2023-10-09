@@ -8,7 +8,7 @@
 #WAVE 0x22 0x53 ## synth strings (RS3)
 
 {1}
-l16t90%v20%e1%b0,70%f0,0 $1 v60p60|0o4<g+8>a8<c+8f+8>a8<c+8e8>f+8  
+l16t90%v40%e1%b0,70%f0,0 $1 v60p60|0o4<g+8>a8<c+8f+8>a8<c+8e8>f+8  
 [2a8<d+8>f+8a8<f+8>g+8<c+8e8  >g+8<c+8d+8>g+8<c+8e8>g+8<c+8  g+8>a8<c+8f+8>a8<c+8e8>f+8  
 a8<d+8e8f+8a8>b8<e8g+8  >b8<e8g8>b8<e8g+8>b8<e8  b8d8f+8b8a8g+8f+8>g+8  
 <c+8f8f+8g+8a8c+8e8g+8  c+8e8a8c+8e8g+8f+8e8  d+8>f+8b8<d+8e8f+8g+8>g+8  

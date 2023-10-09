@@ -10,15 +10,6 @@ const optional_b =
         "duration": 83
     },
     {
-        "id": 79,
-        "filename": "ff3_dark",
-        "title": "Dark World",
-        "game": "Final Fantasy III",
-        "composer": "Nobuo Uematsu",
-        "arranger": "Gi Nattak",
-        "duration": 120
-    },
-    {
         "id": 36,
         "filename": "ff1_battle",
         "title": "Battle Scene",
@@ -35,5 +26,23 @@ const optional_b =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "duration": 64
+    },
+    {
+        "id": 79,
+        "filename": "ff3_dark",
+        "title": "Dark World",
+        "game": "Final Fantasy III",
+        "composer": "Nobuo Uematsu",
+        "arranger": "Gi Nattak",
+        "duration": 120
+    },
+    {
+        "id": 135,
+        "filename": "fft_plain",
+        "title": "Run Past Through the Plain",
+        "game": "Final Fantasy Tactics",
+        "composer": "Hitoshi Sakimoto, Masaharu Iwata",
+        "arranger": "Gi Nattak",
+        "duration": 192
     }
 ];

@@ -1,0 +1,117 @@
+#TITLE A Walk in the Woods
+#ALBUM Halo: Combat Evolved
+#COMPOSER Martin O'Donnell, Michael Salvatori
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x1C ## bass (FF6)
+#WAVE 0x21 0x06 ## chorus (FF6)
+#WAVE 0x22 0x12 ## cymbal (FF6)
+#WAVE 0x23 0x0F ## closed hi-hat (FF6)
+#WAVE 0x24 0x35 ## melodic tom (UNK)
+#WAVE 0x25 0x11 ## open hi-hat (FF6)
+#WAVE 0x26 0x22 ## kick drum (FF6)
+#WAVE 0x27 0x14 ## snare (FF6)
+#WAVE 0x28 0x2F ## shaker (FF6)
+#WAVE 0x29 0x2D ## guiro (FF6)
+#WAVE 0x2A 0x2E ## conga 2 (FF6)
+#WAVE 0x2B 0x2A ## finger snap (FF6)
+
+{1}
+l16t130%v60%b0,70%f0,0%e0 $1 v60p64|0o4%r8[2d8d8r2d1  ^8a8d8d8r2  
+d2^4^^d8  a8<d8>d8d8r2  d1  ^^a8d8d8r2  
+d2^4^8d8  a8<d8>d8^^a8d8<d8>d8  ard4d8ard8<d8>d8  ard^d4ard8<d8>d8  
+ard4d8ard8<d8r8  >a8d^d8^^a8d8<d8>d8  ard4d8ard8<d8>d8  ard^d4ard8<d8>d8  
+ard4d8ard8<d8r8  >a8d8r1  ^1  ^1  
+^1  ]d8d8r2d1  ^8a8d8d8r2  d2^4^^d8  
+a8<d8>d8d8r2  d1  ^^a8d8d8r2  d2^4^8d8  
+a8<d8>d8^^a8d8<d8>d8  ard4d8ard8<d8>d8  ard^d4ard8<d8>d8  ard4d8ard8<d8r8  
+>a8d^d8^^a8d8<d8>d8  ard4d8ard8<d8>d8  ard^d4ard8<d8>d8  ard4d8ard8<d8r8  
+>a8d8
+;1
+
+l16
+{2}
+l16%e1 $2 v100p84|1o5%a8%r5f+4g4f+4  f1  ^4e4d4c4  
+d1  ^4d2^4  d1  ^4d1  
+v192,0^1  v100f+4g4f+4f1  ^4e4d4c4  d1  
+^4d2^8^^  d1  ^8^^d1  v192,0^1  
+v100>a1  ^1  ^1  v192,0^1  
+v100<f+4g4f+4f1  ^4e4d4c4  d1  ^4d2^4  
+d1  ^4d1  v192,0^1  v100f+4g4f+4f1  
+^4e4d4c4  d1  ^4d2^8^^  d1  
+^8^^d1  v192,0^1  r1  ^1  
+^1  ^1  v100f+4g4f+4f1  ^4e4d4c4  
+d1  ^4d2^4  d1  ^4d1  
+v192,0^1  v100f+4g4f+4f1  ^4e4d4c4  d1  
+^4d2^8^^  d1  ^8^^d1  v192,0^1  
+
+;2
+
+l16
+{3}
+l16%e1 $3 v120p64|1o5%a8%r5d2^4c1  ^8^^c4^8^^r4  o4b1  
+^4a2^4  a+1  ^4b1  v192,0^1  
+v120o5d2^4c1  ^8^^c4^8^^r4  o4b1  ^4a2^4  
+a+1  ^4a1  v192,0^1  v120d1  
+^1  ^1  v192,0^1  v120o5d2^4c1  
+^8^^c4^8^^r4  o4b1  ^4a2^4  a+1  
+^4b1  v192,0^1  v120o5d2^4c1  
+^8^^c4^8^^r4  o4b1  ^4a2^4  a+1  
+^4a1  v192,0^1  r1  ^1  
+^1  ^1  v120o5d2^4c1  ^8^^c4^8^^r4  
+o4b1  ^4a2^4  a+1  ^4b1  
+v192,0^1  v120o5d2^4c1  ^8^^c4^8^^r4  o4b1  
+^4a2^4  a+1  ^4a1  v192,0^1  
+
+;3
+
+l16
+{4}
+l16%e1 $4 v100p44|1o4%a8%r5r1  ^1  ^1  ^1  
+^2^4f1  ^4g1  v192,0^1  
+r1  ^1  ^1  ^1  
+^2^4v100f1  ^4f+1  v192,0^1  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2^4v100f1  ^4g1  v192,0^1  
+|2%r16v100p64o5e1  r1  ^1  ^1  
+^2^4|1p34%a8%r5o4f1  ^4f+1  v192,0^1  
+|2%r16v80p84o5e4^8p44c+1  r2^8v80p84e4^8  p44c+1  r2^8v100p64c+1  
+r1  ^1  ^1  ^2^4|1p34%a8%r5o4f1  
+^4g1  v192,0^1  |2%r16v100p64o5c+1  r1  
+^1  ^1  ^2^4|1p34%a8%r5o4f1  ^4f+1  
+v192,0^1  
+;4
+
+l16
+{5}
+l16%e0 $5 v80p64o5[16r1  ][12|3f+4f+8|4b8f+4f+4  
+][12|5v50a+4a+8|4v80b8|5v50a+4a+4  ][16a+4a+4a+4a+4  ]
+;5
+
+l16
+{6}
+l16%e0 $6 v100p64o5[16r1  
+][11|6c8c4c8|7e4|8a+8a+8  ]|6c8c4c8|7e8e8|8a+8a+8  |6c4c4|7e4|8a+8a+8  
+[3|6c8r4c8|7e4|8a+8a+8  |6c4c4|7e4|8a+8a+8  ]|6c8r4c8|7e4|8a+8a+8  
+|6c8c4c8|7e8r4^8  [3|6c8c4c8|7e8r4^8  ][4|6c4|7e8|6c8r4|7e4  |6c8c8|7e8|6c8r4|7e4  
+][8|6c8c8e8c8r4|7e4  ]
+;6
+
+l16
+{7}
+l16%e0 $7 v80p64o5[16r1  ]r8|9c+8v100|Ad8d+8r8c8%e1v60|B%e0v60f+8r4  
+[11v80|9c+8v100|Ad8d+8r8c8%e1v60|B%e0f+8r4  ][7v80|9c+8v100|Ad8d+8|7d8|Ac8%e1v60|B%e0f+8r4  
+]v80|9c+8v100|Ad8d+8|7d8|Ac8%e1v60|B%e0f+8r4  ^8[19v100|Ad8d+8r8c8%e1v60|B%e0f+8r4  
+^8]v100|Ad8d+8r8c8%e1v60|B%e0f+4
+;7
+
+l16
+{8}
+l16%e0 $8 v120p64|7o5[27r1  
+]r2^8d8d8d8  r2[7d8r2  ^4^8]d8r1  ^1  
+^1  ^1  ^2^8[15d8r4  ^8d8r4^8]d8r4  
+^8d8r8
+;8
+
+l16

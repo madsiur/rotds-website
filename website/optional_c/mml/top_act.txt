@@ -19,7 +19,7 @@
 #WAVE 0x2D 0x61 ## kick drum (CT)
 
 {1}
-l16t135%v20%e0%b0,70%f0,0r8 $1 v120p63|0o6d2^4^8  def2^4^8  
+l16t135%v32%e0%b0,70%f0,0r8 $1 v120p63|0o6d2^4^8  def2^4^8  
 gag1  a4^8>a4a8<a8>a8  <d8d8d8ddd8d8d8de  f8f8f8fff8f8c8cf  
 >g8g8g8ggg8g8g8ga  a+8a+8a+8a+<f>a+8a+8a+8a+a+  a8a8a8aaa8a8a8aa  
 <d8d8d8ddc8c8c8cc  >a+8a+8a+8a+<fa+8a+8f8>a+a+  a8a8a8a<e>a<dea<e>ae>a  

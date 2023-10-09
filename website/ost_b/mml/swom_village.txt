@@ -9,7 +9,7 @@
 #WAVE 0x23 0x01 ## spanish guitar (FF6)
 
 {1}
-l16t69%v32%e1%b0,70%f0,0v100p54|1o5a8a+8<c8 $1 o6d4c8d8c2  
+l16t69%v35%e1%b0,70%f0,0v100p54|1o5a8a+8<c8 $1 o6d4c8d8c2  
 >a+4a8a+8a4f4  g8f8g8a8a+8<c8d8e8  f4d+8d8c2  d8>a8g+8a8<d4c4  
 >a+8<c8d8>a+8<g4f8d+8  d4d+8d8c4^8>a+8  <c2r8>a8a+8<c8  d4c8d8c2  
 >a+4a8a+8a4f4  g8f8g8a8a+8<c8d8e8  f4d+8d8c2  d8>a8g+8a8<d4c4  

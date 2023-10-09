@@ -1,0 +1,129 @@
+#TITLE Mana Fortress
+#ALBUM Secret of Mana
+#COMPOSER Hiroki Kikuta
+#ARRANGED Gi Nattak
+
+#WAVE 0x20 0x0D ## strings (FF6)
+#WAVE 0x21 0x02 ## electric bass (FF6)
+#WAVE 0x22 0x03 ## wind flute (FF6)
+#WAVE 0x23 0x3E ## xylophone (FF6)
+#WAVE 0x24 0x06 ## chorus (FF6)
+#WAVE 0x25 0x0F ## closed hi-hat (FF6)
+#WAVE 0x26 0x14 ## snare (FF6)
+#WAVE 0x27 0x11 ## open hi-hat (FF6)
+#WAVE 0x28 0x22 ## kick drum (FF6)
+#WAVE 0x29 0x08 ## french horn (FF6)
+
+{1}
+l16t135%v35v80p64%b0,70%f0,0%x208%e1|0o5ab<cde1  ^4 $1 d4e4g4  
+c4^8d24c24>b24<c1  ^4>ab<ced1  ^2^8>b<c>bag8  
+a4^8b8a1  ^4ab<cde1  ^4d4e4g4  
+c4^8d24c24>b24<c1  ^4>ab<ced1  ^2^8>b<c>bag8  
+a4^8b8a1  ^4v90ab<cdf4c8a4  f4^8f4c8a4  f4efe1  
+r8degbgeded>bg4  <f4c8a4f4^8  f4c8a4f4<c>b  g1  
+r8b<cdc>bgefedv80>b4  <a4^8g4^8f4  e4d4>a4<c4  d4^8c4^8>a+4  
+g+4f4g4g+4  a2<c2  f2g2  g+2a+2  
+<c2c+2  c1  r2gdc>bgd>bg  <e1  
+^4
+;1
+
+l16
+{2}
+l16v120p64%e0|1r4o5araaaraa  araaaraa $2 araaaraa  
+araaaraa<crcccrcc  crcccrcccrcccrcc  crcccrcc>grgggrgg  grgggrgggrgggrgg  
+gr>bbb<cegaraaaraa  araaaraaaraaaraa  araa<c>bgearaaaraa  araaaraaaraaaraa  
+araaaraa<crcccrcc  crcccrcccrcccrcc  crcccrcc>grgggrgg  grgggrgggrgggrgg  
+gr>bbb<cegaraaaraa  araaaraaaraaaraa  araaab<cdcrcccrcc  crcccrcccrcccrcc  
+crcccrcc>brbbbrbb  brbbbrbbgrgggrgg  grgggrgg<crcccrcc  crcccrcccrcccrcc  
+crcccrcc>brbbbrbb  brbbbrbbgrgggrgg  grgggrgg[9r1  ]r2^4defg  
+araaaraaaraaaraa  
+;2
+
+l16
+{3}
+l16v60p64%e1|2%y1%s6%r4m12,22,215r4o6e1  
+^4 $3 v60d4e4g4  c4^8d24c24>b24<c1  ^4>ab<ced1  
+^2^8>b<c>bag8  a4^8b8a1  ^4ga<cea1  
+^4g4a4<c4  >f4^8g24f24e24f1  ^4dea<c>b1  
+^2^8v50b<c>bgd>b  <d4^8e8d1  ^4c>bagfa<cfacfa  <c>afcafc>afa<cfacfa  
+<c>afcafc>aegb<eg>b<eg  bge>b<ge>bgegb<eg>b<eg  bge>b<ge>bgfa<cfacfa  
+<c>afcafc>afa<cfacfa  <c>afcafc>aegb<eg>b<eg  bge>b<ge>bgegb<eg>b<eg  
+bge>b<ge>bg<v60a4^8g4  ^8f4e4d4>a4  <c4d4^8c4^8  >a+4g+4f4g4  
+g+4f2a2  <c2d+2  c+2f2  g+2a+2  
+g1  r2<gdc>bgd>bg  <e1  ^4
+;3
+
+l16
+{4}
+l16r4 $4 v50p54%e1|3o3<a<cea<c>ea<c  
+ec>ae<c>aec>a<cea<c>ea<c  ec>ae<c>aec>fa<cfacfa  <c>afcafc>aga<cfacfa  
+<c>afcafc>agb<dgbdgb  <d>bgdbgd>bab<dgbdgb  <d>bgd24b24<c24>gd>bf+a<df+adf+a  
+<c>af+daf+d>aga<df+adf+a  <c>af+df+dc>ba<cea<c>ea<c  ec>ae<c>aec>a<cea<c>ea<c  
+ec>ae<c>aec>fa<cfacfa  <c>afcafc>aga<cfacfa  <c>afcafc>agb<dgbdgb  
+<d>bgdbgd>bab<dgbdgb  <d>bgd24b24<c24>gd>bf+a<df+adf+a  <c>af+daf+d>aga<df+adf+a  
+<c>af+df+dc>b|9%r4m12,24,203v60[2g4^8f2  ^8g4^8f2  ^8e1  e1  
+]m48,24,215f1  ^1  d+1  ^2g+4g4  
+f1  ^1  g+1  ^1  
+g1  g8r2^4^8  
+;4
+
+l16
+{5}
+l16v80p74%e1|4%r4o5r4 $5 c4^8d4^8  e4^8c4^8d4  
+g4c4^8d4^8  e4^8d4^8c4  e4>b4^8<c4^8  d4^8c4^8>b4  
+d4f+4^8a4^8  f+4^8d2^8  cdeg<c4^8d4^8  e4^8c4^8d4  
+g4c4^8d4^8  e4^8d4^8c4  e4>b4^8<c4^8  d4^8c4^8>b4  
+d4f+4^8a4^8  f+4^8d2^8  cdega<cfa>a<cfa>a<cfa  >a<cfa>a<cfa>a<cfa>a<cfa  
+>a<cfa>gb<eg>gb<eg>gb<eg  >gb<eg>gb<eg>gb<eg>gb<eg  >gb<eg>a<cfa>a<cfa>a<cfa  
+>a<cfa>a<cfa>a<cfa>a<cfa  >a<cfa>gb<eg>gb<eg>gb<eg  >gb<eg>gb<eg>gb<eg>gb<eg  
+>gb<egd1  ^1  c1  ^2c+4d+4  
+c1  ^1  f1  ^1  
+d1  d8r2^4^8  
+;5
+
+l16
+{6}
+l16v80p74%e1|4%r4o5r4a4^8b4^8  <c4^8 $6 >a4^8b4  
+<e4>a4^8b4^8  <c4^8>b4^8a4  <c4>g4^8a4^8  b4^8a4^8g4  
+>b4<e4^8f+4^8  d4^8>a2^8  ab<cea4^8b4^8  <c4^8>a4^8b4  
+<e4>a4^8b4^8  <c4^8>b4^8a4  <c4>g4^8a4^8  b4^8a4^8g4  
+>b4<e4^8f+4^8  d4^8>a2^8  ab<ced4^8c2  ^8d4^8c2  
+^8>b1  b1  <d4^8c2^8  d4^8c2^8  
+>b1  b1  a+1  ^1  
+g+1  ^2g+4a+4  a1  ^1  
+<c+1  ^1  c1  >b8r2^4^8  
+<a4^8b4^8<c4  ^8
+;6
+
+l16
+{7}
+l16v60p64%e1|5o5f+32f+32f+f+32f+32f+ $7 f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+a+|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+32f+32f+32f+32|7a+32a+32^|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+a+|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+f+^f+f+|7a+^|5f+f+f+^  f+32f+32f+32f+32|7a+32a+32^|5f+f+f+^f+f+f+^f+f+|7a+^  
+|5f+f+f+^f+f+f+^f+f+f+^f+f+|7a+^  |5f+f+f+^f+f+f+^f+f+32f+32f+^f+f+|7a+^  
+|5f+f+32f+32f+^f+f+f+^f+f+32f+32f+^f+f+|7a+^  |5f+f+32f+32f+f+f+f+f+^f+f+f+^f+f+|7a+^  
+|5f+f+f+^f+f+f+^f+f+f+^f+f+|7a+^  |5f+f+f+^f+f+f+^f+f+32f+32f+^f+f+|7a+^  
+|5f+f+32f+32f+^f+f+f+^f+f+32f+32f+^f+f+|7a+^  |5f+f+32f+32f+f+f+f+[9f+^f+f+|7a+^|5f+f+f+^  
+f+f+|7a+^|5f+f+]f+4^2  ^4
+;7
+
+l16
+{8}
+l16v127p64%e0|6o5d8^>|8bb^8^<|6d^8^  
+>|8b^8^<|6d^8^ $8 |8c^8^|6d^8^  |8c^8^|6d^8|8cc^8^|6d^8^  >|8b^8^<|6d^8^>|8b^8^<|6d^8^  
+>|8b^8^<|6d>|8b^bb^8^<|6d^8^  >|8b^8^<|6d^8^|8c^8^|6d^8^  >|8b^8^<|6d^8>|8bb^8^<|6d^8^  
+>|8b^8^<|6d^8^>|8b^8^<|6d^8^  >|8b^8^<|6dd^>|8bb^8^<|6d^8^  >|8b^8^<|6d^8^>|8b^8^<|6d^8^  
+>|8b^8^<|6d^8>|8bb^8^<|6d^8^  >|8b^8^<|6d^8^>|8b^8^<|6d^8^  >|8b^8^<|6d>|8b^bb^8^<|6d^8^  
+>|8b^8^<|6d^8^>|8b^8^<|6d^8^  >|8b^8^<|6d^8>|8bb^8^<|6d^8^  >|8b^8^<|6d^8^>|8b^8^<|6d^8^  
+>|8b^8^<|6dddd>|8bb<|6d^8^>|8b^  <|6d^8^>|8b^8^[6bb<|6d^8^>|8b^  
+<|6d^8^>|8b^8b]bb<|6d^8^>|8b^  <|6d^8^>|8bbbbb^8^<|6d^8^  >|8b^8^<|6d^8^[8>|8b^8^<|6d^8^  
+>|8b^8^<|6d^8^]d^2  ^4^8^>|8b^8^<|6d^8^>|8b  ^8^<|6d^8^
+;8
+
+l16

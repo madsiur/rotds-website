@@ -12,7 +12,7 @@
 #WAVE 0x26 0x37 ## tambourine (FF6)
 
 {1}
-l16t95%v30%v30%v30|2p48%e1r1  m79,36,23r2t96,75r2   $3 t90o4v43[2b8<f+8g8a8b2  
+l16t95%v30%b0,70%f0,0|2p48%e1r1  m79,36,23r2t96,75r2   $3 t90o4v43[2b8<f+8g8a8b2  
 ^2b8a8<d8>b8  g1  r2f+8e8a8d8  j2,1 c2^4c8d8  
 e4.e8d4c4  >b4.b8a+4<c+4  >b1  ] $1 c2^8>b8<c8g8  
 f+4e4d4f+4  e1  ^1  v48[2d8e8f8a8<c4>b8a8  

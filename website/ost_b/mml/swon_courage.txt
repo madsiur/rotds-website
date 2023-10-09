@@ -89,7 +89,7 @@ b4^8<c+8d2  >b8^a8^g8g8^a8^b8
 
 l16
 {6}
-l16v100p24%e0|4o5r2b4^8bb  
+l16v100p34%e0|4o5r2b4^8bb  
 e8^b8^e8a4^8aa  d8^a8^d8e4^8ee  d8^a8^d8<c+8^>b8^<c+8  f+8^c+8^>f+8b4^8bb  
 e8^b8^e8a4^8aa  d8^a8^d8g8^<d8^>g8  e8^b8^e8f+8rf+8rf+8  <e8^d8^c+8>b2  
 ^4^ra8br2  ^f+rf+rf+rb8<br>b8<br>b8  <br>b8<br>a8<ar>a8<ar>a8  <ar>a8<ar>g8<gr>g8<gr>g8  

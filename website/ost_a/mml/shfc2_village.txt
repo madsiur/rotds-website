@@ -8,7 +8,7 @@
 #WAVE 0x22 0x01 ## spanish guitar (FF6)
 
 {1}
-l16t85%v40%e0 $1 v120p60%b0,70%f0,0|0%r12o5f1  f1  c1  c1  
+l16t85%v50%e0 $1 v120p60%b0,70%f0,0|0%r12o5f1  f1  c1  c1  
 f1  f1  e1  e2^4e4  
 d2^4^8dc  >a+1  a1  <g+1  
 g1  f+1  g1  g2^4g4  

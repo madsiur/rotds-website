@@ -14,7 +14,7 @@
 #WAVE 0x28 0x30 ## wood block (FF6)
 
 {1}
-l16t160%v32%e1%b0,70%f0,0 $1 v80p44|0%r3o5m48,16,12r2<c+8c8c+8r8  
+l16t160%v50%e1%b0,70%f0,0 $1 v80p44|0%r3o5m48,16,12r2<c+8c8c+8r8  
 >a+8r4^8<f8r8c8r8  c+8c8c+8r8>a+8r8<f8c8  c+2d+4c+4  c4>a+4<c1  
 v128,24^2v80r1  ^1  ^2^4v60f8e8  f8r8c8r8c+8c8c+8r8  
 >a+8r8<f8e8f8r8c8r8  c+8c8c+8r8>a+8r8<f8c8  c+2d+4f4  d+4c+4c1  

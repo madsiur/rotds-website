@@ -12,7 +12,7 @@
 #WAVE 0x26 0x4A ## snare drum 1 (RS3)
 
 {1}
-l16t152%v25v50p60%e1%b0,70%f0,0@5o4<d1   $1 f4e4d4c8d1  ^8f4e4d4e8  
+l16t152%v25v50p64%e1%b0,70%f0,0@5o4<d1   $1 f4e4d4c8d1  ^8f4e4d4e8  
 c1  ^8e2c2  d1  r8<ddccd8r8>d8ddr8  
 d1  f4e4d4c8d1  ^8f4e4d4e8  c1  
 ^8e2c2  d1  g>ga+<da+>a+<dg<d>dga+<g>ga+<d  >a1  
@@ -25,7 +25,7 @@ g8a2^8g8f8  g8a1  a1  <c8>a+4a4g4a1
 
 l16
 {2}
-l16v50p60%e1@5o5a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
+l16v50p64%e1@5o5a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
 a+8a+4a+4a+4^8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
  $2 r8<a+a+a+a+a+8r8>a+8a+a+r8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
 a+8a+4a+4a+4^8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
@@ -40,7 +40,7 @@ a+8a+4a+4a+4^8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8
 
 l16
 {3}
-l16v80p60%e1|1o4<d1   $3 f4e4d4c8d1  ^8f4e4d4e8  c1  
+l16v90p64%e1|1o4<d1   $3 f4e4d4c8d1  ^8f4e4d4e8  c1  
 ^8e2c2  d1  r8<ddccd8r8>d8ddr8  d1  
 f4e4d4c8d1  ^8f4e4d4e8  c1  ^8e2c2  
 d1  g>ga+<da+>a+<dg<d>dga+<g>ga+<d  >a1  <c8>a+4a4g4a1  
@@ -53,7 +53,7 @@ g8a1  a1  <c8>a+4a4g4a1
 
 l16
 {4}
-l16v80p60%e1|1o5a8a4a4a4^8  a8a4a4a4^8   $4 a+8a+4a+4a+4^8  
+l16v80p64%e1|1o5a8a4a4a4^8  a8a4a4a4^8   $4 a+8a+4a+4a+4^8  
 a+8a+4a+4a+4^8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
 r8<a+a+a+a+a+8r8>a+8a+a+r8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
 a+8a+4a+4a+4^8  a8a4a4a4^8  a8a4a4a4^8  a+8a+4a+4a+4^8  
@@ -66,7 +66,7 @@ a8g4f4e4f1  ^8a8g4f4e8c4  d2^4d8>a+2
 
 l16
 {5}
-l16v20p24%e0 $5 |2o4dr<f>ddr<f>ddr<f>ddd>a<c  
+l16v20p34%e0 $5 |2o4dr<f>ddr<f>ddr<f>ddd>a<c  
 dr<f>ddr<f>ddr<f>dddga  a+r<f>a+a+r<f>a+a+r<f>a+a+a+fg  a+r<f>a+a+r<f>a+<d<d>f<co4a+<a+>fg  
 ar<e>aar<e>aar<e>aaaeg  ar<e>aar<e>aar<e>aaaef  gr<g>ggr<g>ggr<g>gggdf  
 gr<g>ggr<g>ggr<g>ggg>a<c  dr<f>ddr<f>ddr<f>ddd>a<c  dr<f>ddr<f>ddr<f>dddga  
@@ -106,11 +106,11 @@ l16v120p64%e0 $7 |4o5br8^br8^br8^br8^
 
 l16
 {8}
-l16v68p94%e1 $8 v44|5o5[7f+rf+f+f+rf+f+f+rf+f+v92|6drv44|5f+f+  
-]f+rf+f+f+rf+f+f+rv92|6drddv44|5f+f+  [7f+rf+f+f+rf+f+f+rf+f+v92|6drv44|5f+f+  
-]f+rf+f+v92|6drv44|5f+f+f+rf+f+v92|6dddd  [7v44|5f+rf+f+v92|6drv44|5f+f+f+rf+f+v92|6drv44|5f+f+  
-]f+rf+f+v92|6drv44|5f+f+f+rv92|6drdddv44|5f+  [9f+rf+f+v92|6drv44|5f+f+f+rf+f+v92|6drv44|5f+f+  
-]f+rf+f+v92|6drv44|5f+f+f+rv92|6drdrdr  
+l16%e0 $8 v50p64|5o5[7f+rf+f+f+rf+f+f+rf+f+v100|6drv50|5f+f+  
+]f+rf+f+f+rf+f+f+rv100|6drddv50|5f+f+  [7f+rf+f+f+rf+f+f+rf+f+v100|6drv50|5f+f+  
+]f+rf+f+v100|6drv50|5f+f+f+rf+f+v100|6dddd  [7v50|5f+rf+f+v100|6drv50|5f+f+f+rf+f+v100|6drv50|5f+f+  
+]f+rf+f+v100|6drv50|5f+f+f+rv100|6drdddv50|5f+  [9f+rf+f+v100|6drv50|5f+f+f+rf+f+v100|6drv50|5f+f+  
+]f+rf+f+v100|6drv50|5f+f+f+rv100|6drdrdr  
 ;8
 
 l16

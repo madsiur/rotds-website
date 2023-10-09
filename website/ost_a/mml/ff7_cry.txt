@@ -20,10 +20,10 @@ l16
 {2}
 l16%e1 $2 v24p60|0o5[7r1  
 ]r2v200,100g1  ^2f1  v100,0^2|6v80p64o4[6dr4^fr4  
-^dr4^fr4^d^r4  ^fr4^dr4^fr4  ^]dr4^fr4^dr4  ^fr2^8^fr4  
-^dr4^fr4^dr4  ^fr4^dr4^fr4  ^d^r4^fr4^dr4  ^fr4^d^r4^fr4  
-^dr4^fr4^d^r4  ^fr4^dr4^fr4  ^dr4^fr4^dr4  ^fr1  
-^4
+^dr4^fr4^dr4  ^fr4^dr4^fr4  ^]dr4^fr4^dr4  ^fr2^8^fr4  
+^dr4^fr4^dr4  ^fr4^dr4^fr4  ^dr4^fr4^dr4  ^fr4^dr4^fr4  
+^dr4^fr4^dr4  ^fr4^dr4^fr4  ^dr4^fr4^dr4  ^fr1  
+^2^4^
 ;2
 
 l16

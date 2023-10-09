@@ -10,7 +10,7 @@
 #WAVE 0x24 0x12 ## cymbal (FF6)
 
 {1}
-l16t120%v60%e0%b0,70%f0,0 $1 v50p64|0o4[2a8a8r8a8r8a8r8a8  
+l16t120%v50%e0%b0,70%f0,0 $1 v50p64|0o4[2a8a8r8a8r8a8r8a8  
 ][2g8g8r8g8r8g8r8g8  ][2a8a8r8a8r8a8r8a8  ]g8g8r8g8r8g8r8g8  e8e8r8e8r8e8r8e8  
 <d8d8r8d8r8d8r8d8  d8d8r8d8r8d8>a8<d8  c+8c+8r8c+8r8c+8r8c+8  c+8c+8r8c+8r8c+8>g+8<c+8  
 d8d8r8d8r8d8r8d8  d8d8r8d8r8d8>a8<d8  c+8c+8r8c+8r8c+8r8c+8  c+8c+8r8c+8r8c+8>g+8<c+8  
@@ -19,7 +19,7 @@ d8d8r8d8r8d8r8d8  d8d8r8d8r8d8>a8<d8  c+8c+8r8c+8r8c+8r8c+8  c+8c+8r8c+8r8c+8>g+
 
 l16
 {2}
-l16%e1 $2 v80p34|1%y1%s6%r4o5g+ag+ag+ag+ag+8f+8f8f+8  
+l16%e1 $2 v70p34|1%y1%s6%r4o5g+ag+ag+ag+ag+8f+8f8f+8  
 g+8a4b4<c+4d8  >f+gf+gf+gf+gf+8e8d+8e8  m24,18,201f+1  mg+ag+ag+ag+ag+8f+8f8f+8  
 g+8a4b4<c+4d8  >f+gf+gf+gf+gf+gab<c+def+  m24,18,201g+1  mr1  
 ^4d4c+4c4  >m24,18,201g+2^4m<c4  m24,18,201c+1  mr1  

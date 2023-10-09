@@ -7,12 +7,12 @@
 #WAVE 0x21 0x3D ## metal sound (FF6)
 #WAVE 0x22 0x1B ## harp (FF6)
 #WAVE 0x23 0x0D ## strings (FF6)
-#WAVE 0x24 0x31 ## bright piano (FF6)
+#WAVE 0x24 0x20 ## marimba (FF6)
 #WAVE 0x25 0x03 ## wind flute (FF6)
 #WAVE 0x26 0x06 ## chorus (FF6)
 
 {1}
-l16t70%v40%x244p86%e1r2r4v48|1o4p100g4   $1 |0o5v113%r15p28c+2^4v48|1o4p100%yg4  
+l16t70%v50%x244%b0,70%f0,0p86%e1r2r4v100|1o4p100g4   $1 |0o5v120%r15p28c+2^4v100|1o4p100%yg4  
 
 ;1
 
@@ -45,7 +45,7 @@ l16r1  v76o3%e1%a5|3p92 $5 d+1  e1
 
 l16
 {6}
-l16v104|4%e1p64%a12%r15p0,24,48[5o5a+<d+a+>a+<d+a+>a+<d+a+2  
+l16v60|4%e1p64%a12%r15p0,24,48[5o6a+<d+a+>a+<d+a+>a+<d+a+2  
 ] $6 [3>a+<d+a+>a+<d+a+>a+<d+a+2  >b<eb>b<eb>b<eb2  ]>a<d+a>a<d+a>g+<d+g+2  
 >b<eb>b<eb>b<eb2  [2>a+<d+a+>a+<d+a+>a+<d+a+2  >b<eb>b<eb>b<eb2  
 ]

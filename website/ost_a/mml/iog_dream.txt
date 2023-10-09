@@ -9,7 +9,7 @@
 #WAVE 0x23 0x0D ## strings (FF6)
 
 {1}
-l16t114%v36%e1%b0,70%f0,0 $1 v68p68|0o3a4<e4<c4>b4  <e4c4>b4<c4  
+l16t114%v50%e1%b0,70%f0,0 $1 v68p68|0o3a4<e4<c4>b4  <e4c4>b4<c4  
 o3b4<e4g4b4  <e4>b4g4e4  >a4<e4<c4>b4  <e4c4>b4<c4  
 o3b4<e4g4b4  <e4>b4g4e4  d4f4a4b4  <d4>b4a4f4  
 c4e4a4<c4  e4c4>a4e4  >a+4<d4f4a+4  <d4>a+4a4f4  

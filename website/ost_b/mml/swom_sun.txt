@@ -8,7 +8,7 @@
 #WAVE 0x22 0x1B ## harp (FF6)
 
 {1}
-l16t76%v32%e1%b0,70%f0,0v40p24|0o5e8d8c+8d8g8f8e8f8  b8a8g+8a8<e8d8c+8d8  
+l16t76%v50%e1%b0,70%f0,0v40p24|0o5e8d8c+8d8g8f8e8f8  b8a8g+8a8<e8d8c+8d8  
 f2^4e4  d2v255,0c1  ^2 $1 o6r1  
 ^1  ^1  ^1  ^1  
 ^1  ^1  ^1  v10v50,40c4>g4^8<e8d8e8  

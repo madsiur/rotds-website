@@ -376,7 +376,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus
 8B: xng_knight; Red Knight; Xenogears; Yasunori Mitsuda; emberling
 8C: dq3_world; Unknown World; Dragon Quest 3; Koichi Sugiyama; Gi Nattak
-8D: lf2_battle_2; Battle 2; Lufia II; Yasunori Shiono; Gi Nattak
+8D: lf2_battle_2; Battle 2; Lufia II; Yasunori Shiono; Tsushiy
 8E: smtd_brain; Mother Brain; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak
 8F: ias_redemption; Path of Redemption; I Am Setsuna; Tomoki Miyoshi; Gi Nattak
 90: udt_waters; Quiet Waters; Undertale; Toby Fox; Gi Nattak
@@ -501,43 +501,53 @@ FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A
 
 [optional_a.smc]
 06: ff4_overworld; Overworld; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
-C4: xng_mermaid; June Mermaid; Xenogears; Yasunori Mitsuda; Gi Nattak
-4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak
-2F: ct_fanfare; Fanfare 1; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
-73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak
-4B: ff4_giant; Within the Giant; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
-28: sm64_docks; Dire, Dire Docks; Super Mario 64; Koji Kondo; Gi Nattak
-7F: mm9_robots; We're the Robots; Mega Man 9; Ryo Kawakami; Gi Nattak 
-29: zamn_pyramid; Pyramid of Fear; Zombies Ate My Neighbors; Joe McDermott; Gi Nattak
-18: kss_trees; Trees in the Depths of the Earth; Kirby Super Star; Jun Ishikawa; Gi Nattak
-84: ms_drokmar; At Drokmar's Gate; Magic Sword; Manami Matsumae; Gi Nattak
-96: rag_theme; Main Theme; Ragnarok Online; SoundTeMP; Gi Nattak
-80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak
-87: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak
-E1: grnd_ganbo; The Sandy Beach of Ganbo; Grandia; Noriyuki Iwadare; Gi Nattak
-9E: lf2_village; Village Theme; Lufia II; Yasunori Shiono; Gi Nattak
-24: rpgmvxa_battle1; Battle 1; RPG Maker VX Ace; Joel Steudler; Gi Nattak 
-EC: dbz_scouter; Solid State Scouter; Dragon Ball Z; Fuminori Iwazaki; Gi Nattak
-44: mmx_boomer; Boomer Kuwanger; Mega Man X; Alph Lyla group; Gi Nattak
 13: tgr_track1; Track 1; Top Gear; Barry Leitch; Gi Nattak
-38: ff7_goodnight; Goodnight Until Tomorrow; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
-33: ff4_fight; Fight 1; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
-4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak
-F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
-4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak
-71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak
 14: doran_battle2; Battle 2; doranarasi Music; doranarasi; Gi Nattak 
+18: kss_trees; Trees in the Depths of the Earth; Kirby Super Star; Jun Ishikawa; Gi Nattak
+19: halo_woods; A Walk in the Woods; Halo: Combat Evolved; Martin O'Donnell, Michael Salvatori; Gi Nattak
+24: rpgmvxa_battle1; Battle 1; RPG Maker VX Ace; Joel Steudler; Gi Nattak 
+27: ff3_djinn; Djinn's Curse; Final Fantasy III; Nobuo Uematsu; Gi Nattak
+28: sm64_docks; Dire, Dire Docks; Super Mario 64; Koji Kondo; Gi Nattak
+29: zamn_pyramid; Pyramid of Fear; Zombies Ate My Neighbors; Joe McDermott; Gi Nattak
+2E: ki_glacius; Glacius; Killer Instinct; Robin Beanland, Graeme Norgate; Gi Nattak
+2F: ct_fanfare; Fanfare 1; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
+33: ff4_fight; Fight 1; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
+38: ff7_goodnight; Goodnight Until Tomorrow; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
+44: mmx_boomer; Boomer Kuwanger; Mega Man X; Alph Lyla group; Gi Nattak
+48: so_walk; Walk Over; Star Ocean 2; Motoi Sakuraba; Gi Nattak
+49: som_fortress; Mana Fortress; Secret of Mana; Hiroki Kikuta; Gi Nattak
+4B: ff4_giant; Within the Giant; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
+4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak
+4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak
+4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak
+71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak
+73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak
+74: ff1_matoya; Matoya's Cave; Final Fantasy I; Nobuo Uematsu; Gi Nattak
+7F: mm9_robots; We're the Robots; Mega Man 9; Ryo Kawakami; Gi Nattak 
+80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak
+84: ms_drokmar; At Drokmar's Gate; Magic Sword; Manami Matsumae; Gi Nattak
+87: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak
+96: rag_theme; Main Theme; Ragnarok Online; SoundTeMP; Gi Nattak
+9B: bof_general; A Brave General; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak
+9E: lf2_village; Village Theme; Lufia II; Yasunori Shiono; Gi Nattak
+AF: dbzsb2_vegeta; Vegeta's Theme!; Dragon Ball Z: Super Butouden 2; Kenji Yamamoto; Gi Nattak
 BC: ff4_lunarians; The Lunarians; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
+C1: mmx3_beetle; Gravity Beetle; Mega Man X3; Kinuyo Yamashita, Yoshino Aoki, Shusaku Uchiyama, Toshihiko Horiyama, Makoto Tomozawa; Gi Nattak
+C4: xng_mermaid; June Mermaid; Xenogears; Yasunori Mitsuda; Gi Nattak
+E1: grnd_ganbo; The Sandy Beach of Ganbo; Grandia; Noriyuki Iwadare; Gi Nattak
+EC: dbz_scouter; Solid State Scouter; Dragon Ball Z; Fuminori Iwazaki; Gi Nattak
+F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 
 [optional_b.smc]
 06: z2_overworld; Overworld; Zelda II; Akito Nakatsuka; Gi Nattak
-4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak
 24: ff1_battle; Battle Scene; Final Fantasy I; Nobuo Uematsu; Gi Nattak 
 33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak
+4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak
+87: fft_plain; Run Past Through the Plain; Final Fantasy Tactics; Hitoshi Sakimoto, Masaharu Iwata; Gi Nattak
 
 [optional_c.smc]
-4F: top_act; The Second Act; Tales of Phantasia; Motoi Sakuraba; Gi Nattak
 24: doran_battle1; Battle 1; doranarasi Music; doranarasi; Gi Nattak
+4F: top_act; The Second Act; Tales of Phantasia; Motoi Sakuraba; Gi Nattak
 
 [brr]
 01: spanish guitar; FF6; Final Fantasy VI

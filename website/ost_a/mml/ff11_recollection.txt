@@ -13,7 +13,7 @@
 #WAVE 0x29 0x08 ## french horn (FF6)
 
 {1}
-l16t65%v30%e1%b0,70%f0,0 $1 v110p50|0o5b8a8b8<d8e4>a2  ^4r2a8g8  
+l16t65%v40%e1%b0,70%f0,0 $1 v110p50|0o5b8a8b8<d8e4>a2  ^4r2a8g8  
 a8<d8f+8g8e2  ^4r2>b8a8  b8<d8e4>a2  ^4r4^8g8a8b8  
 a8g8e1  b8a8b8<d8e8>b8<f+8d8  g8r2g8a8b8  a8d8<c8r4^^32o6d32a32<d4  
 r8^^32>b4a4g4r4  g4f+4e4e8>g8  a8<c8e4g4f+8>a8  <c8d8f+8d8<c4>b8>b8  

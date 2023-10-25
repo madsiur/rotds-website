@@ -12,7 +12,7 @@
 #WAVE 0x26 0x0F ## closed hi-hat (FF6)
 
 {1}
-l16t140%v32%e1%b0,70%f0,0v60p34|0%y1%s6%r3o5r1  ^1   $1 o4<d2a2  
+l16t140%v32%e1%b0,70%f0,0v70p64|0%y1%s6%r3o5r1  ^1   $1 o4<d2a2  
 m64,22,201g1  ^2mf4e4  d2c4>a+4  <c4>a4<e2  
 m72,18,201d1  ^1  ma2<c2  m64,16,201>b1  
 ^2mg4f4  e2f4g4  m72,24,201a1  ^1  
@@ -28,7 +28,7 @@ m
 
 l16
 {2}
-l16%e1v20p24|1o5v224,50dfa<d>ceg<c>dfa<d>eg<ce  >fa<df>eg<ce>fa<df>g<ceg  
+l16%e1v20p34|1o5v224,50dfa<d>ceg<c>dfa<d>eg<ce  >fa<df>eg<ce>fa<df>g<ceg  
  $2 o6[2>dfa<d>dfa<d>dfa<d>dfa<d  ]>ceg<c>ceg<c>ceg<c>ceg<c  o4a+<dfa+>a+<dfa+>a+<dfa+>a+<dfa+  
 >a<cea>a<cea>a<cea>a<cea  dfa<d>dfa<d>dfa<d>dfa<d  [3>dfa<d>dfa<d>dfa<d>dfa<d  
 ]o4gb<dg>gb<dg>gb<dg>gb<dg  >egb<e>egb<e>egb<e>egb<e  [2>a<c+ea>a<c+ea>a<c+ea>a<c+ea  
@@ -44,7 +44,7 @@ o4a+<dfa+>a+<dfa+>a+<dfa+>a+<dfa+  >a<cea>a<cea>a<cea>a<cea  dfa<d>dfa<d>dfa<d>d
 
 l16
 {3}
-l16%e0v20p60|2o4v224,60d4d4d4d4  
+l16%e0v20p64|2o4v224,60d4d4d4d4  
 d4d4d4d4   $3 o4[2d8d8r4a4^8d8  d4d4a4d4  g8g8r4<d4^8>g8  
 g4g4<d4>g4  a8a8r4<e4^8>e8  d8d8r4a4^8d8  d4d4a4>a4  
 <d8d8r4a4^8d8  d4d4a4d4  g8g8r4<d4^8>g8  e4e4b4e4  
@@ -57,7 +57,7 @@ a8a8r4e4<f8e8  >a8a8r4e4r4  g8g8r4d4<e8d8  >g8g8r4<d4d+4
 
 l16
 {4}
-l16%e1v100p94|3o4r1  ^1   $4 d1  
+l16%e1v110p94|3o4r1  ^1   $4 d1  
 ^4>a4<d4f4  e2^4c4  >a+2^4<c4  >a4a4<c4e4  
 f1  ^4f4g4a4  a1  ^4a4g4f4  
 e2^4d4  >b2^4<d4  c+1  ^4>a4<c+4e4  

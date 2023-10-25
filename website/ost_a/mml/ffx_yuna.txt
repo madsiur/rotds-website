@@ -11,7 +11,7 @@
 #WAVE 0x25 0x08 ## french horn (FF6)
 
 {1}
-l16t89%v32%e1%b0,70%f0,0 $1 v60p60|0o3b8o4f+8b8<f+4r8o3b4  
+l16t89%v40%e1%b0,70%f0,0 $1 v60p60|0o3b8o4f+8b8<f+4r8o3b4  
 b2b8o4f+8b4  r4d+8a+8<d+8f+8r4  o4d+8a8<d+8f+8r4o3b8<f+8  b2r8>b8<e8f+8  
 g+8b8<e2^4  >e2^4c2  c4o3b8<f+8b4a+4  g+2f+4f2  
 d+4c+8g+8<c+2  >f+2^4>f+2  ^4b8o4f+8b8<f+4r8  o3b4b2b8o4f+8  

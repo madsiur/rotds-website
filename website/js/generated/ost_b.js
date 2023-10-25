@@ -1905,7 +1905,7 @@ const ost_b =
         "title": "The Final Battle",
         "game": "Final Fantasy IX",
         "composer": "Nobuo Uematsu",
-        "arranger": "Jackimus",
+        "arranger": "Gi Nattak",
         "duration": 253
     },
     {

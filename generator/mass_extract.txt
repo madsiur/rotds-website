@@ -453,7 +453,7 @@ DC: z3_village; Kakariko Village; The Legend of Zelda: A Link to the Past; Koji 
 DD: smrpg_smithy; Fight Against Smithy; Super Mario RPG; Yoko Shimomura; Jackimus
 DE: dkc2_interlude; Forest Interlude Remix; Donkey Kong Country 2; David Wise; Gi Nattak
 DF: smtd_boss; Boss Theme; Super Metroid/Prime; Minako Hamano, Kenji Yamamoto; Jackimus
-E0: ff9_final; The Final Battle; Final Fantasy IX; Nobuo Uematsu; Jackimus
+E0: ff9_final; The Final Battle; Final Fantasy IX; Nobuo Uematsu; Gi Nattak
 E1: nes_atreyu; Atreyu's Quest; Neverending Story; Klaus Doldinger; Gi Nattak
 E2: ff6_ending; Ending Song 2; Final Fantasy VI; Nobuo Uematsu; N/A
 E3: ff1_dungeon; Dungeon; Final Fantasy I; Nobuo Uematsu; Gi Nattak

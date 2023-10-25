@@ -32,7 +32,7 @@ l16%e0v40p64|1%r8o5f1  ^1  f1  v144,0^1
 
 l16
 {3}
-l16%e1v10p64 $3 |2o5p0,192,127[4>v240,80fr<cr>g+r<cr>fr<c+r>a+r<c+r  
+l16%e1v10p64 $3 |2o5p0,192,127[4>v240,60fr<cr>g+r<cr>fr<c+r>a+r<c+r  
 >fr<d+rcrd+r>fr<c+r>a+r<c+r  ]>d+r<cr>gr<cr>c+rg+rfrg+r  crgrd+rgr>a+r<frc+rfr  
 crgrd+rgrfr<cr>g+r<cr  >fr<c+r>a+r<c+r>fr<d+rcrd+r  >fr<c+r>a+r<c+r>fr<cr>g+r<cr  
 >fr<c+r>a+r<c+r>fr<d+rcrd+r  >fr<c+r>a+r<c+r>fr<cr>g+r<cr  >fr<c+r>a+r<c+r>fr<d+rcrd+r  

@@ -20,7 +20,7 @@ d2c2  >a+2a2
 
 l16
 {2}
-l16%e1v50p254|0r4 $2 o3%a10g1  d1  
+l16%e1v50p127|0r4 $2 o3%a10g1  d1  
 d+1  a+2a2  g1  d1  
 d+2f2  g1  g1  d1  
 d+1  a+2a2  g1  d1  
@@ -32,7 +32,7 @@ g1  d1  d+1  a+1
 
 l16
 {3}
-l16%e1v60p64|0o5d4 $3 a+4a+8a8a+4  <c4>a2f4  ^8d8g4g8f8g4  
+l16%e1v80p64|0o5d4 $3 a+4a+8a8a+4  <c4>a2f4  ^8d8g4g8f8g4  
 a4f2^4  d4a+4a+8a8a+4  <c4>a2f4  d4d+4a+4a4  
 g8a8g2^4  d4a+4a+8a8a+4  <c4>a2f4  ^8d8g4g8f8g4  
 a4f2^4  d4a+4a+8a8a+4  <c4>a2f4  d4d+4a+4a4  
@@ -86,13 +86,13 @@ a+8<d+8g8d+8>a+8g8d8f8  a8<d8>c8f8a8<c8>d8g8  a+8<d8g8d8>a+8g8d8f8
 a8<d8f8d8>a8f8d+8g8  a+8<d+8>f8a8<c8f8>g8<c8  d8g8>g8b8<d8g8o3a+8<d8  
 f8a+8<d8>a+8f8d8c8f8  a8<c8f8c8>a8f8>g8a+8  <d8g8<d8>a+8g8d8>a8<d8  
 f8a8<d8>a8f8d8>a+8<d+8  g8a+8<d+8>a+8g8d+8>a+8<d8  f8a+8<d8>a+8f8d8c8d+8  
-g8a+8>a8<c8d+8g8>a8<d8  f+8a8<d8f+8a8<d8f+8d8  >a8f+8d8>a8f+8d8p64,63<d8>a8  
+g8a+8>a8<c8d+8g8>a8<d8  f+8a8<d8f+8a8<d8f+8d8  >a8f+8d8>a8f+8d8p64,64<d8>a8  
 f+8d8af+d>a<d>af+d
 ;7
 
 l16
 {8}
-l16%e1v104p64|3o6d8r8   $8 a+8r8a+8a8a+8r8<c8r8  
+l16%e1v100p64|3o6d8r8   $8 a+8r8a+8a8a+8r8<c8r8  
 >a8r4^8f8r4d8  g8r8g8f8g8r8a8r8  f8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  
 >a8r4^8f8r8d8r8  d+8r8a+8r8a8r8g8a8  g8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  
 >a8r4^8f8r4d8  g8r8g8f8g8r8a8r8  f8r2^8d8r8  a+8r8a+8a8a+8r8<c8r8  

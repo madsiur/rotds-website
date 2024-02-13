@@ -1,0 +1,25 @@
+Name: Wedge Antilles
+Description: An intelligence officer reputed for his strategic prowess and love of training his body.
+Might: 36
+Speed: 30
+Stamina: 38
+Run Success: 4
+Battle Power: 18
+Magic Power: 21
+Defense: 26
+Magic Defense: 28
+Evade: 12%
+MBlock: 0%
+Age: 43
+Height: 5'8"
+Weight: 162 lbs
+Zodiac: Aries
+Blood Type: B
+Hometown: Ornyx
+Likes: Puzzles
+Dislikes: Religion
+Treasure: Pocket watch
+Weapons: Swords
+Class: Imperial Soldier
+Desperation Attack: None
+Special Ability: M-Tek. Wedge is able to pilot the unstoppable Magitek armor and harness its magical energy.

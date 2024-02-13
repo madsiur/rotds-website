@@ -1,0 +1,25 @@
+Name: Reaper
+Description: A wise-cracking, slightly-smug harbinger of Death who has been there and done that.
+Might: 12
+Speed: 24
+Stamina: 18
+Run Success: 3
+Battle Power: 99
+Magic Power: 15
+Defense: 17
+Magic Defense: 11
+Evade: 25%
+MBlock: 20%
+Age: ??
+Height: 6'0"
+Weight: 35 lbs
+Zodiac: ??
+Blood Type: None
+Hometown: ??
+Likes: Collecting Souls
+Dislikes: Mr. Grimm
+Treasure: Coffin
+Weapons: Scythe
+Class: Soultaker
+Desperation Attack: None
+Special Ability: Souls, Darkforce. Absorbing souls from his defeated enemies allows Reaper to access their skills. Unleashes a powerful torrent of dark, negative energy that blasts enemies.

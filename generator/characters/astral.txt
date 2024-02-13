@@ -1,0 +1,25 @@
+Name: Astral
+Description: Valued adviser to the late king of Dalzenia, and righteous wizard who bares a celestial affinity with the supernatural.
+Might: 12
+Speed: 20
+Stamina: 16
+Run Success: 2
+Battle Power: 6
+Magic Power: 30
+Defense: 12
+Magic Defense: 52
+Evade: 7%
+MBlock: 32%
+Age: 77
+Height: 5'7"
+Weight: 115 lbs
+Zodiac: Capricorn
+Blood Type: B
+Hometown: Agartha
+Likes: Teaching
+Dislikes: Tyranny
+Treasure: Pipe
+Weapons: Rods
+Class: Wizard
+Desperation Attack: None
+Special Ability: Miracle, Inverse. Praying to the Gods allows Astral to restore the party's HP for various amounts. By reversing the order of elements, Astral can attack a monster's weakness with their own magic.

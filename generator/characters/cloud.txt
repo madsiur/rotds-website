@@ -1,0 +1,25 @@
+Name: Cloud Strife
+Description: An arrogant and proud former soldier-turned-mercenary, loyal to those he cares for and is driven to protect them.
+Might: 33
+Speed: 25
+Stamina: 27
+Run Success: 4
+Battle Power: 35
+Magic Power: 20
+Defense: 23
+Magic Defense: 22
+Evade: 10%
+MBlock: 2%
+Age: 24
+Height: 5'7"
+Weight: 150 lbs
+Zodiac: Taurus
+Blood Type: AB
+Hometown: Quartz Village
+Likes: Motorcycles
+Dislikes: Puppets
+Treasure: Buster Sword
+Weapons: Swords
+Class: Mercenary (former Imperial Soldier)
+Desperation Attack: Omnishredder
+Special Ability: Limit Break. By charging up his energy, Cloud can use powerful physical and magical techniques with his sword that can severly damage the enemy or even kill them outright.

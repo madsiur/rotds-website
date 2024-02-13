@@ -1,0 +1,25 @@
+Name: Avalon Seiryu
+Description: A magical warrior whose existence transcends human understanding. He strikes down his foes as swiftly as the scythe reaps the harvest.
+Might: 37
+Speed: 28
+Stamina: 23
+Run Success: 3
+Battle Power: 32
+Magic Power: 29
+Defense: 38
+Magic Defense: 20
+Evade: 8%
+MBlock: 5%
+Age: 32
+Height: 5'10"
+Weight: 168 lbs
+Zodiac: Virgo
+Blood Type: A
+Hometown: Dragonia
+Likes: Fishing
+Dislikes: Cowards
+Treasure: Family locket
+Weapons: Katanas
+Class: Drakkar
+Desperation Attack: Sublime Eclipse 
+Special Ability: Havoc Sword. Avalon can channel his mysterious power into a sword that damages all enemies by an amount that is equal to his current HP and inflicts a random negative status effect.

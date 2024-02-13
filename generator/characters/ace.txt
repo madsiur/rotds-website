@@ -1,0 +1,25 @@
+Name: Ace
+Description: The most dangerous dog in the world to all but his master, capable of killing almost any regular enemy.
+Might: ??
+Speed: ??
+Stamina: ??
+Run Success: ??
+Battle Power: ??
+Magic Power: ??
+Defense: ??
+Magic Defense: ??
+Evade: ??
+MBlock: ??
+Age: 9
+Height: 2' 4"
+Weight: 83 lbs
+Zodiac: ??
+Blood Type: ??
+Hometown: Lunaris
+Likes: Jumping fences
+Dislikes: Strangers
+Treasure: Heckran Bone
+Weapons: Teeth
+Class: Doberman
+Desperation Attack: None
+Special Ability: Dogblock, Fang Rush. Ace can block and counter physical attacks directed at his master.

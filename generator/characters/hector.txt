@@ -1,0 +1,25 @@
+Name: Hector Valkus
+Description: Dependable to a fault and always thinking ahead, his dream is to serve in the king's personal guard.
+Might: 20
+Speed: 23
+Stamina: 25
+Run Success: 5
+Battle Power: 17
+Magic Power: 10
+Defense: 28
+Magic Defense: 20
+Evade: 13%
+MBlock: 6%
+Age: 21
+Height: 5' 9"
+Weight: 172
+Zodiac: Virgo
+Blood Type: B
+Hometown: Seascape Town
+Likes: Prepping
+Dislikes: Zombies
+Treasure: Royal Letter
+Weapons: Spears
+Class: Royal Guard
+Desperation Attack: None
+Special Ability: None

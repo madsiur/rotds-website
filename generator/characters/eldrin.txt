@@ -1,0 +1,25 @@
+Name: Eldrin Erazul
+Description: An honorable swordsman from the grasslands of Dragonia, he'd lay down his life for his clan without hesitation.
+Might: 34
+Speed: 22
+Stamina: 30
+Run Success: 2
+Battle Power: 16
+Magic Power: 18
+Defense: 28
+Magic Defense: 25
+Evade: 4%
+MBlock: 8%
+Age: ??
+Height: 6'1"
+Weight: 170 lbs
+Zodiac: ??
+Blood Type: ??
+Hometown: Dragonia
+Likes: Swordplay
+Dislikes: Silence
+Treasure: Estus Flask
+Weapons: Rune Blade
+Class: Elite Knight
+Desperation Attack: None
+Special Ability: None

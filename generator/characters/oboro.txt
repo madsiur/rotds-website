@@ -1,0 +1,25 @@
+Name: Oboro
+Description: A highly-skilled assassin with nothing left to lose, who is eternally tormented by a nightmarish past.
+Might: 30
+Speed: 35
+Stamina: 25
+Run Success: 5
+Battle Power: 27
+Magic Power: 22
+Defense: 20
+Magic Defense: 25
+Evade: 28%
+MBlock: 5%
+Age: 28
+Height: 5'10"
+Weight: 149 lbs
+Zodiac: Libra
+Blood Type: O
+Hometown: Ruta Village
+Likes: Dogs
+Dislikes: Nightmares
+Treasure: Engagement Ring
+Weapons: Knives, Boomerangs, Unique, Ninja
+Class: Assassin
+Desperation Attack: Fury Claw
+Special Ability: Throw, Steal. Oboro can throw shurikens and other weapons at enemies for heavy damage. The stronger the weapon thrown, the more damage it does. Best of all, it pierces the enemy's defense. Oboro can also use his thieving skills to attempt to steal an item from an enemy.

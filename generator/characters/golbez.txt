@@ -1,0 +1,25 @@
+Name: Golbez
+Description: Clad in armor of the deepest night, he walks the path of darkness searching for redemption for his past deeds.
+Might: 44
+Speed: 35
+Stamina: 35
+Run Success: 3
+Battle Power: 38
+Magic Power: 40
+Defense: 30
+Magic Defense: 53
+Evade: 15%
+MBlock: 18%
+Age: ??
+Height: 6'5"
+Weight: 192 lbs
+Zodiac: ??
+Blood Type: ??
+Hometown: ??
+Likes: Powerful spells
+Dislikes: Weakness
+Treasure: ??
+Weapons: Swords, Unique
+Class: Sorcerer
+Desperation Attack: Genesis Rock
+Special Ability: Torment. Golbez can use his incredibly powerful dark influence to warp the minds of his opponents, crippling them into submission and allowing him to use their special attacks against them.

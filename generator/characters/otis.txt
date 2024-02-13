@@ -1,0 +1,25 @@
+Name: Otis Redd
+Description: Former captain of the mighty Wyvern-mounted Dragoons from the fallen kingdom of Agartha, turned ruthless, foul-mouthed pirate.
+Might: 36
+Speed: 34
+Stamina: 29
+Run Success: 2
+Battle Power: 28
+Magic Power: 25
+Defense: 32
+Magic Defense: 25
+Evade: 9%
+MBlock: 3%
+Age: 41
+Height: 6'1"
+Weight: 176 lbs
+Zodiac: Pisces
+Blood Type: AB
+Hometown: Agartha
+Likes: Drinking rum
+Dislikes: Landlubbers
+Treasure: The Daedalus
+Weapons: Swords, Spears, Guns, Unique
+Class: Dragoon
+Desperation Attack: Starflare Bombs
+Special Ability: Jump, Cannon. Having been trained as a Dragoon, Otis is able to jump amazing heights into the air and crash down on his opponents for double damage. With the Shipwrecker relic equipped, Otis can swap out his Jump skill for the slower-paced Cannon skill, in which he shoots cannon balls at his enemies dealing damage equal to the amount of gil the party currently has.

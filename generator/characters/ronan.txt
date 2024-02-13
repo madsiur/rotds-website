@@ -1,0 +1,25 @@
+Name: Ronan Durandal
+Description: Serin's younger half-brother, who abandoned his royal privilages and ties to pursue his own freedom and way of life.
+Might: 29
+Speed: 30
+Stamina: 32
+Run Success: 4
+Battle Power: 30
+Magic Power: 18
+Defense: 53
+Magic Defense: 23
+Evade: 16%
+MBlock: 10%
+Age: 26
+Height: 6'2"
+Weight: 233 lbs
+Zodiac: Cancer
+Blood Type: O
+Hometown: Dalzenia
+Likes: Meditating
+Dislikes: Shirts
+Treasure: Black Tea
+Weapons: Claws, Gloves
+Class: Kenetic Monk
+Desperation Attack: Devil's Flash
+Special Ability: Combo, Tackle. Ronan is a powerful monk and can use his fists and Chi energy to deal more damage than most weapons can do. Once you input the correct command, Ronan will unleash a devastating attack that is capable of taking down even the strongest foe. After choosing 'Fight', Ronan has a 1/3 chance of executing a single unblockable attack that ignores defense.

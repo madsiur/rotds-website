@@ -1,0 +1,25 @@
+Name: Shadow
+Description: A small, emotioniless being born of pure darkness, with glowing yellow eyes and an uncanny ability to mimic.
+Might: 39
+Speed: 43
+Stamina: 35
+Run Success: 5
+Battle Power: 31
+Magic Power: 33
+Defense: 25
+Magic Defense: 34
+Evade: 42%
+MBlock: 10%
+Age: ??
+Height: 2'10"
+Weight: 0 lbs
+Zodiac: ??
+Blood Type: None
+Hometown: Mines of Fraust
+Likes: Dark places
+Dislikes: The Sun
+Treasure: None
+Weapons: Claws, Knives, Unique
+Class: Heartless
+Desperation Attack: None
+Special Ability: Mimic. By mimicing others' movements and behavior, Shadow can copy the last action performed by a party member. This powerful ability allows Shadow to do basically anything the other characters can, including having access to their spells.

@@ -1,0 +1,25 @@
+Name: Zeke Slade
+Description: A master thief and notorious boozer, who's broken every rule in the book at least twice.
+Might: 35
+Speed: 40
+Stamina: 35
+Run Success: 3
+Battle Power: 30
+Magic Power: 24
+Defense: 33
+Magic Defense: 37
+Evade: 15%
+MBlock: 10%
+Age: 36
+Height: 6'6"
+Weight: 265 lbs
+Zodiac: Leo
+Blood Type: AB 
+Hometown: Rogue City
+Likes: Stealing
+Dislikes: Laws
+Treasure: Autograph
+Weapons: Knives
+Class: Thief
+Desperation Attack: None
+Special Ability: Steal, Throw

@@ -27,7 +27,7 @@ function generateGallery(monsters) {
 
     $.each(monsters, function(key,value) {
 
-        var mainDiv = $('<div class="d-flex flex-column align-items-center mb-2 mons-img-div"></div>');
+        var mainDiv = $('<div class="d-flex flex-column align-items-center mb-2 mx-2 mons-img-div"></div>');
         var imgDiv = $('<div class="mt-auto"></div>');
         var img = $('<img src="monsters/' + value.filename + '.png"></img>');
         var nameDiv = $('<div>' + value.name + '</div>');

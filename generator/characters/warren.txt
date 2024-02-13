@@ -1,0 +1,25 @@
+Name: Warren Silas
+Description: Against his parents advice, he left his luxurious life behind to join the war in order to gain a sense of pride about himself.
+Might: 18
+Speed: 30
+Stamina: 23
+Run Success: 3
+Battle Power: 31
+Magic Power: 12
+Defense: 23
+Magic Defense: 14
+Evade: 5%
+MBlock: 2%
+Age: 18
+Height: 5'10"
+Weight: 157 lbs
+Zodiac: Aries
+Blood Type: B
+Hometown: Sunfall City
+Likes: Books
+Dislikes: Shopping
+Treasure: Harmonica
+Weapons: Swords
+Class: Crimson Blade
+Desperation Attack: None
+Special Ability: Mimic

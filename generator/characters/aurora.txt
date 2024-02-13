@@ -1,0 +1,25 @@
+Name: Aurora Lazuli
+Description: A mysterious purple-haired young lady, born with powerful magical abilities and controlled by a sinister empire.
+Might: 28
+Speed: 23
+Stamina: 25
+Run Success: 4
+Battle Power: 12
+Magic Power: 33
+Defense: 18
+Magic Defense: 33
+Evade: 6%
+MBlock: 10%
+Age: 18
+Height: 5'7"
+Weight: 118 lbs
+Zodiac: Gemini
+Blood Type: ??
+Hometown: Ornyx
+Likes: Nature
+Dislikes: Clowns
+Treasure: Pendant
+Weapons: Swords, Knives, Rods
+Class: Battlemage
+Desperation Attack: Deus Blade
+Special Ability: Magic, Morph. Aurora can use magic from the beginning of the game, and learns new spells as she rises in level. Aurora can morph herself into an Esper for 99 MP. In Esper form she deals increased spell damage by 25% for as long as she remains an Esper.

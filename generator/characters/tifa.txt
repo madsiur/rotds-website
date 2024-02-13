@@ -1,0 +1,25 @@
+Name: Tifa Lockheart
+Description: A former Shadow Knight of the Blackthorn Empire. Beautiful and deadly, she can decimate almost any enemy with her fists.
+Might: 30
+Speed: 35
+Stamina: 28
+Run Success: 5
+Battle Power: 30
+Magic Power: 27
+Defense: 50
+Magic Defense: 30
+Evade: 19%
+MBlock: 9%
+Age: 23
+Height: 5'5"
+Weight: 128 lbs
+Zodiac: Aeris
+Blood Type: B
+Hometown: Alvantes
+Likes: Singing
+Dislikes: Stereotypes
+Treasure: Sheet music
+Weapons: Gloves, Claws
+Class: Fighter
+Desperation Attack: Meteo Drive
+Special Ability: Magic, Reels. As a result of magical infusion, Tifa is capable in both using and learning magic, and can channel her artificial power to activate fierce attacks or restore HP and status.

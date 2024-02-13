@@ -1,0 +1,25 @@
+Name: Eiko Carol
+Description: Young and sassy, outgoing and blunt, these qualities give her a unique view on life. A gifted little girl who isn't afraid to speak her mind!
+Might: 26
+Speed: 32
+Stamina: 22
+Run Success:
+Battle Power: 16
+Magic Power: 42
+Defense: 15
+Magic Defense: 38
+Evade: 13%
+MBlock: 10%
+Age: 8
+Height: 4'0"
+Weight: 88 lbs
+Zodiac: Scorpio
+Blood Type: B
+Hometown: Lunaris
+Likes: Moogles
+Dislikes: Being excluded
+Treasure: Dragon Rod
+Weapons: Rods, Unique
+Class: Summoner
+Desperation Attack: Chocobo Stampede
+Special Ability: Magic, Summon, Call. Eiko can naturally use magic and summon her equipped esper as many times throughout battle as her MP permits. With the Call Beads relic equipped, her Summon skill changes to Call, which can summon any esper randomly without restriction.

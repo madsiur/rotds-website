@@ -1,0 +1,25 @@
+Name: Mog
+Description: A battle-tested moogle with impeccable swag, and speaker of human language whose dances awakan the very power of the planet.
+Might: 35
+Speed: 36
+Stamina: 29
+Run Success: 5
+Battle Power: 23
+Magic Power: 30
+Defense: 26
+Magic Defense: 32
+Evade: 10%
+MBlock: 12%
+Age: 11
+Height: 3'0"
+Weight: 95 lbs
+Zodiac: ??
+Blood Type: Duck
+Hometown: Mines of Fraust
+Likes: Dancing
+Dislikes: People who touch his pom-pom
+Treasure: Mixtape
+Weapons: Spears, Boomerangs
+Class: Geodancer
+Desperation Attack: Laser Light Show
+Special Ability: Dance. Mog is a slam-dancing moogle and can use his dance for magical Geomancer effects. He can choose a different dance his next turn.

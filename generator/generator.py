@@ -1,6 +1,7 @@
 import os, shutil, sys
 from mass_extract import mass_extract
 from monsters import create_monster_json
+from characters import generate_html
 import constants as c
 import json
 
@@ -101,3 +102,6 @@ if __name__ == '__main__':
     except IOError:
         print("ERROR: failed to write {this_fn}")
         sys.exit()
+    
+    char_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "characters")
+    generate_html(char_dir)

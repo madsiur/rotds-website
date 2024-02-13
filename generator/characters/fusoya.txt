@@ -1,0 +1,25 @@
+Name: FuSoYa
+Description: A wise and kind-hearted old man, whose eyes tell tales of ancient times of war, lost to the endless river of time.
+Might: 28
+Speed: 30
+Stamina: 24
+Run Success: 2
+Battle Power: 18
+Magic Power: 37
+Defense: 16
+Magic Defense: 36
+Evade: 5%
+MBlock: 15%
+Age: ??
+Height: 4'11"
+Weight: 95 lbs
+Zodiac: ??
+Blood Type: ??
+Hometown: Lunaris
+Likes: Planetary science
+Dislikes: Lying
+Treasure: Journal
+Weapons: Rods, Unique
+Class: Arcanist
+Desperation Attack: Black Hole
+Special Ability: Arcane. FuSoYa can learn monsters' spells and use them to his advantage. Once he sees a monster use its ability, he learns that ability for future use.

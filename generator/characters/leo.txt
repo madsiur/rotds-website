@@ -1,0 +1,25 @@
+Name: Leo Cristophe
+Description: A cybernetically-enhanced warrior elite, who's loyalty to his emperor knows no bounds.
+Might: 47
+Speed: 40
+Stamina: 39
+Run Success: 5
+Battle Power: 51
+Magic Power: 35
+Defense: 63
+Magic Defense: 41
+Evade: 22%
+MBlock: 21%
+Age: 30
+Height: 6'2"
+Weight: 285 lbs
+Zodiac: Leo
+Blood Type: ??
+Hometown: Ornyx
+Likes: Chivalry
+Dislikes: Dishonor
+Treasure: Hero's Medal
+Weapons: Swords
+Class: Cyborg
+Desperation Attack: None
+Special Ability: M-Tek, Blaster. Having machine components installed into his body allows Leo to use Magitek power. Fires lethal magic-infused projectiles out of his mechanical arms.

@@ -1,0 +1,25 @@
+Name: Serin Faenor
+Description: The king of Dalzenia and self-proclaimed ladies' man, adept in both engineering and the mysterious art of alchemy.
+Might: 35
+Speed: 25
+Stamina: 23
+Run Success: 2
+Battle Power: 33
+Magic Power: 25
+Defense: 38
+Magic Defense: 22
+Evade: 6%
+MBlock: 6%
+Age: 29
+Height: 5'11"
+Weight: 169 lbs
+Zodiac: Sagittarius
+Blood Type: O
+Hometown: Dalzenia
+Likes: Ladies
+Dislikes: Politics
+Treasure: Two-headed coin 
+Weapons: Swords, Spears, Guns 
+Class: Aetherist
+Desperation Attack: Crisis Piller 
+Special Ability: Aether. By mastering an arcane form of chemistry, Serin can harness the power of 'Aethers' that are found throughout the world into powerful magical techniques that cripple his foes.

@@ -1,0 +1,25 @@
+Name: Gus Cain
+Description: A distinguished old man who doesn't let age get in his way, he can jump higher than a house and keep up with the best of them.
+Might: 25
+Speed: 23
+Stamina: 19
+Run Success: 2
+Battle Power: 20
+Magic Power: 15
+Defense: 29
+Magic Defense: 16
+Evade: 9%
+MBlock: 3%
+Age: 63
+Height: 5'6"
+Weight: 144
+Zodiac: Aquarius
+Blood Type: O
+Hometown: Agartha
+Likes: Hunting
+Dislikes: Loud music
+Treasure: World map
+Weapons: Swords
+Class: Crimson Blade
+Desperation Attack: None
+Special Ability: Jump

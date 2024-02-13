@@ -1,0 +1,25 @@
+Name: Biggs Darklighter
+Description: A take-no-prisoners kind of soldier who never backs down from a fight.
+Might: 35
+Speed: 28
+Stamina: 40
+Run Success: 4
+Battle Power: 15
+Magic Power: 23
+Defense: 29
+Magic Defense: 25
+Evade: 15%
+MBlock: 0
+Age: 33
+Height: 5'11"
+Weight: 196 lbs
+Zodiac: Aries
+Blood Type: A
+Hometown: Ornyx
+Likes: Fighting
+Dislikes: Magic-users
+Treasure: Golden flask
+Weapons: Swords
+Class: Imperial Soldier
+Desperation Attack: None
+Special Ability: M-Tek. Biggs is able to pilot the unstoppable Magitek armor and harness its magical energy.

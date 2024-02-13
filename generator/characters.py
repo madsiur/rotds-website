@@ -101,7 +101,7 @@ def generate_html(char_dir):
             <a class="nav-link" href="../guide.html">Strategy Guide</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href=../credits.html">Credits</a>
+            <a class="nav-link" href="../credits.html">Credits</a>
             </li>
             </ul>
             </div>

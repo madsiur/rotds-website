@@ -14,10 +14,10 @@
 #WAVE 0x28 0x5B ## orch hit (THG)
 
 {1}
-l16t160%v32%e1%b0,70%f0,0v104p60|0o5r1  v16,16,32eeeeeeeeeeeeeeee  
+l16t160%v32%e1%b0,70%f0,0v100p60|0o5r1  v16,16,32eeeeeeeeeeeeeeee  
  $1 ao4a<ceaebo6c>b4o6c8d8  c4^o5bo6cde2  >a4o6e4ddcc>bbgg  e4<c4>bo6c>bbbag+g+  
 ao4a<cea<ceao7c8o6b8g8e8  o7gfeeedccd8>b8o7c8d8  c2o6b4a4  a4^8bag+2  
-vv120p60|1%r16o5c+1  ^4r1  ^1  ^2v104p60|0v16,16,32b<cdef1  
+vv120p60|1%r16o5c+1  ^4r1  ^1  ^2v100p60|0v16,16,32b<cdef1  
 a4g4f4e4  d1  >g8>g8o5f8>g8o5e8o4g8<defg  o6ecrcefero5bgro6dgo5g<d8  
 gfeefed>geg+brg+bre  o6fc>a<cgdaego5bo6d>b<drgd  arcrargag+r>br<g+r>br  
 o6aecebdo7co6ebdg8grb8  o7co6egeo7co6eo7d>deco5go6cedco5b  o7f8c8>a8f8b8g8e8b8  
@@ -26,7 +26,7 @@ ao5a<ceaceao7c>baedco5ba
 
 l16
 {2}
-l16%e0v110p64|2o5g+g+g+g+ggggf+f+f+f+ffff  
+l16%e0v120p64|2o5g+g+g+g+ggggf+f+f+f+ffff  
 eeeeereereer>eg+a+<e   $2 o5a8a8a8a8g8g8g8g8  <c8c8c8c8>b8b8b8b8  
 a8a8a8a8g8g8g8g8  <c8c8c8c8e8e8>b8b8  a8a8a8a8g8g8g8g8  <c8c8c8c8e8e8e8e8  
 f8f8f8f8c8c8>a8a8  <e8e8d8d8c8c8>b8b8  a8a8o6a8>a4a8<a8o5a8  b8b8b8g4o6g8d8>g8  
@@ -38,7 +38,7 @@ f8f8f8g8g8g8a8a8  g8g8g8g8g8g8g8g8  o6d8>g8g8g8a8a8b8b8  a8a8a8a8g8g8g8g8
 
 l16
 {3}
-l16%e1v30p94@5o5>g+bo5dg+>a+o5c+ego4a<cd+f+o4g+b<df  
+l16%e1v30p84@5%r4o5>g+bo5dg+>a+o5c+ego4a<cd+f+o4g+b<df  
 g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+g+   $3 a2b2  <c2ederdc>br  a2b2  
 o5c2edcro4bag+r  a2b2  <c2>bag+ra8b8  <d2e4f4  
 a2g+2  e1  d1  c1  
@@ -50,13 +50,13 @@ c4^8>bag+2  <c4d8e8d8o4b8g8o5d8  e8c8o4g8f8e4f8g8  a4f4g4r4
 
 l16
 {4}
-l16%e1v30p34@5o4fg+bo5f>ga+<c+eo4f+ao5cd+o4fg+bo5d  
+l16%e1v30p44@5%r4o4fg+bo5f>ga+<c+eo4f+ao5cd+o4fg+bo5d  
 bbbbbbbbbbbbbbbb   $4 o4c2d2  e2g+gg+rbag+r  c2d2  
 e2gferdc>br  <c2d2  e2dc>bro5c8d8  >f2g4a4  
 b2b2  o5c1  >b1  a1  
 b1  <c1  ^1  >b1  
 ^1  v120p60|1o5%r16c+1  ^4r1  ^1  
-^2^4c+1  ^4r1  c+2c+4v30p34@5o6cccc  
+^2^4c+1  ^4r1  c+2c+4v30p34@5%r4o6cccc  
 cccccccccccc
 ;4
 
@@ -64,9 +64,9 @@ l16
 {5}
 l16%e1r1  ^1   $5 v120p64|1%r16o5c+1  ^4r1  
 ^2^4c+1  c+1  ^4r1  
-^2^4c+2  ^4o4v80p63|7eg+abo5c4^8o4a4  erar<cr>b4^8<crd2  o4a4<e4drcr>br<cr  
+^2^4c+2  ^4o4v80p64|7eg+abo5c4^8o4a4  erar<cr>b4^8<crd2  o4a4<e4drcr>br<cr  
 o4b4^8grg2  <f4^rg4^ra4  c2f2  d8r8g2^4  
-c8o4g8b8g8a8g8g8>g8  v104p62|0o5v16,16,32a4b8<c8dr8^c8>br  <c8>g8<c8r8e2  
+c8o4g8b8g8a8g8g8>g8  v100p64|0o5v16,16,32a4b8<c8dr8^c8>br  <c8>g8<c8r8e2  
 r4^8>ar<dr>gr8^gr  <f4^8cfe2  r4grargr>br<e8>br  <grcrgr8^<e2  
 c4>a4brbr1  ^4^
 ;5
@@ -84,11 +84,11 @@ ddddd8dd8dd8dddd
 
 l16
 {7}
-l16%e1v110p64|5o5[4c]>[4b]r1  ^2r4 $7 v60o5p63|6a+4  
-a+4a+4a+4a+4  a+4a+4a+4a+4  a+4a+4v110p64|5o4br2  <cc>bbr4^8^v50o5p63|6a+4a+4  
-a+4a+4a+4a+4  a+4a+4a+4a+4  a+4v110p64|5o4br2<cc>b  br4^8^v50o5p63|6a+4a+4  
-a+4[6a+4a+4a+4  a+4]r8v110p64|5o4<c8^>b8^r2  ^4v50o5p63|6a+4a+4a+4  
-[3a+4a+4a+4a+4  ]r4a+4a+4a+4  a+4a+4a+4a+4  v110p64|5o4<c>bv50o5p63|6a+4a+4a+4a+4  
+l16%e1v110p64|5o5[4c]>[4b]r1  ^2r4 $7 v60o5p64|6a+4  
+a+4a+4a+4a+4  a+4a+4a+4a+4  a+4a+4v110p64|5o4br2  <cc>bbr4^8^v50o5p64|6a+4a+4  
+a+4a+4a+4a+4  a+4a+4a+4a+4  a+4v110p64|5o4br2<cc>b  br4^8^v50o5p64|6a+4a+4  
+a+4[6a+4a+4a+4  a+4]r8v110p64|5o4<c8^>b8^r2  ^4v50o5p64|6a+4a+4a+4  
+[3a+4a+4a+4a+4  ]r4a+4a+4a+4  a+4a+4a+4a+4  v110p64|5o4<c>bv50o5p64|6a+4a+4a+4a+4  
 v110p64|5o4<c>br1  
 ;7
 

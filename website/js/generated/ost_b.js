@@ -610,7 +610,7 @@ const ost_b =
         "game": "Brainlord",
         "composer": "Masanao Akahori",
         "arranger": "Jackimus",
-        "duration": 182
+        "duration": 199
     },
     {
         "id": 73,
@@ -1168,7 +1168,7 @@ const ost_b =
         "game": "Undertale",
         "composer": "Toby Fox",
         "arranger": "Jackimus",
-        "duration": 312
+        "duration": 136
     },
     {
         "id": 137,

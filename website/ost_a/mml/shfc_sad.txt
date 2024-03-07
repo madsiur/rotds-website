@@ -1,5 +1,5 @@
 #TITLE Sad Theme
-#ALBUM Shining Force 1
+#ALBUM Shining Force
 #COMPOSER Motoaki Takenouchi
 #ARRANGED Gi Nattak
 

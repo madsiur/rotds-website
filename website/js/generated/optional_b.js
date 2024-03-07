@@ -19,6 +19,15 @@ const optional_b =
         "duration": 78
     },
     {
+        "id": 40,
+        "filename": "srtype_fish",
+        "title": "Wet as a Fish",
+        "game": "Super-R Type",
+        "composer": "Yasuhiro Kawakami",
+        "arranger": "Gi Nattak",
+        "duration": 360
+    },
+    {
         "id": 51,
         "filename": "ff5_battle",
         "title": "Battle 1",

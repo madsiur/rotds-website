@@ -9,6 +9,10 @@
 #WAVE 0x23 0x14 ## snare (FF6)
 #WAVE 0x24 0x12 ## cymbal (FF6)
 #WAVE 0x25 0x16 ## timpani (FF6)
+#WAVE 0x27 0x0F ## closed hi-hat (FF6)
+#WAVE 0x28 0x12 ## cymbal (FF6)
+#WAVE 0x29 0x9B ## e.piano (GH)
+#WAVE 0x2A 0x11 ## open hi-hat (FF6)
 
 {1}
 l16t140%b0,70%v32%x224p40|0m12,20,201%e1o7g+r8.a+r4r48a24r24a24r24a24r24a24r24a24r24  

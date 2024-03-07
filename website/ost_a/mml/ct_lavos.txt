@@ -76,7 +76,7 @@ f1  ^1  c1  ^1
 
 l16
 {5}
-l16%e1 $5 v60@6o2ro2p104e8a8b8<d8  [3>a8b8<e8>b8p24e8a8b8<d8  
+l16%e1 $5 v30@6o2ro2p104e8a8b8<d8  [3>a8b8<e8>b8p24e8a8b8<d8  
 >a8b8<e8>b8p104e8a8b8<d8  ]>a8b8<e8>b8p24e8a8b8<d8  >a8b8<e8>b8p104d+8g+8a+8<c+8  
 >g+8a+8<d+8>a+8p24d+8g+8a+8<c+8  [3>g+8a+8<d+8>a+8p104d+8g+8a+8<c+8  
 >g+8a+8<d+8>a+8p24d+8g+8a+8<c+8  ]>g+8a+8<d+8o2a+v80p50|3%a14o3<[2b1  

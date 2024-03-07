@@ -632,12 +632,12 @@ const ost_a =
     },
     {
         "id": 76,
-        "filename": "rmb_stage",
-        "title": "Stage Theme",
-        "game": "Rambo",
-        "composer": "Tohru Hasabe",
+        "filename": "totr_earth_bound",
+        "title": "Earth Bound",
+        "game": "Treasure of the Rudra",
+        "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
-        "duration": 118
+        "duration": 123
     },
     {
         "id": 77,
@@ -1469,8 +1469,8 @@ const ost_a =
     },
     {
         "id": 170,
-        "filename": "shfc2_village",
-        "title": "Elven Village",
+        "filename": "shfc2_goddess",
+        "title": "Water Goddess Mitula",
         "game": "Shining Force II",
         "composer": "Motoaki Takenouchi",
         "arranger": "Gi Nattak",
@@ -1543,7 +1543,7 @@ const ost_a =
         "id": 180,
         "filename": "shfc_sad",
         "title": "Sad Theme",
-        "game": "Shining Force 1",
+        "game": "Shining Force",
         "composer": "Motoaki Takenouchi",
         "arranger": "Gi Nattak",
         "duration": 139

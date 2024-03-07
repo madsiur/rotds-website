@@ -88,7 +88,7 @@ const optional_a =
         "game": "Killer Instinct",
         "composer": "Robin Beanland, Graeme Norgate",
         "arranger": "Gi Nattak",
-        "duration": 72
+        "duration": 110
     },
     {
         "id": 47,
@@ -179,6 +179,15 @@ const optional_a =
         "composer": "Nobuo Uematsu",
         "arranger": "Gi Nattak",
         "duration": 124
+    },
+    {
+        "id": 110,
+        "filename": "ff7_judgement",
+        "title": "Judgement Day",
+        "game": "Final Fantasy VII",
+        "composer": "Nobuo Uematsu",
+        "arranger": "Gi Nattak",
+        "duration": 360
     },
     {
         "id": 113,

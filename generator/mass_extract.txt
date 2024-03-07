@@ -69,7 +69,7 @@
 48: bld_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus
 49: ffmq_doom; Doom Castle; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Gi Nattak
 4B: xnb_mechonis; Mechonis Field; Xenoblade; ACE+; Jackimus
-4C: rmb_stage; Stage Theme; Rambo; Tohru Hasabe; Gi Nattak
+4C: totr_earth_bound; Earth Bound; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
 4D: ct_tyrano; Tyrano Lair; Chrono Trigger Beta; Yasunori Mitsuda; Gi Nattak
 4E: kaw_teamwork; Teamwork; King Aurther's World; Justin Scharvona; Gi Nattak
 4F: trnm_underworld; Underworld; Terranigma; Masanori Hikichi; Gi Nattak
@@ -162,7 +162,7 @@ A6: iog_dream; Will's Dream; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak
 A7: bl_campbell; Green Land Campbell; Bahamut Lagoon; Noriko Matsueda; Gi Nattak
 A8: smrpg_mallow; Mallow Finds Out He Is Not A Tadpole; Super Mario RPG; Yoko Shimomura; Gi Nattak
 A9: ob_wall; Wall of Defense; Ogre Battle; Masaharu Iwata, Hitoshi Sakimoto; Gi Nattak
-AA: shfc2_village; Elven Village; Shining Force II; Motoaki Takenouchi; Gi Nattak
+AA: shfc2_goddess; Water Goddess Mitula; Shining Force II; Motoaki Takenouchi; Gi Nattak
 AB: ct_lavos; Lavos Core; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
 AC: mmpr_city; Stage 1, City; Mighty Morphin Power Rangers; Kinuyo Yamashita, Iku Mizutani; Gi Nattak
 AF: rs_beat; Beat Them Up!; Romancing Saga; Kenji Ito; Gi Nattak
@@ -170,7 +170,7 @@ B0: sf2_vega; Vega's Theme; Street Fighter II; Yoko Shimomura; Gi Nattak
 B1: rs2_heroes; Seven Heroes Battle; Romancing Saga 2; Kenji Ito; Gi Nattak
 B2: ffx_yuna; Yuna's Decision; Final Fantasy X; Nobuo Uematsu; Gi Nattak
 B3: udt_bonetrousle; Bonetrousle; Undertale; Toby Fox; Gi Nattak
-B4: shfc_sad; Sad Theme; Shining Force 1; Motoaki Takenouchi; Gi Nattak
+B4: shfc_sad; Sad Theme; Shining Force; Motoaki Takenouchi; Gi Nattak
 B5: smrpg_sewers; Kero Sewers; Super Mario RPG; Yoko Shimomura; Gi Nattak
 B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak
@@ -520,6 +520,7 @@ FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A
 4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak
 4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak
 4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak
+6E: ff7_judgement; Judgement Day; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
 71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak
 73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak
 74: ff1_matoya; Matoya's Cave; Final Fantasy I; Nobuo Uematsu; Gi Nattak
@@ -541,6 +542,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 [optional_b.smc]
 06: z2_overworld; Overworld; Zelda II; Akito Nakatsuka; Gi Nattak
 24: ff1_battle; Battle Scene; Final Fantasy I; Nobuo Uematsu; Gi Nattak 
+28: srtype_fish; Wet as a Fish; Super-R Type; Yasuhiro Kawakami; Gi Nattak
 33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak
 87: fft_plain; Run Past Through the Plain; Final Fantasy Tactics; Hitoshi Sakimoto, Masaharu Iwata; Gi Nattak
@@ -588,7 +590,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 24: tubular bell; FF6; Final Fantasy VI
 25: pipe organ; FF6; Final Fantasy VI
 26: woot; FF6; Final Fantasy VI
-27: percussion; UNK; Unknown
+27: percussion; LAL; Live A Live
 28: rock organ; CT; Chrono Trigger
 29: breath; FF6; Final Fantasy VI
 2A: finger snap; FF6; Final Fantasy VI
@@ -802,6 +804,6 @@ F9: kick drum; LAL; Live A Live
 FA: snare; LAL; Live A Live
 FB: machine sound; LAL; Live A Live
 FC: snap; LAL; Live A Live
-FD: percussion; LAL; Live A Live
+FD: percussion 2; LAL; Live A Live
 FE: timpani; LAL; Live A Live
 FF: pizzo; LAL; Live A Live

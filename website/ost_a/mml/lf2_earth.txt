@@ -101,9 +101,8 @@ l16%e1v60p64|5o5r1   $7 [32eerd+8^e8^eeed+d+8d+  ]
 
 l16
 {8}
-l16%e0v20p64|6o5r2^4^8^f+  
- $8 [15f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+  ]v127|9c+4r4c+4f+^8v20|6f+  
-[16f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+f+  ]
+l16%e0v24p64|6o5r2^4^8^f+  
+ $8 [15[4f+f+f+f+]]v127|9c+4r4c+4  f+^8|6v24f+[16[4f+f+f+f+]]
 ;8
 
 l16

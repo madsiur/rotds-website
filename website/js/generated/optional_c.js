@@ -14,7 +14,7 @@ const optional_c =
         "filename": "top_act",
         "title": "The Second Act",
         "game": "Tales of Phantasia",
-        "composer": "Motoi Sakuraba",
+        "composer": "Motoi Sakuraba, Shinji Tamura",
         "arranger": "Gi Nattak",
         "duration": 219
     }

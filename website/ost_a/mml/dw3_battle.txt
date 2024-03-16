@@ -1,5 +1,5 @@
 #TITLE Battle Theme
-#ALBUM Dragon Warrior 3
+#ALBUM Dragon Warrior III
 #COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
 

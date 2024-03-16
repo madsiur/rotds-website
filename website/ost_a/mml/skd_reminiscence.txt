@@ -1,5 +1,5 @@
 #TITLE Reminiscence Ensemble Version
-#ALBUM Suikoden 2
+#ALBUM Suikoden II
 #COMPOSER Miki Higashino, Keiko Fukami
 #ARRANGED Gi Nattak
 

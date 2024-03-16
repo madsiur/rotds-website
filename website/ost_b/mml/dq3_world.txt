@@ -1,5 +1,5 @@
 #TITLE Unknown World
-#ALBUM Dragon Quest 3
+#ALBUM Dragon Quest III
 #COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
 

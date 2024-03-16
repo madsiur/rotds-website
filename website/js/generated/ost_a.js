@@ -4,7 +4,7 @@ const ost_a =
         "id": 1,
         "filename": "dw3_battle",
         "title": "Battle Theme",
-        "game": "Dragon Warrior 3",
+        "game": "Dragon Warrior III",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
         "duration": 67
@@ -22,7 +22,7 @@ const ost_a =
         "id": 3,
         "filename": "totr_worlds",
         "title": "Between Two Worlds",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 160
@@ -103,7 +103,7 @@ const ost_a =
         "id": 13,
         "filename": "bof2_hero",
         "title": "What It Takes To Be A Hero",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
         "duration": 96
@@ -112,7 +112,7 @@ const ost_a =
         "id": 14,
         "filename": "ys5_lake",
         "title": "Misty Lake",
-        "game": "Ys 5",
+        "game": "Ys V",
         "composer": "Naoki Kaneda",
         "arranger": "Gi Nattak",
         "duration": 166
@@ -184,7 +184,7 @@ const ost_a =
         "id": 22,
         "filename": "totr_darkness",
         "title": "Edge of Darkness",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 192
@@ -265,7 +265,7 @@ const ost_a =
         "id": 32,
         "filename": "totr_zombies",
         "title": "Dance of the Zombies",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 360
@@ -418,7 +418,7 @@ const ost_a =
         "id": 50,
         "filename": "totr_flame",
         "title": "Flame And Arrow",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 60
@@ -632,9 +632,9 @@ const ost_a =
     },
     {
         "id": 76,
-        "filename": "totr_earth_bound",
+        "filename": "totr_earth",
         "title": "Earth Bound",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 123
@@ -832,7 +832,7 @@ const ost_a =
         "id": 98,
         "filename": "dq2_requiem",
         "title": "Requiem",
-        "game": "Dragon Quest 2",
+        "game": "Dragon Quest II",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
         "duration": 110
@@ -1390,7 +1390,7 @@ const ost_a =
         "id": 161,
         "filename": "skd_reminiscence",
         "title": "Reminiscence Ensemble Version",
-        "game": "Suikoden 2",
+        "game": "Suikoden II",
         "composer": "Miki Higashino, Keiko Fukami",
         "arranger": "Gi Nattak",
         "duration": 146
@@ -1678,7 +1678,7 @@ const ost_a =
         "id": 199,
         "filename": "q2_rage",
         "title": "Rage",
-        "game": "Quake 2",
+        "game": "Quake II",
         "composer": "Sascha Dikiciyan",
         "arranger": "Gi Nattak",
         "duration": 256

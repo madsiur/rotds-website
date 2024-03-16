@@ -1,7 +1,7 @@
-#TITLE Town of Toronto
-#ALBUM Brainlord
-#COMPOSER Masanao Akahori
-#ARRANGED Jackimus
+#TITLE Ahead on Our Way
+#ALBUM Final Fantasy VII
+#COMPOSER Nobuo Uematsu
+#ARRANGED Gi Nattak
 
 #WAVE 0x20 0x1F ## ocarina (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

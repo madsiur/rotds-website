@@ -1,5 +1,5 @@
 #TITLE Rage
-#ALBUM Quake 2
+#ALBUM Quake II
 #COMPOSER Sascha Dikiciyan
 #ARRANGED Gi Nattak
 

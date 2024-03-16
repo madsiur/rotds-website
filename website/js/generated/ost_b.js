@@ -4,7 +4,7 @@ const ost_b =
         "id": 1,
         "filename": "bof2_counter",
         "title": "Cross Counter",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "emberling",
         "duration": 58
@@ -49,7 +49,7 @@ const ost_b =
         "id": 7,
         "filename": "ps2_mystery",
         "title": "Mystery",
-        "game": "Phantasy Star 2",
+        "game": "Phantasy Star II",
         "composer": "Tokuhiko Uwabo",
         "arranger": "Gi Nattak",
         "duration": 77
@@ -94,7 +94,7 @@ const ost_b =
         "id": 12,
         "filename": "totr_city",
         "title": "Underwater City",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 105
@@ -139,7 +139,7 @@ const ost_b =
         "id": 17,
         "filename": "wcr2_orc1",
         "title": "Orc 1",
-        "game": "Warcraft 2",
+        "game": "Warcraft II",
         "composer": "Glenn Stafford",
         "arranger": "emberling",
         "duration": 241
@@ -373,7 +373,7 @@ const ost_b =
         "id": 45,
         "filename": "bof3_farm",
         "title": "The Farm",
-        "game": "Breath of Fire 3",
+        "game": "Breath of Fire III",
         "composer": "Yoshino Aoki, Akari Kaida",
         "arranger": "Gi Nattak",
         "duration": 163
@@ -427,7 +427,7 @@ const ost_b =
         "id": 51,
         "filename": "totr_battle",
         "title": "Battle for the Fields",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 75
@@ -562,7 +562,7 @@ const ost_b =
         "id": 67,
         "filename": "bof2_dance",
         "title": "Clumsy Dance",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
         "duration": 114
@@ -580,7 +580,7 @@ const ost_b =
         "id": 69,
         "filename": "totr_flame",
         "title": "Flame And Arrow",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "emberling",
         "duration": 59
@@ -605,11 +605,11 @@ const ost_b =
     },
     {
         "id": 72,
-        "filename": "brnl_toronto",
-        "title": "Town of Toronto",
-        "game": "Brainlord",
-        "composer": "Masanao Akahori",
-        "arranger": "Jackimus",
+        "filename": "ff7_ahead",
+        "title": "Ahead on Our Way",
+        "game": "Final Fantasy VII",
+        "composer": "Nobuo Uematsu",
+        "arranger": "Gi Nattak",
         "duration": 199
     },
     {
@@ -778,7 +778,7 @@ const ost_b =
         "id": 92,
         "filename": "bof2_beauty",
         "title": "Sleeping Beauty",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
         "duration": 64
@@ -850,7 +850,7 @@ const ost_b =
         "id": 100,
         "filename": "ys3_seal",
         "title": "Seal of Time",
-        "game": "Ys3",
+        "game": "Ys III",
         "composer": "Mieko Ishikawa",
         "arranger": "emberling",
         "duration": 102
@@ -1111,7 +1111,7 @@ const ost_b =
         "id": 130,
         "filename": "totr_sanctuary",
         "title": "Sanctuary",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 105
@@ -1163,11 +1163,11 @@ const ost_b =
     },
     {
         "id": 136,
-        "filename": "udt_megalovania",
-        "title": "Megalovania",
-        "game": "Undertale",
-        "composer": "Toby Fox",
-        "arranger": "Jackimus",
+        "filename": "top_decisive",
+        "title": "Decisive",
+        "game": "Tales of Phantasia",
+        "composer": "Motoi Sakuraba, Shinji Tamura",
+        "arranger": "Gi Nattak",
         "duration": 136
     },
     {
@@ -1201,7 +1201,7 @@ const ost_b =
         "id": 140,
         "filename": "dq3_world",
         "title": "Unknown World",
-        "game": "Dragon Quest 3",
+        "game": "Dragon Quest III",
         "composer": "Koichi Sugiyama",
         "arranger": "Gi Nattak",
         "duration": 133
@@ -1300,7 +1300,7 @@ const ost_b =
         "id": 151,
         "filename": "bof2_god",
         "title": "Please, God",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
         "duration": 57
@@ -1318,7 +1318,7 @@ const ost_b =
         "id": 153,
         "filename": "bof2_wings",
         "title": "White Wings",
-        "game": "Breath of Fire 2",
+        "game": "Breath of Fire II",
         "composer": "Yuko Takehara",
         "arranger": "Gi Nattak",
         "duration": 168
@@ -1363,7 +1363,7 @@ const ost_b =
         "id": 158,
         "filename": "totr_village",
         "title": "Holiday in the Village",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 160
@@ -1579,7 +1579,7 @@ const ost_b =
         "id": 188,
         "filename": "totr_mines",
         "title": "The Quest For Rudra's Mines",
-        "game": "Treasure of the Rudra",
+        "game": "Treasure of the Rudras",
         "composer": "Ryuji Sasai",
         "arranger": "Gi Nattak",
         "duration": 184

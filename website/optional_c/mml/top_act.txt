@@ -1,6 +1,6 @@
 #TITLE The Second Act
 #ALBUM Tales of Phantasia
-#COMPOSER Motoi Sakuraba
+#COMPOSER Motoi Sakuraba, Shinji Tamura
 #ARRANGED Gi Nattak
 
 #WAVE 0x20 0x02 ## electric bass (FF6)

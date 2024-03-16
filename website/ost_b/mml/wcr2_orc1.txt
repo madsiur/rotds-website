@@ -1,5 +1,5 @@
 #TITLE Orc 1
-#ALBUM Warcraft 2
+#ALBUM Warcraft II
 #COMPOSER Glenn Stafford
 #ARRANGED emberling
 

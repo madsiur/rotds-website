@@ -1,5 +1,5 @@
 #TITLE Requiem
-#ALBUM Dragon Quest 2
+#ALBUM Dragon Quest II
 #COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
 

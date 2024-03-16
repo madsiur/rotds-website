@@ -1,5 +1,5 @@
 #TITLE Mystery
-#ALBUM Phantasy Star 2
+#ALBUM Phantasy Star II
 #COMPOSER Tokuhiko Uwabo
 #ARRANGED Gi Nattak
 

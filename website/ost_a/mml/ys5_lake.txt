@@ -1,5 +1,5 @@
 #TITLE Misty Lake
-#ALBUM Ys 5
+#ALBUM Ys V
 #COMPOSER Naoki Kaneda
 #ARRANGED Gi Nattak
 

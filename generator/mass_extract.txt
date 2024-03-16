@@ -1,7 +1,7 @@
 [ost_a.smc]
-01: dw3_battle; Battle Theme; Dragon Warrior 3; Koichi Sugiyama; Gi Nattak
+01: dw3_battle; Battle Theme; Dragon Warrior III; Koichi Sugiyama; Gi Nattak
 02: bof_dejection; Dejection; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak
-03: totr_worlds; Between Two Worlds; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+03: totr_worlds; Between Two Worlds; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 05: mkr_emeraude; Emeraude's Theme; Magic Knight Rayearth; Yayoi Wachi, Seirou Okamoto; Gi Nattak
 06: dq_alefgard; Alefgard; DQ/FF4 Remix; Koichi Sugiyama, Nobuo Uematsu ; Gi Nattak, Jackimus
 07: bl_jojo; Jojo and the God Dragons; Bahamut Lagoon; Noriko Matsueda; Gi Nattak
@@ -10,8 +10,8 @@
 0A: rs3_field; Field; Romancing Saga 3; Kenji Ito; JCE3000GT
 0B: lom_moonlit; Moonlit City Roa; Legend of Mana; Yoko Shimomura; Gi Nattak
 0C: ar_sacrifices; Sacrifices; ActRaiser; Yuzo Koshiro; Gi Nattak
-0D: bof2_hero; What It Takes To Be A Hero; Breath of Fire 2; Yuko Takehara; Gi Nattak
-0E: ys5_lake; Misty Lake; Ys 5; Naoki Kaneda; Gi Nattak
+0D: bof2_hero; What It Takes To Be A Hero; Breath of Fire II; Yuko Takehara; Gi Nattak
+0E: ys5_lake; Misty Lake; Ys V; Naoki Kaneda; Gi Nattak
 0F: ff7_cry; You Can Hear the Cry of the Planet; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
 10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus
 11: mtd_kraid; Kraid's Lair (Rock Remix); Metroid; Hirokazu Tanaka; Gi Nattak
@@ -19,7 +19,7 @@
 13: tcss_song; Song #1; T&C Skate Session; Tsukasa Masuko; Gi Nattak
 14: rs_schiele; Battle With Schiele; Romancing Saga; Kenji Ito; Unknown
 15: drkn_character; Character Creation; Drakkhen; Hiroyuki Masuno; Gi Nattak
-16: totr_darkness; Edge of Darkness; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+16: totr_darkness; Edge of Darkness; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 17: ao2_forest; Land of Frozen Forest; Albert Odyssey 2; Naoki Kodaka; Gi Nattak
 18: z4_dungeon; Dungeon; Zelda IV (GBC); K. Totaka, M. Hamano, K. Ishikawa, K. Kondo; Gi Nattak
 19: xnb_gaur; Gaur Plains; Xenoblade; ACE+; Jackimus
@@ -28,7 +28,7 @@
 1C: feg_army; Army of Grannvale 2; Fire Emblem: Genealogy of the Holy War; Yuka Tsujiyoko; Gi Nattak
 1D: lag_voice; Voice of Spirits; Lagoon; Hideki Suzuki; Gi Nattak
 1F: ys3_shock; Shock of the Death God; Ys III; Mieko Ishikawa; Gi Nattak
-20: totr_zombies; Dance of the Zombies; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+20: totr_zombies; Dance of the Zombies; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 21: smtd_maridia; Maridia; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak
 22: lom_soul; Bonded by the Soul; Legend of Mana; Yoko Shimomura; Gi Nattak
 23: ff8_way; Find Your Way; Final Fantasy VIII; Nobuo Uematsu; Gi Nattak
@@ -45,7 +45,7 @@
 2F: sgf_victory; Victory!; Saga Frontier; Kenji Ito; Gi Nattak
 30: ct_light; Silent Light; Chrono Tigger; Nobuo Uematsu; JCE3000GT
 31: tc2001_dre; Forgot About Dre; The Chronic 2001; Dr. Dre; Gi Nattak
-32: totr_flame; Flame And Arrow; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+32: totr_flame; Flame And Arrow; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 33: top_cross; Take up the Cross; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak
 34: tc_shrine; Shrine; Treasure Conflix; Junya Nakano; JCE3000GT
 35: wa_castle; Adlehyde Castle; Wild Arms; Michiko Naruke; Gi Nattak
@@ -69,7 +69,7 @@
 48: bld_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus
 49: ffmq_doom; Doom Castle; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Gi Nattak
 4B: xnb_mechonis; Mechonis Field; Xenoblade; ACE+; Jackimus
-4C: totr_earth_bound; Earth Bound; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+4C: totr_earth; Earth Bound; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 4D: ct_tyrano; Tyrano Lair; Chrono Trigger Beta; Yasunori Mitsuda; Gi Nattak
 4E: kaw_teamwork; Teamwork; King Aurther's World; Justin Scharvona; Gi Nattak
 4F: trnm_underworld; Underworld; Terranigma; Masanori Hikichi; Gi Nattak
@@ -91,7 +91,7 @@
 5F: so_should; What Should Be; Star Ocean; Motoi Sakuraba; Gi Nattak
 60: som_happening; A Curious Happening; Secret of Mana; Hiroki Kikuta; Gi Nattak
 61: sd3_machine; Faith Total Machine; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak
-62: dq2_requiem; Requiem; Dragon Quest 2; Koichi Sugiyama; Gi Nattak
+62: dq2_requiem; Requiem; Dragon Quest II; Koichi Sugiyama; Gi Nattak
 63: pkm_gym; Gym Battle; Pokemon red/blue/yellow; Junichi Masuda; Gi Nattak
 64: ys_step; First Step Towards Wars; Ys; Ryo Yonemitsu; Gi Nattak
 65: top_resurrection; Resurrection; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak
@@ -153,7 +153,7 @@
 9E: rs_city; Crystal City; Romancing Saga; Kenji Ito; Gi Nattak
 9F: dq7_days; Days of Sadness; Dragon Quest VII; Koichi Sugiyama; Gi Nattak
 A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus
-A1: skd_reminiscence; Reminiscence Ensemble Version; Suikoden 2; Miki Higashino, Keiko Fukami; Gi Nattak
+A1: skd_reminiscence; Reminiscence Ensemble Version; Suikoden II; Miki Higashino, Keiko Fukami; Gi Nattak
 A2: ff6_overture_2; Overture 2; Final Fantasy VI; Nobuo Uematsu; N/A
 A3: sm3_airships; Airships; Super Mario 3; Koji Kondo; Gi Nattak
 A4: sw_cantina; Cantina; Star Wars; John Williams; Gi Nattak
@@ -185,7 +185,7 @@ C3: ct_battle_2; Unused Battle 2; Chrono Trigger; Yasunori Mitsuda; MetroidQuest
 C4: alundra_dust; Dust to Dust; Alundra; Kohei Tanaka; Gi Nattak
 C5: ff5_boss; Boss Theme; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 C6: swom_victory; Believe in Victory; Sword of Mana; Kenji Ito; Gi Nattak
-C7: q2_rage; Rage; Quake 2; Sascha Dikiciyan; Gi Nattak
+C7: q2_rage; Rage; Quake II; Sascha Dikiciyan; Gi Nattak
 C8: ct_boss2; Boss Battle 2; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
 C9: kh_forze; Forze Del Male; Kingdom Hearts; Yoko Shimomura; Gi Nattak
 CA: ff7_jenova; J-E-N-O-V-A; Final Fantasy VII; Nobuo Uematsu; Jackimus
@@ -242,22 +242,22 @@ FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; Gi Natta
 FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 
 [ost_b.smc]
-01: bof2_counter; Cross Counter; Breath of Fire 2; Yuko Takehara; emberling
+01: bof2_counter; Cross Counter; Breath of Fire II; Yuko Takehara; emberling
 02: ff12_power; Lust for Power; Final Fantasy XII; Hayato Matsuo; emberling
 03: top_curtain; Raising a Curtain; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling
 05: ffmq_shrine; Shrine of Light; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling
 06: ebrk_bells; The Prayer Bells do not Toll; Energy Breaker; Yasunori Shiono; Gi Nattak
-07: ps2_mystery; Mystery; Phantasy Star 2; Tokuhiko Uwabo; Gi Nattak
+07: ps2_mystery; Mystery; Phantasy Star II; Tokuhiko Uwabo; Gi Nattak
 08: ff9_gargan_roo; Gargan Roo; Final Fantasy IX; Nobuo Uematsu; emberling
 09: ct_chest; Sealed Chest; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
 0A: fe_doors; Doors of Destiny; Fire Emblem: Genealogy of the Holy War; Yuka Tsujiyoko; Gi Nattak
 0B: ff7_town; Mining Town; Final Fantasy VII; Nobuo Uematsu; emberling
-0C: totr_city; Underwater City; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+0C: totr_city; Underwater City; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 0D: tod_fangs; Bared Fangs; Tales of Destiny; Motoi Sakuraba; Gi Nattak
 0E: lal_speech; Uranus' Speech; Live A Live; Yoko Shimomura; Gi Nattak
 0F: swon_chain; Chain of Fate; Sword of Mana; Kenji Ito; Gi Nattak
 10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus
-11: wcr2_orc1; Orc 1; Warcraft 2; Glenn Stafford; emberling
+11: wcr2_orc1; Orc 1; Warcraft II; Glenn Stafford; emberling
 12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling
 13: crstl_fields; Wild Fields; Crystalis; Yoko Osaka; emberling
 14: rs_coup; Coup de Grace; Romancing Saga; Kenji Ito; Gi Nattak
@@ -283,13 +283,13 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 2A: swom_village; Village; Sword of Mana; Kenji Ito; Gi Nattak
 2B: sd3_counterpoint; Weird Counterpoint; Seiken Densetsu 3; Hiroki Kikuta; emberling
 2C: fe_truth; Truth, Despair, and Hope; Fire Emblem: The Sacred Stones; Yoshihiko Kitamura, Saki Haruyama, Yoshito Hirano; Gi Nattak
-2D: bof3_farm; The Farm; Breath of Fire 3; Yoshino Aoki, Akari Kaida; Gi Nattak
+2D: bof3_farm; The Farm; Breath of Fire III; Yoshino Aoki, Akari Kaida; Gi Nattak
 2E: rs2_kujinshi; Battle With Kujinshi; Romancing Saga 2; Kenji Ito; Gi Nattak
 2F: ffmq_victory; Victory Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling
 30: ff10_path; Path of Repentance; Final Fantasy X; Nobuo Uematsu; emberling
 31: eb_snowman; Snowman; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak
 32: ffx_battle; Battle; Final Fantasy X; Nobuo Uematsu; emberling
-33: totr_battle; Battle for the Fields; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+33: totr_battle; Battle for the Fields; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 34: dkcl2_garden; Garden of Memories; Dark Cloud 2; Tomohito Nishiura; Cecil188
 35: ffmq_gale; Mount Gale; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling
 36: som_intruder; Holy Intruder; Secret of Mana; Hiroki Kikuta; emberling
@@ -304,12 +304,12 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 40: cc_pyre; Mount Pyre; Chrono Cross; Yasunori Mitsuda; emberling
 41: rd_promise; Far Promise ~ Dream Shore; Radical Dreamers; Yasunori Mitsuda; Gi Nattak
 42: ff8_law; Martial Law; Final Fantasy VIII; Nobuo Uematsu; emberling
-43: bof2_dance; Clumsy Dance; Breath of Fire 2; Yuko Takehara; Gi Nattak
+43: bof2_dance; Clumsy Dance; Breath of Fire II; Yuko Takehara; Gi Nattak
 44: ej_tanjerines; Anything But Tangerines; Earthworm Jim; Tommy Tallarico; Gi Nattak
-45: totr_flame; Flame And Arrow; Treasure of the Rudra; Ryuji Sasai; emberling
+45: totr_flame; Flame And Arrow; Treasure of the Rudras; Ryuji Sasai; emberling
 46: fm_war; The Evils of War; Front Mission; Yoko Shimomura; Gi Nattak
 47: fmgh_message; Message of Genoce; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak
-48: brnl_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus
+48: ff7_ahead; Ahead on Our Way; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
 49: ff8_lion; Maybe I'm a Lion; Final Fantasy VIII; Nobuo Uematsu; emberling
 4B: ff14_azys; Azys Lla; Final Fantasy XIV; Masayoshi Soken; emberling
 4C: ff5_light; Searching the Light; Final Fantasy V; Nobuo Uematsu; Gi Nattak
@@ -328,7 +328,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 59: ct_will; Those Without the Will to Live; Chrono Trigger; Uematsu; Gi Nattak
 5A: ff5_box; Music Box; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 5B: ff9_sorrow; Unforgettable Sorrow; Final Fantasy IX; Nobuo Uematsu; Tsushiy
-5C: bof2_beauty; Sleeping Beauty; Breath of Fire 2; Yuko Takehara; Gi Nattak
+5C: bof2_beauty; Sleeping Beauty; Breath of Fire II; Yuko Takehara; Gi Nattak
 5D: ff8_witches; Succession of Witches; Final Fantasy VIII; Nobuo Uematsu; emberling
 5E: ff9_world; Crystal World; Final Fantasy IX; Nobuo Uematsu; Gi Nattak
 5F: snc_sonic; Sonic.exe; Kyu S. Music; Kyu S.; Gi Nattak
@@ -336,7 +336,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 61: xng_giant; Steel Giant; Xenogears; Yasunori Mitsuda; emberling
 62: iog_whispers; Ominous Whispers; Illusion of Gaia; Yasuhiro Kawasaki; emberling
 63: pkm_battle; Trainer Battle; Pokemon red/blue/yellow; Junichi Masuda; Gi Nattak
-64: ys3_seal; Seal of Time; Ys3; Mieko Ishikawa; emberling
+64: ys3_seal; Seal of Time; Ys III; Mieko Ishikawa; emberling
 65: som_star; The Dark Star; Secret of Mana; Hiroki Kikuta; emberling
 66: rs3_palace; Underwater Palace; Romancing Saga 3; Kenji Ito; Gi Nattak
 67: dm2_doom; Doom; Doom II; Bobby Prince; emberling
@@ -365,17 +365,17 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 7F: mm9_flash; Flash in the Dark; Megaman 9; Ryo Kawakami; Gi Nattak
 80: es3_morrowind; Morrowind Theme; Elder Scrolls III; Jeremy Soule; Gi Nattak
 81: ar2_palace; Ice Palace; ActRaiser 2; Yuzo Koshiro; Gi Nattak
-82: totr_sanctuary; Sanctuary; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+82: totr_sanctuary; Sanctuary; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 83: ff6_ww3; The Wedding Waltz #3; Final Fantasy VI; Nobuo Uematsu; N/A
 84: cstvn3_aquarious; Aquarious; Castlevania 3; Konami Kukeiha Club; Gi Nattak
 85: ff4_zeromus; Zeromus; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
 86: kss_race; Gourmet Race; Kirby Super Star; Jun Ishikawa; Gi Nattak
 87: lo_barrel; The Gun Barrel of Battle; Lost Odyssey; Nobuo Uematsu; emberling
-88: udt_megalovania; Megalovania; Undertale; Toby Fox; Jackimus
+88: top_decisive; Decisive; Tales of Phantasia;  Motoi Sakuraba, Shinji Tamura; Gi Nattak
 89: so2_operation; Rescue Operation; Star Ocean 2; Motoi Sakuraba; emberling
 8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus
 8B: xng_knight; Red Knight; Xenogears; Yasunori Mitsuda; emberling
-8C: dq3_world; Unknown World; Dragon Quest 3; Koichi Sugiyama; Gi Nattak
+8C: dq3_world; Unknown World; Dragon Quest III; Koichi Sugiyama; Gi Nattak
 8D: lf2_battle_2; Battle 2; Lufia II; Yasunori Shiono; Tsushiy
 8E: smtd_brain; Mother Brain; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak
 8F: ias_redemption; Path of Redemption; I Am Setsuna; Tomoki Miyoshi; Gi Nattak
@@ -386,14 +386,14 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 94: xng_flight; Flight; Xenogears; Yasunori Mitsuda; emberling
 95: ff6_aria; Aria di Mezzo Carattere; Final Fantasy VI; Nobuo Uematsu; N/A
 96: ab_closed; Closed In Upon Me; Altered Beast; Kazuhiko Nagai; Gi Nattak
-97: bof2_god; Please, God; Breath of Fire 2; Yuko Takehara; Gi Nattak
+97: bof2_god; Please, God; Breath of Fire II; Yuko Takehara; Gi Nattak
 98: fft_silence; Silence at Night; Final Fantasy Tactics; Hitoshi Sakimoto, Masaharu Iwata; Gi Nattak
-99: bof2_wings; White Wings; Breath of Fire 2; Yuko Takehara; Gi Nattak
+99: bof2_wings; White Wings; Breath of Fire II; Yuko Takehara; Gi Nattak
 9A: ff4_golbez; Golbez, Clad In Darkness; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
 9B: rd_confrontation; Final Confrontation; Radical Dreamers; Yasunori Mitsuda; Gi Nattak
 9C: ct_zeal; Zeal Palace; Chrono Trigger; Yasunori Mitsuda; Gi Nattak
 9D: ff4_boss; Boss Theme; Final Fantasy IV; Nobuo Uematsu; MetroidQuest
-9E: totr_village; Holiday in the Village; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+9E: totr_village; Holiday in the Village; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 9F: ln2_memories; Somber Memories; Lunar 2; Noriyuki Iwadare; Gi Nattak
 A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus
 A1: bof_alan; Alan and Cerl; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak
@@ -417,7 +417,7 @@ B4: dsg_moon; Red Moon; Disgaea; Tenpei Sato; Gi Nattak
 B5: cc_child; Lost Child of Time; Chrono Cross; Yasunori Mitsuda; emberling
 B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak
-BC: totr_mines; The Quest For Rudra's Mines; Treasure of the Rudra; Ryuji Sasai; Gi Nattak
+BC: totr_mines; The Quest For Rudra's Mines; Treasure of the Rudras; Ryuji Sasai; Gi Nattak
 BD: sd3_mana; Secret of Mana; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak
 BE: ct_theme; Main Theme; Chrono Trigger; Yasunori Mitsuda; emberling
 BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy
@@ -549,7 +549,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 
 [optional_c.smc]
 24: doran_battle1; Battle 1; doranarasi Music; doranarasi; Gi Nattak
-4F: top_act; The Second Act; Tales of Phantasia; Motoi Sakuraba; Gi Nattak
+4F: top_act; The Second Act; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak
 
 [brr]
 01: spanish guitar; FF6; Final Fantasy VI

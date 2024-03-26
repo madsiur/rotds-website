@@ -1,3 +1,4 @@
+.vscode
 *.smc
 *.sfc
 __pycache__

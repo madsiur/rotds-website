@@ -1,0 +1,133 @@
+<div class="d-flex justify-content-center character-container">
+    <div class="d-flex flex-column border border-dark border-2 character-div pt-0 pb-3 my-2 mx-2">
+        <div class="d-flex flex-column mt-3">
+            <h3 class="align-self-center">
+                <%- name %>
+            </h3>
+            <div id="btns-diff" class="align-self-center my-3">
+                <button data-diff="normal" type="button" class="btn btn-dark">Normal</button>
+                <button data-diff="hard" type="button" class="btn btn-dark">Hard</button>
+                <button data-diff="extreme" type="button" class="btn btn-dark">Extreme</button>
+                <button data-diff="insane" type="button" class="btn btn-dark">Insane</button>
+            </div>
+        </div>
+        <div class="d-flex flex-column">
+            <div class="container-xl">
+                <table id="monster-table" class="table">
+                    <tbody>
+                        <tr class="justify-content-center">
+                            <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 pt-1 pb-0 ps-1 pe-0 row-special border border-dark border-2 align-middle text-center" rowspan="4">
+                                <img alt="<%- name %>" class="img-fluid" src="<%- filename %>"/>
+                            </td>
+                            <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-a border-bottom border-top border-dark border-2">ID:</td>
+                            <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-a border border-start-0 border-dark border-2 text-end"><%- id %></td>
+                            <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-b border-bottom border-top border-dark border-2">Level:</td>
+                            <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-b border border-start-0 border-dark border-2 text-end"><%- level %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">HP:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- hp %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">MP:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- mp %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Attack:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- attack %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Magic Power:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- mpow %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Def:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- defense %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Magic Def:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- mdef %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Evade:</td>
+                            <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- evade %></td>
+                            <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Magic Block:</td>
+                            <td class="col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- mblock %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Hit Rate:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2"><%- hit_rate %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Speed:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- speed %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Gil:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- gil %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Exp:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- exp %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Special Attack:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2"><%- special_attack %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Absorb:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- absorb %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Special Effect:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- special_attack_effect %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Nullify:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- null_elem %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Immunity:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2"><%- immunity %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Weakness:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- weakness %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Status:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- status %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Misc:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- misc %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Spirit:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2"><%- spirits %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Steal common:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- steal_common %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Inverse:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- inverses %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Steal rare:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- steal_rare %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Torment:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2"><%- torments %></td>
+                            <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Drop common:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end"><%- drop_common %></td>
+                        </tr>
+                        <tr class="justify-content-center">
+                            <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Metamorph:</td>
+                            <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2"><%- metamorph %></td>
+                            <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Drop rare:</td>
+                            <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end"><%- drop_rare %></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <% if (previous_index != -1 && next_index != -1) { %>
+                    <div id="btns-prev-next" class="d-flex justify-content-between">
+                <% } else { %>
+                    <% if (previous_index == -1) { %>
+                        <div id="btns-prev-next" class="d-flex justify-content-end">
+                    <% } %>
+                    <% if (next_index == -1) { %>
+                        <div id="btns-prev-next" class="d-flex justify-content-start">
+                    <% } %>
+                <% } %>
+                    <% if (previous_index != -1) { %>
+                        <button class="btn btn-dark" data-index="<%- previous_index %>">🠜 <%- previous_name %></button>
+                    <% } %>
+                    <% if (next_index != -1) { %>
+                        <button class="btn btn-dark" data-index="<%- next_index %>"><%- next_name %> 🠞</button>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

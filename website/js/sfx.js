@@ -1,5 +1,7 @@
+let sfx = await fetchJson("sfx");
+
 $(document).ready(function() {
-    listSongTable(sfx, dirs[2]);
+    listSongTable(sfx, "sfx");
 
     $('#sortTbl').DataTable({
         "order": [[2, 'asc']],

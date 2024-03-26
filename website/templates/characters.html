@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-center mt-2">
+    <h3 id="pageTitle">Playable Characters</h3>
+</div>
+<div class="mx-3 mt-3">
+    <div id="gallery" class="d-flex justify-content-center flex-wrap">
+        <% _(elements).each(function(element) { %>
+            <div class="d-flex flex-column align-items-center mb-2 npc-img-div mx-3">
+                <div class="mt-auto">
+                    <a data-id="<%- element.id %>" href="chardetail.html">
+                        <img src="characters/portraits/<%- element.id %>.png"/>
+                    </a>
+                </div>
+                <div><%- element.name %></div>
+            </div>
+        <% }); %>
+    </div>
+</div>

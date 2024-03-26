@@ -1,7 +1,0 @@
-WEBSITE_DIR = "website"
-COMMON_DIR = "common"
-MML_DIR = "mml"
-SPC_DIR = "spc"
-BRR_DIR = "brr"
-FOLDER_SECTION = "folder"
-BRR_SECTION = "brr"

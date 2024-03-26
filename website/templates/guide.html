@@ -1,0 +1,24 @@
+<div class="d-flex justify-content-center  guide-container">
+    <div class="d-flex flex-column guide-div ps-4 pe-4 pb-4 my-4 border border-dark border-2">
+        <div class="d-flex flex-column mt-3">
+            <h3 class="align-self-center">Strategy Guide</h3>
+        </div>
+        <p>This is the strategy guide for Return of the Dark Sorcerer by LunaticScreamer, with additional writing and insight by the project lead and main hacker Gi Nattak.</p>
+        <h5>World of Balance</h5>
+        <ul id="wob-toc" class="list-style">
+            <% _(guide_data).each(function(part) { %>
+                <% if(part.toc == 1) { %>
+                    <li><a href="guidepage.html" data-page="<%- part.id %>" class="link-primary">Part <%- part.id %>: <%- part.title %></a></li>
+                <% } %>
+            <% }) %>
+        </ul>
+        <h5>World of Ruin</h5>
+        <ul id="wor-toc" class="list-style">
+            <% _(guide_data).each(function(part) { %>
+                <% if(part.toc == 2) { %>
+                    <li><a href="guidepage.html" data-page="<%- part.id %>" class="link-primary">Part <%- part.id %>: <%- part.title %></a></li>
+                <% } %>
+            <% }) %>
+        </ul>
+    </div>
+</div>

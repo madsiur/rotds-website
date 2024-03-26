@@ -1,3 +1,5 @@
+let brrs = await fetchJson("brrs");
+
 $(document).ready(function() {
     listSampleTable();
 

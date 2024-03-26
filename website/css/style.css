@@ -50,7 +50,7 @@
     height: 150px;
 }
 
-.character-container {
+.nav-container {
     min-width: 360px;
     width: 100%;
 }
@@ -72,4 +72,70 @@
 
 .character-desc-row-b {
     background-color: #b4c4dd;
+}
+
+@media (min-width: 300px) {
+    table#monster-table {
+      font-size: 0.67rem;
+    }
+}
+
+@media (min-width: 400px) {
+    table#monster-table {
+      font-size: 0.72rem;
+    }
+}
+
+@media (min-width: 600px) {
+    table#monster-table {
+      font-size: 0.79rem;
+    }
+}
+
+@media (min-width: 900px) {
+    table#monster-table {
+      font-size: 0.85rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    table#monster-table {
+      font-size: 0.90rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    table#monster-table {
+      font-size: 1rem;
+    }
+}
+
+table#monster-table td.row-a,
+div#char-table div > div.row-a {
+    background-color: #a4b4cd;
+}
+
+table#monster-table td.row-b,
+div#char-table div > div.row-b {
+    background-color: #b4c4dd;
+}
+
+table#monster-table td.row-special,
+div#char-table div > div.row-special {
+    background-color: #8494ad;
+}
+
+
+div#btns-mons-top button.btn-dark,
+div#btns-mons-bottom button.btn-dark,
+div#btns-prev-next button.btn-dark,
+div#btns-diff button.btn-dark {
+    border-radius: 0%;
+}
+
+div#btns-mons-top button.btn-secondary,
+div#btns-mons-bottom button.btn-secondary,
+div#btns-prev-next button.btn-secondary,
+div#btns-diff button.btn-secondary {
+    border-radius: 0%;
 }

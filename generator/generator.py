@@ -1,11 +1,17 @@
-import os, shutil, sys
-from mass_extract import mass_extract
-from monsters import create_monster_json
-from characters import generate_html
-import constants as c
-import json
+import os
+import music.mass_extract as mass_extract
+import romdata.monsters as monsters
+import romdata.espers as espers
+import romdata.items as items
+import romdata.commands as commands
+import romdata.spells as spells
+import romdata.metamorph as metamorph
+import text.characters.characters as characters
+import text.guide.guide as guide
+import common.helpers as helpers
+import common.constants as cons
 
-def generate_json(roms, brrs, js_dir):
+def generate_music_json(roms, brrs, json_dir):
     dirs = []
     for k1, v1 in roms.items():
         entries = []
@@ -21,26 +27,12 @@ def generate_json(roms, brrs, js_dir):
                 "duration": v2[5],
             }
             entries.append(entry)
-        json_object = json.dumps(entries, indent=4)
-        file_string = f'const {k1} = \n{json_object};'
 
-        this_fn = os.path.join(js_dir, f"{k1}.js")
-        try:
-            with open(this_fn, "w") as f:
-                f.write(file_string)
-        except IOError:
-            print("ERROR: failed to write {this_fn}")
-            sys.exit()
+        filename = os.path.join(json_dir, f"{k1}.json")
+        helpers.write_json(entries, filename)
 
-    json_object = json.dumps(dirs, indent=4)
-    file_string = f'const dirs = \n{json_object};'
-    this_fn = os.path.join(js_dir, "common.js")
-    try:
-        with open(this_fn, "w") as f:
-            f.write(file_string)
-    except IOError:
-        print("ERROR: failed to write {this_fn}")
-        sys.exit()
+    filename = os.path.join(json_dir, "common.json")
+    helpers.write_json(dirs, filename)
 
     entries = []
     for k, v in brrs.items():
@@ -58,50 +50,50 @@ def generate_json(roms, brrs, js_dir):
         }
         entries.append(entry)
 
-    json_object = json.dumps(entries, indent=4)
-    file_string = f'const brrs = \n{json_object};'
-
-    this_fn = os.path.join(js_dir, "brrs.js")
-    try:
-        with open(this_fn, "w") as f:
-            f.write(file_string)
-    except IOError:
-        print("ERROR: failed to write {this_fn}")
-        sys.exit()
+    filename = os.path.join(json_dir, "brrs.json")
+    helpers.write_json(entries, filename)
 
 if __name__ == '__main__':
-    parent_dir = os.path.dirname(os.path.dirname(__file__))
-    common_dir = os.path.join(parent_dir, c.COMMON_DIR)
-    js_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "js", "generated")
+    generator_dir = os.path.dirname(__file__)
+    root_dir = os.path.dirname(generator_dir)
+    roms_dir = os.path.join(generator_dir, cons.ROMS_DIR)
+    text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
+    website_dir = os.path.join(root_dir, cons.WEBSITE_DIR)
+    json_dir = os.path.join(website_dir, "json")
 
-    rom, roms, brrs = mass_extract('mass_extract.txt')
-    generate_json(roms, brrs, js_dir)
+    helpers.remove_directory(json_dir)
+    os.makedirs(json_dir)
 
-    try:
-        with open("ost_a.smc", 'rb') as f:
-            rom = f.read()
-    except IOError:
-        print(f"ERROR: Couldn't load ROM file")
-        sys.exit()
-    if len(rom) % 0x10000 == 0x200:
-        rom = rom[0x200:]
-        print(f"Loaded rom with header for monsters.")
-    else:
-        print(f"Loaded rom without header for monsters.")
+    roms, brrs = mass_extract.mass_extract('mass_extract.txt')
+    generate_music_json(roms, brrs, json_dir)
 
-    if os.path.exists(common_dir):
-        shutil.rmtree(common_dir)
-    os.makedirs(common_dir)
+    path = os.path.join(roms_dir, "ost_a.smc")
+    rom = helpers.read_bin_file(path)
+    rom = helpers.remove_header(rom)
 
-    json_object = create_monster_json(rom)
+    spell_list = spells.create_list(rom)
+    command_list = commands.create_list(rom)
+    item_list = items.create_list(rom)
+    metamorph_list = metamorph.create_list(rom, item_list)
 
-    this_fn = os.path.join(common_dir, "monsters.json")
-    try:
-        with open(this_fn, "w") as f:
-            f.write(json_object)
-    except IOError:
-        print("ERROR: failed to write {this_fn}")
-        sys.exit()
+    path = os.path.join(website_dir, "monsters")
+    mons_filenames = os.listdir(path)
+    mons_filenames = sorted(mons_filenames)
+
+    monster_list = monsters.create_list(rom, mons_filenames, item_list, spell_list, metamorph_list)
+    path = os.path.join(json_dir, "monsters.json")
+    helpers.write_json(monster_list, path)
+
+    esper_list = espers.create_list(rom, mons_filenames)
+    path = os.path.join(json_dir, "espers.json")
+    helpers.write_json(esper_list, path)
     
-    char_dir = os.path.join(parent_dir, c.WEBSITE_DIR, "characters")
-    generate_html(char_dir)
+    path = os.path.join(text_dir, "guide", "guide.txt")
+    guide_json = guide.generate_json(path)
+    path = os.path.join(json_dir, "guide.json")
+    helpers.write_json(guide_json, path)
+    
+    char_json_dir = os.path.join(json_dir, cons.CHAR_DIR)
+    char_dir = os.path.join(text_dir, cons.CHAR_DIR)
+    os.makedirs(char_json_dir)
+    characters.generate_json(char_dir, char_json_dir)

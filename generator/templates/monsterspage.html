@@ -1,0 +1,9 @@
+        <script>
+            initSessionVar("monster_gallery_page", 1);
+            var href = $("#menu-monsters").attr("href");
+            var array = href.split("/");
+            array.pop();
+            array.push(MonstersPage[parseInt(sessionStorage.getItem("monster_gallery_page"))-1]);
+            var path = array.join("/");
+            $("#menu-monsters").attr("href", path);
+        </script>

@@ -1,0 +1,6 @@
+        <script>
+            var page = "{{ page }}";
+            page = parseInt(page);
+            sessionStorage.setItem("monster_gallery_page", page);
+            $("#menu-monsters").attr("href", MonstersPage[parseInt(sessionStorage.getItem("monster_gallery_page"))-1]);
+        </script>

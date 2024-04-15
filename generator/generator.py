@@ -40,8 +40,8 @@ if __name__ == '__main__':
     helpers.remove_directory(website_guide_dir)
     os.makedirs(website_guide_dir)
 
-    #roms, brrs = mass_extract.mass_extract('mass_extract.txt')
-    #music.generate_music_json(roms, brrs, json_dir)
+    roms, brrs = mass_extract.mass_extract('mass_extract.txt')
+    music.generate_music_json(roms, brrs, json_dir)
     music.write_pages("ost-a", "osta", "Soundtrack A", website_dir, templates_dir)
     music.write_pages("ost-b", "ostb", "Soundtrack B", website_dir, templates_dir)
     music.write_pages("optional-songs", "optional", "Optional Songs", website_dir, templates_dir)

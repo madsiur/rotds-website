@@ -14,3 +14,11 @@ const Difficulty = Object.freeze({
     EXTREME: "extreme",
     INSANE: "insane"
 });
+
+const MonstersPage = Object.freeze([
+    "monsters-1.html",
+    "monsters-2.html",
+    "monsters-3.html",
+    "monsters-4.html",
+    "espers.html",
+]);

@@ -177,7 +177,8 @@ def write_gallery(monster_list, esper_list, website_dir, templates_dir, cons=hel
     is_esper = False
     monster_list = sorted(monster_list, key=lambda m: m["name"])
     for page_index in range(1, 5): 
-        levels = ""       
+        levels = ""
+        page = page_index
         min_id = (page_index-1) * 100
         max_id = page_index * 100
         entities = sorted(monster_list[min_id:max_id], key=lambda m: m["name"])
@@ -198,12 +199,14 @@ def write_gallery(monster_list, esper_list, website_dir, templates_dir, cons=hel
         btns_group = [cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK]
         btns_group[page_index-1] = cons.BTN_SECONDARY
 
-        data = {"meta": meta,
-                "levels": levels,
-                "page_title": page_title,
-                "entities": entities,
-                "btns_group": btns_group,
-                "gallery_urls": cons.GALLERY_URLS
+        data = {
+            "meta": meta,
+            "levels": levels,
+            "page_title": page_title,
+            "entities": entities,
+            "btns_group": btns_group,
+            "gallery_urls": cons.GALLERY_URLS,
+            "page": page
         }
         
         file_path = os.path.join(website_dir, url)
@@ -278,8 +281,9 @@ def write_gallery(monster_list, esper_list, website_dir, templates_dir, cons=hel
 
     # Esper gallery
     is_esper = True
+    page = 5
     levels = ""
-    btns_group = [cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK]
+    btns_group = [cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_DARK, cons.BTN_SECONDARY]
     esper_list = sorted(esper_list, key=lambda m: m["name"])
 
     img_name = "odin.png"
@@ -291,13 +295,16 @@ def write_gallery(monster_list, esper_list, website_dir, templates_dir, cons=hel
     meta_img_alt = img_name.replace(".png", "").capitalize()
     meta = helpers.get_meta_data(cons.ESPER_KEYWORDS, meta_description, page_title, url, img_url, img_path, meta_img_alt)
 
-    data = {"meta": meta,
-            "levels": levels,
-            "page_title": page_title,
-            "entities": esper_list,
-            "btns_group": btns_group,
-            "gallery_urls": cons.GALLERY_URLS,
-            "is_esper": is_esper}
+    data = {
+        "meta": meta,
+        "levels": levels,
+        "page_title": page_title,
+        "entities": esper_list,
+        "btns_group": btns_group,
+        "gallery_urls": cons.GALLERY_URLS,
+        "is_esper": is_esper,
+        "page": page
+    }
 
     file_path = os.path.join(website_dir, url)
     output = gallery_template.render(data)

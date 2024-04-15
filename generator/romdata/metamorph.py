@@ -1,7 +1,6 @@
 import common.helpers as helpers
-import common.constants as cons
 
-def create_list(rom, item_list):
+def create_list(rom, item_list, cons=helpers.get_constants()):
     KEY_LIST = ["metamorph_a",
                 "metamorph_b",
                 "metamorph_c",

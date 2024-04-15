@@ -1,0 +1,244 @@
+{
+    "id": 131, 
+    "name": "Dragon", 
+    "filename": "131_dragon", 
+    "special_attack": "Tail Swing", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 110, 
+            "mpow": 10, 
+            "hp": 7000, 
+            "mp": 850, 
+            "gil": 3600, 
+            "exp": 2931, 
+            "level": 29, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 115, 
+            "mpow": 13, 
+            "hp": 8000, 
+            "mp": 900, 
+            "gil": 4000, 
+            "exp": 3862, 
+            "level": 30, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 67, 
+            "attack": 53, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 120, 
+            "mpow": 17, 
+            "hp": 9000, 
+            "mp": 950, 
+            "gil": 4400, 
+            "exp": 4885, 
+            "level": 31, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 74, 
+            "attack": 76, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 130, 
+            "mpow": 22, 
+            "hp": 10600, 
+            "mp": 1200, 
+            "gil": 4840, 
+            "exp": 6073, 
+            "level": 34, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "steal_common": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 146, 
+            "name": "Revenge"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 146, 
+            "name": "Revenge"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 146, 
+            "name": "Revenge"
+        }, 
+        "torment_d": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

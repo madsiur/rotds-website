@@ -1,0 +1,209 @@
+{
+    "id": 152, 
+    "name": "Armadon", 
+    "filename": "152_armadon", 
+    "special_attack": "Pulverizer", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 11, 
+            "defense": 100, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 1058, 
+            "mp": 100, 
+            "gil": 340, 
+            "exp": 1235, 
+            "level": 26, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 13, 
+            "defense": 90, 
+            "mdef": 135, 
+            "mpow": 10, 
+            "hp": 1586, 
+            "mp": 166, 
+            "gil": 425, 
+            "exp": 1493, 
+            "level": 27, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 15, 
+            "defense": 90, 
+            "mdef": 140, 
+            "mpow": 13, 
+            "hp": 2061, 
+            "mp": 193, 
+            "gil": 467, 
+            "exp": 1635, 
+            "level": 28, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 38, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 17, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 2823, 
+            "mp": 222, 
+            "gil": 513, 
+            "exp": 2033, 
+            "level": 31, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }, 
+        "torment_d": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

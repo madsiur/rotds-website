@@ -1,0 +1,248 @@
+{
+    "id": 50, 
+    "name": "Maneater", 
+    "filename": "050_maneater", 
+    "special_attack": "Poison Pod", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 227, 
+            "mp": 60, 
+            "gil": 134, 
+            "exp": 97, 
+            "level": 9, 
+            "immunity": [
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 112, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 325, 
+            "mp": 80, 
+            "gil": 167, 
+            "exp": 121, 
+            "level": 10, 
+            "immunity": [
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 25, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 457, 
+            "mp": 100, 
+            "gil": 176, 
+            "exp": 152, 
+            "level": 11, 
+            "immunity": [
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 30, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 630, 
+            "mp": 120, 
+            "gil": 193, 
+            "exp": 189, 
+            "level": 14, 
+            "immunity": [
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 29, 
+            "name": "[Grey magic]Sleep"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 176, 
+            "name": "Entangle"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 56, 
+        "name": "[Rod1]Serpent Rod"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

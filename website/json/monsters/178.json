@@ -1,0 +1,241 @@
+{
+    "id": 178, 
+    "name": "Yoalk", 
+    "filename": "178_yoalk", 
+    "special_attack": "String Spit", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 6, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 5, 
+            "mdef": 5, 
+            "mpow": 8, 
+            "hp": 675, 
+            "mp": 18, 
+            "gil": 107, 
+            "exp": 275, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 10, 
+            "mdef": 10, 
+            "mpow": 10, 
+            "hp": 849, 
+            "mp": 30, 
+            "gil": 137, 
+            "exp": 343, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 15, 
+            "mdef": 15, 
+            "mpow": 13, 
+            "hp": 1297, 
+            "mp": 86, 
+            "gil": 270, 
+            "exp": 522, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 68, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 20, 
+            "mdef": 20, 
+            "mpow": 15, 
+            "hp": 1874, 
+            "mp": 106, 
+            "gil": 247, 
+            "exp": 608, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 7, 
+        "name": "[Knife2]Angrist"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

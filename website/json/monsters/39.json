@@ -1,0 +1,262 @@
+{
+    "id": 39, 
+    "name": "T-Rexaur", 
+    "filename": "039_t_rexaur", 
+    "special_attack": "Chomp-chomp", 
+    "stats": {
+        "normal": {
+            "speed": 55, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 15, 
+            "defense": 125, 
+            "mdef": 140, 
+            "mpow": 14, 
+            "hp": 12770, 
+            "mp": 420, 
+            "gil": 0, 
+            "exp": 8800, 
+            "level": 57, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "7.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 65, 
+            "attack": 33, 
+            "hit_rate": 130, 
+            "mblock": 11, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 15870, 
+            "mp": 420, 
+            "gil": 0, 
+            "exp": 12000, 
+            "level": 58, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "7.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 71, 
+            "attack": 39, 
+            "hit_rate": 130, 
+            "mblock": 15, 
+            "evade": 24, 
+            "defense": 135, 
+            "mdef": 160, 
+            "mpow": 19, 
+            "hp": 18670, 
+            "mp": 920, 
+            "gil": 0, 
+            "exp": 15180, 
+            "level": 59, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "7.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 79, 
+            "attack": 45, 
+            "hit_rate": 150, 
+            "mblock": 20, 
+            "evade": 27, 
+            "defense": 145, 
+            "mdef": 170, 
+            "mpow": 23, 
+            "hp": 20348, 
+            "mp": 1480, 
+            "gil": 0, 
+            "exp": 18876, 
+            "level": 62, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "7.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "drop_rare": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "torment_d": {
+            "id": 31, 
+            "name": "[Grey magic]Haste"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

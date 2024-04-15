@@ -1,0 +1,316 @@
+{
+    "id": 369, 
+    "name": "Sarlacc", 
+    "filename": "369_sarlacc", 
+    "special_attack": "Flatten", 
+    "stats": {
+        "normal": {
+            "speed": 55, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 19600, 
+            "mp": 4000, 
+            "gil": 2000, 
+            "exp": 4500, 
+            "level": 61, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Fire", 
+                "Lightning", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 45, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 21700, 
+            "mp": 6000, 
+            "gil": 2500, 
+            "exp": 5400, 
+            "level": 62, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Fire", 
+                "Lightning", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 55, 
+            "attack": 49, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 23700, 
+            "mp": 8000, 
+            "gil": 2750, 
+            "exp": 6831, 
+            "level": 63, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Fire", 
+                "Lightning", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 25400, 
+            "mp": 10000, 
+            "gil": 2750, 
+            "exp": 7722, 
+            "level": 66, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Fire", 
+                "Lightning", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 148, 
+            "name": "[Heavy armor]Solar Guard"
+        }, 
+        "steal_common": {
+            "id": 172, 
+            "name": "[Scroll]Water Scroll"
+        }, 
+        "drop_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

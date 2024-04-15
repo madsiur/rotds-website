@@ -1,0 +1,258 @@
+{
+    "id": 374, 
+    "name": "Valkyrie", 
+    "filename": "374_valkyrie", 
+    "special_attack": "Violent Split", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 15, 
+            "defense": 100, 
+            "mdef": 130, 
+            "mpow": 3, 
+            "hp": 3040, 
+            "mp": 184, 
+            "gil": 144, 
+            "exp": 357, 
+            "level": 13, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 53, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 18, 
+            "defense": 110, 
+            "mdef": 135, 
+            "mpow": 3, 
+            "hp": 3381, 
+            "mp": 205, 
+            "gil": 180, 
+            "exp": 523, 
+            "level": 14, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 56, 
+            "attack": 53, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 24, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 4003, 
+            "mp": 250, 
+            "gil": 198, 
+            "exp": 661, 
+            "level": 15, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 59, 
+            "attack": 61, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 4246, 
+            "mp": 300, 
+            "gil": 198, 
+            "exp": 747, 
+            "level": 18, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "drop_common": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 193, 
+            "name": "Barrier Change"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 12, 
+        "name": "[Sword2]Mystic Sword"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

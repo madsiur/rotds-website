@@ -1,0 +1,272 @@
+{
+    "id": 38, 
+    "name": "Minion", 
+    "filename": "038_minion", 
+    "special_attack": "Agnia", 
+    "stats": {
+        "normal": {
+            "speed": 90, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 50, 
+            "defense": 190, 
+            "mdef": 145, 
+            "mpow": 20, 
+            "hp": 44050, 
+            "mp": 51420, 
+            "gil": 0, 
+            "exp": 14396, 
+            "level": 77, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 90, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 50, 
+            "defense": 180, 
+            "mdef": 145, 
+            "mpow": 22, 
+            "hp": 44050, 
+            "mp": 51420, 
+            "gil": 0, 
+            "exp": 18995, 
+            "level": 77, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 98, 
+            "attack": 57, 
+            "hit_rate": 140, 
+            "mblock": 30, 
+            "evade": 50, 
+            "defense": 190, 
+            "mdef": 155, 
+            "mpow": 25, 
+            "hp": 44050, 
+            "mp": 51420, 
+            "gil": 0, 
+            "exp": 24028, 
+            "level": 77, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 112, 
+            "attack": 84, 
+            "hit_rate": 170, 
+            "mblock": 30, 
+            "evade": 50, 
+            "defense": 190, 
+            "mdef": 155, 
+            "mpow": 28, 
+            "hp": 44050, 
+            "mp": 51420, 
+            "gil": 0, 
+            "exp": 29877, 
+            "level": 77, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 202, 
+            "name": "[Relic1]Griffin Eye"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 214, 
+            "name": "Chaotic Disaster"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "torment_d": {
+            "id": 214, 
+            "name": "Chaotic Disaster"
+        }
+    }, 
+    "fight_animation": {
+        "id": 36, 
+        "name": "[Spear1]Mithril Pike"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

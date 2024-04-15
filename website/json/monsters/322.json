@@ -1,0 +1,340 @@
+{
+    "id": 322, 
+    "name": "Dragonzord", 
+    "filename": "322_dragonzord", 
+    "special_attack": "Dragon Missile", 
+    "stats": {
+        "normal": {
+            "speed": 62, 
+            "attack": 103, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 20, 
+            "defense": 160, 
+            "mdef": 170, 
+            "mpow": 15, 
+            "hp": 42000, 
+            "mp": 10200, 
+            "gil": 0, 
+            "exp": 20799, 
+            "level": 69, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 76, 
+            "attack": 106, 
+            "hit_rate": 130, 
+            "mblock": 33, 
+            "evade": 23, 
+            "defense": 160, 
+            "mdef": 170, 
+            "mpow": 16, 
+            "hp": 44000, 
+            "mp": 10200, 
+            "gil": 0, 
+            "exp": 25997, 
+            "level": 70, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 109, 
+            "hit_rate": 140, 
+            "mblock": 36, 
+            "evade": 26, 
+            "defense": 160, 
+            "mdef": 170, 
+            "mpow": 17, 
+            "hp": 46000, 
+            "mp": 10200, 
+            "gil": 0, 
+            "exp": 28596, 
+            "level": 71, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 112, 
+            "hit_rate": 150, 
+            "mblock": 39, 
+            "evade": 29, 
+            "defense": 160, 
+            "mdef": 170, 
+            "mpow": 20, 
+            "hp": 48000, 
+            "mp": 10200, 
+            "gil": 0, 
+            "exp": 31455, 
+            "level": 74, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 203, 
+            "name": "[Tab]Golden Apple"
+        }, 
+        "steal_common": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }, 
+        "drop_rare": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }, 
+        "drop_common": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 24, 
+            "name": "[Black magic]Meteo"
+        }, 
+        "inverse_b": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 24, 
+            "name": "[Black magic]Meteo"
+        }, 
+        "torment_d": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "fight_animation": {
+        "id": 28, 
+        "name": "[Sword1]Lightsaber"
+    }, 
+    "metamorph": {
+        "id": 11, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }
+    }
+}

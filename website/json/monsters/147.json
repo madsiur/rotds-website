@@ -1,0 +1,251 @@
+{
+    "id": 147, 
+    "name": "Morbol", 
+    "filename": "147_morbol", 
+    "special_attack": "Drool", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 53, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 5000, 
+            "mp": 670, 
+            "gil": 390, 
+            "exp": 2780, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 61, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 6336, 
+            "mp": 730, 
+            "gil": 487, 
+            "exp": 3225, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 76, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 8336, 
+            "mp": 860, 
+            "gil": 535, 
+            "exp": 4079, 
+            "level": 50, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 89, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 29, 
+            "hp": 10672, 
+            "mp": 920, 
+            "gil": 588, 
+            "exp": 5071, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "inverse_b": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "torment_c": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

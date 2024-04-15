@@ -1,0 +1,200 @@
+{
+    "id": 17, 
+    "name": "Lieutenant", 
+    "filename": "017_lieutenant", 
+    "special_attack": "Triple Thrust", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 2, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 140, 
+            "mpow": 1, 
+            "hp": 252, 
+            "mp": 30, 
+            "gil": 153, 
+            "exp": 85, 
+            "level": 10, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 2, 
+            "hp": 386, 
+            "mp": 50, 
+            "gil": 191, 
+            "exp": 146, 
+            "level": 11, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 25, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 548, 
+            "mp": 80, 
+            "gil": 210, 
+            "exp": 184, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 135, 
+            "mdef": 160, 
+            "mpow": 5, 
+            "hp": 729, 
+            "mp": 100, 
+            "gil": 231, 
+            "exp": 228, 
+            "level": 15, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 10, 
+        "name": "[Sword2]Iron Sword"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

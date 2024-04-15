@@ -6,4 +6,4 @@ __pycache__
 bin
 obj
 packages
-generator/tools
+env

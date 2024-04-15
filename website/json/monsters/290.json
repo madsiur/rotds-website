@@ -1,0 +1,308 @@
+{
+    "id": 290, 
+    "name": "Soul Eater", 
+    "filename": "290_soul_eater", 
+    "special_attack": "Devour", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 54, 
+            "hit_rate": 150, 
+            "mblock": 21, 
+            "evade": 9, 
+            "defense": 100, 
+            "mdef": 170, 
+            "mpow": 13, 
+            "hp": 30066, 
+            "mp": 8000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 65, 
+            "attack": 65, 
+            "hit_rate": 150, 
+            "mblock": 24, 
+            "evade": 12, 
+            "defense": 110, 
+            "mdef": 170, 
+            "mpow": 15, 
+            "hp": 32066, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 72, 
+            "attack": 71, 
+            "hit_rate": 150, 
+            "mblock": 27, 
+            "evade": 15, 
+            "defense": 120, 
+            "mdef": 170, 
+            "mpow": 17, 
+            "hp": 34066, 
+            "mp": 10000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 78, 
+            "attack": 82, 
+            "hit_rate": 150, 
+            "mblock": 30, 
+            "evade": 18, 
+            "defense": 130, 
+            "mdef": 170, 
+            "mpow": 19, 
+            "hp": 36066, 
+            "mp": 12000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 253, 
+            "name": "[Item2]Necronomicon"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 226, 
+            "name": "[Relic1]Soul Booster"
+        }, 
+        "drop_common": {
+            "id": 226, 
+            "name": "[Relic1]Soul Booster"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 35, 
+        "name": "[Spear3]Gungnir"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

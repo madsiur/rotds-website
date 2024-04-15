@@ -1,0 +1,266 @@
+{
+    "id": 75, 
+    "name": "Korok", 
+    "filename": "075_korok", 
+    "special_attack": "Magic Spores", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 0, 
+            "defense": 60, 
+            "mdef": 100, 
+            "mpow": 16, 
+            "hp": 2433, 
+            "mp": 140, 
+            "gil": 797, 
+            "exp": 819, 
+            "level": 28, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Blind", 
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Pig", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 70, 
+            "mdef": 110, 
+            "mpow": 20, 
+            "hp": 3830, 
+            "mp": 280, 
+            "gil": 996, 
+            "exp": 1523, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Blind", 
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Pig", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 23, 
+            "hit_rate": 120, 
+            "mblock": 13, 
+            "evade": 0, 
+            "defense": 80, 
+            "mdef": 120, 
+            "mpow": 23, 
+            "hp": 4556, 
+            "mp": 380, 
+            "gil": 1095, 
+            "exp": 1926, 
+            "level": 54, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Blind", 
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Pig", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 16, 
+            "evade": 10, 
+            "defense": 90, 
+            "mdef": 130, 
+            "mpow": 28, 
+            "hp": 8660, 
+            "mp": 560, 
+            "gil": 1204, 
+            "exp": 2394, 
+            "level": 57, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Blind", 
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Pig", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 158, 
+            "name": "Rippler"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

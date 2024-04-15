@@ -1,0 +1,220 @@
+{
+    "id": 102, 
+    "name": "Drudger", 
+    "filename": "102_drudger", 
+    "special_attack": "Versa-Wrench", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 11, 
+            "defense": 100, 
+            "mdef": 132, 
+            "mpow": 6, 
+            "hp": 1065, 
+            "mp": 90, 
+            "gil": 308, 
+            "exp": 292, 
+            "level": 19, 
+            "immunity": [
+                "Blind"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 17, 
+            "defense": 110, 
+            "mdef": 140, 
+            "mpow": 8, 
+            "hp": 1512, 
+            "mp": 140, 
+            "gil": 385, 
+            "exp": 390, 
+            "level": 20, 
+            "immunity": [
+                "Blind"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 20, 
+            "defense": 115, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 2112, 
+            "mp": 190, 
+            "gil": 423, 
+            "exp": 493, 
+            "level": 21, 
+            "immunity": [
+                "Blind"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 60, 
+            "attack": 66, 
+            "hit_rate": 110, 
+            "mblock": 21, 
+            "evade": 24, 
+            "defense": 125, 
+            "mdef": 145, 
+            "mpow": 15, 
+            "hp": 2874, 
+            "mp": 230, 
+            "gil": 465, 
+            "exp": 612, 
+            "level": 24, 
+            "immunity": [
+                "Blind"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }, 
+        "steal_common": {
+            "id": 16, 
+            "name": "[Sword2]Cutlass"
+        }, 
+        "drop_rare": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "torment_d": {
+            "id": 38, 
+            "name": "[Grey magic]Vanish"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

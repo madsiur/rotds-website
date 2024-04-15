@@ -1,0 +1,281 @@
+{
+    "id": 14, 
+    "name": "Gravelord", 
+    "filename": "014_gravelord", 
+    "special_attack": "Entomb", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 5, 
+            "defense": 90, 
+            "mdef": 145, 
+            "mpow": 2, 
+            "hp": 360, 
+            "mp": 90, 
+            "gil": 125, 
+            "exp": 104, 
+            "level": 12, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 7, 
+            "defense": 95, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 562, 
+            "mp": 116, 
+            "gil": 156, 
+            "exp": 159, 
+            "level": 13, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 31, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 10, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 826, 
+            "mp": 190, 
+            "gil": 171, 
+            "exp": 194, 
+            "level": 14, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 49, 
+            "hit_rate": 100, 
+            "mblock": 23, 
+            "evade": 17, 
+            "defense": 115, 
+            "mdef": 165, 
+            "mpow": 8, 
+            "hp": 1242, 
+            "mp": 280, 
+            "gil": 188, 
+            "exp": 237, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 17, 
+            "name": "[Black magic]Flood"
+        }, 
+        "inverse_b": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_c": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }, 
+        "torment_d": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "fight_animation": {
+        "id": 4, 
+        "name": "[Large sword]Vendetta"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

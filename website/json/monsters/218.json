@@ -1,0 +1,256 @@
+{
+    "id": 218, 
+    "name": "Beholder", 
+    "filename": "218_beholder", 
+    "special_attack": "Mindshock", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 14, 
+            "hit_rate": 100, 
+            "mblock": 1, 
+            "evade": 5, 
+            "defense": 160, 
+            "mdef": 120, 
+            "mpow": 10, 
+            "hp": 1300, 
+            "mp": 55, 
+            "gil": 275, 
+            "exp": 347, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [
+                "Ice", 
+                "Earth"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 10, 
+            "defense": 160, 
+            "mdef": 122, 
+            "mpow": 13, 
+            "hp": 1600, 
+            "mp": 72, 
+            "gil": 343, 
+            "exp": 533, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [
+                "Ice", 
+                "Earth"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 13, 
+            "defense": 160, 
+            "mdef": 124, 
+            "mpow": 15, 
+            "hp": 2400, 
+            "mp": 96, 
+            "gil": 377, 
+            "exp": 673, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [
+                "Ice", 
+                "Earth"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 7, 
+            "evade": 16, 
+            "defense": 160, 
+            "mdef": 126, 
+            "mpow": 18, 
+            "hp": 3500, 
+            "mp": 120, 
+            "gil": 377, 
+            "exp": 761, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [
+                "Ice", 
+                "Earth"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

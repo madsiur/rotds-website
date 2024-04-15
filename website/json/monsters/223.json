@@ -1,0 +1,193 @@
+{
+    "id": 223, 
+    "name": "Gremlin", 
+    "filename": "223_gremlin", 
+    "special_attack": "Blindside", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 12, 
+            "defense": 85, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 650, 
+            "mp": 63, 
+            "gil": 126, 
+            "exp": 104, 
+            "level": 15, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 15, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 801, 
+            "mp": 106, 
+            "gil": 187, 
+            "exp": 140, 
+            "level": 18, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 18, 
+            "defense": 100, 
+            "mdef": 153, 
+            "mpow": 7, 
+            "hp": 1251, 
+            "mp": 209, 
+            "gil": 205, 
+            "exp": 177, 
+            "level": 20, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 47, 
+            "hit_rate": 110, 
+            "mblock": 9, 
+            "evade": 21, 
+            "defense": 108, 
+            "mdef": 156, 
+            "mpow": 10, 
+            "hp": 1902, 
+            "mp": 418, 
+            "gil": 205, 
+            "exp": 200, 
+            "level": 23, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 38, 
+            "name": "[Grey magic]Vanish"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 38, 
+            "name": "[Grey magic]Vanish"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 38, 
+            "name": "[Grey magic]Vanish"
+        }, 
+        "torment_d": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }
+    }, 
+    "fight_animation": {
+        "id": 84, 
+        "name": "[Glove]Brass Knucks"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

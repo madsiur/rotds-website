@@ -1,0 +1,252 @@
+{
+    "id": 128, 
+    "name": "Diablo", 
+    "filename": "128_diablo", 
+    "special_attack": "Horn Bomber", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 4, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 6200, 
+            "mp": 200, 
+            "gil": 350, 
+            "exp": 2000, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 35, 
+            "hit_rate": 110, 
+            "mblock": 8, 
+            "evade": 8, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 7000, 
+            "mp": 280, 
+            "gil": 437, 
+            "exp": 2750, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 56, 
+            "attack": 41, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 11, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 9000, 
+            "mp": 360, 
+            "gil": 480, 
+            "exp": 3478, 
+            "level": 61, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 62, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 15, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 24, 
+            "hp": 12000, 
+            "mp": 420, 
+            "gil": 528, 
+            "exp": 4325, 
+            "level": 64, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 147, 
+            "name": "White Wind"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 147, 
+            "name": "White Wind"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 147, 
+            "name": "White Wind"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

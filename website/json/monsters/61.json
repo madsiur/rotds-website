@@ -1,0 +1,264 @@
+{
+    "id": 61, 
+    "name": "Vineshroom", 
+    "filename": "061_vineshroom", 
+    "special_attack": "Silence Spores", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 130, 
+            "mpow": 2, 
+            "hp": 545, 
+            "mp": 150, 
+            "gil": 279, 
+            "exp": 190, 
+            "level": 17, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 95, 
+            "mdef": 133, 
+            "mpow": 3, 
+            "hp": 660, 
+            "mp": 180, 
+            "gil": 348, 
+            "exp": 237, 
+            "level": 18, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 103, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 819, 
+            "mp": 280, 
+            "gil": 382, 
+            "exp": 299, 
+            "level": 19, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 43, 
+            "attack": 39, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 1423, 
+            "mp": 340, 
+            "gil": 420, 
+            "exp": 371, 
+            "level": 22, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 52, 
+        "name": "[Rod2]Diffusal Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

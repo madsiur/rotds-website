@@ -1,0 +1,216 @@
+{
+    "id": 29, 
+    "name": "Ankheg", 
+    "filename": "029_ankheg", 
+    "special_attack": "Regurgitate", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 3, 
+            "defense": 110, 
+            "mdef": 120, 
+            "mpow": 5, 
+            "hp": 1450, 
+            "mp": 150, 
+            "gil": 458, 
+            "exp": 465, 
+            "level": 23, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 6, 
+            "defense": 110, 
+            "mdef": 130, 
+            "mpow": 7, 
+            "hp": 1830, 
+            "mp": 190, 
+            "gil": 572, 
+            "exp": 681, 
+            "level": 24, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 9, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 2485, 
+            "mp": 250, 
+            "gil": 629, 
+            "exp": 861, 
+            "level": 25, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 56, 
+            "attack": 53, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 12, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3260, 
+            "mp": 325, 
+            "gil": 691, 
+            "exp": 1069, 
+            "level": 28, 
+            "immunity": [
+                "Poison", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 141, 
+            "name": "[Light armor]Aqua Gear"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 187, 
+            "name": "Absolute Zero"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 187, 
+            "name": "Absolute Zero"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 186, 
+            "name": "Frost Bite"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 39, 
+        "name": "[Knife1]Sakura"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

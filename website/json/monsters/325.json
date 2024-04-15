@@ -1,0 +1,303 @@
+{
+    "id": 325, 
+    "name": "T. Slimer", 
+    "filename": "325_t_slimer", 
+    "special_attack": "Blue Goo", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 4210, 
+            "mp": 335, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 12, 
+            "hp": 5420, 
+            "mp": 370, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 140, 
+            "mpow": 14, 
+            "hp": 6290, 
+            "mp": 510, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 46, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 7880, 
+            "mp": 640, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 72, 
+        "name": "[Hammer]Mjollnir"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

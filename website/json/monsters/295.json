@@ -1,0 +1,294 @@
+{
+    "id": 295, 
+    "name": "Exdeath", 
+    "filename": "295_exdeath", 
+    "special_attack": "Neo Almagest", 
+    "stats": {
+        "normal": {
+            "speed": 81, 
+            "attack": 60, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 110, 
+            "mpow": 11, 
+            "hp": 60000, 
+            "mp": 12800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 73, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 84, 
+            "attack": 65, 
+            "hit_rate": 110, 
+            "mblock": 15, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 120, 
+            "mpow": 13, 
+            "hp": 60000, 
+            "mp": 12800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 74, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 87, 
+            "attack": 70, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 160, 
+            "mdef": 120, 
+            "mpow": 15, 
+            "hp": 60000, 
+            "mp": 12800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 75, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 90, 
+            "attack": 75, 
+            "hit_rate": 140, 
+            "mblock": 20, 
+            "evade": 25, 
+            "defense": 160, 
+            "mdef": 130, 
+            "mpow": 18, 
+            "hp": 60000, 
+            "mp": 12800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 78, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }, 
+        "drop_rare": {
+            "id": 77, 
+            "name": "[Katana]Zanmato"
+        }, 
+        "drop_common": {
+            "id": 77, 
+            "name": "[Katana]Zanmato"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 53, 
+            "name": "[White magic]Reraise"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 77, 
+        "name": "[Katana]Zanmato"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

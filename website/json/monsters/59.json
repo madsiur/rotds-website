@@ -1,0 +1,229 @@
+{
+    "id": 59, 
+    "name": "Stargrazer", 
+    "filename": "059_stargrazer", 
+    "special_attack": "Tongue", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 145, 
+            "mpow": 7, 
+            "hp": 4511, 
+            "mp": 200, 
+            "gil": 2600, 
+            "exp": 1550, 
+            "level": 52, 
+            "immunity": [
+                "Poison", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 145, 
+            "mpow": 9, 
+            "hp": 5611, 
+            "mp": 220, 
+            "gil": 3250, 
+            "exp": 2573, 
+            "level": 53, 
+            "immunity": [
+                "Poison", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 49, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 135, 
+            "mdef": 153, 
+            "mpow": 12, 
+            "hp": 8311, 
+            "mp": 320, 
+            "gil": 3575, 
+            "exp": 3254, 
+            "level": 54, 
+            "immunity": [
+                "Poison", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 68, 
+            "attack": 68, 
+            "hit_rate": 120, 
+            "mblock": 12, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 11222, 
+            "mp": 440, 
+            "gil": 3932, 
+            "exp": 4046, 
+            "level": 57, 
+            "immunity": [
+                "Poison", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 5, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "metamorph_d": {
+            "id": 55, 
+            "name": "[Rod3]Thunder Rod"
+        }
+    }
+}

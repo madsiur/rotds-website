@@ -1,0 +1,257 @@
+{
+    "id": 97, 
+    "name": "Poe", 
+    "filename": "097_poe", 
+    "special_attack": "Spite", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 12, 
+            "defense": 115, 
+            "mdef": 95, 
+            "mpow": 10, 
+            "hp": 3900, 
+            "mp": 890, 
+            "gil": 2292, 
+            "exp": 1487, 
+            "level": 30, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 42, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 21, 
+            "defense": 120, 
+            "mdef": 105, 
+            "mpow": 12, 
+            "hp": 4653, 
+            "mp": 980, 
+            "gil": 2765, 
+            "exp": 2075, 
+            "level": 31, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 50, 
+            "hit_rate": 120, 
+            "mblock": 17, 
+            "evade": 24, 
+            "defense": 130, 
+            "mdef": 115, 
+            "mpow": 16, 
+            "hp": 6453, 
+            "mp": 1180, 
+            "gil": 3051, 
+            "exp": 2624, 
+            "level": 32, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 60, 
+            "hit_rate": 140, 
+            "mblock": 24, 
+            "evade": 31, 
+            "defense": 140, 
+            "mdef": 120, 
+            "mpow": 21, 
+            "hp": 8906, 
+            "mp": 1360, 
+            "gil": 3356, 
+            "exp": 3263, 
+            "level": 35, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 156, 
+            "name": "Cursed Breath"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 156, 
+            "name": "Cursed Breath"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 156, 
+            "name": "Cursed Breath"
+        }, 
+        "torment_d": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

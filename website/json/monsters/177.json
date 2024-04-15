@@ -1,0 +1,242 @@
+{
+    "id": 177, 
+    "name": "Time Mage", 
+    "filename": "177_time_mage", 
+    "special_attack": "Mana Drain", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 5, 
+            "mpow": 21, 
+            "hp": 2000, 
+            "mp": 260, 
+            "gil": 461, 
+            "exp": 1055, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 13, 
+            "hit_rate": 110, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 5, 
+            "mpow": 21, 
+            "hp": 2770, 
+            "mp": 320, 
+            "gil": 484, 
+            "exp": 1568, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 18, 
+            "hit_rate": 120, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 5, 
+            "mpow": 23, 
+            "hp": 3445, 
+            "mp": 400, 
+            "gil": 532, 
+            "exp": 1982, 
+            "level": 41, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 130, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 5, 
+            "mpow": 26, 
+            "hp": 4480, 
+            "mp": 504, 
+            "gil": 585, 
+            "exp": 2464, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 218, 
+            "name": "Timebomb"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 218, 
+            "name": "Timebomb"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 52, 
+        "name": "[Rod2]Diffusal Rod"
+    }, 
+    "metamorph": {
+        "id": 5, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "metamorph_d": {
+            "id": 55, 
+            "name": "[Rod3]Thunder Rod"
+        }
+    }
+}

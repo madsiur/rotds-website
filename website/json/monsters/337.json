@@ -1,0 +1,305 @@
+{
+    "id": 337, 
+    "name": "Shen-lung", 
+    "filename": "337_shen_lung", 
+    "special_attack": "Heartstopper", 
+    "stats": {
+        "normal": {
+            "speed": 76, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 25, 
+            "evade": 25, 
+            "defense": 140, 
+            "mdef": 120, 
+            "mpow": 16, 
+            "hp": 48800, 
+            "mp": 13000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 68, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 79, 
+            "attack": 45, 
+            "hit_rate": 110, 
+            "mblock": 25, 
+            "evade": 25, 
+            "defense": 140, 
+            "mdef": 125, 
+            "mpow": 19, 
+            "hp": 50400, 
+            "mp": 14000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 69, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 82, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 25, 
+            "evade": 25, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 22, 
+            "hp": 52800, 
+            "mp": 15000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 70, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 85, 
+            "attack": 59, 
+            "hit_rate": 130, 
+            "mblock": 25, 
+            "evade": 25, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 25, 
+            "hp": 54800, 
+            "mp": 16000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 73, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }, 
+        "drop_rare": {
+            "id": 130, 
+            "name": "[Medium helm]Serpent Mask"
+        }, 
+        "drop_common": {
+            "id": 130, 
+            "name": "[Medium helm]Serpent Mask"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }, 
+        "inverse_b": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 4, 
+        "name": "[Large sword]Vendetta"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "id": 198, 
+    "name": "Deathclaw", 
+    "filename": "198_deathclaw", 
+    "special_attack": "Decap Attack", 
+    "stats": {
+        "normal": {
+            "speed": 54, 
+            "attack": 58, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 14, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 8, 
+            "hp": 3444, 
+            "mp": 200, 
+            "gil": 850, 
+            "exp": 1100, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 61, 
+            "attack": 69, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 17, 
+            "defense": 132, 
+            "mdef": 102, 
+            "mpow": 10, 
+            "hp": 4333, 
+            "mp": 303, 
+            "gil": 1062, 
+            "exp": 1355, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 73, 
+            "attack": 79, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 136, 
+            "mdef": 106, 
+            "mpow": 13, 
+            "hp": 5999, 
+            "mp": 416, 
+            "gil": 1168, 
+            "exp": 1688, 
+            "level": 35, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 92, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 140, 
+            "mdef": 110, 
+            "mpow": 16, 
+            "hp": 7666, 
+            "mp": 502, 
+            "gil": 1284, 
+            "exp": 2073, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "drop_common": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }, 
+        "torment_c": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "id": 268, 
+    "name": "Golgotha", 
+    "filename": "268_golgotha", 
+    "special_attack": "Zombie Twister", 
+    "stats": {
+        "normal": {
+            "speed": 65, 
+            "attack": 51, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 32800, 
+            "mp": 8800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 67, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 65, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 145, 
+            "mpow": 14, 
+            "hp": 35400, 
+            "mp": 9100, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 68, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 77, 
+            "attack": 79, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 38600, 
+            "mp": 9400, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 69, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 92, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 135, 
+            "mdef": 155, 
+            "mpow": 18, 
+            "hp": 40200, 
+            "mp": 9700, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 72, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 253, 
+            "name": "[Item2]Necronomicon"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 112, 
+            "name": "[Heavy Helm2]Undead Crown"
+        }, 
+        "drop_common": {
+            "id": 112, 
+            "name": "[Heavy Helm2]Undead Crown"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

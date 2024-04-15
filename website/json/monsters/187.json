@@ -1,0 +1,278 @@
+{
+    "id": 187, 
+    "name": "Pazuzu", 
+    "filename": "187_pazuzu", 
+    "special_attack": "Unholy End", 
+    "stats": {
+        "normal": {
+            "speed": 55, 
+            "attack": 53, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 25, 
+            "hp": 41000, 
+            "mp": 6000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 46, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 62, 
+            "attack": 62, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 25, 
+            "hp": 45000, 
+            "mp": 7000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 47, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 78, 
+            "attack": 76, 
+            "hit_rate": 120, 
+            "mblock": 23, 
+            "evade": 32, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 25, 
+            "hp": 48000, 
+            "mp": 8000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 87, 
+            "attack": 88, 
+            "hit_rate": 130, 
+            "mblock": 26, 
+            "evade": 39, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 27, 
+            "hp": 50000, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 51, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 169, 
+            "name": "[Aether]Nightsever"
+        }, 
+        "drop_rare": {
+            "id": 9, 
+            "name": "[Large sword]Apocalypse"
+        }, 
+        "drop_common": {
+            "id": 9, 
+            "name": "[Large sword]Apocalypse"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 211, 
+            "name": "Poltergasm"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }, 
+        "inverse_b": {
+            "id": 233, 
+            "name": "Saintly Beam"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 180, 
+            "name": "Atomic Ray"
+        }, 
+        "torment_d": {
+            "id": 155, 
+            "name": "Black Shock"
+        }
+    }, 
+    "fight_animation": {
+        "id": 72, 
+        "name": "[Hammer]Mjollnir"
+    }, 
+    "metamorph": {
+        "id": 24, 
+        "metamorph_a": {
+            "id": 151, 
+            "name": "[Cloak]Druid Cloak"
+        }, 
+        "metamorph_b": {
+            "id": 57, 
+            "name": "[Rod2]Lunar Rod"
+        }, 
+        "metamorph_c": {
+            "id": 183, 
+            "name": "[Relic1]Mystic Ring"
+        }, 
+        "metamorph_d": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }
+    }
+}

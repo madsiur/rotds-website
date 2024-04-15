@@ -1,0 +1,304 @@
+{
+    "id": 51, 
+    "name": "Trent", 
+    "filename": "051_trent", 
+    "special_attack": "Enfeeble", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 130, 
+            "mpow": 12, 
+            "hp": 4200, 
+            "mp": 263, 
+            "gil": 767, 
+            "exp": 1872, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 140, 
+            "mpow": 18, 
+            "hp": 7600, 
+            "mp": 305, 
+            "gil": 1258, 
+            "exp": 2331, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 76, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 160, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 8600, 
+            "mp": 605, 
+            "gil": 1383, 
+            "exp": 2948, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 114, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 160, 
+            "mpow": 26, 
+            "hp": 10700, 
+            "mp": 1210, 
+            "gil": 1518, 
+            "exp": 3664, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 160, 
+            "name": "[Light armor]Prinny Suit"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 206, 
+            "name": "Charm"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

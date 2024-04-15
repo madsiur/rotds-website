@@ -1,0 +1,251 @@
+{
+    "id": 234, 
+    "name": "Brute", 
+    "filename": "234_brute", 
+    "special_attack": "Gaia's Fist", 
+    "stats": {
+        "normal": {
+            "speed": 44, 
+            "attack": 101, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 130, 
+            "mpow": 7, 
+            "hp": 10890, 
+            "mp": 2300, 
+            "gil": 1025, 
+            "exp": 5900, 
+            "level": 58, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 57, 
+            "attack": 110, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 9, 
+            "hp": 13600, 
+            "mp": 2500, 
+            "gil": 1250, 
+            "exp": 7025, 
+            "level": 59, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 63, 
+            "attack": 116, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 160, 
+            "mdef": 130, 
+            "mpow": 11, 
+            "hp": 17600, 
+            "mp": 2700, 
+            "gil": 1375, 
+            "exp": 8886, 
+            "level": 60, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 122, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 130, 
+            "mpow": 13, 
+            "hp": 23520, 
+            "mp": 3000, 
+            "gil": 1375, 
+            "exp": 10045, 
+            "level": 63, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Special event"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "steal_common": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_rare": {
+            "id": 95, 
+            "name": "[Heavy shield]Diamond Shld"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 143, 
+            "name": "Aero"
+        }, 
+        "torment_d": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "fight_animation": {
+        "id": 1, 
+        "name": "[Large sword]Buster Sword"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

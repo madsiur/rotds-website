@@ -1,4 +1,4 @@
-let brrs = await fetchJson("brrs");
+let brrs = await fetchJson("json/brrs.json");
 
 $(document).ready(function() {
     listSampleTable();

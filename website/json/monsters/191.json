@@ -1,0 +1,244 @@
+{
+    "id": 191, 
+    "name": "Hetwan", 
+    "filename": "191_hetwan", 
+    "special_attack": "Vampiric Touch", 
+    "stats": {
+        "normal": {
+            "speed": 36, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 10, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 4677, 
+            "mp": 500, 
+            "gil": 674, 
+            "exp": 2620, 
+            "level": 47, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 11, 
+            "evade": 18, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 5100, 
+            "mp": 600, 
+            "gil": 842, 
+            "exp": 3025, 
+            "level": 48, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 55, 
+            "attack": 39, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 23, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 7187, 
+            "mp": 700, 
+            "gil": 926, 
+            "exp": 3826, 
+            "level": 49, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 19, 
+            "evade": 26, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 9354, 
+            "mp": 800, 
+            "gil": 1018, 
+            "exp": 4756, 
+            "level": 52, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 111, 
+            "name": "El Nino"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }, 
+        "torment_d": {
+            "id": 111, 
+            "name": "El Nino"
+        }
+    }, 
+    "fight_animation": {
+        "id": 5, 
+        "name": "[Knife1]Eviscerator"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

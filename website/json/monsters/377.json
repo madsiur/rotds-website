@@ -1,0 +1,279 @@
+{
+    "id": 377, 
+    "name": "MageKnight", 
+    "filename": "377_mageknight", 
+    "special_attack": "Stinger Strike", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 725, 
+            "mp": 180, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 1016, 
+            "mp": 222, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 1447, 
+            "mp": 251, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 47, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 1794, 
+            "mp": 300, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 195, 
+            "name": "50 Gs"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 22, 
+        "name": "[Sword2]Wraith Blade"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

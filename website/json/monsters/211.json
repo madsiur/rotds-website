@@ -1,0 +1,232 @@
+{
+    "id": 211, 
+    "name": "Skag", 
+    "filename": "211_skag", 
+    "special_attack": "Leaping Bite", 
+    "stats": {
+        "normal": {
+            "speed": 33, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 102, 
+            "mdef": 143, 
+            "mpow": 10, 
+            "hp": 1518, 
+            "mp": 100, 
+            "gil": 1200, 
+            "exp": 832, 
+            "level": 29, 
+            "immunity": [
+                "Petrify"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 13, 
+            "defense": 104, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 2021, 
+            "mp": 120, 
+            "gil": 1500, 
+            "exp": 1065, 
+            "level": 30, 
+            "immunity": [
+                "Petrify"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 52, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 16, 
+            "defense": 106, 
+            "mdef": 148, 
+            "mpow": 15, 
+            "hp": 2821, 
+            "mp": 180, 
+            "gil": 1650, 
+            "exp": 1346, 
+            "level": 31, 
+            "immunity": [
+                "Petrify"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 53, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 19, 
+            "defense": 112, 
+            "mdef": 156, 
+            "mpow": 18, 
+            "hp": 3642, 
+            "mp": 260, 
+            "gil": 1650, 
+            "exp": 1522, 
+            "level": 34, 
+            "immunity": [
+                "Petrify"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 233, 
+            "name": "Saintly Beam"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

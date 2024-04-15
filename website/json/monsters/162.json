@@ -1,0 +1,256 @@
+{
+    "id": 162, 
+    "name": "KusiMitama", 
+    "filename": "162_kusimitama", 
+    "special_attack": "Energy Drain", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 2, 
+            "defense": 55, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 294, 
+            "mp": 50, 
+            "gil": 55, 
+            "exp": 55, 
+            "level": 12, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 5, 
+            "defense": 60, 
+            "mdef": 150, 
+            "mpow": 2, 
+            "hp": 360, 
+            "mp": 75, 
+            "gil": 68, 
+            "exp": 78, 
+            "level": 13, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 8, 
+            "defense": 55, 
+            "mdef": 160, 
+            "mpow": 4, 
+            "hp": 500, 
+            "mp": 175, 
+            "gil": 74, 
+            "exp": 97, 
+            "level": 14, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 10, 
+            "defense": 75, 
+            "mdef": 170, 
+            "mpow": 7, 
+            "hp": 760, 
+            "mp": 200, 
+            "gil": 81, 
+            "exp": 120, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

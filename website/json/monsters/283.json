@@ -1,0 +1,294 @@
+{
+    "id": 283, 
+    "name": "Corpser", 
+    "filename": "283_corpser", 
+    "special_attack": "Vomit", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 10, 
+            "defense": 92, 
+            "mdef": 149, 
+            "mpow": 8, 
+            "hp": 7000, 
+            "mp": 1000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 31, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 12, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 10, 
+            "hp": 8000, 
+            "mp": 1200, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 32, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 36, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 9, 
+            "evade": 14, 
+            "defense": 112, 
+            "mdef": 153, 
+            "mpow": 13, 
+            "hp": 9000, 
+            "mp": 1400, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 33, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 52, 
+            "hit_rate": 120, 
+            "mblock": 11, 
+            "evade": 16, 
+            "defense": 115, 
+            "mdef": 156, 
+            "mpow": 16, 
+            "hp": 10000, 
+            "mp": 1600, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 36, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "drop_common": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 53, 
+            "name": "[White magic]Reraise"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "id": 16, 
+    "name": "Cacodemon", 
+    "filename": "016_cacodemon", 
+    "special_attack": "Soul Cage", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 37, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3584, 
+            "mp": 243, 
+            "gil": 542, 
+            "exp": 1370, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 15, 
+            "defense": 125, 
+            "mdef": 155, 
+            "mpow": 16, 
+            "hp": 5052, 
+            "mp": 534, 
+            "gil": 677, 
+            "exp": 1962, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 52, 
+            "attack": 58, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 19, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 19, 
+            "hp": 5852, 
+            "mp": 734, 
+            "gil": 744, 
+            "exp": 2481, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 67, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 21, 
+            "defense": 135, 
+            "mdef": 160, 
+            "mpow": 22, 
+            "hp": 7804, 
+            "mp": 968, 
+            "gil": 818, 
+            "exp": 3084, 
+            "level": 35, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 18, 
+            "name": "[Black magic]Vortex"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 232, 
+            "name": "Life Purge"
+        }, 
+        "torment_d": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "fight_animation": {
+        "id": 70, 
+        "name": "[Special2]Morning Star"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

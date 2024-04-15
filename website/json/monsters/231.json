@@ -1,0 +1,225 @@
+{
+    "id": 231, 
+    "name": "TurboRider", 
+    "filename": "231_turborider", 
+    "special_attack": "Spinal Crusher", 
+    "stats": {
+        "normal": {
+            "speed": 34, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 12, 
+            "defense": 105, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 3277, 
+            "mp": 300, 
+            "gil": 352, 
+            "exp": 1261, 
+            "level": 32, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 17, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 4454, 
+            "mp": 370, 
+            "gil": 440, 
+            "exp": 1776, 
+            "level": 33, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 55, 
+            "attack": 47, 
+            "hit_rate": 110, 
+            "mblock": 11, 
+            "evade": 22, 
+            "defense": 115, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 5354, 
+            "mp": 460, 
+            "gil": 484, 
+            "exp": 2245, 
+            "level": 34, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 64, 
+            "hit_rate": 120, 
+            "mblock": 14, 
+            "evade": 26, 
+            "defense": 120, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 7098, 
+            "mp": 510, 
+            "gil": 484, 
+            "exp": 2538, 
+            "level": 37, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 173, 
+            "name": "[Scroll]Bolt Scroll"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 172, 
+            "name": "[Scroll]Water Scroll"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 39, 
+            "name": "[Grey magic]Hastega"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 5, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "metamorph_d": {
+            "id": 55, 
+            "name": "[Rod3]Thunder Rod"
+        }
+    }
+}

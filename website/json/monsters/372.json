@@ -1,0 +1,317 @@
+{
+    "id": 372, 
+    "name": "Elder Drgn", 
+    "filename": "372_elder_drgn", 
+    "special_attack": "Shout", 
+    "stats": {
+        "normal": {
+            "speed": 65, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 9, 
+            "defense": 143, 
+            "mdef": 154, 
+            "mpow": 15, 
+            "hp": 28200, 
+            "mp": 5200, 
+            "gil": 5050, 
+            "exp": 7580, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 68, 
+            "attack": 40, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 11, 
+            "defense": 146, 
+            "mdef": 157, 
+            "mpow": 16, 
+            "hp": 30400, 
+            "mp": 5800, 
+            "gil": 5500, 
+            "exp": 8200, 
+            "level": 56, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 71, 
+            "attack": 49, 
+            "hit_rate": 120, 
+            "mblock": 21, 
+            "evade": 13, 
+            "defense": 149, 
+            "mdef": 160, 
+            "mpow": 17, 
+            "hp": 32600, 
+            "mp": 6300, 
+            "gil": 5950, 
+            "exp": 9843, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 74, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 24, 
+            "evade": 15, 
+            "defense": 152, 
+            "mdef": 163, 
+            "mpow": 20, 
+            "hp": 34800, 
+            "mp": 6600, 
+            "gil": 6545, 
+            "exp": 10866, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 56, 
+            "name": "[Rod1]Serpent Rod"
+        }, 
+        "steal_common": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_rare": {
+            "id": 203, 
+            "name": "[Tab]Golden Apple"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 194, 
+            "name": "Flee"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 68, 
+        "name": "[Glove]Volt Knuckle"
+    }, 
+    "metamorph": {
+        "id": 28, 
+        "metamorph_a": {
+            "id": 203, 
+            "name": "[Tab]Golden Apple"
+        }, 
+        "metamorph_b": {
+            "id": 249, 
+            "name": "[Tab]Soma Drop"
+        }, 
+        "metamorph_c": {
+            "id": 250, 
+            "name": "[Item2]Atomic Ball"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

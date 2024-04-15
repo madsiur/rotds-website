@@ -1,0 +1,198 @@
+{
+    "id": 335, 
+    "name": "Grunt", 
+    "filename": "335_grunt", 
+    "special_attack": "Critical", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 50, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 360, 
+            "mp": 10, 
+            "gil": 48, 
+            "exp": 78, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 60, 
+            "mdef": 150, 
+            "mpow": 2, 
+            "hp": 500, 
+            "mp": 10, 
+            "gil": 60, 
+            "exp": 78, 
+            "level": 13, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 70, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 700, 
+            "mp": 10, 
+            "gil": 66, 
+            "exp": 201, 
+            "level": 14, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 900, 
+            "mp": 10, 
+            "gil": 66, 
+            "exp": 328, 
+            "level": 17, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 10, 
+        "name": "[Sword2]Iron Sword"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

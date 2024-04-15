@@ -1,0 +1,216 @@
+{
+    "id": 46, 
+    "name": "Killer Bee", 
+    "filename": "046_killer_bee", 
+    "special_attack": "Iron Needle", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 13, 
+            "defense": 95, 
+            "mdef": 145, 
+            "mpow": 4, 
+            "hp": 220, 
+            "mp": 10, 
+            "gil": 64, 
+            "exp": 48, 
+            "level": 6, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 23, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 319, 
+            "mp": 20, 
+            "gil": 80, 
+            "exp": 60, 
+            "level": 7, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 33, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 26, 
+            "defense": 105, 
+            "mdef": 155, 
+            "mpow": 6, 
+            "hp": 468, 
+            "mp": 50, 
+            "gil": 88, 
+            "exp": 75, 
+            "level": 8, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 41, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 160, 
+            "mpow": 9, 
+            "hp": 648, 
+            "mp": 80, 
+            "gil": 96, 
+            "exp": 93, 
+            "level": 11, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 36, 
+        "name": "[Spear1]Mithril Pike"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

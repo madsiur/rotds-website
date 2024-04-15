@@ -1,0 +1,274 @@
+{
+    "id": 181, 
+    "name": "Kunopegos", 
+    "filename": "181_kunopegos", 
+    "special_attack": "Ecto Ball", 
+    "stats": {
+        "normal": {
+            "speed": 37, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 14, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2673, 
+            "mp": 102, 
+            "gil": 669, 
+            "exp": 1181, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 22, 
+            "defense": 110, 
+            "mdef": 160, 
+            "mpow": 12, 
+            "hp": 2955, 
+            "mp": 134, 
+            "gil": 836, 
+            "exp": 1526, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 57, 
+            "attack": 25, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 28, 
+            "defense": 115, 
+            "mdef": 160, 
+            "mpow": 14, 
+            "hp": 3555, 
+            "mp": 182, 
+            "gil": 919, 
+            "exp": 1929, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 35, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 35, 
+            "defense": 135, 
+            "mdef": 180, 
+            "mpow": 17, 
+            "hp": 4210, 
+            "mp": 236, 
+            "gil": 1010, 
+            "exp": 2398, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 108, 
+            "name": "[Heavy shield]Rubber Shld"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }, 
+        "inverse_b": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }, 
+        "torment_c": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

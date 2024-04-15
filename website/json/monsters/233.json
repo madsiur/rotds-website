@@ -1,0 +1,260 @@
+{
+    "id": 233, 
+    "name": "Rotfish", 
+    "filename": "233_rotfish", 
+    "special_attack": "Bile Blast", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 5, 
+            "hp": 4200, 
+            "mp": 200, 
+            "gil": 670, 
+            "exp": 2135, 
+            "level": 47, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 44, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 135, 
+            "mdef": 100, 
+            "mpow": 7, 
+            "hp": 5000, 
+            "mp": 300, 
+            "gil": 837, 
+            "exp": 2436, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 53, 
+            "attack": 50, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 100, 
+            "mpow": 9, 
+            "hp": 6800, 
+            "mp": 400, 
+            "gil": 920, 
+            "exp": 3080, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 59, 
+            "attack": 61, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 155, 
+            "mdef": 120, 
+            "mpow": 12, 
+            "hp": 8200, 
+            "mp": 500, 
+            "gil": 920, 
+            "exp": 3482, 
+            "level": 52, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 40, 
+            "name": "[Grey magic]Slowga"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 14, 
+        "name": "[Mace]Taser Mace"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

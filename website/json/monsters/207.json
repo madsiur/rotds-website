@@ -1,0 +1,248 @@
+{
+    "id": 207, 
+    "name": "Demon Eye", 
+    "filename": "207_demon_eye", 
+    "special_attack": "Rupture", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 3, 
+            "defense": 55, 
+            "mdef": 125, 
+            "mpow": 6, 
+            "hp": 310, 
+            "mp": 40, 
+            "gil": 100, 
+            "exp": 95, 
+            "level": 12, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 23, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 5, 
+            "defense": 60, 
+            "mdef": 125, 
+            "mpow": 7, 
+            "hp": 420, 
+            "mp": 60, 
+            "gil": 125, 
+            "exp": 118, 
+            "level": 13, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 33, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 7, 
+            "defense": 65, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 630, 
+            "mp": 160, 
+            "gil": 137, 
+            "exp": 148, 
+            "level": 14, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 43, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 9, 
+            "defense": 70, 
+            "mdef": 125, 
+            "mpow": 11, 
+            "hp": 840, 
+            "mp": 230, 
+            "gil": 137, 
+            "exp": 167, 
+            "level": 17, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

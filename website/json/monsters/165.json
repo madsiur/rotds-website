@@ -1,0 +1,218 @@
+{
+    "id": 165, 
+    "name": "BonziBuddy", 
+    "filename": "165_bonzibuddy", 
+    "special_attack": "Stench", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 13, 
+            "defense": 106, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2470, 
+            "mp": 145, 
+            "gil": 550, 
+            "exp": 1577, 
+            "level": 37, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 26, 
+            "defense": 113, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 2874, 
+            "mp": 185, 
+            "gil": 687, 
+            "exp": 1968, 
+            "level": 38, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 58, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 29, 
+            "defense": 116, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3578, 
+            "mp": 223, 
+            "gil": 755, 
+            "exp": 2488, 
+            "level": 39, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 42, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 36, 
+            "defense": 128, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 4256, 
+            "mp": 270, 
+            "gil": 830, 
+            "exp": 3094, 
+            "level": 42, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 230, 
+            "name": "[Relic1]First Strike"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "torment_d": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "id": 361, 
+    "name": "Meg", 
+    "filename": "361_meg", 
+    "special_attack": "Twirl Strike", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 6, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 3000, 
+            "mp": 289, 
+            "gil": 300, 
+            "exp": 1080, 
+            "level": 25, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 50, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 12, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 12, 
+            "hp": 3533, 
+            "mp": 320, 
+            "gil": 330, 
+            "exp": 1208, 
+            "level": 26, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 57, 
+            "attack": 21, 
+            "hit_rate": 110, 
+            "mblock": 21, 
+            "evade": 15, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 14, 
+            "hp": 4234, 
+            "mp": 450, 
+            "gil": 363, 
+            "exp": 1348, 
+            "level": 27, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 29, 
+            "hit_rate": 120, 
+            "mblock": 28, 
+            "evade": 18, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 17, 
+            "hp": 5068, 
+            "mp": 570, 
+            "gil": 399, 
+            "exp": 1367, 
+            "level": 30, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 31, 
+        "name": "[Spear2]Gold Trident"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

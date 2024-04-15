@@ -1,0 +1,252 @@
+{
+    "id": 88, 
+    "name": "Keaton", 
+    "filename": "088_keaton", 
+    "special_attack": "Trickery", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 9, 
+            "defense": 100, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 2852, 
+            "mp": 182, 
+            "gil": 458, 
+            "exp": 762, 
+            "level": 26, 
+            "immunity": [
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 18, 
+            "defense": 100, 
+            "mdef": 148, 
+            "mpow": 13, 
+            "hp": 3459, 
+            "mp": 218, 
+            "gil": 572, 
+            "exp": 902, 
+            "level": 27, 
+            "immunity": [
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 44, 
+            "attack": 43, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 21, 
+            "defense": 105, 
+            "mdef": 152, 
+            "mpow": 15, 
+            "hp": 4259, 
+            "mp": 418, 
+            "gil": 629, 
+            "exp": 1140, 
+            "level": 28, 
+            "immunity": [
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 66, 
+            "hit_rate": 120, 
+            "mblock": 19, 
+            "evade": 28, 
+            "defense": 113, 
+            "mdef": 156, 
+            "mpow": 18, 
+            "hp": 5818, 
+            "mp": 536, 
+            "gil": 691, 
+            "exp": 1418, 
+            "level": 31, 
+            "immunity": [
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 146, 
+            "name": "[Heavy armor]Gold Armor"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 102, 
+            "name": "Sun Bath"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 116, 
+            "name": "Avalanche"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 5, 
+        "name": "[Knife1]Eviscerator"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

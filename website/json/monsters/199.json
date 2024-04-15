@@ -1,0 +1,225 @@
+{
+    "id": 199, 
+    "name": "Commando", 
+    "filename": "199_commando", 
+    "special_attack": "Combo Breaker", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 11, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 15, 
+            "hp": 1017, 
+            "mp": 135, 
+            "gil": 273, 
+            "exp": 262, 
+            "level": 18, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 14, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 15, 
+            "hp": 1366, 
+            "mp": 180, 
+            "gil": 300, 
+            "exp": 325, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 41, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 17, 
+            "defense": 125, 
+            "mdef": 145, 
+            "mpow": 16, 
+            "hp": 1633, 
+            "mp": 200, 
+            "gil": 330, 
+            "exp": 407, 
+            "level": 20, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 43, 
+            "hit_rate": 110, 
+            "mblock": 11, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 1992, 
+            "mp": 240, 
+            "gil": 363, 
+            "exp": 504, 
+            "level": 23, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 137, 
+            "name": "[Heavy armor]Chain Mail"
+        }, 
+        "steal_common": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 36, 
+            "name": "[Grey magic]Reflect"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 28, 
+            "name": "[Grey magic]Protect"
+        }, 
+        "torment_d": {
+            "id": 37, 
+            "name": "[Grey magic]Shell"
+        }
+    }, 
+    "fight_animation": {
+        "id": 12, 
+        "name": "[Sword2]Mystic Sword"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

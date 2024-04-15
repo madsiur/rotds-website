@@ -1,0 +1,241 @@
+{
+    "id": 125, 
+    "name": "Wart", 
+    "filename": "125_wart", 
+    "special_attack": "Lazy Note", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 3, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 3559, 
+            "mp": 330, 
+            "gil": 1169, 
+            "exp": 1895, 
+            "level": 44, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 32, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 5, 
+            "defense": 120, 
+            "mdef": 155, 
+            "mpow": 20, 
+            "hp": 5534, 
+            "mp": 363, 
+            "gil": 1461, 
+            "exp": 2893, 
+            "level": 45, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 44, 
+            "attack": 40, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 7, 
+            "defense": 125, 
+            "mdef": 160, 
+            "mpow": 23, 
+            "hp": 7527, 
+            "mp": 430, 
+            "gil": 1607, 
+            "exp": 3670, 
+            "level": 46, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 53, 
+            "attack": 59, 
+            "hit_rate": 130, 
+            "mblock": 18, 
+            "evade": 9, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 26, 
+            "hp": 9811, 
+            "mp": 560, 
+            "gil": 1767, 
+            "exp": 4564, 
+            "level": 49, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 47, 
+            "name": "[White magic]Curaga"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 61, 
+        "name": "[Glove]Frost Glove "
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

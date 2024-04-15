@@ -1,0 +1,289 @@
+{
+    "id": 110, 
+    "name": "Eidolon", 
+    "filename": "110_eidolon", 
+    "special_attack": "Slip Touch", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 13, 
+            "defense": 100, 
+            "mdef": 145, 
+            "mpow": 6, 
+            "hp": 978, 
+            "mp": 120, 
+            "gil": 200, 
+            "exp": 211, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 27, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 1201, 
+            "mp": 140, 
+            "gil": 275, 
+            "exp": 288, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 41, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 30, 
+            "defense": 115, 
+            "mdef": 155, 
+            "mpow": 12, 
+            "hp": 1501, 
+            "mp": 200, 
+            "gil": 312, 
+            "exp": 385, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 52, 
+            "attack": 44, 
+            "hit_rate": 110, 
+            "mblock": 24, 
+            "evade": 37, 
+            "defense": 123, 
+            "mdef": 165, 
+            "mpow": 16, 
+            "hp": 2204, 
+            "mp": 260, 
+            "gil": 353, 
+            "exp": 506, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "drop_rare": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 8, 
+        "name": "[Sword2]Demon Killer"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

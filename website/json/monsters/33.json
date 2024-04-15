@@ -1,0 +1,216 @@
+{
+    "id": 33, 
+    "name": "Sleepysaur", 
+    "filename": "033_sleepysaur", 
+    "special_attack": "Shooting Sonic", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 100, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 1312, 
+            "mp": 130, 
+            "gil": 627, 
+            "exp": 659, 
+            "level": 26, 
+            "immunity": [], 
+            "status": [
+                "Psyche"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 1812, 
+            "mp": 220, 
+            "gil": 570, 
+            "exp": 788, 
+            "level": 27, 
+            "immunity": [], 
+            "status": [
+                "Psyche"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 155, 
+            "mpow": 16, 
+            "hp": 2612, 
+            "mp": 330, 
+            "gil": 627, 
+            "exp": 869, 
+            "level": 28, 
+            "immunity": [], 
+            "status": [
+                "Psyche"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 63, 
+            "attack": 52, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 10, 
+            "defense": 125, 
+            "mdef": 160, 
+            "mpow": 19, 
+            "hp": 4024, 
+            "mp": 460, 
+            "gil": 689, 
+            "exp": 1080, 
+            "level": 31, 
+            "immunity": [], 
+            "status": [
+                "Psyche"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }, 
+        "inverse_b": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

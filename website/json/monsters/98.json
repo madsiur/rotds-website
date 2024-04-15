@@ -1,0 +1,200 @@
+{
+    "id": 98, 
+    "name": "Wallmaster", 
+    "filename": "098_wallmaster", 
+    "special_attack": "Sleep Scratch", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 9, 
+            "defense": 142, 
+            "mdef": 120, 
+            "mpow": 1, 
+            "hp": 240, 
+            "mp": 22, 
+            "gil": 120, 
+            "exp": 71, 
+            "level": 7, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 18, 
+            "defense": 144, 
+            "mdef": 124, 
+            "mpow": 2, 
+            "hp": 328, 
+            "mp": 44, 
+            "gil": 150, 
+            "exp": 88, 
+            "level": 8, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 44, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 21, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 3, 
+            "hp": 386, 
+            "mp": 82, 
+            "gil": 165, 
+            "exp": 112, 
+            "level": 9, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 41, 
+            "attack": 56, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 23, 
+            "defense": 155, 
+            "mdef": 137, 
+            "mpow": 5, 
+            "hp": 527, 
+            "mp": 124, 
+            "gil": 181, 
+            "exp": 139, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 85, 
+        "name": "[Claw]Spider Fangs"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

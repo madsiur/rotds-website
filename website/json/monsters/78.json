@@ -1,0 +1,225 @@
+{
+    "id": 78, 
+    "name": "Archdaemon", 
+    "filename": "078_archdaemon", 
+    "special_attack": "Stunner", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 928, 
+            "mp": 340, 
+            "gil": 314, 
+            "exp": 359, 
+            "level": 17, 
+            "immunity": [
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 39, 
+            "hit_rate": 110, 
+            "mblock": 25, 
+            "evade": 15, 
+            "defense": 120, 
+            "mdef": 152, 
+            "mpow": 8, 
+            "hp": 1306, 
+            "mp": 380, 
+            "gil": 392, 
+            "exp": 447, 
+            "level": 18, 
+            "immunity": [
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 45, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 20, 
+            "defense": 125, 
+            "mdef": 155, 
+            "mpow": 11, 
+            "hp": 1906, 
+            "mp": 430, 
+            "gil": 431, 
+            "exp": 564, 
+            "level": 19, 
+            "immunity": [
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 56, 
+            "hit_rate": 130, 
+            "mblock": 35, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 14, 
+            "hp": 2512, 
+            "mp": 490, 
+            "gil": 474, 
+            "exp": 700, 
+            "level": 22, 
+            "immunity": [
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 213, 
+            "name": "[Relic1]Monk's Belt"
+        }, 
+        "steal_common": {
+            "id": 45, 
+            "name": "[Katana]Iaito"
+        }, 
+        "drop_rare": {
+            "id": 183, 
+            "name": "[Relic1]Mystic Ring"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "spirit_b": {
+            "id": 31, 
+            "name": "[Grey magic]Haste"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }, 
+        "torment_d": {
+            "id": 2, 
+            "name": "[Black magic]Spark"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "id": 150, 
+    "name": "Ammonite", 
+    "filename": "150_ammonite", 
+    "special_attack": "Burnout", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 2, 
+            "defense": 100, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 1420, 
+            "mp": 100, 
+            "gil": 280, 
+            "exp": 214, 
+            "level": 22, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 34, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 5, 
+            "defense": 105, 
+            "mdef": 140, 
+            "mpow": 6, 
+            "hp": 1622, 
+            "mp": 120, 
+            "gil": 350, 
+            "exp": 267, 
+            "level": 23, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 8, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 2022, 
+            "mp": 150, 
+            "gil": 385, 
+            "exp": 336, 
+            "level": 24, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 38, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 12, 
+            "defense": 115, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 2844, 
+            "mp": 180, 
+            "gil": 423, 
+            "exp": 418, 
+            "level": 27, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "steal_common": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 208, 
+            "name": "Tentacle"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 32, 
+            "name": "[Grey magic]Stop"
+        }, 
+        "torment_d": {
+            "id": 208, 
+            "name": "Tentacle"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,64 +1,503 @@
-WEBSITE_DIR = "website"
-COMMON_DIR = "common"
-ROMS_DIR = "roms"
-CHAR_DIR = "characters"
-MUSIC_DIR = "music"
-TEXT_DIR = "text"
-MML_DIR = "mml"
-SPC_DIR = "spc"
-BRR_DIR = "brr"
-FOLDER_SECTION = "folder"
-BRR_SECTION = "brr"
+class Constants:
 
-CMD_NAME_ADDR = 0x18CEA0
-CMD_NAME_LENGTH = 7
-CMD_NUM = 32
+    _WEBSITE_DIR = "website"
+    _COMMON_DIR = "common"
+    _ROMS_DIR = "roms"
+    _CHAR_DIR = "characters"
+    _MUSIC_DIR = "music"
+    _TEXT_DIR = "text"
+    _GUIDE_DIR = "guide"
+    _GUIDE_MEDIA_DIR = "guidemedia"
+    _MEDIA_DIR = "media"
+    _NPC_DIR = "npcs"
+    _MONS_DETAIL_DIR = "monsterdetails"
+    _MONS_IMG_DIR = "monsters"
+    _TEMPLATES_DIR = "templates"
+    _MML_DIR = "mml"
+    _SPC_DIR = "spc"
+    _BRR_DIR = "brr"
+    _FOLDER_SECTION = "folder"
+    _BRR_SECTION = "brr"
 
-ITEM_NAME_ADDR = 0x12B300
-ITEM_NAME_LENGTH = 13
-ITEM_NUM = 256
+    _WEBSITE_URL = "https://www.ff6hacking.com/rotds/"
+    _COMMON_TITLE = "RotDS - "
+    _COMMON_DESC = "of the Return of the Dark Sorcerer official website."
 
-SPELL_NAME_ADDR = 0x316100
-SPELL_NAME_LENGTH = 9
-SPELL_NUM = 54
+    _DIFFICULTIES = ["normal", "hard", "extreme", "insane"]
 
-ESPER_ATK_NAME_ADDR = 0x316F4E
-ESPER_ATK_NAME_LENGTH = 16
-ESPER_ATK_NUM = 27
+    _GALLERY_URLS = [
+        "monsters-1.html",
+        "monsters-2.html",
+        "monsters-3.html",
+        "monsters-4.html",
+        "espers.html",
+    ]
 
-ATK_NAME_ADDR = 0x31645E
-ATK_NAME_LENGTH = 16
-ATK_NUM = 175
+    _BTN_DARK = "btn-dark"
+    _BTN_SECONDARY = "btn-secondary"
 
-MONS_STAT_NOR = 0x450400
-MONS_STAT_HAR = 0x0F0000
-MONS_STAT_EXT = 0x454C00
-MONS_STAT_INS = 0x490000
-MONS_STAT_LENGTH = 32
+    _COMMON_KEYWORDS = [
+        "return of the dark sorcerer",
+        "rotds",
+        "ffvi rotds",
+        "ff6 rotds",
+        "ff6 hack",
+        "ffvi hack",
+        "ff6 romhack",
+        "ffvi romhack",
+        "ff6 rom hack",
+        "ffvi rom hack",
+        "ff6 mod",
+        "ffvi mod",
+        "ff6 hacking",
+        "ffvi hacking",
+        "ff6 modding",
+        "ffvi modding",
+        "romhack",
+        "mod",
+        "romhacking",
+        "modding",
+        "snes",
+        "super nintendo",
+        "squaresoft",
+        "square-enix"
+    ]
+    
+    _MUSIC_KEYWORDS = [
+        "music",
+        "soundtrack",
+        "ost",
+        "original soundtrack",
+        "music list",
+        "soundtrack list",
+        "ost list",
+        "original soundtrack list",
+        "music tracks",
+        "brr",
+        "spc",
+        "spc songs",
+        "brr samples",
+        "instrument samples",
+        "music samples",
+        "spc 700",
+        "spc-700"
+    ]
 
-MONS_LOOT_ADDR = 0x0F3000
-MONS_LOOT_LENGTH = 4
 
-MONS_TORM_ADDR = 0x0F3D00
-MONS_TORM_LENGTH = 4
+    _MONSTER_KEYWORDS = [
+        "monster", 
+        "enemy",
+        "boss",
+        "monster stats",
+        "enemy stats",
+        "boss stats",
+        "monster data",
+        "enemy data",   
+        "boss data",
+        "monster information",
+        "enemy information",
+        "boss information",
+        "monster details",
+        "enemy details",
+        "boss details",
+        "monster sprites",
+        "enemy sprites",
+        "boss sprites"
+    ]
 
-MONS_INV_ADDR = 0x0F4300
-MONS_INV_LENGTH = 2
+    _ESPER_KEYWORDS = [
+        "esper",
+        "summon",
+        "magicite",
+        "summon",
+        "esper sprites",
+        "summon sprites"
+    ]
+    
+    _CHARACTER_KEYWORDS = [
+        "character",
+        "playable character",
+        "party member",
+        "character stats",
+        "playable character stats",
+        "party member stats",
+        "aurora",
+        "cloud",
+        "avalon",
+        "oboro",
+        "serin",
+        "ronan",
+        "tifa",
+        "fusoya",
+        "eiko",
+        "otis",
+        "mog",
+        "arc",
+        "golbez",
+        "heartless",
+        "astral",
+        "reaper"
+    ]
 
-MONS_SPRT_ADDR = 0x0F4600
-MONS_SPRT_LENGTH = 2
+    _GUIDE_KEYWORDS = [
+        "guide",
+        "walkthrough",
+        "strategy",
+        "tips",
+        "hints",
+        "strategies",
+        "bosses",
+        "boss",
+        "story",
+        "plot"
+    ]
 
-MONS_SATK_NAME_ADDR = 0x3D0000
-MONS_SATK_NAME_LENGTH = 16
+    _NPCS_KEYWORDS = [
+        "npc",
+        "npcs",
+        "non-playable character",
+        "portrait",
+        "sprite",
+        "npc portrait",
+        "npc sprite",
+        "npc gallery",
+        "npc list",
+        "npc images"
+    ]
 
-MONS_NAME_ADDR = 0x0FC050
-MONS_NAME_LENGTH = 10
-MONS_NUM = 384
+    _CMD_NAME_ADDR = 0x18CEA0
+    _CMD_NAME_LENGTH = 7
+    _CMD_NUM = 32
 
-ESPER_NAME_ADDR = 0x3162E6
-ESPER_NAME_LENGTH = 12
-ESPER_NUM = 27
+    _ITEM_NAME_ADDR = 0x12B300
+    _ITEM_NAME_LENGTH = 13
+    _ITEM_NUM = 256
 
-META_ADDR = 0x047F40
-META_LENGTH = 4
-META_NUM = 32
+    _SPELL_NAME_ADDR = 0x316100
+    _SPELL_NAME_LENGTH = 9
+    _SPELL_NUM = 54
+
+    _ESPER_ATK_NAME_ADDR = 0x316F4E
+    _ESPER_ATK_NAME_LENGTH = 16
+    _ESPER_ATK_NUM = 27
+
+    _ATK_NAME_ADDR = 0x31645E
+    _ATK_NAME_LENGTH = 16
+    _ATK_NUM = 175
+
+    _MONS_STAT_NOR = 0x450400
+    _MONS_STAT_HAR = 0x0F0000
+    _MONS_STAT_EXT = 0x454C00
+    _MONS_STAT_INS = 0x490000
+    _MONS_STAT_LENGTH = 32
+
+    _MONS_LOOT_ADDR = 0x0F3000
+    _MONS_LOOT_LENGTH = 4
+
+    _MONS_TORM_ADDR = 0x0F3D00
+    _MONS_TORM_LENGTH = 4
+
+    _MONS_INV_ADDR = 0x0F4300
+    _MONS_INV_LENGTH = 2
+
+    _MONS_SPRT_ADDR = 0x0F4600
+    _MONS_SPRT_LENGTH = 2
+
+    _MONS_SATK_NAME_ADDR = 0x3D0000
+    _MONS_SATK_NAME_LENGTH = 16
+
+    _MONS_NAME_ADDR = 0x0FC050
+    _MONS_NAME_LENGTH = 10
+    _MONS_NUM = 384
+
+    _ESPER_NAME_ADDR = 0x3162E6
+    _ESPER_NAME_LENGTH = 12
+    _ESPER_NUM = 27
+
+    _META_ADDR = 0x047F40
+    _META_LENGTH = 4
+    _META_NUM = 32
+
+    @property
+    def WEBSITE_DIR(self):
+        return self._WEBSITE_DIR
+    
+    @property
+    def COMMON_DIR(self):
+        return self._COMMON_DIR
+    
+    @property
+    def ROMS_DIR(self):
+        return self._ROMS_DIR
+    
+    @property
+    def CHAR_DIR(self):
+        return self._CHAR_DIR
+    
+    @property
+    def MUSIC_DIR(self):
+        return self._MUSIC_DIR
+    
+    @property
+    def TEXT_DIR(self):
+        return self._TEXT_DIR
+    
+    @property
+    def GUIDE_DIR(self):
+        return self._GUIDE_DIR
+    
+    @property
+    def MEDIA_DIR(self):
+        return self._MEDIA_DIR
+    
+    @property
+    def NPC_DIR(self):
+        return self._NPC_DIR
+    
+    @property
+    def GUIDE_MEDIA_DIR(self):
+        return self._GUIDE_MEDIA_DIR
+    
+    @property
+    def MONS_DETAIL_DIR(self):
+        return self._MONS_DETAIL_DIR
+    
+    @property
+    def MONS_IMG_DIR(self):
+        return self._MONS_IMG_DIR
+    
+    @property
+    def TEMPLATES_DIR(self):
+        return self._TEMPLATES_DIR
+    
+    @property
+    def MML_DIR(self):
+        return self._MML_DIR
+    
+    @property
+    def SPC_DIR(self):
+        return self._SPC_DIR
+    
+    @property
+    def BRR_DIR(self):
+        return self._BRR_DIR
+    
+    @property
+    def FOLDER_SECTION(self):
+        return self._FOLDER_SECTION
+    
+    @property
+    def BRR_SECTION(self):
+        return self._BRR_SECTION
+    
+    @property
+    def WEBSITE_URL(self):
+        return self._WEBSITE_URL
+    
+    @property
+    def COMMON_TITLE(self):
+        return self._COMMON_TITLE
+    
+    @property
+    def COMMON_DESC(self):
+        return self._COMMON_DESC
+    
+    @property
+    def DIFFICULTIES(self):
+        return self._DIFFICULTIES
+    
+    @property
+    def GALLERY_URLS(self):
+        return self._GALLERY_URLS
+    
+    @property
+    def BTN_DARK(self):
+        return self._BTN_DARK
+    
+    @property
+    def BTN_SECONDARY(self):
+        return self._BTN_SECONDARY
+    
+    @property
+    def COMMON_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS)
+    
+    @property
+    def MUSIC_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._MUSIC_KEYWORDS)
+    
+    @property
+    def MONSTER_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._MONSTER_KEYWORDS)
+    
+    @property
+    def ESPER_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._ESPER_KEYWORDS)
+    
+    @property
+    def CHARACTER_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._CHARACTER_KEYWORDS)
+    
+    @property
+    def GUIDE_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._GUIDE_KEYWORDS)
+    
+    @property
+    def NPCS_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._NPCS_KEYWORDS)
+    
+    @property
+    def CMD_NAME_ADDR(self):
+        return self._CMD_NAME_ADDR
+    
+    @property
+    def CMD_NAME_LENGTH(self):
+        return self._CMD_NAME_LENGTH
+    
+    @property
+    def CMD_NUM(self):
+        return self._CMD_NUM
+    
+    @property
+    def ITEM_NAME_ADDR(self):
+        return self._ITEM_NAME_ADDR
+    
+    @property
+    def ITEM_NAME_LENGTH(self):
+        return self._ITEM_NAME_LENGTH
+    
+    @property
+    def ITEM_NUM(self):
+        return self._ITEM_NUM
+    
+    @property
+    def SPELL_NAME_ADDR(self):
+        return self._SPELL_NAME_ADDR
+    
+    @property
+    def SPELL_NAME_LENGTH(self):
+        return self._SPELL_NAME_LENGTH
+    
+    @property
+    def SPELL_NUM(self):
+        return self._SPELL_NUM
+    
+    @property
+    def ESPER_ATK_NAME_ADDR(self):
+        return self._ESPER_ATK_NAME_ADDR
+    
+    @property
+    def ESPER_ATK_NAME_LENGTH(self):
+        return self._ESPER_ATK_NAME_LENGTH
+    
+    @property
+    def ESPER_ATK_NUM(self):
+        return self._ESPER_ATK_NUM
+    
+    @property
+    def ATK_NAME_ADDR(self):
+        return self._ATK_NAME_ADDR
+    
+    @property
+    def ATK_NAME_LENGTH(self):
+        return self._ATK_NAME_LENGTH
+    
+    @property
+    def ATK_NUM(self):
+        return self._ATK_NUM
+    
+    @property
+    def MONS_STAT_NOR(self):
+        return self._MONS_STAT_NOR
+    
+    @property
+    def MONS_STAT_HAR(self):
+        return self._MONS_STAT_HAR
+    
+    @property
+    def MONS_STAT_EXT(self):
+        return self._MONS_STAT_EXT
+    
+    @property
+    def MONS_STAT_INS(self):
+        return self._MONS_STAT_INS
+    
+    @property
+    def MONS_STAT_LENGTH(self):
+        return self._MONS_STAT_LENGTH
+    
+    @property
+    def MONS_LOOT_ADDR(self):
+        return self._MONS_LOOT_ADDR
+    
+    @property
+    def MONS_LOOT_LENGTH(self):
+        return self._MONS_LOOT_LENGTH
+    
+    @property
+    def MONS_TORM_ADDR(self):
+        return self._MONS_TORM_ADDR
+    
+    @property
+    def MONS_TORM_LENGTH(self):
+        return self._MONS_TORM_LENGTH
+    
+    @property
+    def MONS_INV_ADDR(self):
+        return self._MONS_INV_ADDR
+    
+    @property
+    def MONS_INV_LENGTH(self):
+        return self._MONS_INV_LENGTH
+    
+    @property
+    def MONS_SPRT_ADDR(self):
+        return self._MONS_SPRT_ADDR
+    
+    @property
+    def MONS_SPRT_LENGTH(self):
+        return self._MONS_SPRT_LENGTH
+    
+    @property
+    def MONS_SATK_NAME_ADDR(self):
+        return self._MONS_SATK_NAME_ADDR
+    
+    @property
+    def MONS_SATK_NAME_LENGTH(self):
+        return self._MONS_SATK_NAME_LENGTH
+    
+    @property
+    def MONS_NAME_ADDR(self):
+        return self._MONS_NAME_ADDR
+    
+    @property
+    def MONS_NAME_LENGTH(self):
+        return self._MONS_NAME_LENGTH
+    
+    @property
+    def MONS_NUM(self):
+        return self._MONS_NUM
+    
+    @property
+    def ESPER_NAME_ADDR(self):
+        return self._ESPER_NAME_ADDR
+    
+    @property
+    def ESPER_NAME_LENGTH(self):
+        return self._ESPER_NAME_LENGTH
+    
+    @property
+    def ESPER_NUM(self):
+        return self._ESPER_NUM
+    
+    @property
+    def META_ADDR(self):
+        return self._META_ADDR
+    
+    @property
+    def META_LENGTH(self):
+        return self._META_LENGTH
+    
+    @property
+    def META_NUM(self):
+        return self._META_NUM

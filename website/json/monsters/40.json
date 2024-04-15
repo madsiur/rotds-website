@@ -1,0 +1,217 @@
+{
+    "id": 40, 
+    "name": "Blue Scout", 
+    "filename": "040_blue_scout", 
+    "special_attack": "Dive", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 50, 
+            "mdef": 125, 
+            "mpow": 3, 
+            "hp": 34, 
+            "mp": 12, 
+            "gil": 41, 
+            "exp": 28, 
+            "level": 5, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 55, 
+            "mdef": 130, 
+            "mpow": 4, 
+            "hp": 43, 
+            "mp": 16, 
+            "gil": 51, 
+            "exp": 35, 
+            "level": 6, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Block suplex", 
+                "Can't scan"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 36, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 40, 
+            "defense": 65, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 134, 
+            "mp": 18, 
+            "gil": 56, 
+            "exp": 43, 
+            "level": 7, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 49, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 50, 
+            "defense": 75, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 268, 
+            "mp": 24, 
+            "gil": 61, 
+            "exp": 53, 
+            "level": 10, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

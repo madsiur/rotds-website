@@ -1,0 +1,274 @@
+{
+    "id": 9, 
+    "name": "Shokan", 
+    "filename": "009_shokan", 
+    "special_attack": "Ground Stomp", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 11, 
+            "defense": 110, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 4085, 
+            "mp": 450, 
+            "gil": 1260, 
+            "exp": 1511, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 23, 
+            "defense": 128, 
+            "mdef": 145, 
+            "mpow": 16, 
+            "hp": 4850, 
+            "mp": 500, 
+            "gil": 1575, 
+            "exp": 2112, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 41, 
+            "hit_rate": 110, 
+            "mblock": 16, 
+            "evade": 26, 
+            "defense": 137, 
+            "mdef": 150, 
+            "mpow": 20, 
+            "hp": 5850, 
+            "mp": 700, 
+            "gil": 1732, 
+            "exp": 2671, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 60, 
+            "attack": 68, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 148, 
+            "mdef": 156, 
+            "mpow": 26, 
+            "hp": 8700, 
+            "mp": 900, 
+            "gil": 1905, 
+            "exp": 3321, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 159, 
+            "name": "[Heavy armor]Elite Armor"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 27, 
+            "name": "[Grey magic]Mute"
+        }, 
+        "inverse_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 27, 
+            "name": "[Grey magic]Mute"
+        }, 
+        "torment_c": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }, 
+        "torment_d": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 19, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_c": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_d": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }
+    }
+}

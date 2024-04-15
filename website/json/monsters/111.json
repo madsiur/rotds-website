@@ -1,0 +1,268 @@
+{
+    "id": 111, 
+    "name": "Phantom", 
+    "filename": "111_phantom", 
+    "special_attack": "Diabolic Dance", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 50, 
+            "defense": 145, 
+            "mdef": 140, 
+            "mpow": 8, 
+            "hp": 2685, 
+            "mp": 360, 
+            "gil": 385, 
+            "exp": 485, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 50, 
+            "defense": 150, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 3058, 
+            "mp": 380, 
+            "gil": 481, 
+            "exp": 606, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 33, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 50, 
+            "defense": 155, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 3558, 
+            "mp": 460, 
+            "gil": 529, 
+            "exp": 757, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 46, 
+            "hit_rate": 130, 
+            "mblock": 18, 
+            "evade": 50, 
+            "defense": 165, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 4116, 
+            "mp": 520, 
+            "gil": 581, 
+            "exp": 946, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 146, 
+            "name": "[Heavy armor]Gold Armor"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 179, 
+            "name": "[Relic1]Holy Amulet"
+        }, 
+        "drop_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 55, 
+        "name": "[Rod3]Thunder Rod"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "id": 354, 
+    "name": "Bleeder", 
+    "filename": "354_bleeder", 
+    "special_attack": "Bleeding Touch", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 80, 
+            "mdef": 130, 
+            "mpow": 5, 
+            "hp": 1631, 
+            "mp": 100, 
+            "gil": 156, 
+            "exp": 485, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Human", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 85, 
+            "mdef": 130, 
+            "mpow": 6, 
+            "hp": 1877, 
+            "mp": 130, 
+            "gil": 206, 
+            "exp": 558, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Human", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 25, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 130, 
+            "mpow": 7, 
+            "hp": 2136, 
+            "mp": 160, 
+            "gil": 246, 
+            "exp": 643, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Human", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 25, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 95, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 2361, 
+            "mp": 190, 
+            "gil": 357, 
+            "exp": 643, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Human", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 21, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "metamorph_c": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_d": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }
+    }
+}

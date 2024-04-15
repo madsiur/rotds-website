@@ -1,0 +1,286 @@
+{
+    "id": 266, 
+    "name": "Panzer", 
+    "filename": "266_panzer", 
+    "special_attack": "Gatling Gun", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 37, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 120, 
+            "mpow": 6, 
+            "hp": 10000, 
+            "mp": 1300, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 120, 
+            "mpow": 7, 
+            "hp": 12000, 
+            "mp": 1500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 60, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 120, 
+            "mpow": 9, 
+            "hp": 13000, 
+            "mp": 1700, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 65, 
+            "attack": 68, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 120, 
+            "mpow": 12, 
+            "hp": 15000, 
+            "mp": 2000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 108, 
+            "name": "[Heavy shield]Rubber Shld"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 72, 
+            "name": "[Hammer]Mjollnir"
+        }, 
+        "drop_common": {
+            "id": 72, 
+            "name": "[Hammer]Mjollnir"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

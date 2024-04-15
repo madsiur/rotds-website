@@ -1,0 +1,258 @@
+{
+    "id": 227, 
+    "name": "Power Suit", 
+    "filename": "227_power_suit", 
+    "special_attack": "Magic Missile", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 5, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 8, 
+            "hp": 3200, 
+            "mp": 280, 
+            "gil": 300, 
+            "exp": 550, 
+            "level": 26, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 32, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 8, 
+            "defense": 150, 
+            "mdef": 135, 
+            "mpow": 10, 
+            "hp": 3825, 
+            "mp": 330, 
+            "gil": 375, 
+            "exp": 787, 
+            "level": 27, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 37, 
+            "hit_rate": 120, 
+            "mblock": 17, 
+            "evade": 11, 
+            "defense": 150, 
+            "mdef": 140, 
+            "mpow": 12, 
+            "hp": 4588, 
+            "mp": 460, 
+            "gil": 412, 
+            "exp": 994, 
+            "level": 28, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 42, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 14, 
+            "defense": 150, 
+            "mdef": 145, 
+            "mpow": 15, 
+            "hp": 5650, 
+            "mp": 520, 
+            "gil": 412, 
+            "exp": 1124, 
+            "level": 31, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Seizure", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 149, 
+            "name": "[Heavy armor]DiamondArmor"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 182, 
+            "name": "Aerods"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 182, 
+            "name": "Aerods"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }, 
+        "torment_d": {
+            "id": 167, 
+            "name": "Scintillation"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

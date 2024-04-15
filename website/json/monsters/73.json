@@ -1,0 +1,235 @@
+{
+    "id": 73, 
+    "name": "Mochi", 
+    "filename": "073_mochi", 
+    "special_attack": "Hug", 
+    "stats": {
+        "normal": {
+            "speed": 36, 
+            "attack": 8, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 19, 
+            "defense": 130, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 1052, 
+            "mp": 50, 
+            "gil": 326, 
+            "exp": 521, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 47, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 135, 
+            "mdef": 135, 
+            "mpow": 10, 
+            "hp": 1455, 
+            "mp": 100, 
+            "gil": 407, 
+            "exp": 1026, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 62, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 28, 
+            "defense": 140, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 2125, 
+            "mp": 150, 
+            "gil": 447, 
+            "exp": 1297, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 32, 
+            "hit_rate": 110, 
+            "mblock": 6, 
+            "evade": 33, 
+            "defense": 145, 
+            "mdef": 155, 
+            "mpow": 16, 
+            "hp": 3004, 
+            "mp": 200, 
+            "gil": 491, 
+            "exp": 1612, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "id": 330, 
+    "name": "Kefka", 
+    "filename": "330_kefka", 
+    "special_attack": "Wild Smile", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 8000, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 18, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 35, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 155, 
+            "mpow": 7, 
+            "hp": 8500, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 19, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 60, 
+            "attack": 40, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 160, 
+            "mpow": 8, 
+            "hp": 9000, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 65, 
+            "attack": 47, 
+            "hit_rate": 130, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 165, 
+            "mpow": 11, 
+            "hp": 9500, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 165, 
+            "name": "[Aether]Psycho Blade"
+        }, 
+        "drop_common": {
+            "id": 165, 
+            "name": "[Aether]Psycho Blade"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 70, 
+        "name": "[Special2]Morning Star"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

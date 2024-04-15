@@ -1,0 +1,205 @@
+{
+    "id": 93, 
+    "name": "Sand Sting", 
+    "filename": "093_sand_sting", 
+    "special_attack": "Poison Tail", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 100, 
+            "mdef": 120, 
+            "mpow": 0, 
+            "hp": 87, 
+            "mp": 16, 
+            "gil": 94, 
+            "exp": 37, 
+            "level": 6, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 110, 
+            "mdef": 125, 
+            "mpow": 1, 
+            "hp": 179, 
+            "mp": 28, 
+            "gil": 72, 
+            "exp": 46, 
+            "level": 7, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 15, 
+            "defense": 115, 
+            "mdef": 130, 
+            "mpow": 2, 
+            "hp": 260, 
+            "mp": 65, 
+            "gil": 79, 
+            "exp": 57, 
+            "level": 8, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 52, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 135, 
+            "mpow": 3, 
+            "hp": 449, 
+            "mp": 103, 
+            "gil": 86, 
+            "exp": 71, 
+            "level": 11, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 38, 
+        "name": "[Knife1]Genji Knife"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

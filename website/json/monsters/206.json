@@ -1,0 +1,225 @@
+{
+    "id": 206, 
+    "name": "Red Beast", 
+    "filename": "206_red_beast", 
+    "special_attack": "Charge", 
+    "stats": {
+        "normal": {
+            "speed": 37, 
+            "attack": 83, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 145, 
+            "mdef": 105, 
+            "mpow": 10, 
+            "hp": 2987, 
+            "mp": 140, 
+            "gil": 298, 
+            "exp": 1197, 
+            "level": 32, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 89, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 147, 
+            "mdef": 107, 
+            "mpow": 11, 
+            "hp": 3473, 
+            "mp": 170, 
+            "gil": 372, 
+            "exp": 1571, 
+            "level": 33, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 107, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 11, 
+            "defense": 149, 
+            "mdef": 109, 
+            "mpow": 13, 
+            "hp": 4605, 
+            "mp": 200, 
+            "gil": 409, 
+            "exp": 1987, 
+            "level": 34, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 128, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 14, 
+            "defense": 156, 
+            "mdef": 115, 
+            "mpow": 16, 
+            "hp": 5910, 
+            "mp": 260, 
+            "gil": 409, 
+            "exp": 2246, 
+            "level": 37, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 171, 
+            "name": "[Scroll]Fire Scroll"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "id": 52, 
+    "name": "Parasite", 
+    "filename": "052_parasite", 
+    "special_attack": "Gloom Rush", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 80, 
+            "mpow": 10, 
+            "hp": 6200, 
+            "mp": 500, 
+            "gil": 1333, 
+            "exp": 3554, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 90, 
+            "mpow": 15, 
+            "hp": 6500, 
+            "mp": 600, 
+            "gil": 1666, 
+            "exp": 4019, 
+            "level": 56, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 21, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 18, 
+            "hp": 8500, 
+            "mp": 800, 
+            "gil": 1832, 
+            "exp": 5094, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 42, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 110, 
+            "mpow": 21, 
+            "hp": 10300, 
+            "mp": 2200, 
+            "gil": 2015, 
+            "exp": 6334, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "steal_common": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

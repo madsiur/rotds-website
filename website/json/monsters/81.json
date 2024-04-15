@@ -1,0 +1,228 @@
+{
+    "id": 81, 
+    "name": "Mimic Box", 
+    "filename": "081_mimic_box", 
+    "special_attack": "1.21 Gigawatts", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 250, 
+            "mpow": 7, 
+            "hp": 4020, 
+            "mp": 604, 
+            "gil": 465, 
+            "exp": 1504, 
+            "level": 45, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Near fatal"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 250, 
+            "mpow": 10, 
+            "hp": 6080, 
+            "mp": 845, 
+            "gil": 581, 
+            "exp": 1880, 
+            "level": 46, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Near fatal"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 47, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 250, 
+            "mpow": 13, 
+            "hp": 8080, 
+            "mp": 1045, 
+            "gil": 639, 
+            "exp": 2378, 
+            "level": 47, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Near fatal"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 250, 
+            "mpow": 16, 
+            "hp": 10660, 
+            "mp": 1490, 
+            "gil": 702, 
+            "exp": 2956, 
+            "level": 50, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Near fatal"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "torment_d": {
+            "id": 232, 
+            "name": "Life Purge"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

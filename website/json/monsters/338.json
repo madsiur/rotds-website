@@ -1,0 +1,288 @@
+{
+    "id": 338, 
+    "name": "Aquestos", 
+    "filename": "338_aquestos", 
+    "special_attack": "Blue Fang", 
+    "stats": {
+        "normal": {
+            "speed": 75, 
+            "attack": 43, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 42600, 
+            "mp": 13800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 65, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 75, 
+            "attack": 48, 
+            "hit_rate": 130, 
+            "mblock": 5, 
+            "evade": 25, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 44600, 
+            "mp": 14600, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 66, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 55, 
+            "hit_rate": 140, 
+            "mblock": 10, 
+            "evade": 25, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 46600, 
+            "mp": 15300, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 67, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 87, 
+            "attack": 62, 
+            "hit_rate": 150, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 21, 
+            "hp": 48600, 
+            "mp": 16200, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 70, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "drop_rare": {
+            "id": 224, 
+            "name": "[Relic1]Mermaid Tear"
+        }, 
+        "drop_common": {
+            "id": 224, 
+            "name": "[Relic1]Mermaid Tear"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 139, 
+            "name": "Death Sentence"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 177, 
+            "name": "Blaster"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 86, 
+        "name": "[Claw]Titan Claw"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

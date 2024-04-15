@@ -1,0 +1,243 @@
+{
+    "id": 153, 
+    "name": "Dry Bowser", 
+    "filename": "153_dry_bowser", 
+    "special_attack": "Flying Slam", 
+    "stats": {
+        "normal": {
+            "speed": 10, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 6000, 
+            "mp": 801, 
+            "gil": 620, 
+            "exp": 3700, 
+            "level": 54, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 13, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 7643, 
+            "mp": 1020, 
+            "gil": 682, 
+            "exp": 4394, 
+            "level": 55, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 18, 
+            "attack": 46, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 10346, 
+            "mp": 1520, 
+            "gil": 750, 
+            "exp": 5557, 
+            "level": 56, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 25, 
+            "attack": 52, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 18, 
+            "hp": 14692, 
+            "mp": 3040, 
+            "gil": 825, 
+            "exp": 6910, 
+            "level": 59, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 152, 
+            "name": "[Heavy armor]Crystal Mail"
+        }, 
+        "steal_common": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }, 
+        "drop_rare": {
+            "id": 17, 
+            "name": "[Hammer]Cael Hammer"
+        }, 
+        "drop_common": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }, 
+        "torment_d": {
+            "id": 109, 
+            "name": "Rock Slide"
+        }
+    }, 
+    "fight_animation": {
+        "id": 70, 
+        "name": "[Special2]Morning Star"
+    }, 
+    "metamorph": {
+        "id": 6, 
+        "metamorph_a": {
+            "id": 25, 
+            "name": "[Sword2]Cross Radius"
+        }, 
+        "metamorph_b": {
+            "id": 99, 
+            "name": "[Heavy shield]Crystal Shld"
+        }, 
+        "metamorph_c": {
+            "id": 126, 
+            "name": "[Heavy helm1]Crystal Helm"
+        }, 
+        "metamorph_d": {
+            "id": 152, 
+            "name": "[Heavy armor]Crystal Mail"
+        }
+    }
+}

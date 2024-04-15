@@ -1,0 +1,215 @@
+{
+    "id": 366, 
+    "name": "Mugger", 
+    "filename": "366_mugger", 
+    "special_attack": "Sucker Punch", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 11, 
+            "defense": 90, 
+            "mdef": 130, 
+            "mpow": 1, 
+            "hp": 591, 
+            "mp": 20, 
+            "gil": 757, 
+            "exp": 235, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Attack first", 
+                "Special event"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 14, 
+            "defense": 95, 
+            "mdef": 130, 
+            "mpow": 2, 
+            "hp": 655, 
+            "mp": 40, 
+            "gil": 843, 
+            "exp": 262, 
+            "level": 13, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Attack first", 
+                "Special event"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 17, 
+            "defense": 100, 
+            "mdef": 135, 
+            "mpow": 3, 
+            "hp": 781, 
+            "mp": 80, 
+            "gil": 927, 
+            "exp": 288, 
+            "level": 14, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Attack first", 
+                "Special event"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 46, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 105, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 862, 
+            "mp": 160, 
+            "gil": 927, 
+            "exp": 374, 
+            "level": 17, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Attack first", 
+                "Special event"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 134, 
+            "name": "[Light armor]Martial Wear"
+        }, 
+        "steal_common": {
+            "id": 132, 
+            "name": "[Light armor]Leather Vest"
+        }, 
+        "drop_rare": {
+            "id": 105, 
+            "name": "[Mage helm]Leather Cap"
+        }, 
+        "drop_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 136, 
+            "name": "Life Force"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 82, 
+        "name": "[Knife2]Thief Knife"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

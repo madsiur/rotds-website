@@ -1,0 +1,252 @@
+{
+    "id": 306, 
+    "name": "Warlock", 
+    "filename": "306_warlock", 
+    "special_attack": "Grave Impact", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 150, 
+            "mpow": 22, 
+            "hp": 3333, 
+            "mp": 300, 
+            "gil": 350, 
+            "exp": 1880, 
+            "level": 48, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 4444, 
+            "mp": 400, 
+            "gil": 385, 
+            "exp": 2088, 
+            "level": 49, 
+            "immunity": [
+                "Pig", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 150, 
+            "mpow": 24, 
+            "hp": 5555, 
+            "mp": 500, 
+            "gil": 423, 
+            "exp": 2663, 
+            "level": 50, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 19, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 150, 
+            "mpow": 27, 
+            "hp": 6666, 
+            "mp": 600, 
+            "gil": 465, 
+            "exp": 3338, 
+            "level": 53, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 2, 
+            "name": "[Black magic]Spark"
+        }, 
+        "inverse_b": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 2, 
+            "name": "[Black magic]Spark"
+        }, 
+        "torment_c": {
+            "id": 25, 
+            "name": "[Grey magic]Slow"
+        }, 
+        "torment_d": {
+            "id": 31, 
+            "name": "[Grey magic]Haste"
+        }
+    }, 
+    "fight_animation": {
+        "id": 55, 
+        "name": "[Rod3]Thunder Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

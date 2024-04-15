@@ -1,0 +1,194 @@
+{
+    "id": 26, 
+    "name": "Ravager", 
+    "filename": "026_ravager", 
+    "special_attack": "Bloodfest", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 375, 
+            "mp": 10, 
+            "gil": 83, 
+            "exp": 160, 
+            "level": 8, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 16, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 2, 
+            "hp": 380, 
+            "mp": 15, 
+            "gil": 103, 
+            "exp": 178, 
+            "level": 9, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 19, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 460, 
+            "mp": 40, 
+            "gil": 113, 
+            "exp": 210, 
+            "level": 10, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 24, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 723, 
+            "mp": 80, 
+            "gil": 124, 
+            "exp": 253, 
+            "level": 13, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 253, 
+            "name": "Fang Rush"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

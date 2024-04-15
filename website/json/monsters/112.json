@@ -1,0 +1,260 @@
+{
+    "id": 112, 
+    "name": "Pain Demon", 
+    "filename": "112_pain_demon", 
+    "special_attack": "Spawn", 
+    "stats": {
+        "normal": {
+            "speed": 51, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 26, 
+            "evade": 18, 
+            "defense": 150, 
+            "mdef": 135, 
+            "mpow": 10, 
+            "hp": 5826, 
+            "mp": 1372, 
+            "gil": 393, 
+            "exp": 1510, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 64, 
+            "attack": 61, 
+            "hit_rate": 100, 
+            "mblock": 32, 
+            "evade": 19, 
+            "defense": 150, 
+            "mdef": 135, 
+            "mpow": 14, 
+            "hp": 7624, 
+            "mp": 1527, 
+            "gil": 491, 
+            "exp": 1887, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 71, 
+            "hit_rate": 120, 
+            "mblock": 35, 
+            "evade": 22, 
+            "defense": 160, 
+            "mdef": 145, 
+            "mpow": 19, 
+            "hp": 9280, 
+            "mp": 2283, 
+            "gil": 540, 
+            "exp": 3651, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 98, 
+            "attack": 92, 
+            "hit_rate": 140, 
+            "mblock": 45, 
+            "evade": 32, 
+            "defense": 170, 
+            "mdef": 155, 
+            "mpow": 24, 
+            "hp": 12560, 
+            "mp": 2566, 
+            "gil": 594, 
+            "exp": 4539, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 13, 
+            "name": "[Axe]Molten Axe"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 14, 
+            "name": "[Mace]Taser Mace"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 18, 
+            "name": "[Black magic]Vortex"
+        }
+    }, 
+    "fight_animation": {
+        "id": 70, 
+        "name": "[Special2]Morning Star"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

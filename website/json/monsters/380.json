@@ -1,0 +1,310 @@
+{
+    "id": 380, 
+    "name": "Hell Spike", 
+    "filename": "380_hell_spike", 
+    "special_attack": "Acid Breath", 
+    "stats": {
+        "normal": {
+            "speed": 73, 
+            "attack": 63, 
+            "hit_rate": 120, 
+            "mblock": 10, 
+            "evade": 30, 
+            "defense": 132, 
+            "mdef": 153, 
+            "mpow": 22, 
+            "hp": 38683, 
+            "mp": 5000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 65, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 76, 
+            "attack": 69, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 30, 
+            "defense": 142, 
+            "mdef": 153, 
+            "mpow": 24, 
+            "hp": 40328, 
+            "mp": 5500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 66, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 75, 
+            "hit_rate": 140, 
+            "mblock": 10, 
+            "evade": 30, 
+            "defense": 152, 
+            "mdef": 153, 
+            "mpow": 26, 
+            "hp": 42328, 
+            "mp": 6000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 67, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 85, 
+            "attack": 84, 
+            "hit_rate": 150, 
+            "mblock": 10, 
+            "evade": 30, 
+            "defense": 152, 
+            "mdef": 153, 
+            "mpow": 29, 
+            "hp": 44328, 
+            "mp": 6500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 70, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 96, 
+            "name": "[Heavy shield]Red Essence"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 89, 
+            "name": "[Claw]Tiger Claw"
+        }, 
+        "drop_common": {
+            "id": 89, 
+            "name": "[Claw]Tiger Claw"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 197, 
+            "name": "Frozen Tomb"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 17, 
+            "name": "[Black magic]Flood"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

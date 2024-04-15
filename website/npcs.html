@@ -1,759 +1,1049 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>RotDS - NPCs</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <link href="css/style.css" rel="stylesheet">
-</head>
-<body class="page-color">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand" href="https://www.ff6hacking.com/forums/forum-54.html">Return of the Dark Sorcerer</a>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link" href="ost.html">OST A</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="ostb.html">OST B</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="optional.html">Optional Songs</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="sfx.html">SFX</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="brr.html">BRR Samples</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="monsters.html">Monsters</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="characters.html">Characters</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="npcs.html">NPCs</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="guide.html">Strategy Guide</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="credits.html">Credits</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <div class="d-flex justify-content-center mt-2">
-        <h3 id="pageTitle">NPCs</h3>
-    </div>
-    <div class="gallery-container">
-        <div id="npcGallery" class="d-flex justify-content-center flex-wrap">
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/5_ton_weight.png"></img>
-                </div>
-                <div>5 Ton Weight</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ace.png"></img>
-                </div>
-                <div>Ace</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/aerith.png"></img>
-                </div>
-                <div>Aerith</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/agent.png"></img>
-                </div>
-                <div>Agent</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/android_21.png"></img>
-                </div>
-                <div>Android 21</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/arvis.png"></img>
-                </div>
-                <div>Arvis</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/azala.png"></img>
-                </div>
-                <div>Azala</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/blue_merchant.png"></img>
-                </div>
-                <div>Blue Merchant</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/bmo.png"></img>
-                </div>
-                <div>Bmo</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/bomb.png"></img>
-                </div>
-                <div>Bomb</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/buu.png"></img>
-                </div>
-                <div>Buu</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/cactuar.png"></img>
-                </div>
-                <div>Cactuar</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/chain_chomp.png"></img>
-                </div>
-                <div>Chain Chomp</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/chancellor.png"></img>
-                </div>
-                <div>Chancellor</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/child_boy.png"></img>
-                </div>
-                <div>Child Boy</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/child_girl.png"></img>
-                </div>
-                <div>Child Girl</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/chocobo.png"></img>
-                </div>
-                <div>Chocobo</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/chupon.png"></img>
-                </div>
-                <div>Chupon</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/commander.png"></img>
-                </div>
-                <div>Commander</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/convict.png"></img>
-                </div>
-                <div>Convict</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/diving_helmet.png"></img>
-                </div>
-                <div>Diving Helmet</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/draco.png"></img>
-                </div>
-                <div>Draco</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/dragon.png"></img>
-                </div>
-                <div>Dragon</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/esper_aurora.png"></img>
-                </div>
-                <div>Esper Aurora</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/esper_elder.png"></img>
-                </div>
-                <div>Esper Elder</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/evonne.png"></img>
-                </div>
-                <div>Evonne</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/fairy.png"></img>
-                </div>
-                <div>Fairy</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/finn.png"></img>
-                </div>
-                <div>Finn</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/fish.png"></img>
-                </div>
-                <div>Fish</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/fisherman.png"></img>
-                </div>
-                <div>Fisherman</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/floozy.png"></img>
-                </div>
-                <div>Floozy</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/frozen_soldier.png"></img>
-                </div>
-                <div>Frozen Soldier</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gaspar.png"></img>
-                </div>
-                <div>Gaspar</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gemini.png"></img>
-                </div>
-                <div>Gemini</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gestahl.png"></img>
-                </div>
-                <div>Gestahl</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ghost.png"></img>
-                </div>
-                <div>Ghost</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gi_nattak.png"></img>
-                </div>
-                <div>Gi Nattak</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gilgamesh.png"></img>
-                </div>
-                <div>Gilgamesh</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/god_kefka.png"></img>
-                </div>
-                <div>God Kefka</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/gold_idol.png"></img>
-                </div>
-                <div>Gold Idol</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/guru.png"></img>
-                </div>
-                <div>Guru</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/heisenberg.png"></img>
-                </div>
-                <div>Heisenberg</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ifrit.png"></img>
-                </div>
-                <div>Ifrit</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/impressario.png"></img>
-                </div>
-                <div>Impressario</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/jake.png"></img>
-                </div>
-                <div>Jake</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/kazim.png"></img>
-                </div>
-                <div>Kazim</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/kefka.png"></img>
-                </div>
-                <div>Kefka</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ken.png"></img>
-                </div>
-                <div>Ken</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/king_dragaunus.png"></img>
-                </div>
-                <div>King Dragaunus</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/klatu.png"></img>
-                </div>
-                <div>Klatu</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/lee.png"></img>
-                </div>
-                <div>Lee</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/link.png"></img>
-                </div>
-                <div>Link</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/lonewolf.png"></img>
-                </div>
-                <div>Lonewolf</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/lt_red.png"></img>
-                </div>
-                <div>Lt Red</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/lunar.png"></img>
-                </div>
-                <div>Lunar</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/madeen.png"></img>
-                </div>
-                <div>Madeen</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/magicite.png"></img>
-                </div>
-                <div>Magicite</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mailman.png"></img>
-                </div>
-                <div>Mailman</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mayor_oswald.png"></img>
-                </div>
-                <div>Mayor Oswald</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/merchant.png"></img>
-                </div>
-                <div>Merchant</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/metroid.png"></img>
-                </div>
-                <div>Metroid</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/miku.png"></img>
-                </div>
-                <div>Miku</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/moggie.png"></img>
-                </div>
-                <div>Moggie</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/monster_in_a_box.png"></img>
-                </div>
-                <div>Monster In A Box</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_black.png"></img>
-                </div>
-                <div>Mr Black</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_blue.png"></img>
-                </div>
-                <div>Mr Blue</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_grimm.png"></img>
-                </div>
-                <div>Mr Grimm</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_pink.png"></img>
-                </div>
-                <div>Mr Pink</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_red.png"></img>
-                </div>
-                <div>Mr Red</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_saturn.png"></img>
-                </div>
-                <div>Mr Saturn</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mr_yellow.png"></img>
-                </div>
-                <div>Mr Yellow</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/mtek_armor.png"></img>
-                </div>
-                <div>Mtek Armor</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/nayru.png"></img>
-                </div>
-                <div>Nayru</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/npc_man.png"></img>
-                </div>
-                <div>Npc Man</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/npc_man_green.png"></img>
-                </div>
-                <div>Npc Man Green</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/odin.png"></img>
-                </div>
-                <div>Odin</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/olbohn.png"></img>
-                </div>
-                <div>Olbohn</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/opera_receptionist.png"></img>
-                </div>
-                <div>Opera Receptionist</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/oyama.png"></img>
-                </div>
-                <div>Oyama</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/pepe.png"></img>
-                </div>
-                <div>Pepe</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/pirate.png"></img>
-                </div>
-                <div>Pirate</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/pixie.png"></img>
-                </div>
-                <div>Pixie</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/plague_salesman.png"></img>
-                </div>
-                <div>Plague Salesman</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/prince_joffrey.png"></img>
-                </div>
-                <div>Prince Joffrey</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/prinny.png"></img>
-                </div>
-                <div>Prinny</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/prof_oak.png"></img>
-                </div>
-                <div>Prof Oak</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/raditz.png"></img>
-                </div>
-                <div>Raditz</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ramuh.png"></img>
-                </div>
-                <div>Ramuh</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/royal_reptite.png"></img>
-                </div>
-                <div>Royal Reptite</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/sales_ghost.png"></img>
-                </div>
-                <div>Sales Ghost</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/santa.png"></img>
-                </div>
-                <div>Santa</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/seagull.png"></img>
-                </div>
-                <div>Seagull</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/selenian.png"></img>
-                </div>
-                <div>Selenian</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/shiva.png"></img>
-                </div>
-                <div>Shiva</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/skeleton.png"></img>
-                </div>
-                <div>Skeleton</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/slave_crown.png"></img>
-                </div>
-                <div>Slave Crown</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/snakes.png"></img>
-                </div>
-                <div>Snakes</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/soultaker_1.png"></img>
-                </div>
-                <div>Soultaker 1</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/soultaker_2.png"></img>
-                </div>
-                <div>Soultaker 2</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/star.png"></img>
-                </div>
-                <div>Star</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/talon.png"></img>
-                </div>
-                <div>Talon</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/teresa.png"></img>
-                </div>
-                <div>Teresa</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/terry.png"></img>
-                </div>
-                <div>Terry</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/titan.png"></img>
-                </div>
-                <div>Titan</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/tonberry.png"></img>
-                </div>
-                <div>Tonberry</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/treasure_chest.png"></img>
-                </div>
-                <div>Treasure Chest</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/turtle.png"></img>
-                </div>
-                <div>Turtle</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/tuturis.png"></img>
-                </div>
-                <div>Tuturis</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/ultros.png"></img>
-                </div>
-                <div>Ultros</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/valkarye.png"></img>
-                </div>
-                <div>Valkarye</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/varia_suit.png"></img>
-                </div>
-                <div>Varia Suit</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/wounded_solider.png"></img>
-                </div>
-                <div>Wounded Solider</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/yeti.png"></img>
-                </div>
-                <div>Yeti</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/young_oboro.png"></img>
-                </div>
-                <div>Young Oboro</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/zombie.png"></img>
-                </div>
-                <div>Zombie</div>
-            </div>
-            <div class="d-flex flex-column align-items-center mb-2 mx-2">
-                <div class="mt-auto">
-                    <img src="npcs/zuriel.png"></img>
-                </div>
-                <div>Zuriel</div>
-            </div>
-        </div>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-</body>
+<html class="h-100" lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="return of the dark sorcerer, rotds, ffvi rotds, ff6 rotds, ff6 hack, ffvi hack, ff6 romhack, ffvi romhack, ff6 rom hack, ffvi rom hack, ff6 mod, ffvi mod, ff6 hacking, ffvi hacking, ff6 modding, ffvi modding, romhack, mod, romhacking, modding, snes, super nintendo, squaresoft, square-enix, npc, npcs, non-playable character, portrait, sprite, npc portrait, npc sprite, npc gallery, npc list, npc images" name="keywords"/>
+        <meta content="Non-playable characters gallery of the Return of the Dark Sorcerer official website." name="description"/>
+        <meta content="RotDS - NPCs Gallery" name="pagename"/>
+        <meta content="EN" name="language"/>
+        <meta content="madsiur" name="author"/>
+        <meta content="https://www.ff6hacking.com/rotds/npcs.html" name="url"/>
+        <meta content="https://www.ff6hacking.com/rotds/npcs.html" name="identifier-URL"/>
+        <meta content="General" name="rating"/>
+        <meta content="Worldwide" name="coverage"/>
+        <meta content="Global" name="distribution"/>
+        <meta content="RotDS - NPCs Gallery" name="og:title"/>
+        <meta content="https://www.ff6hacking.com/rotds/media/chocobo.png" name="og:image"/>
+        <meta content="image/png" property="og:image:type"/>
+        <meta content="120" property="og:image:width"/>
+        <meta content="120" property="og:image:height"/>
+        <meta content="Chocobo" property="og:image:alt"/>
+        <meta content="Return of the Dark Sorcerer" name="og:site_name"/>
+        <meta content="Non-playable characters gallery of the Return of the Dark Sorcerer official website." name="og:description"/>
+        <meta content="website" name="og:type"/>
+        <meta content="https://www.ff6hacking.com/rotds/npcs.html" name="og:url"/>
+        <title>
+            RotDS - NPCs Gallery
+        </title>
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" rel="stylesheet"/>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body class="page-color d-flex flex-column h-100">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon">
+                    </span>
+                </button>
+                <a class="navbar-brand" href="home.html">
+                    Return of the Dark Sorcerer
+                </a>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="ost-a.html">
+                                OST A
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ost-b.html">
+                                OST B
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="optional-songs.html">
+                                Optional Songs
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="sfx.html">
+                                SFX
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="brr.html">
+                                BRR Samples
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="monsters-1.html">
+                                Monsters
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="characters.html">
+                                Characters
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="npcs.html">
+                                NPCs
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="guide.html">
+                                Strategy Guide
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="credits.html">
+                                Credits
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center mt-2">
+                <h3 id="pageTitle">
+                    NPCs
+                </h3>
+            </div>
+            <div class="gallery-container">
+                <div class="d-flex justify-content-center flex-wrap" id="npcGallery">
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/5_ton_weight.png"/>
+                        </div>
+                        <div>
+                            5 ton weight.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ace.png"/>
+                        </div>
+                        <div>
+                            Ace.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/aerith.png"/>
+                        </div>
+                        <div>
+                            Aerith.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/agent.png"/>
+                        </div>
+                        <div>
+                            Agent.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/android_21.png"/>
+                        </div>
+                        <div>
+                            Android 21.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/arvis.png"/>
+                        </div>
+                        <div>
+                            Arvis.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/azala.png"/>
+                        </div>
+                        <div>
+                            Azala.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/blue_merchant.png"/>
+                        </div>
+                        <div>
+                            Blue merchant.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/bmo.png"/>
+                        </div>
+                        <div>
+                            Bmo.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/bomb.png"/>
+                        </div>
+                        <div>
+                            Bomb.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/buu.png"/>
+                        </div>
+                        <div>
+                            Buu.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/cactuar.png"/>
+                        </div>
+                        <div>
+                            Cactuar.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/chain_chomp.png"/>
+                        </div>
+                        <div>
+                            Chain chomp.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/chancellor.png"/>
+                        </div>
+                        <div>
+                            Chancellor.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/child_boy.png"/>
+                        </div>
+                        <div>
+                            Child boy.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/child_girl.png"/>
+                        </div>
+                        <div>
+                            Child girl.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/chocobo.png"/>
+                        </div>
+                        <div>
+                            Chocobo.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/chupon.png"/>
+                        </div>
+                        <div>
+                            Chupon.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/commander.png"/>
+                        </div>
+                        <div>
+                            Commander.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/convict.png"/>
+                        </div>
+                        <div>
+                            Convict.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/diving_helmet.png"/>
+                        </div>
+                        <div>
+                            Diving helmet.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/draco.png"/>
+                        </div>
+                        <div>
+                            Draco.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/dragon.png"/>
+                        </div>
+                        <div>
+                            Dragon.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/esper_aurora.png"/>
+                        </div>
+                        <div>
+                            Esper aurora.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/esper_elder.png"/>
+                        </div>
+                        <div>
+                            Esper elder.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/evonne.png"/>
+                        </div>
+                        <div>
+                            Evonne.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/fairy.png"/>
+                        </div>
+                        <div>
+                            Fairy.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/finn.png"/>
+                        </div>
+                        <div>
+                            Finn.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/fish.png"/>
+                        </div>
+                        <div>
+                            Fish.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/fisherman.png"/>
+                        </div>
+                        <div>
+                            Fisherman.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/floozy.png"/>
+                        </div>
+                        <div>
+                            Floozy.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/frozen_soldier.png"/>
+                        </div>
+                        <div>
+                            Frozen soldier.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gaspar.png"/>
+                        </div>
+                        <div>
+                            Gaspar.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gemini.png"/>
+                        </div>
+                        <div>
+                            Gemini.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gestahl.png"/>
+                        </div>
+                        <div>
+                            Gestahl.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ghost.png"/>
+                        </div>
+                        <div>
+                            Ghost.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gi_nattak.png"/>
+                        </div>
+                        <div>
+                            Gi nattak.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gilgamesh.png"/>
+                        </div>
+                        <div>
+                            Gilgamesh.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/god_kefka.png"/>
+                        </div>
+                        <div>
+                            God kefka.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/gold_idol.png"/>
+                        </div>
+                        <div>
+                            Gold idol.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/guru.png"/>
+                        </div>
+                        <div>
+                            Guru.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/heisenberg.png"/>
+                        </div>
+                        <div>
+                            Heisenberg.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ifrit.png"/>
+                        </div>
+                        <div>
+                            Ifrit.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/impressario.png"/>
+                        </div>
+                        <div>
+                            Impressario.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/jake.png"/>
+                        </div>
+                        <div>
+                            Jake.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/kazim.png"/>
+                        </div>
+                        <div>
+                            Kazim.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/kefka.png"/>
+                        </div>
+                        <div>
+                            Kefka.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ken.png"/>
+                        </div>
+                        <div>
+                            Ken.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/king_dragaunus.png"/>
+                        </div>
+                        <div>
+                            King dragaunus.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/klatu.png"/>
+                        </div>
+                        <div>
+                            Klatu.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/lee.png"/>
+                        </div>
+                        <div>
+                            Lee.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/link.png"/>
+                        </div>
+                        <div>
+                            Link.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/lonewolf.png"/>
+                        </div>
+                        <div>
+                            Lonewolf.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/lt_red.png"/>
+                        </div>
+                        <div>
+                            Lt red.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/lunar.png"/>
+                        </div>
+                        <div>
+                            Lunar.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/madeen.png"/>
+                        </div>
+                        <div>
+                            Madeen.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/magicite.png"/>
+                        </div>
+                        <div>
+                            Magicite.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mailman.png"/>
+                        </div>
+                        <div>
+                            Mailman.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mayor_oswald.png"/>
+                        </div>
+                        <div>
+                            Mayor oswald.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/merchant.png"/>
+                        </div>
+                        <div>
+                            Merchant.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/metroid.png"/>
+                        </div>
+                        <div>
+                            Metroid.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/miku.png"/>
+                        </div>
+                        <div>
+                            Miku.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/moggie.png"/>
+                        </div>
+                        <div>
+                            Moggie.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/monster_in_a_box.png"/>
+                        </div>
+                        <div>
+                            Monster in a box.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_black.png"/>
+                        </div>
+                        <div>
+                            Mr black.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_blue.png"/>
+                        </div>
+                        <div>
+                            Mr blue.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_grimm.png"/>
+                        </div>
+                        <div>
+                            Mr grimm.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_pink.png"/>
+                        </div>
+                        <div>
+                            Mr pink.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_red.png"/>
+                        </div>
+                        <div>
+                            Mr red.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_saturn.png"/>
+                        </div>
+                        <div>
+                            Mr saturn.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mr_yellow.png"/>
+                        </div>
+                        <div>
+                            Mr yellow.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/mtek_armor.png"/>
+                        </div>
+                        <div>
+                            Mtek armor.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/nayru.png"/>
+                        </div>
+                        <div>
+                            Nayru.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/npc_man.png"/>
+                        </div>
+                        <div>
+                            Npc man.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/npc_man_green.png"/>
+                        </div>
+                        <div>
+                            Npc man green.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/odin.png"/>
+                        </div>
+                        <div>
+                            Odin.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/olbohn.png"/>
+                        </div>
+                        <div>
+                            Olbohn.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/opera_receptionist.png"/>
+                        </div>
+                        <div>
+                            Opera receptionist.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/oyama.png"/>
+                        </div>
+                        <div>
+                            Oyama.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/pepe.png"/>
+                        </div>
+                        <div>
+                            Pepe.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/pirate.png"/>
+                        </div>
+                        <div>
+                            Pirate.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/pixie.png"/>
+                        </div>
+                        <div>
+                            Pixie.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/plague_salesman.png"/>
+                        </div>
+                        <div>
+                            Plague salesman.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/prince_joffrey.png"/>
+                        </div>
+                        <div>
+                            Prince joffrey.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/prinny.png"/>
+                        </div>
+                        <div>
+                            Prinny.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/prof_oak.png"/>
+                        </div>
+                        <div>
+                            Prof oak.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/raditz.png"/>
+                        </div>
+                        <div>
+                            Raditz.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ramuh.png"/>
+                        </div>
+                        <div>
+                            Ramuh.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/royal_reptite.png"/>
+                        </div>
+                        <div>
+                            Royal reptite.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/sales_ghost.png"/>
+                        </div>
+                        <div>
+                            Sales ghost.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/santa.png"/>
+                        </div>
+                        <div>
+                            Santa.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/seagull.png"/>
+                        </div>
+                        <div>
+                            Seagull.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/selenian.png"/>
+                        </div>
+                        <div>
+                            Selenian.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/shiva.png"/>
+                        </div>
+                        <div>
+                            Shiva.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/skeleton.png"/>
+                        </div>
+                        <div>
+                            Skeleton.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/slave_crown.png"/>
+                        </div>
+                        <div>
+                            Slave crown.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/snakes.png"/>
+                        </div>
+                        <div>
+                            Snakes.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/soultaker_1.png"/>
+                        </div>
+                        <div>
+                            Soultaker 1.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/soultaker_2.png"/>
+                        </div>
+                        <div>
+                            Soultaker 2.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/star.png"/>
+                        </div>
+                        <div>
+                            Star.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/talon.png"/>
+                        </div>
+                        <div>
+                            Talon.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/teresa.png"/>
+                        </div>
+                        <div>
+                            Teresa.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/terry.png"/>
+                        </div>
+                        <div>
+                            Terry.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/titan.png"/>
+                        </div>
+                        <div>
+                            Titan.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/tonberry.png"/>
+                        </div>
+                        <div>
+                            Tonberry.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/treasure_chest.png"/>
+                        </div>
+                        <div>
+                            Treasure chest.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/turtle.png"/>
+                        </div>
+                        <div>
+                            Turtle.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/tuturis.png"/>
+                        </div>
+                        <div>
+                            Tuturis.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/ultros.png"/>
+                        </div>
+                        <div>
+                            Ultros.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/valkarye.png"/>
+                        </div>
+                        <div>
+                            Valkarye.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/varia_suit.png"/>
+                        </div>
+                        <div>
+                            Varia suit.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/wounded_solider.png"/>
+                        </div>
+                        <div>
+                            Wounded solider.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/yeti.png"/>
+                        </div>
+                        <div>
+                            Yeti.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/young_oboro.png"/>
+                        </div>
+                        <div>
+                            Young oboro.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/zombie.png"/>
+                        </div>
+                        <div>
+                            Zombie.png
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-center mb-2 mx-2">
+                        <div class="mt-auto">
+                            <img src="npcs/zuriel.png"/>
+                        </div>
+                        <div>
+                            Zuriel.png
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="footer mt-auto bg-dark text-white text-center py-1">
+            <div class="container">
+                <div>
+                    2024 Return of the Dark Sorcerer. Website by madsiur.
+                </div>
+            </div>
+        </footer>
+        <script crossorigin="anonymous" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js">
+        </script>
+        <script crossorigin="anonymous" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js">
+        </script>
+    </body>
 </html>

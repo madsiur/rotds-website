@@ -1,0 +1,228 @@
+{
+    "id": 201, 
+    "name": "Headcrab", 
+    "filename": "201_headcrab", 
+    "special_attack": "Delta Wave", 
+    "stats": {
+        "normal": {
+            "speed": 34, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 2, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 2222, 
+            "mp": 183, 
+            "gil": 350, 
+            "exp": 800, 
+            "level": 33, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 37, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 23, 
+            "evade": 4, 
+            "defense": 122, 
+            "mdef": 142, 
+            "mpow": 13, 
+            "hp": 3333, 
+            "mp": 245, 
+            "gil": 437, 
+            "exp": 1000, 
+            "level": 34, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 40, 
+            "hit_rate": 110, 
+            "mblock": 29, 
+            "evade": 6, 
+            "defense": 123, 
+            "mdef": 144, 
+            "mpow": 15, 
+            "hp": 4333, 
+            "mp": 302, 
+            "gil": 480, 
+            "exp": 1265, 
+            "level": 35, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 61, 
+            "attack": 56, 
+            "hit_rate": 120, 
+            "mblock": 36, 
+            "evade": 12, 
+            "defense": 125, 
+            "mdef": 140, 
+            "mpow": 17, 
+            "hp": 5666, 
+            "mp": 376, 
+            "gil": 480, 
+            "exp": 1430, 
+            "level": 36, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 159, 
+            "name": "Rock Barrage"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 159, 
+            "name": "Rock Barrage"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }, 
+        "torment_c": {
+            "id": 159, 
+            "name": "Rock Barrage"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

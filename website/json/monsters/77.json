@@ -1,0 +1,185 @@
+{
+    "id": 77, 
+    "name": "Goblin", 
+    "filename": "077_goblin", 
+    "special_attack": "Ruin", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 7, 
+            "defense": 80, 
+            "mdef": 120, 
+            "mpow": 1, 
+            "hp": 35, 
+            "mp": 15, 
+            "gil": 25, 
+            "exp": 25, 
+            "level": 4, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 90, 
+            "mdef": 120, 
+            "mpow": 2, 
+            "hp": 65, 
+            "mp": 20, 
+            "gil": 31, 
+            "exp": 31, 
+            "level": 5, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 17, 
+            "defense": 100, 
+            "mdef": 130, 
+            "mpow": 3, 
+            "hp": 153, 
+            "mp": 50, 
+            "gil": 34, 
+            "exp": 39, 
+            "level": 6, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 23, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 230, 
+            "mp": 100, 
+            "gil": 37, 
+            "exp": 48, 
+            "level": 9, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 84, 
+        "name": "[Glove]Brass Knucks"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

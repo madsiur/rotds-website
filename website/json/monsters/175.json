@@ -1,0 +1,246 @@
+{
+    "id": 175, 
+    "name": "MagWheeler", 
+    "filename": "175_magwheeler", 
+    "special_attack": "Rush", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 15, 
+            "defense": 20, 
+            "mdef": 140, 
+            "mpow": 1, 
+            "hp": 1253, 
+            "mp": 100, 
+            "gil": 300, 
+            "exp": 198, 
+            "level": 18, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 50, 
+            "mdef": 143, 
+            "mpow": 3, 
+            "hp": 1562, 
+            "mp": 120, 
+            "gil": 375, 
+            "exp": 247, 
+            "level": 19, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 23, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 1849, 
+            "mp": 250, 
+            "gil": 412, 
+            "exp": 311, 
+            "level": 20, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 51, 
+            "attack": 52, 
+            "hit_rate": 110, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 100, 
+            "mdef": 155, 
+            "mpow": 10, 
+            "hp": 2471, 
+            "mp": 500, 
+            "gil": 453, 
+            "exp": 387, 
+            "level": 23, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 173, 
+            "name": "[Scroll]Bolt Scroll"
+        }, 
+        "steal_common": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "drop_rare": {
+            "id": 171, 
+            "name": "[Scroll]Fire Scroll"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 27, 
+            "name": "[Grey magic]Mute"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

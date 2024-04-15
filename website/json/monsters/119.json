@@ -1,0 +1,221 @@
+{
+    "id": 119, 
+    "name": "Skree", 
+    "filename": "119_skree", 
+    "special_attack": "Inferno Slash", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 100, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 1709, 
+            "mp": 265, 
+            "gil": 416, 
+            "exp": 1001, 
+            "level": 36, 
+            "immunity": [
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 50, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 15, 
+            "defense": 105, 
+            "mdef": 145, 
+            "mpow": 12, 
+            "hp": 2069, 
+            "mp": 302, 
+            "gil": 520, 
+            "exp": 1876, 
+            "level": 37, 
+            "immunity": [
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 60, 
+            "attack": 30, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 18, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 2693, 
+            "mp": 368, 
+            "gil": 572, 
+            "exp": 2372, 
+            "level": 38, 
+            "immunity": [
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 70, 
+            "attack": 60, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 28, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 26, 
+            "hp": 4368, 
+            "mp": 456, 
+            "gil": 629, 
+            "exp": 2949, 
+            "level": 41, 
+            "immunity": [
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 157, 
+            "name": "[Light armor]Ghost Suit"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 177, 
+            "name": "Blaster"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 177, 
+            "name": "Blaster"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 31, 
+        "name": "[Spear2]Gold Trident"
+    }, 
+    "metamorph": {
+        "id": 10, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 194, 
+            "name": "[Relic1]Thief Gloves"
+        }
+    }
+}

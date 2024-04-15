@@ -1,0 +1,282 @@
+{
+    "id": 288, 
+    "name": "The World", 
+    "filename": "288_the_world", 
+    "special_attack": "Body Slam", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 66, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 9, 
+            "hp": 20000, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 47, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 71, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 11, 
+            "hp": 22000, 
+            "mp": 3500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 48, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 84, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 13, 
+            "hp": 24000, 
+            "mp": 4000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 49, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 91, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 100, 
+            "mpow": 16, 
+            "hp": 26000, 
+            "mp": 4500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 52, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 49, 
+            "name": "[White magic]Arise"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 14, 
+        "name": "[Mace]Taser Mace"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

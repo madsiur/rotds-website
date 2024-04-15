@@ -1,0 +1,261 @@
+{
+    "id": 164, 
+    "name": "Wraith", 
+    "filename": "164_wraith", 
+    "special_attack": "Night Slash", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 3, 
+            "defense": 105, 
+            "mdef": 153, 
+            "mpow": 8, 
+            "hp": 1750, 
+            "mp": 160, 
+            "gil": 786, 
+            "exp": 1305, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Seizure", 
+                "Slow"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 5, 
+            "defense": 110, 
+            "mdef": 155, 
+            "mpow": 10, 
+            "hp": 2189, 
+            "mp": 213, 
+            "gil": 982, 
+            "exp": 1637, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Seizure", 
+                "Slow"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 44, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 7, 
+            "defense": 110, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 2837, 
+            "mp": 260, 
+            "gil": 1080, 
+            "exp": 2070, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Seizure", 
+                "Slow"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 51, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 9, 
+            "defense": 113, 
+            "mdef": 158, 
+            "mpow": 15, 
+            "hp": 3402, 
+            "mp": 320, 
+            "gil": 1188, 
+            "exp": 2574, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison", 
+                "Seizure", 
+                "Slow"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 158, 
+            "name": "Rippler"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 2, 
+        "name": "[Large sword]Rune Blade"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

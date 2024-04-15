@@ -1,0 +1,306 @@
+{
+    "id": 31, 
+    "name": "Hydra", 
+    "filename": "031_hydra", 
+    "special_attack": "Freeze Shock", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 3, 
+            "defense": 110, 
+            "mdef": 110, 
+            "mpow": 10, 
+            "hp": 3573, 
+            "mp": 300, 
+            "gil": 760, 
+            "exp": 1414, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 50, 
+            "attack": 52, 
+            "hit_rate": 100, 
+            "mblock": 33, 
+            "evade": 5, 
+            "defense": 135, 
+            "mdef": 115, 
+            "mpow": 12, 
+            "hp": 4275, 
+            "mp": 400, 
+            "gil": 1575, 
+            "exp": 2030, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 62, 
+            "attack": 60, 
+            "hit_rate": 110, 
+            "mblock": 36, 
+            "evade": 7, 
+            "defense": 145, 
+            "mdef": 120, 
+            "mpow": 16, 
+            "hp": 5074, 
+            "mp": 500, 
+            "gil": 1732, 
+            "exp": 2567, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 81, 
+            "hit_rate": 130, 
+            "mblock": 39, 
+            "evade": 9, 
+            "defense": 155, 
+            "mdef": 130, 
+            "mpow": 19, 
+            "hp": 6839, 
+            "mp": 800, 
+            "gil": 1905, 
+            "exp": 3192, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Ice", 
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 118, 
+            "name": "[Heavy helm1]Gold Helm"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 143, 
+            "name": "[Heavy armor]Mithril Mail"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }, 
+        "torment_d": {
+            "id": 186, 
+            "name": "Frost Bite"
+        }
+    }, 
+    "fight_animation": {
+        "id": 14, 
+        "name": "[Mace]Taser Mace"
+    }, 
+    "metamorph": {
+        "id": 20, 
+        "metamorph_a": {
+            "id": 73, 
+            "name": "[Anchor]Iron Anchor"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 171, 
+            "name": "[Scroll]Fire Scroll"
+        }, 
+        "metamorph_d": {
+            "id": 96, 
+            "name": "[Heavy shield]Red Essence"
+        }
+    }
+}

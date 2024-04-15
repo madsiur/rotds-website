@@ -1,0 +1,324 @@
+{
+    "id": 275, 
+    "name": "FlameEagle", 
+    "filename": "275_flameeagle", 
+    "special_attack": "Velocity Ratchet", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 15000, 
+            "mp": 1750, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 18000, 
+            "mp": 1800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 60, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 15, 
+            "evade": 25, 
+            "defense": 150, 
+            "mdef": 160, 
+            "mpow": 14, 
+            "hp": 21000, 
+            "mp": 2000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 65, 
+            "attack": 52, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 150, 
+            "mdef": 180, 
+            "mpow": 17, 
+            "hp": 23000, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 191, 
+            "name": "[Relic1]Eaglehorn"
+        }, 
+        "drop_common": {
+            "id": 191, 
+            "name": "[Relic1]Eaglehorn"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 74, 
+        "name": "[Special1]Dream Sphere"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

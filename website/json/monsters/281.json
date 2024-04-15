@@ -1,0 +1,299 @@
+{
+    "id": 281, 
+    "name": "Drakkazul", 
+    "filename": "281_drakkazul", 
+    "special_attack": "Fartillery", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 41, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 130, 
+            "mpow": 12, 
+            "hp": 32000, 
+            "mp": 3800, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 43, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 67, 
+            "attack": 51, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 130, 
+            "mpow": 14, 
+            "hp": 35000, 
+            "mp": 4000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 44, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 83, 
+            "attack": 61, 
+            "hit_rate": 150, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 16, 
+            "hp": 38000, 
+            "mp": 4700, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 45, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 96, 
+            "attack": 71, 
+            "hit_rate": 170, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 42000, 
+            "mp": 5400, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 48, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Poison"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 47, 
+            "name": "[Katana]Bizen Boat"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 161, 
+            "name": "[Light armor]Yeti Suit"
+        }, 
+        "drop_common": {
+            "id": 161, 
+            "name": "[Light armor]Yeti Suit"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 55, 
+            "name": "Hellfire"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 80, 
+        "name": "[Axe]Stone Axe"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

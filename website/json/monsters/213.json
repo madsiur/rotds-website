@@ -1,0 +1,272 @@
+{
+    "id": 213, 
+    "name": "BonePillar", 
+    "filename": "213_bonepillar", 
+    "special_attack": "Bone Powder", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 1, 
+            "defense": 102, 
+            "mdef": 20, 
+            "mpow": 10, 
+            "hp": 4000, 
+            "mp": 600, 
+            "gil": 502, 
+            "exp": 1080, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 2, 
+            "defense": 102, 
+            "mdef": 40, 
+            "mpow": 11, 
+            "hp": 4500, 
+            "mp": 620, 
+            "gil": 627, 
+            "exp": 1275, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 42, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 5, 
+            "defense": 102, 
+            "mdef": 60, 
+            "mpow": 13, 
+            "hp": 5300, 
+            "mp": 700, 
+            "gil": 689, 
+            "exp": 1432, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 61, 
+            "hit_rate": 130, 
+            "mblock": 27, 
+            "evade": 12, 
+            "defense": 122, 
+            "mdef": 80, 
+            "mpow": 15, 
+            "hp": 7600, 
+            "mp": 840, 
+            "gil": 689, 
+            "exp": 1693, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "drop_rare": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 214, 
+            "name": "Chaotic Disaster"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }, 
+        "inverse_b": {
+            "id": 192, 
+            "name": "Heartless Angel"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

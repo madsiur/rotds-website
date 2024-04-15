@@ -1,0 +1,229 @@
+{
+    "id": 104, 
+    "name": "Harbinger", 
+    "filename": "104_harbinger", 
+    "special_attack": "Rampage", 
+    "stats": {
+        "normal": {
+            "speed": 34, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 18, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 5211, 
+            "mp": 291, 
+            "gil": 869, 
+            "exp": 2583, 
+            "level": 44, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 21, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 7322, 
+            "mp": 419, 
+            "gil": 1086, 
+            "exp": 3978, 
+            "level": 45, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 46, 
+            "hit_rate": 120, 
+            "mblock": 23, 
+            "evade": 23, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 10400, 
+            "mp": 483, 
+            "gil": 1194, 
+            "exp": 5031, 
+            "level": 46, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 69, 
+            "attack": 62, 
+            "hit_rate": 140, 
+            "mblock": 25, 
+            "evade": 25, 
+            "defense": 120, 
+            "mdef": 160, 
+            "mpow": 27, 
+            "hp": 18200, 
+            "mp": 560, 
+            "gil": 1313, 
+            "exp": 6255, 
+            "level": 49, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 47, 
+            "name": "[Katana]Bizen Boat"
+        }, 
+        "steal_common": {
+            "id": 43, 
+            "name": "[Katana]Sange"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }, 
+        "inverse_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_c": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }, 
+        "torment_d": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }
+    }, 
+    "fight_animation": {
+        "id": 56, 
+        "name": "[Rod1]Serpent Rod"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

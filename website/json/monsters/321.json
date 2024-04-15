@@ -1,0 +1,274 @@
+{
+    "id": 321, 
+    "name": "Prinny", 
+    "filename": "321_prinny", 
+    "special_attack": "Prinny Barrage", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 0, 
+            "hp": 180, 
+            "mp": 170, 
+            "gil": 60, 
+            "exp": 54, 
+            "level": 4, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 80, 
+            "mdef": 155, 
+            "mpow": 1, 
+            "hp": 238, 
+            "mp": 186, 
+            "gil": 67, 
+            "exp": 60, 
+            "level": 5, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 90, 
+            "mdef": 160, 
+            "mpow": 2, 
+            "hp": 438, 
+            "mp": 236, 
+            "gil": 73, 
+            "exp": 66, 
+            "level": 6, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 160, 
+            "mpow": 3, 
+            "hp": 650, 
+            "mp": 272, 
+            "gil": 73, 
+            "exp": 110, 
+            "level": 9, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 115, 
+            "name": "Snowball"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 6, 
+        "name": "[Knife2]War Machete"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

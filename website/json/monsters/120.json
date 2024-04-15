@@ -1,0 +1,189 @@
+{
+    "id": 120, 
+    "name": "Alpha Wolf", 
+    "filename": "120_alpha_wolf", 
+    "special_attack": "Pounce", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 625, 
+            "mp": 46, 
+            "gil": 185, 
+            "exp": 135, 
+            "level": 15, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 95, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 816, 
+            "mp": 68, 
+            "gil": 231, 
+            "exp": 168, 
+            "level": 16, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 1361, 
+            "mp": 107, 
+            "gil": 254, 
+            "exp": 211, 
+            "level": 17, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 68, 
+            "attack": 60, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 2023, 
+            "mp": 140, 
+            "gil": 279, 
+            "exp": 262, 
+            "level": 20, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

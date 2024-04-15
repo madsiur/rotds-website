@@ -1,0 +1,290 @@
+{
+    "id": 370, 
+    "name": "Disciple", 
+    "filename": "370_disciple", 
+    "special_attack": "Razing Fist", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 20, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 3, 
+            "hp": 3503, 
+            "mp": 500, 
+            "gil": 2000, 
+            "exp": 570, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 20, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 4, 
+            "hp": 3703, 
+            "mp": 600, 
+            "gil": 2450, 
+            "exp": 662, 
+            "level": 18, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 9, 
+            "evade": 20, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 5, 
+            "hp": 4003, 
+            "mp": 700, 
+            "gil": 2750, 
+            "exp": 1156, 
+            "level": 19, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 39, 
+            "hit_rate": 120, 
+            "mblock": 11, 
+            "evade": 20, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 8, 
+            "hp": 4503, 
+            "mp": 800, 
+            "gil": 3000, 
+            "exp": 1762, 
+            "level": 22, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 12, 
+            "name": "[Sword2]Mystic Sword"
+        }, 
+        "steal_common": {
+            "id": 12, 
+            "name": "[Sword2]Mystic Sword"
+        }, 
+        "drop_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_common": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 210, 
+            "name": "Maelstrom"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 63, 
+        "name": "[Glove]Shatterhand"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

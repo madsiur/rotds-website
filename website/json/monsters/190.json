@@ -1,0 +1,272 @@
+{
+    "id": 190, 
+    "name": "Belladonna", 
+    "filename": "190_belladonna", 
+    "special_attack": "Banshee Scream", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 6, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 3362, 
+            "mp": 298, 
+            "gil": 631, 
+            "exp": 2104, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 27, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 11, 
+            "defense": 100, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 3822, 
+            "mp": 368, 
+            "gil": 788, 
+            "exp": 2762, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 37, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 14, 
+            "defense": 105, 
+            "mdef": 155, 
+            "mpow": 15, 
+            "hp": 5622, 
+            "mp": 397, 
+            "gil": 866, 
+            "exp": 3493, 
+            "level": 41, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 56, 
+            "attack": 47, 
+            "hit_rate": 130, 
+            "mblock": 18, 
+            "evade": 21, 
+            "defense": 110, 
+            "mdef": 160, 
+            "mpow": 18, 
+            "hp": 7344, 
+            "mp": 451, 
+            "gil": 952, 
+            "exp": 4343, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 30, 
+            "name": "[Grey magic]Confuse"
+        }, 
+        "torment_d": {
+            "id": 44, 
+            "name": "[Grey magic]Dispel"
+        }
+    }, 
+    "fight_animation": {
+        "id": 71, 
+        "name": "[Boomerang]Lode Shuttle"
+    }, 
+    "metamorph": {
+        "id": 19, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_c": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_d": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }
+    }
+}

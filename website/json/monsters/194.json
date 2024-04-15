@@ -1,0 +1,288 @@
+{
+    "id": 194, 
+    "name": "Reptite", 
+    "filename": "194_reptite", 
+    "special_attack": "Punch Volcano", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 25, 
+            "defense": 120, 
+            "mdef": 130, 
+            "mpow": 5, 
+            "hp": 1800, 
+            "mp": 220, 
+            "gil": 0, 
+            "exp": 1800, 
+            "level": 22, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 22, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 28, 
+            "defense": 120, 
+            "mdef": 135, 
+            "mpow": 6, 
+            "hp": 2100, 
+            "mp": 280, 
+            "gil": 0, 
+            "exp": 2100, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 28, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 31, 
+            "defense": 125, 
+            "mdef": 135, 
+            "mpow": 8, 
+            "hp": 3200, 
+            "mp": 357, 
+            "gil": 0, 
+            "exp": 2497, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 43, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 34, 
+            "defense": 130, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 5400, 
+            "mp": 450, 
+            "gil": 0, 
+            "exp": 2959, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 28, 
+            "name": "[Grey magic]Protect"
+        }, 
+        "torment_d": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }
+    }, 
+    "fight_animation": {
+        "id": 69, 
+        "name": "[Boomerang]Boomerang"
+    }, 
+    "metamorph": {
+        "id": 5, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "metamorph_d": {
+            "id": 55, 
+            "name": "[Rod3]Thunder Rod"
+        }
+    }
+}

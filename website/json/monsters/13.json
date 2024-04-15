@@ -1,0 +1,269 @@
+{
+    "id": 13, 
+    "name": "Boo Ghost", 
+    "filename": "013_boo_ghost", 
+    "special_attack": "Chant", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 255, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 8940, 
+            "mp": 700, 
+            "gil": 600, 
+            "exp": 3950, 
+            "level": 55, 
+            "immunity": [
+                "Pig", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Clear", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 14, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 255, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 9480, 
+            "mp": 760, 
+            "gil": 750, 
+            "exp": 5687, 
+            "level": 56, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Clear", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 255, 
+            "defense": 115, 
+            "mdef": 155, 
+            "mpow": 15, 
+            "hp": 10940, 
+            "mp": 1200, 
+            "gil": 825, 
+            "exp": 7193, 
+            "level": 57, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Clear", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 255, 
+            "defense": 120, 
+            "mdef": 165, 
+            "mpow": 22, 
+            "hp": 13880, 
+            "mp": 2200, 
+            "gil": 998, 
+            "exp": 8944, 
+            "level": 60, 
+            "immunity": [
+                "Pig", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Clear", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 20, 
+            "name": "[Cryogen]Cryogen"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 141, 
+            "name": "Tsunami"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }, 
+        "inverse_b": {
+            "id": 141, 
+            "name": "Tsunami"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }, 
+        "torment_c": {
+            "id": 160, 
+            "name": "Quasar"
+        }, 
+        "torment_d": {
+            "id": 147, 
+            "name": "White Wind"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

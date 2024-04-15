@@ -1,0 +1,277 @@
+{
+    "id": 246, 
+    "name": "Ex Machina", 
+    "filename": "246_ex_machina", 
+    "special_attack": "Brain Blast", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 12, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 8600, 
+            "mp": 390, 
+            "gil": 1950, 
+            "exp": 3400, 
+            "level": 52, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 35, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 16, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 9336, 
+            "mp": 440, 
+            "gil": 2437, 
+            "exp": 4000, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 42, 
+            "hit_rate": 120, 
+            "mblock": 24, 
+            "evade": 22, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 12104, 
+            "mp": 590, 
+            "gil": 2680, 
+            "exp": 5060, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 65, 
+            "attack": 54, 
+            "hit_rate": 130, 
+            "mblock": 31, 
+            "evade": 29, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 18, 
+            "hp": 15061, 
+            "mp": 680, 
+            "gil": 2680, 
+            "exp": 5720, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 209, 
+            "name": "Hyper Drive"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 152, 
+            "name": "Level ? Holy"
+        }, 
+        "inverse_b": {
+            "id": 112, 
+            "name": "Twin Plasma"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 152, 
+            "name": "Level ? Holy"
+        }, 
+        "torment_c": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_d": {
+            "id": 112, 
+            "name": "Twin Plasma"
+        }
+    }, 
+    "fight_animation": {
+        "id": 89, 
+        "name": "[Claw]Tiger Claw"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

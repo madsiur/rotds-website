@@ -1,0 +1,224 @@
+{
+    "id": 116, 
+    "name": "Razorclaw", 
+    "filename": "116_razorclaw", 
+    "special_attack": "Fury Swipe", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 10, 
+            "defense": 125, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 6600, 
+            "mp": 97, 
+            "gil": 415, 
+            "exp": 830, 
+            "level": 37, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 58, 
+            "hit_rate": 110, 
+            "mblock": 7, 
+            "evade": 13, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 8150, 
+            "mp": 179, 
+            "gil": 518, 
+            "exp": 3730, 
+            "level": 38, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 53, 
+            "attack": 75, 
+            "hit_rate": 120, 
+            "mblock": 13, 
+            "evade": 19, 
+            "defense": 135, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 10150, 
+            "mp": 497, 
+            "gil": 569, 
+            "exp": 4718, 
+            "level": 39, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 76, 
+            "attack": 106, 
+            "hit_rate": 140, 
+            "mblock": 17, 
+            "evade": 25, 
+            "defense": 140, 
+            "mdef": 155, 
+            "mpow": 17, 
+            "hp": 15300, 
+            "mp": 994, 
+            "gil": 625, 
+            "exp": 5866, 
+            "level": 42, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 114, 
+            "name": "Cave In"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 231, 
+            "name": "Energy Blade"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 85, 
+        "name": "[Claw]Spider Fangs"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

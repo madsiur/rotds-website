@@ -1,0 +1,268 @@
+{
+    "id": 126, 
+    "name": "Abyss Drgn", 
+    "filename": "126_abyss_drgn", 
+    "special_attack": "Ash Breath", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 6, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 15, 
+            "hp": 12738, 
+            "mp": 554, 
+            "gil": 2089, 
+            "exp": 4928, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Fire", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 68, 
+            "hit_rate": 120, 
+            "mblock": 25, 
+            "evade": 9, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 18, 
+            "hp": 15027, 
+            "mp": 608, 
+            "gil": 2561, 
+            "exp": 6160, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Fire", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 80, 
+            "attack": 82, 
+            "hit_rate": 130, 
+            "mblock": 28, 
+            "evade": 15, 
+            "defense": 150, 
+            "mdef": 160, 
+            "mpow": 20, 
+            "hp": 18727, 
+            "mp": 807, 
+            "gil": 2797, 
+            "exp": 7792, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Fire", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 90, 
+            "attack": 102, 
+            "hit_rate": 150, 
+            "mblock": 33, 
+            "evade": 19, 
+            "defense": 150, 
+            "mdef": 160, 
+            "mpow": 25, 
+            "hp": 23855, 
+            "mp": 1016, 
+            "gil": 3056, 
+            "exp": 9688, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [
+                "Fire", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 31, 
+            "name": "[Spear2]Gold Trident"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 149, 
+            "name": "[Heavy armor]DiamondArmor"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 237, 
+            "name": "Earth Surge"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 111, 
+            "name": "El Nino"
+        }, 
+        "inverse_b": {
+            "id": 237, 
+            "name": "Earth Surge"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 198, 
+            "name": "Flare Star"
+        }, 
+        "torment_c": {
+            "id": 237, 
+            "name": "Earth Surge"
+        }, 
+        "torment_d": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 21, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "metamorph_c": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_d": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }
+    }
+}

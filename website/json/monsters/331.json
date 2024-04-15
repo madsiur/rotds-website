@@ -1,0 +1,306 @@
+{
+    "id": 331, 
+    "name": "Fellbeast", 
+    "filename": "331_fellbeast", 
+    "special_attack": "Ultrasonic Blast", 
+    "stats": {
+        "normal": {
+            "speed": 65, 
+            "attack": 43, 
+            "hit_rate": 140, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 42000, 
+            "mp": 7500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 74, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 57, 
+            "hit_rate": 150, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 44000, 
+            "mp": 8500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 75, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 75, 
+            "attack": 64, 
+            "hit_rate": 160, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 46000, 
+            "mp": 9500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 76, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 80, 
+            "attack": 78, 
+            "hit_rate": 180, 
+            "mblock": 15, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 48000, 
+            "mp": 10500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 79, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 49, 
+            "name": "[Katana]Uchigatana"
+        }, 
+        "drop_rare": {
+            "id": 148, 
+            "name": "[Heavy armor]Solar Guard"
+        }, 
+        "drop_common": {
+            "id": 148, 
+            "name": "[Heavy armor]Solar Guard"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 147, 
+            "name": "White Wind"
+        }, 
+        "inverse_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 85, 
+        "name": "[Claw]Spider Fangs"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

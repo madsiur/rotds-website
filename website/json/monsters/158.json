@@ -1,0 +1,237 @@
+{
+    "id": 158, 
+    "name": "R-Series", 
+    "filename": "158_r_series", 
+    "special_attack": "Speed Burst", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 8, 
+            "defense": 150, 
+            "mdef": 120, 
+            "mpow": 10, 
+            "hp": 2000, 
+            "mp": 200, 
+            "gil": 150, 
+            "exp": 1400, 
+            "level": 33, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Haste", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 32, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 16, 
+            "defense": 153, 
+            "mdef": 120, 
+            "mpow": 12, 
+            "hp": 2435, 
+            "mp": 280, 
+            "gil": 187, 
+            "exp": 1625, 
+            "level": 34, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Haste", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 43, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 16, 
+            "defense": 156, 
+            "mdef": 130, 
+            "mpow": 13, 
+            "hp": 3045, 
+            "mp": 320, 
+            "gil": 205, 
+            "exp": 2055, 
+            "level": 35, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Haste", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 43, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 18, 
+            "defense": 160, 
+            "mdef": 130, 
+            "mpow": 16, 
+            "hp": 4374, 
+            "mp": 360, 
+            "gil": 225, 
+            "exp": 2554, 
+            "level": 38, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Haste", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 84, 
+        "name": "[Glove]Brass Knucks"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

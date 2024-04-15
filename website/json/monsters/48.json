@@ -1,0 +1,240 @@
+{
+    "id": 48, 
+    "name": "Vanguard", 
+    "filename": "048_vanguard", 
+    "special_attack": "Spin Slice", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 12, 
+            "defense": 120, 
+            "mdef": 105, 
+            "mpow": 3, 
+            "hp": 1912, 
+            "mp": 180, 
+            "gil": 211, 
+            "exp": 821, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 21, 
+            "defense": 130, 
+            "mdef": 110, 
+            "mpow": 4, 
+            "hp": 2558, 
+            "mp": 210, 
+            "gil": 463, 
+            "exp": 945, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 40, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 24, 
+            "defense": 140, 
+            "mdef": 120, 
+            "mpow": 5, 
+            "hp": 3258, 
+            "mp": 290, 
+            "gil": 509, 
+            "exp": 796, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 47, 
+            "hit_rate": 120, 
+            "mblock": 23, 
+            "evade": 31, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 8, 
+            "hp": 4069, 
+            "mp": 420, 
+            "gil": 559, 
+            "exp": 990, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 16, 
+            "name": "[Sword2]Cutlass"
+        }, 
+        "drop_rare": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 16, 
+        "name": "[Sword2]Cutlass"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

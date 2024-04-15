@@ -1,0 +1,208 @@
+{
+    "id": 49, 
+    "name": "Berserker", 
+    "filename": "049_berserker", 
+    "special_attack": "Crusher", 
+    "stats": {
+        "normal": {
+            "speed": 37, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 12, 
+            "defense": 130, 
+            "mdef": 120, 
+            "mpow": 6, 
+            "hp": 2412, 
+            "mp": 210, 
+            "gil": 756, 
+            "exp": 1059, 
+            "level": 26, 
+            "immunity": [
+                "Petrify", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 37, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 19, 
+            "defense": 135, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 3026, 
+            "mp": 280, 
+            "gil": 945, 
+            "exp": 1598, 
+            "level": 27, 
+            "immunity": [
+                "Petrify", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 53, 
+            "hit_rate": 110, 
+            "mblock": 9, 
+            "evade": 22, 
+            "defense": 140, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 3842, 
+            "mp": 480, 
+            "gil": 1039, 
+            "exp": 2020, 
+            "level": 28, 
+            "immunity": [
+                "Petrify", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 62, 
+            "hit_rate": 120, 
+            "mblock": 12, 
+            "evade": 27, 
+            "defense": 150, 
+            "mdef": 135, 
+            "mpow": 13, 
+            "hp": 5522, 
+            "mp": 660, 
+            "gil": 1142, 
+            "exp": 2511, 
+            "level": 31, 
+            "immunity": [
+                "Petrify", 
+                "Condemned", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 86, 
+            "name": "[Claw]Titan Claw"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 163, 
+            "name": "Swine Song"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 232, 
+            "name": "Life Purge"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }, 
+        "torment_d": {
+            "id": 109, 
+            "name": "Rock Slide"
+        }
+    }, 
+    "fight_animation": {
+        "id": 1, 
+        "name": "[Large sword]Buster Sword"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

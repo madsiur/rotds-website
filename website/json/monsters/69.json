@@ -1,0 +1,265 @@
+{
+    "id": 69, 
+    "name": "Mk4 Walker", 
+    "filename": "069_mk4_walker", 
+    "special_attack": "Rapid-fire", 
+    "stats": {
+        "normal": {
+            "speed": 52, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 6, 
+            "defense": 180, 
+            "mdef": 130, 
+            "mpow": 12, 
+            "hp": 9200, 
+            "mp": 1569, 
+            "gil": 1434, 
+            "exp": 5848, 
+            "level": 47, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 52, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 10, 
+            "defense": 180, 
+            "mdef": 130, 
+            "mpow": 14, 
+            "hp": 12600, 
+            "mp": 1956, 
+            "gil": 1586, 
+            "exp": 7910, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 67, 
+            "attack": 54, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 13, 
+            "defense": 180, 
+            "mdef": 130, 
+            "mpow": 17, 
+            "hp": 14600, 
+            "mp": 2356, 
+            "gil": 1634, 
+            "exp": 9137, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 78, 
+            "attack": 65, 
+            "hit_rate": 120, 
+            "mblock": 26, 
+            "evade": 18, 
+            "defense": 180, 
+            "mdef": 130, 
+            "mpow": 20, 
+            "hp": 16900, 
+            "mp": 4712, 
+            "gil": 1797, 
+            "exp": 11878, 
+            "level": 52, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 212, 
+            "name": "Toxic Bomb"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 171, 
+            "name": "Megazerk"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }, 
+        "torment_d": {
+            "id": 187, 
+            "name": "Absolute Zero"
+        }
+    }, 
+    "fight_animation": {
+        "id": 83, 
+        "name": "[Gun]Blunderbuss"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

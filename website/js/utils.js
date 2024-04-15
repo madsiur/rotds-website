@@ -1,8 +1,30 @@
-async function fetchJson(file_name) {
-    var url = "./json/" + file_name + ".json";
+async function fetchJson(url) {
     let response = await fetch(url, { headers: { "Content-Type": "application/json" } });
     let data =  await response.json();
     return data;
+}
+
+function getUrlParams() {
+    var params = {};
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    $.each(vars, function(index, value) {
+        var pair = value.split('=');
+        params[pair[0]] = decodeURIComponent(pair[1]);
+    });
+    return params;
+}
+
+function isInt(str, min, max) {
+    if(str !== null) {
+        if (!isNaN(str) && Number.isInteger(parseInt(str))) {
+            integer = parseInt(str);
+            if(str.length >= min && str.length <= max) {
+                return true;
+            }
+        }
+    }
+    return false;
 }
 
 function toHexString(number, padding) {
@@ -61,7 +83,7 @@ function render(tmpl_name, tmpl_data) {
         render.tmpl_cache = {};
     }
 
-    if (!render.tmpl_cache[tmpl_name] ) {
+    //if (!render.tmpl_cache[tmpl_name] ) {
         var tmpl_dir = "templates";
         var tmpl_url = tmpl_dir + '/' + tmpl_name + ".html";
         var tmpl_string;
@@ -76,16 +98,17 @@ function render(tmpl_name, tmpl_data) {
         });
 
         render.tmpl_cache[tmpl_name] = _.template(tmpl_string);
-    }
+    //}
     return render.tmpl_cache[tmpl_name](tmpl_data);
 }
 
-function renderMainTemplate(template_path, header_path, render_id, data) {
+function renderMainTemplate(template_path, render_id, data) {
     render_id = "#" + render_id;
     $(render_id).html("");
 
-    var rendered_header = render(header_path, {});
+    var rendered_header = render("header", {});
     var rendered_template = render(template_path, data);
+    //var rendered_footer = render("footer", {});
     var rendered_webpage = rendered_header + rendered_template;
     $(render_id).html(rendered_webpage);
 }
@@ -101,18 +124,3 @@ function renderTemplate(template_path, render_id, data) {
 function capitalize(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
-
-/*async function fetchSessionJson(session_var_name) {
-    if(sessionStorage.getItem(session_var_name) === null) {
-        log(session_var_name + " does not exists.");
-        var json_content = await fetchJson(url);
-        var compressed_string = LZString.compress(JSON.stringify(json_content))
-        sessionStorage.setItem(session_var_name, compressed_string);
-    } else {
-        log(session_var_name + " exists.");
-        var compressed_string = sessionStorage.getItem(session_var_name);
-        var decompressed_string = LZString.decompress(compressed_string);
-        json_content = JSON.parse(decompressed_string);
-    }
-    return json_content
-}*/

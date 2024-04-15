@@ -1,0 +1,242 @@
+{
+    "id": 121, 
+    "name": "Nightraid", 
+    "filename": "121_nightraid", 
+    "special_attack": "Shadowmeld", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 22, 
+            "defense": 75, 
+            "mdef": 140, 
+            "mpow": 1, 
+            "hp": 565, 
+            "mp": 60, 
+            "gil": 55, 
+            "exp": 115, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 29, 
+            "defense": 80, 
+            "mdef": 145, 
+            "mpow": 2, 
+            "hp": 703, 
+            "mp": 100, 
+            "gil": 68, 
+            "exp": 273, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 32, 
+            "defense": 85, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 1203, 
+            "mp": 180, 
+            "gil": 74, 
+            "exp": 345, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 52, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 38, 
+            "defense": 97, 
+            "mdef": 153, 
+            "mpow": 7, 
+            "hp": 1704, 
+            "mp": 230, 
+            "gil": 81, 
+            "exp": 429, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 233, 
+            "name": "Saintly Beam"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }, 
+        "torment_c": {
+            "id": 228, 
+            "name": "Wildfire"
+        }, 
+        "torment_d": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

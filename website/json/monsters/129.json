@@ -1,0 +1,220 @@
+{
+    "id": 129, 
+    "name": "Wyvern", 
+    "filename": "129_wyvern", 
+    "special_attack": "Slip Wing", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 14, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 992, 
+            "mp": 108, 
+            "gil": 434, 
+            "exp": 484, 
+            "level": 18, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 29, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 1401, 
+            "mp": 196, 
+            "gil": 542, 
+            "exp": 605, 
+            "level": 19, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 32, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 1897, 
+            "mp": 240, 
+            "gil": 596, 
+            "exp": 764, 
+            "level": 20, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 49, 
+            "hit_rate": 110, 
+            "mblock": 12, 
+            "evade": 37, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 2642, 
+            "mp": 312, 
+            "gil": 655, 
+            "exp": 950, 
+            "level": 23, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 192, 
+            "name": "[Relic1]Reflex Cape"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 37, 
+        "name": "[Spear3]Wyvern Lance"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "id": 292, 
+    "name": "Thresher", 
+    "filename": "292_thresher", 
+    "special_attack": "Cruel Slash", 
+    "stats": {
+        "normal": {
+            "speed": 65, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 3, 
+            "evade": 20, 
+            "defense": 115, 
+            "mdef": 152, 
+            "mpow": 11, 
+            "hp": 14076, 
+            "mp": 1400, 
+            "gil": 4000, 
+            "exp": 9078, 
+            "level": 61, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 52, 
+            "hit_rate": 120, 
+            "mblock": 6, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 16720, 
+            "mp": 1800, 
+            "gil": 9000, 
+            "exp": 9985, 
+            "level": 62, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 75, 
+            "attack": 67, 
+            "hit_rate": 130, 
+            "mblock": 9, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 157, 
+            "mpow": 15, 
+            "hp": 18420, 
+            "mp": 2000, 
+            "gil": 10500, 
+            "exp": 10983, 
+            "level": 63, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 81, 
+            "attack": 79, 
+            "hit_rate": 140, 
+            "mblock": 12, 
+            "evade": 20, 
+            "defense": 125, 
+            "mdef": 160, 
+            "mpow": 18, 
+            "hp": 21700, 
+            "mp": 2400, 
+            "gil": 13000, 
+            "exp": 12477, 
+            "level": 66, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }, 
+        "steal_common": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "drop_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 94, 
+            "name": "Aura Blast"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 50, 
+        "name": "[Katana]Onimusha"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

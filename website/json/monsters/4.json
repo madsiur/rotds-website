@@ -1,0 +1,252 @@
+{
+    "id": 4, 
+    "name": "Hachiman", 
+    "filename": "004_hachiman", 
+    "special_attack": "Forgotten Sword", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 10, 
+            "mdef": 20, 
+            "mpow": 4, 
+            "hp": 3000, 
+            "mp": 400, 
+            "gil": 791, 
+            "exp": 1545, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 141, 
+            "mdef": 106, 
+            "mpow": 5, 
+            "hp": 4000, 
+            "mp": 500, 
+            "gil": 988, 
+            "exp": 1931, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 41, 
+            "attack": 34, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 161, 
+            "mdef": 126, 
+            "mpow": 6, 
+            "hp": 5000, 
+            "mp": 600, 
+            "gil": 1086, 
+            "exp": 2442, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 52, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 171, 
+            "mdef": 136, 
+            "mpow": 8, 
+            "hp": 7000, 
+            "mp": 700, 
+            "gil": 1194, 
+            "exp": 3036, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 213, 
+            "name": "[Relic1]Monk's Belt"
+        }, 
+        "steal_common": {
+            "id": 45, 
+            "name": "[Katana]Iaito"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 168, 
+            "name": "Lullaby"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 143, 
+            "name": "Aero"
+        }, 
+        "inverse_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 39, 
+            "name": "[Grey magic]Hastega"
+        }
+    }, 
+    "fight_animation": {
+        "id": 47, 
+        "name": "[Katana]Bizen Boat"
+    }, 
+    "metamorph": {
+        "id": 16, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

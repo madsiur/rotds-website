@@ -1,0 +1,314 @@
+{
+    "id": 174, 
+    "name": "Colossus", 
+    "filename": "174_colossus", 
+    "special_attack": "Hammer Smash", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 12000, 
+            "mp": 1120, 
+            "gil": 0, 
+            "exp": 7550, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 51, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 14440, 
+            "mp": 1520, 
+            "gil": 0, 
+            "exp": 8050, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 64, 
+            "hit_rate": 120, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 165, 
+            "mpow": 16, 
+            "hp": 16450, 
+            "mp": 1820, 
+            "gil": 0, 
+            "exp": 10125, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 81, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 153, 
+            "mdef": 170, 
+            "mpow": 20, 
+            "hp": 19840, 
+            "mp": 2040, 
+            "gil": 0, 
+            "exp": 12590, 
+            "level": 36, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "drop_rare": {
+            "id": 204, 
+            "name": "[Relic1]Crystal Ball"
+        }, 
+        "drop_common": {
+            "id": 204, 
+            "name": "[Relic1]Crystal Ball"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 187, 
+            "name": "Absolute Zero"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 146, 
+            "name": "Revenge"
+        }, 
+        "torment_d": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "fight_animation": {
+        "id": 17, 
+        "name": "[Hammer]Cael Hammer"
+    }, 
+    "metamorph": {
+        "id": 8, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

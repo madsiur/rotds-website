@@ -1,0 +1,257 @@
+{
+    "id": 367, 
+    "name": "Gitrog", 
+    "filename": "367_gitrog", 
+    "special_attack": "Squash", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 2030, 
+            "mp": 102, 
+            "gil": 389, 
+            "exp": 550, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Dance"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 2501, 
+            "mp": 164, 
+            "gil": 433, 
+            "exp": 612, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Dance"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 36, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 2807, 
+            "mp": 208, 
+            "gil": 476, 
+            "exp": 773, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Dance"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 39, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 3006, 
+            "mp": 356, 
+            "gil": 476, 
+            "exp": 874, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Dance"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Special event"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 70, 
+        "name": "[Special2]Morning Star"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

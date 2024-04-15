@@ -1,0 +1,335 @@
+{
+    "id": 348, 
+    "name": "Bergan", 
+    "filename": "placeholder", 
+    "special_attack": "Teleportation", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 46000, 
+            "mp": 10000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 72, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Haste", 
+                "Stop", 
+                "Shell", 
+                "Protect", 
+                "Reflect"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "9.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 16, 
+            "hit_rate": 110, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 9, 
+            "hp": 48000, 
+            "mp": 10000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 73, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Haste", 
+                "Stop", 
+                "Shell", 
+                "Protect", 
+                "Reflect"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "9.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 19, 
+            "hit_rate": 120, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 10, 
+            "hp": 50000, 
+            "mp": 10000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 74, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Haste", 
+                "Stop", 
+                "Shell", 
+                "Protect", 
+                "Reflect"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "9.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 22, 
+            "hit_rate": 130, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 13, 
+            "hp": 52000, 
+            "mp": 10000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 77, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Dance", 
+                "Regen", 
+                "Slow", 
+                "Haste", 
+                "Stop", 
+                "Shell", 
+                "Protect", 
+                "Reflect"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "9.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 57, 
+            "name": "[Rod2]Lunar Rod"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 161, 
+            "name": "Shadow Flare"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 1, 
+        "name": "[Large sword]Buster Sword"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "id": 32, 
+    "name": "Behemoth", 
+    "filename": "032_behemoth", 
+    "special_attack": "Take Down", 
+    "stats": {
+        "normal": {
+            "speed": 62, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 23, 
+            "defense": 100, 
+            "mdef": 135, 
+            "mpow": 11, 
+            "hp": 7250, 
+            "mp": 250, 
+            "gil": 0, 
+            "exp": 2055, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 74, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 26, 
+            "defense": 100, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 8500, 
+            "mp": 300, 
+            "gil": 0, 
+            "exp": 2856, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 88, 
+            "attack": 47, 
+            "hit_rate": 110, 
+            "mblock": 17, 
+            "evade": 29, 
+            "defense": 110, 
+            "mdef": 155, 
+            "mpow": 15, 
+            "hp": 9500, 
+            "mp": 475, 
+            "gil": 0, 
+            "exp": 3612, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 104, 
+            "attack": 59, 
+            "hit_rate": 130, 
+            "mblock": 24, 
+            "evade": 36, 
+            "defense": 120, 
+            "mdef": 165, 
+            "mpow": 18, 
+            "hp": 10050, 
+            "mp": 650, 
+            "gil": 0, 
+            "exp": 4491, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 186, 
+            "name": "[Relic1]Speed Boots"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "torment_d": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

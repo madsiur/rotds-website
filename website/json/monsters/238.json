@@ -1,0 +1,260 @@
+{
+    "id": 238, 
+    "name": "Kabloom", 
+    "filename": "238_kabloom", 
+    "special_attack": "Whiplash", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 3, 
+            "defense": 110, 
+            "mdef": 120, 
+            "mpow": 6, 
+            "hp": 1950, 
+            "mp": 243, 
+            "gil": 450, 
+            "exp": 478, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 6, 
+            "defense": 110, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 2311, 
+            "mp": 296, 
+            "gil": 562, 
+            "exp": 572, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 43, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 9, 
+            "defense": 110, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 3011, 
+            "mp": 334, 
+            "gil": 618, 
+            "exp": 696, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 42, 
+            "hit_rate": 110, 
+            "mblock": 24, 
+            "evade": 12, 
+            "defense": 115, 
+            "mdef": 135, 
+            "mpow": 13, 
+            "hp": 4622, 
+            "mp": 406, 
+            "gil": 618, 
+            "exp": 774, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Clear", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 176, 
+            "name": "Entangle"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 11, 
+        "name": "[Sword2]Shamshir"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

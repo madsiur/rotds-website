@@ -1,0 +1,247 @@
+{
+    "id": 135, 
+    "name": "Djinn", 
+    "filename": "135_djinn", 
+    "special_attack": "Mana Tap", 
+    "stats": {
+        "normal": {
+            "speed": 55, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 22, 
+            "evade": 1, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 6800, 
+            "mp": 375, 
+            "gil": 1420, 
+            "exp": 3069, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 58, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 28, 
+            "evade": 3, 
+            "defense": 105, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 7500, 
+            "mp": 500, 
+            "gil": 1775, 
+            "exp": 3649, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Slow", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 63, 
+            "attack": 24, 
+            "hit_rate": 130, 
+            "mblock": 31, 
+            "evade": 6, 
+            "defense": 110, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 9500, 
+            "mp": 800, 
+            "gil": 1952, 
+            "exp": 4424, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Slow", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 76, 
+            "attack": 31, 
+            "hit_rate": 150, 
+            "mblock": 38, 
+            "evade": 13, 
+            "defense": 120, 
+            "mdef": 170, 
+            "mpow": 19, 
+            "hp": 12000, 
+            "mp": 1200, 
+            "gil": 2147, 
+            "exp": 5549, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "Near fatal", 
+                "Slow", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 55, 
+            "name": "[Rod3]Thunder Rod"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 55, 
+        "name": "[Rod3]Thunder Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "id": 130, 
+    "name": "Skelesnake", 
+    "filename": "130_skelesnake", 
+    "special_attack": "Zombone", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 39, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 3, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 2291, 
+            "mp": 260, 
+            "gil": 309, 
+            "exp": 1072, 
+            "level": 22, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 52, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 6, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 2992, 
+            "mp": 290, 
+            "gil": 386, 
+            "exp": 1440, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 48, 
+            "attack": 61, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 9, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 3492, 
+            "mp": 340, 
+            "gil": 424, 
+            "exp": 1821, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 59, 
+            "attack": 76, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 13, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 4184, 
+            "mp": 380, 
+            "gil": 466, 
+            "exp": 2264, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 164, 
+            "name": "[Aether]Poison Nova"
+        }, 
+        "steal_common": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 139, 
+            "name": "Death Sentence"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "id": 86, 
+    "name": "MedusaHead", 
+    "filename": "086_medusahead", 
+    "special_attack": "Glare", 
+    "stats": {
+        "normal": {
+            "speed": 85, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 225, 
+            "defense": 115, 
+            "mdef": 254, 
+            "mpow": 10, 
+            "hp": 1200, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 1800, 
+            "level": 51, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 90, 
+            "attack": 20, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 225, 
+            "defense": 115, 
+            "mdef": 254, 
+            "mpow": 13, 
+            "hp": 2300, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 3300, 
+            "level": 52, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 95, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 225, 
+            "defense": 115, 
+            "mdef": 254, 
+            "mpow": 16, 
+            "hp": 3600, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 4140, 
+            "level": 53, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 100, 
+            "attack": 42, 
+            "hit_rate": 140, 
+            "mblock": 0, 
+            "evade": 225, 
+            "defense": 115, 
+            "mdef": 254, 
+            "mpow": 21, 
+            "hp": 5300, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 5109, 
+            "level": 56, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "steal_common": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_rare": {
+            "id": 250, 
+            "name": "[Item2]Atomic Ball"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 23, 
+            "name": "[Black magic]Meltdown"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 214, 
+            "name": "Chaotic Disaster"
+        }, 
+        "inverse_b": {
+            "id": 202, 
+            "name": "Air Blast"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }, 
+        "torment_d": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

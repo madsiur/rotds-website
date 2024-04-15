@@ -1,0 +1,241 @@
+{
+    "id": 248, 
+    "name": "Hellhound", 
+    "filename": "248_hellhound", 
+    "special_attack": "Incursion", 
+    "stats": {
+        "normal": {
+            "speed": 31, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 152, 
+            "mdef": 137, 
+            "mpow": 10, 
+            "hp": 1810, 
+            "mp": 180, 
+            "gil": 412, 
+            "exp": 887, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 155, 
+            "mdef": 140, 
+            "mpow": 12, 
+            "hp": 2360, 
+            "mp": 210, 
+            "gil": 515, 
+            "exp": 1011, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 42, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 155, 
+            "mdef": 142, 
+            "mpow": 14, 
+            "hp": 3060, 
+            "mp": 301, 
+            "gil": 566, 
+            "exp": 1252, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 56, 
+            "attack": 64, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 26, 
+            "defense": 157, 
+            "mdef": 145, 
+            "mpow": 16, 
+            "hp": 5303, 
+            "mp": 420, 
+            "gil": 566, 
+            "exp": 1502, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 146, 
+            "name": "Revenge"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

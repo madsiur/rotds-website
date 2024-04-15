@@ -1,0 +1,257 @@
+{
+    "id": 151, 
+    "name": "Kabutops", 
+    "filename": "151_kabutops", 
+    "special_attack": "X-Scissor", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 1152, 
+            "mp": 120, 
+            "gil": 576, 
+            "exp": 1360, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 1504, 
+            "mp": 150, 
+            "gil": 718, 
+            "exp": 1650, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 1807, 
+            "mp": 180, 
+            "gil": 789, 
+            "exp": 2087, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 37, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 153, 
+            "mpow": 15, 
+            "hp": 2108, 
+            "mp": 200, 
+            "gil": 867, 
+            "exp": 2594, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 31, 
+        "name": "[Spear2]Gold Trident"
+    }, 
+    "metamorph": {
+        "id": 21, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "metamorph_c": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_d": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }
+    }
+}

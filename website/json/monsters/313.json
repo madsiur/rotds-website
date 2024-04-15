@@ -1,0 +1,270 @@
+{
+    "id": 313, 
+    "name": "Dorky Face", 
+    "filename": "313_dorky_face", 
+    "special_attack": "Cutter", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 125, 
+            "mpow": 17, 
+            "hp": 6666, 
+            "mp": 5000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 125, 
+            "mpow": 18, 
+            "hp": 7777, 
+            "mp": 5000, 
+            "gil": 825, 
+            "exp": 3881, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 125, 
+            "mpow": 19, 
+            "hp": 8888, 
+            "mp": 5000, 
+            "gil": 907, 
+            "exp": 4932, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 19, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 125, 
+            "mpow": 20, 
+            "hp": 9999, 
+            "mp": 5000, 
+            "gil": 998, 
+            "exp": 6159, 
+            "level": 63, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }, 
+        "inverse_b": {
+            "id": 40, 
+            "name": "[Grey magic]Slowga"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_b": {
+            "id": 18, 
+            "name": "[Black magic]Vortex"
+        }, 
+        "torment_c": {
+            "id": 40, 
+            "name": "[Grey magic]Slowga"
+        }, 
+        "torment_d": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 17, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 220, 
+            "name": "[Relic1]Exodus Token"
+        }
+    }
+}

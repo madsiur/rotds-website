@@ -1,0 +1,263 @@
+{
+    "id": 188, 
+    "name": "Scrag", 
+    "filename": "188_scrag", 
+    "special_attack": "Slime Shot", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 7, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 5850, 
+            "mp": 900, 
+            "gil": 890, 
+            "exp": 3600, 
+            "level": 47, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 12, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 6480, 
+            "mp": 1000, 
+            "gil": 1112, 
+            "exp": 4250, 
+            "level": 48, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 22, 
+            "evade": 15, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 8480, 
+            "mp": 1200, 
+            "gil": 1223, 
+            "exp": 5376, 
+            "level": 49, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 60, 
+            "attack": 66, 
+            "hit_rate": 110, 
+            "mblock": 29, 
+            "evade": 18, 
+            "defense": 120, 
+            "mdef": 153, 
+            "mpow": 18, 
+            "hp": 9960, 
+            "mp": 1500, 
+            "gil": 1345, 
+            "exp": 6684, 
+            "level": 52, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 22, 
+            "name": "[Black magic]Gravity"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }, 
+        "inverse_b": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }, 
+        "torment_d": {
+            "id": 155, 
+            "name": "Black Shock"
+        }
+    }, 
+    "fight_animation": {
+        "id": 32, 
+        "name": "[Spear2]Carbon Spear"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

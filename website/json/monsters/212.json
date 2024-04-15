@@ -1,0 +1,205 @@
+{
+    "id": 212, 
+    "name": "Mawler", 
+    "filename": "212_mawler", 
+    "special_attack": "Brutal Hit", 
+    "stats": {
+        "normal": {
+            "speed": 36, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 155, 
+            "mpow": 10, 
+            "hp": 5600, 
+            "mp": 188, 
+            "gil": 773, 
+            "exp": 1596, 
+            "level": 41, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 46, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 117, 
+            "mdef": 157, 
+            "mpow": 13, 
+            "hp": 6000, 
+            "mp": 235, 
+            "gil": 966, 
+            "exp": 1945, 
+            "level": 42, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 61, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 123, 
+            "mdef": 159, 
+            "mpow": 15, 
+            "hp": 8000, 
+            "mp": 288, 
+            "gil": 1062, 
+            "exp": 2459, 
+            "level": 43, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 76, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 132, 
+            "mdef": 162, 
+            "mpow": 18, 
+            "hp": 10000, 
+            "mp": 367, 
+            "gil": 1062, 
+            "exp": 2780, 
+            "level": 46, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 69, 
+            "name": "[Boomerang]Boomerang"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 109, 
+            "name": "Rock Slide"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 159, 
+            "name": "Rock Barrage"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 86, 
+        "name": "[Claw]Titan Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "id": 185, 
+    "name": "Pegupaura", 
+    "filename": "185_pegupaura", 
+    "special_attack": "Flayer", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 1, 
+            "evade": 7, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 9, 
+            "hp": 2814, 
+            "mp": 100, 
+            "gil": 971, 
+            "exp": 1012, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 12, 
+            "defense": 125, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 3241, 
+            "mp": 120, 
+            "gil": 1213, 
+            "exp": 1565, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 6, 
+            "evade": 15, 
+            "defense": 130, 
+            "mdef": 140, 
+            "mpow": 13, 
+            "hp": 4041, 
+            "mp": 200, 
+            "gil": 1334, 
+            "exp": 1979, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 46, 
+            "hit_rate": 130, 
+            "mblock": 9, 
+            "evade": 18, 
+            "defense": 135, 
+            "mdef": 146, 
+            "mpow": 16, 
+            "hp": 5482, 
+            "mp": 260, 
+            "gil": 1467, 
+            "exp": 2460, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 141, 
+            "name": "[Light armor]Aqua Gear"
+        }, 
+        "drop_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "torment_d": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }
+    }, 
+    "fight_animation": {
+        "id": 31, 
+        "name": "[Spear2]Gold Trident"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

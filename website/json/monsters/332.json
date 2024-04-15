@@ -1,0 +1,286 @@
+{
+    "id": 332, 
+    "name": "Nidhogg", 
+    "filename": "332_nidhogg", 
+    "special_attack": "Honed Tusk", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 45600, 
+            "mp": 10500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 77, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 65, 
+            "attack": 50, 
+            "hit_rate": 110, 
+            "mblock": 15, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 47600, 
+            "mp": 12500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 78, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 70, 
+            "attack": 58, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 49600, 
+            "mp": 14500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 79, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 75, 
+            "attack": 66, 
+            "hit_rate": 130, 
+            "mblock": 25, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 51600, 
+            "mp": 16500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 82, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Wind", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 129, 
+            "name": "[Heavy Helm2]Dragon Helm"
+        }, 
+        "drop_rare": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }, 
+        "drop_common": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

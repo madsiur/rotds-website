@@ -1,0 +1,256 @@
+{
+    "id": 241, 
+    "name": "Pyro Jack", 
+    "filename": "241_pyro_jack", 
+    "special_attack": "Pyroburst", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 9, 
+            "defense": 96, 
+            "mdef": 146, 
+            "mpow": 7, 
+            "hp": 5225, 
+            "mp": 900, 
+            "gil": 1086, 
+            "exp": 2150, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 11, 
+            "defense": 98, 
+            "mdef": 148, 
+            "mpow": 9, 
+            "hp": 6525, 
+            "mp": 1000, 
+            "gil": 988, 
+            "exp": 2887, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 37, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 13, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 8225, 
+            "mp": 1200, 
+            "gil": 1086, 
+            "exp": 3651, 
+            "level": 50, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 46, 
+            "attack": 42, 
+            "hit_rate": 110, 
+            "mblock": 24, 
+            "evade": 15, 
+            "defense": 108, 
+            "mdef": 153, 
+            "mpow": 14, 
+            "hp": 9250, 
+            "mp": 1500, 
+            "gil": 1086, 
+            "exp": 4127, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 166, 
+            "name": "Animate Dead"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 18, 
+            "name": "[Black magic]Vortex"
+        }, 
+        "inverse_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 18, 
+            "name": "[Black magic]Vortex"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,8 +1,7 @@
 import common.helpers as helpers
-import common.constants as cons
 from .tables import tbl_menu_a
 
-def create_list(rom):
+def create_list(rom, cons=helpers.get_constants()):
     spells = helpers.create_name_list(rom, cons.SPELL_NAME_ADDR,
                               0, cons.SPELL_NAME_LENGTH,
                               cons.SPELL_NUM, tbl_menu_a)  

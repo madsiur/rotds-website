@@ -1,0 +1,327 @@
+{
+    "id": 215, 
+    "name": "Guardian", 
+    "filename": "215_jce3000gt", 
+    "special_attack": "Redemption", 
+    "stats": {
+        "normal": {
+            "speed": 68, 
+            "attack": 30, 
+            "hit_rate": 110, 
+            "mblock": 25, 
+            "evade": 50, 
+            "defense": 166, 
+            "mdef": 158, 
+            "mpow": 19, 
+            "hp": 40000, 
+            "mp": 20000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Image", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 72, 
+            "attack": 33, 
+            "hit_rate": 120, 
+            "mblock": 25, 
+            "evade": 50, 
+            "defense": 169, 
+            "mdef": 161, 
+            "mpow": 20, 
+            "hp": 42000, 
+            "mp": 20000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 75, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 25, 
+            "evade": 50, 
+            "defense": 172, 
+            "mdef": 164, 
+            "mpow": 21, 
+            "hp": 45000, 
+            "mp": 20000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 39, 
+            "hit_rate": 140, 
+            "mblock": 25, 
+            "evade": 50, 
+            "defense": 175, 
+            "mdef": 167, 
+            "mpow": 24, 
+            "hp": 50000, 
+            "mp": 20000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 62, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Haste"
+            ], 
+            "absorb": [
+                "Poison", 
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 222, 
+            "name": "[Mage helm]Chrono Helm"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 187, 
+            "name": "Absolute Zero"
+        }, 
+        "torment_d": {
+            "id": 204, 
+            "name": "Crossfire"
+        }
+    }, 
+    "fight_animation": {
+        "id": 21, 
+        "name": "[Sword2]Dual Breaker"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

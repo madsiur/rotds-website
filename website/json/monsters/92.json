@@ -1,0 +1,209 @@
+{
+    "id": 92, 
+    "name": "Sun Spider", 
+    "filename": "092_sun_spider", 
+    "special_attack": "Pinch", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 9, 
+            "defense": 80, 
+            "mdef": 135, 
+            "mpow": 0, 
+            "hp": 167, 
+            "mp": 20, 
+            "gil": 54, 
+            "exp": 41, 
+            "level": 6, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 18, 
+            "defense": 80, 
+            "mdef": 140, 
+            "mpow": 1, 
+            "hp": 223, 
+            "mp": 30, 
+            "gil": 62, 
+            "exp": 71, 
+            "level": 7, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 21, 
+            "defense": 85, 
+            "mdef": 145, 
+            "mpow": 2, 
+            "hp": 324, 
+            "mp": 50, 
+            "gil": 68, 
+            "exp": 89, 
+            "level": 8, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 54, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 25, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 546, 
+            "mp": 80, 
+            "gil": 74, 
+            "exp": 110, 
+            "level": 11, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 82, 
+        "name": "[Knife2]Thief Knife"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

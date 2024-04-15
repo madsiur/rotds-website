@@ -1,0 +1,246 @@
+{
+    "id": 57, 
+    "name": "Thanopod", 
+    "filename": "057_thanopod", 
+    "special_attack": "Bubbles", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 2, 
+            "hp": 396, 
+            "mp": 40, 
+            "gil": 153, 
+            "exp": 162, 
+            "level": 11, 
+            "immunity": [
+                "Blind", 
+                "Pig"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Slow", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 41, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 152, 
+            "mdef": 103, 
+            "mpow": 3, 
+            "hp": 600, 
+            "mp": 60, 
+            "gil": 191, 
+            "exp": 112, 
+            "level": 12, 
+            "immunity": [
+                "Blind", 
+                "Pig"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Slow", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 31, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 155, 
+            "mdef": 115, 
+            "mpow": 5, 
+            "hp": 863, 
+            "mp": 100, 
+            "gil": 210, 
+            "exp": 141, 
+            "level": 13, 
+            "immunity": [
+                "Blind", 
+                "Pig"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Slow", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 67, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 165, 
+            "mdef": 120, 
+            "mpow": 8, 
+            "hp": 1203, 
+            "mp": 180, 
+            "gil": 231, 
+            "exp": 175, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Pig"
+            ], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Slow", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 84, 
+            "name": "[Glove]Brass Knucks"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 29, 
+        "name": "[Spear1]Silver Spear"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

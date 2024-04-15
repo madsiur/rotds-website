@@ -1,0 +1,256 @@
+{
+    "id": 84, 
+    "name": "Tonberry", 
+    "filename": "084_tonberry", 
+    "special_attack": "Knife", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 50, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 12000, 
+            "mp": 15000, 
+            "gil": 3333, 
+            "exp": 2400, 
+            "level": 37, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "7.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 50, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 15500, 
+            "mp": 15000, 
+            "gil": 2840, 
+            "exp": 3581, 
+            "level": 38, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "7.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 63, 
+            "attack": 19, 
+            "hit_rate": 150, 
+            "mblock": 50, 
+            "evade": 50, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 18500, 
+            "mp": 15000, 
+            "gil": 3124, 
+            "exp": 4519, 
+            "level": 39, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "7.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 81, 
+            "attack": 25, 
+            "hit_rate": 180, 
+            "mblock": 50, 
+            "evade": 50, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 19, 
+            "hp": 20500, 
+            "mp": 15000, 
+            "gil": 3436, 
+            "exp": 5631, 
+            "level": 42, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "7.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 102, 
+            "name": "[Relic1]Talisman"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }, 
+        "torment_d": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }
+    }, 
+    "fight_animation": {
+        "id": 7, 
+        "name": "[Knife2]Angrist"
+    }, 
+    "metamorph": {
+        "id": 11, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }
+    }
+}

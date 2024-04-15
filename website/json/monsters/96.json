@@ -1,0 +1,268 @@
+{
+    "id": 96, 
+    "name": "Skeleton", 
+    "filename": "096_skeleton", 
+    "special_attack": "Boneshaker", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 555, 
+            "mp": 58, 
+            "gil": 138, 
+            "exp": 165, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 745, 
+            "mp": 85, 
+            "gil": 172, 
+            "exp": 216, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 1155, 
+            "mp": 105, 
+            "gil": 189, 
+            "exp": 272, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 17, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 1915, 
+            "mp": 170, 
+            "gil": 207, 
+            "exp": 338, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Seizure"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 16, 
+        "name": "[Sword2]Cutlass"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "id": 80, 
+    "name": "Havel", 
+    "filename": "080_havel", 
+    "special_attack": "Stonebreaker", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 62, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 24889, 
+            "mp": 1190, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 55, 
+            "attack": 84, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 30889, 
+            "mp": 1360, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 71, 
+            "attack": 106, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 27, 
+            "hp": 33889, 
+            "mp": 1602, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 83, 
+            "attack": 118, 
+            "hit_rate": 140, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 30, 
+            "hp": 35889, 
+            "mp": 2120, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 47, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 201, 
+            "name": "[Relic1]Cosmos Ring"
+        }, 
+        "drop_rare": {
+            "id": 22, 
+            "name": "[Sword2]Wraith Blade"
+        }, 
+        "drop_common": {
+            "id": 22, 
+            "name": "[Sword2]Wraith Blade"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }, 
+        "torment_d": {
+            "id": 139, 
+            "name": "Death Sentence"
+        }
+    }, 
+    "fight_animation": {
+        "id": 17, 
+        "name": "[Hammer]Cael Hammer"
+    }, 
+    "metamorph": {
+        "id": 13, 
+        "metamorph_a": {
+            "id": 59, 
+            "name": "[Scythe]Soul Harvest"
+        }, 
+        "metamorph_b": {
+            "id": 112, 
+            "name": "[Heavy Helm2]Undead Crown"
+        }, 
+        "metamorph_c": {
+            "id": 221, 
+            "name": "[Relic1]Lich Ring"
+        }, 
+        "metamorph_d": {
+            "id": 253, 
+            "name": "[Item2]Necronomicon"
+        }
+    }
+}

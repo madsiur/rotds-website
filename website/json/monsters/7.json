@@ -1,0 +1,248 @@
+{
+    "id": 7, 
+    "name": "Shredder", 
+    "filename": "007_shredder", 
+    "special_attack": "Aura Crusher", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 16, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 9050, 
+            "mp": 400, 
+            "gil": 2000, 
+            "exp": 3600, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 56, 
+            "attack": 59, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 32, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 12090, 
+            "mp": 600, 
+            "gil": 2500, 
+            "exp": 4875, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 65, 
+            "attack": 72, 
+            "hit_rate": 120, 
+            "mblock": 21, 
+            "evade": 35, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 15090, 
+            "mp": 800, 
+            "gil": 2750, 
+            "exp": 6166, 
+            "level": 61, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 83, 
+            "hit_rate": 150, 
+            "mblock": 28, 
+            "evade": 43, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 17380, 
+            "mp": 1200, 
+            "gil": 3025, 
+            "exp": 7667, 
+            "level": 64, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 48, 
+            "name": "[Katana]Masamune"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "inverse_b": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }, 
+        "torment_d": {
+            "id": 139, 
+            "name": "Death Sentence"
+        }
+    }, 
+    "fight_animation": {
+        "id": 48, 
+        "name": "[Katana]Masamune"
+    }, 
+    "metamorph": {
+        "id": 16, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

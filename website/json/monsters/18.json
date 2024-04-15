@@ -1,0 +1,205 @@
+{
+    "id": 18, 
+    "name": "Overseer", 
+    "filename": "018_overseer", 
+    "special_attack": "Brain Blast", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 11, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 95, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 149, 
+            "mp": 80, 
+            "gil": 80, 
+            "exp": 69, 
+            "level": 7, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 23, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 253, 
+            "mp": 100, 
+            "gil": 125, 
+            "exp": 83, 
+            "level": 8, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 28, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 11, 
+            "defense": 100, 
+            "mdef": 155, 
+            "mpow": 5, 
+            "hp": 435, 
+            "mp": 130, 
+            "gil": 137, 
+            "exp": 102, 
+            "level": 9, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 33, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 17, 
+            "defense": 105, 
+            "mdef": 155, 
+            "mpow": 8, 
+            "hp": 683, 
+            "mp": 160, 
+            "gil": 150, 
+            "exp": 124, 
+            "level": 12, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 113, 
+            "name": "Pitfall Trap"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 113, 
+            "name": "Pitfall Trap"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_d": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,4 +1,4 @@
-let ost_a = await fetchJson("ost_a");
+let ost_a = await fetchJson("json/ost_a.json");
 
 $(document).ready(function() {  
     listSongTable(ost_a, "ost_a");

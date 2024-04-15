@@ -1,0 +1,256 @@
+{
+    "id": 154, 
+    "name": "Vargshroom", 
+    "filename": "154_vargshroom", 
+    "special_attack": "Death Spores", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2366, 
+            "mp": 185, 
+            "gil": 422, 
+            "exp": 770, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2633, 
+            "mp": 220, 
+            "gil": 527, 
+            "exp": 962, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3066, 
+            "mp": 254, 
+            "gil": 579, 
+            "exp": 1216, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 4372, 
+            "mp": 370, 
+            "gil": 636, 
+            "exp": 1511, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }, 
+        "torment_d": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }
+    }, 
+    "fight_animation": {
+        "id": 52, 
+        "name": "[Rod2]Diffusal Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "id": 258, 
+    "name": "Riot Mecha", 
+    "filename": "258_riot_mecha", 
+    "special_attack": "Uzzi Punch", 
+    "stats": {
+        "normal": {
+            "speed": 42, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 120, 
+            "mpow": 10, 
+            "hp": 1200, 
+            "mp": 160, 
+            "gil": 0, 
+            "exp": 425, 
+            "level": 21, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 130, 
+            "mpow": 12, 
+            "hp": 1644, 
+            "mp": 200, 
+            "gil": 0, 
+            "exp": 637, 
+            "level": 22, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 48, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 14, 
+            "hp": 2265, 
+            "mp": 230, 
+            "gil": 0, 
+            "exp": 805, 
+            "level": 23, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 3083, 
+            "mp": 280, 
+            "gil": 0, 
+            "exp": 910, 
+            "level": 26, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "steal_common": {
+            "id": 135, 
+            "name": "[Heavy armor]Iron Armor"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 211, 
+            "name": "Poltergasm"
+        }, 
+        "spirit_b": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

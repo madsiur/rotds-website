@@ -1,0 +1,248 @@
+{
+    "id": 226, 
+    "name": "Xenomorph", 
+    "filename": "226_xenomorph", 
+    "special_attack": "Cinderizer", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 9, 
+            "defense": 55, 
+            "mdef": 85, 
+            "mpow": 10, 
+            "hp": 10013, 
+            "mp": 900, 
+            "gil": 1000, 
+            "exp": 4881, 
+            "level": 44, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 18, 
+            "defense": 65, 
+            "mdef": 95, 
+            "mpow": 13, 
+            "hp": 12013, 
+            "mp": 1200, 
+            "gil": 1250, 
+            "exp": 6101, 
+            "level": 45, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 48, 
+            "attack": 32, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 21, 
+            "defense": 75, 
+            "mdef": 105, 
+            "mpow": 15, 
+            "hp": 15013, 
+            "mp": 1400, 
+            "gil": 1375, 
+            "exp": 7717, 
+            "level": 46, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 46, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 28, 
+            "defense": 90, 
+            "mdef": 120, 
+            "mpow": 17, 
+            "hp": 18026, 
+            "mp": 1600, 
+            "gil": 1375, 
+            "exp": 8724, 
+            "level": 49, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict KO'd", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }, 
+        "torment_d": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

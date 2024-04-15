@@ -1,0 +1,290 @@
+{
+    "id": 329, 
+    "name": "Frostfang", 
+    "filename": "329_frostfang", 
+    "special_attack": "Tail Whip", 
+    "stats": {
+        "normal": {
+            "speed": 90, 
+            "attack": 41, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 44200, 
+            "mp": 13000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 77, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 90, 
+            "attack": 63, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 46535, 
+            "mp": 15000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 78, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 90, 
+            "attack": 71, 
+            "hit_rate": 140, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 48535, 
+            "mp": 17000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 79, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 90, 
+            "attack": 82, 
+            "hit_rate": 150, 
+            "mblock": 23, 
+            "evade": 25, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 18, 
+            "hp": 50535, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 82, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 204, 
+            "name": "[Relic1]Crystal Ball"
+        }, 
+        "drop_rare": {
+            "id": 104, 
+            "name": "[Shield2]Sublime Shld"
+        }, 
+        "drop_common": {
+            "id": 104, 
+            "name": "[Shield2]Sublime Shld"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 145, 
+            "name": "Mighty Guard"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }, 
+        "inverse_b": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "id": 145, 
+    "name": "Ghirofelgo", 
+    "filename": "145_ghirofelgo", 
+    "special_attack": "Corpse Eater", 
+    "stats": {
+        "normal": {
+            "speed": 33, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 0, 
+            "defense": 105, 
+            "mdef": 125, 
+            "mpow": 10, 
+            "hp": 2600, 
+            "mp": 212, 
+            "gil": 370, 
+            "exp": 1449, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 56, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 130, 
+            "mpow": 12, 
+            "hp": 3074, 
+            "mp": 311, 
+            "gil": 462, 
+            "exp": 1661, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 74, 
+            "hit_rate": 110, 
+            "mblock": 9, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 135, 
+            "mpow": 13, 
+            "hp": 4074, 
+            "mp": 382, 
+            "gil": 508, 
+            "exp": 2101, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 85, 
+            "hit_rate": 130, 
+            "mblock": 12, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 155, 
+            "mpow": 15, 
+            "hp": 5418, 
+            "mp": 419, 
+            "gil": 558, 
+            "exp": 2611, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 165, 
+            "name": "Nether Shot"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 165, 
+            "name": "Nether Shot"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 165, 
+            "name": "Nether Shot"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 59, 
+        "name": "[Scythe]Soul Harvest"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

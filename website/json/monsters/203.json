@@ -1,0 +1,249 @@
+{
+    "id": 203, 
+    "name": "Tiger-Wolf", 
+    "filename": "203_tiger_wolf", 
+    "special_attack": "Somersault", 
+    "stats": {
+        "normal": {
+            "speed": 37, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 12, 
+            "defense": 157, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 951, 
+            "mp": 45, 
+            "gil": 343, 
+            "exp": 228, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 19, 
+            "defense": 160, 
+            "mdef": 153, 
+            "mpow": 5, 
+            "hp": 1249, 
+            "mp": 63, 
+            "gil": 428, 
+            "exp": 285, 
+            "level": 20, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 41, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 25, 
+            "defense": 162, 
+            "mdef": 155, 
+            "mpow": 8, 
+            "hp": 1659, 
+            "mp": 159, 
+            "gil": 470, 
+            "exp": 359, 
+            "level": 21, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 66, 
+            "attack": 62, 
+            "hit_rate": 110, 
+            "mblock": 12, 
+            "evade": 29, 
+            "defense": 167, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 2398, 
+            "mp": 190, 
+            "gil": 470, 
+            "exp": 406, 
+            "level": 24, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

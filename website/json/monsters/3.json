@@ -1,0 +1,275 @@
+{
+    "id": 3, 
+    "name": "Ninja", 
+    "filename": "003_ninja", 
+    "special_attack": "Disappear", 
+    "stats": {
+        "normal": {
+            "speed": 47, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 135, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 2750, 
+            "mp": 130, 
+            "gil": 520, 
+            "exp": 867, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 57, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 135, 
+            "mdef": 140, 
+            "mpow": 6, 
+            "hp": 3500, 
+            "mp": 150, 
+            "gil": 650, 
+            "exp": 1068, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 69, 
+            "attack": 38, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 140, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 4300, 
+            "mp": 330, 
+            "gil": 715, 
+            "exp": 1350, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 81, 
+            "attack": 56, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 75, 
+            "defense": 150, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 6600, 
+            "mp": 560, 
+            "gil": 786, 
+            "exp": 1678, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "Near fatal", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 227, 
+            "name": "[Relic1]Ninja Sight"
+        }, 
+        "steal_common": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "drop_rare": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 82, 
+            "name": "Water Scroll"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 81, 
+            "name": "Fire Scroll"
+        }, 
+        "inverse_b": {
+            "id": 83, 
+            "name": "Bolt Scroll"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 81, 
+            "name": "Fire Scroll"
+        }, 
+        "torment_c": {
+            "id": 82, 
+            "name": "Water Scroll"
+        }, 
+        "torment_d": {
+            "id": 83, 
+            "name": "Bolt Scroll"
+        }
+    }, 
+    "fight_animation": {
+        "id": 40, 
+        "name": "[Knife1]Throatslicer"
+    }, 
+    "metamorph": {
+        "id": 25, 
+        "metamorph_a": {
+            "id": 80, 
+            "name": "[Axe]Stone Axe"
+        }, 
+        "metamorph_b": {
+            "id": 82, 
+            "name": "[Knife2]Thief Knife"
+        }, 
+        "metamorph_c": {
+            "id": 5, 
+            "name": "[Knife1]Eviscerator"
+        }, 
+        "metamorph_d": {
+            "id": 78, 
+            "name": "[Ninja]Throw Knives"
+        }
+    }
+}

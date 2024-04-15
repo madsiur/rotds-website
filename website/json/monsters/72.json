@@ -1,0 +1,254 @@
+{
+    "id": 72, 
+    "name": "Fiend", 
+    "filename": "072_fiend", 
+    "special_attack": "Shadow Strike", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 8, 
+            "defense": 112, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 1500, 
+            "mp": 110, 
+            "gil": 442, 
+            "exp": 525, 
+            "level": 21, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 41, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 23, 
+            "evade": 15, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 2136, 
+            "mp": 160, 
+            "gil": 552, 
+            "exp": 740, 
+            "level": 22, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "True knight"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 36, 
+            "hit_rate": 110, 
+            "mblock": 26, 
+            "evade": 18, 
+            "defense": 130, 
+            "mdef": 153, 
+            "mpow": 14, 
+            "hp": 2736, 
+            "mp": 310, 
+            "gil": 607, 
+            "exp": 916, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 61, 
+            "attack": 47, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 22, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 17, 
+            "hp": 3422, 
+            "mp": 510, 
+            "gil": 667, 
+            "exp": 1138, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire", 
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 179, 
+            "name": "[Relic1]Holy Amulet"
+        }, 
+        "steal_common": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_rare": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 235, 
+            "name": "Lifeshaver"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 4, 
+        "name": "[Large sword]Vendetta"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "id": 251, 
+    "name": "Mr. Grimm", 
+    "filename": "251_mr_grimm", 
+    "special_attack": "Burial Blade", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 40, 
+            "evade": 20, 
+            "defense": 20, 
+            "mdef": 180, 
+            "mpow": 7, 
+            "hp": 4560, 
+            "mp": 1000, 
+            "gil": 0, 
+            "exp": 5000, 
+            "level": 14, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 40, 
+            "evade": 20, 
+            "defense": 25, 
+            "mdef": 180, 
+            "mpow": 8, 
+            "hp": 5020, 
+            "mp": 1280, 
+            "gil": 0, 
+            "exp": 5000, 
+            "level": 15, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 43, 
+            "attack": 41, 
+            "hit_rate": 120, 
+            "mblock": 40, 
+            "evade": 20, 
+            "defense": 30, 
+            "mdef": 180, 
+            "mpow": 9, 
+            "hp": 5600, 
+            "mp": 1320, 
+            "gil": 0, 
+            "exp": 5000, 
+            "level": 16, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Stop"
+            ], 
+            "status": [
+                "Image", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 50, 
+            "hit_rate": 130, 
+            "mblock": 40, 
+            "evade": 20, 
+            "defense": 40, 
+            "mdef": 180, 
+            "mpow": 10, 
+            "hp": 6200, 
+            "mp": 1666, 
+            "gil": 0, 
+            "exp": 5000, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk"
+            ], 
+            "status": [
+                "Image", 
+                "Float", 
+                "Stop"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 252, 
+            "name": "[Item2]Quicksilver"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "drop_common": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }, 
+        "inverse_b": {
+            "id": 139, 
+            "name": "Death Sentence"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 240, 
+            "name": "Deus Blade"
+        }, 
+        "torment_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_c": {
+            "id": 196, 
+            "name": "Mind Blast"
+        }, 
+        "torment_d": {
+            "id": 161, 
+            "name": "Shadow Flare"
+        }
+    }, 
+    "fight_animation": {
+        "id": 59, 
+        "name": "[Scythe]Soul Harvest"
+    }, 
+    "metamorph": {
+        "id": 23, 
+        "metamorph_a": {
+            "id": 174, 
+            "name": "[Scroll]Mist Scroll"
+        }, 
+        "metamorph_b": {
+            "id": 175, 
+            "name": "[Scroll]Ninja Scroll"
+        }, 
+        "metamorph_c": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "metamorph_d": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }
+    }
+}

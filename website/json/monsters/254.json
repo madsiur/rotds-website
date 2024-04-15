@@ -1,0 +1,277 @@
+{
+    "id": 254, 
+    "name": "Crockpot", 
+    "filename": "254_crockpot", 
+    "special_attack": "Crush", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 8062, 
+            "mp": 1550, 
+            "gil": 1995, 
+            "exp": 3253, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 68, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 9862, 
+            "mp": 1620, 
+            "gil": 2403, 
+            "exp": 4066, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 73, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 10862, 
+            "mp": 1850, 
+            "gil": 2643, 
+            "exp": 5142, 
+            "level": 41, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 81, 
+            "attack": 65, 
+            "hit_rate": 150, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 12547, 
+            "mp": 2003, 
+            "gil": 2643, 
+            "exp": 5813, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison", 
+                "Wind", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 168, 
+            "name": "[Aether]Nanoflare"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 198, 
+            "name": "Flare Star"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 112, 
+            "name": "Twin Plasma"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 112, 
+            "name": "Twin Plasma"
+        }, 
+        "torment_d": {
+            "id": 177, 
+            "name": "Blaster"
+        }
+    }, 
+    "fight_animation": {
+        "id": 83, 
+        "name": "[Gun]Blunderbuss"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

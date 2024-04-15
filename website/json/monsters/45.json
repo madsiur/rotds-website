@@ -1,0 +1,256 @@
+{
+    "id": 45, 
+    "name": "Motor Trap", 
+    "filename": "045_motor_trap", 
+    "special_attack": "Reflection", 
+    "stats": {
+        "normal": {
+            "speed": 28, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 130, 
+            "mpow": 9, 
+            "hp": 955, 
+            "mp": 80, 
+            "gil": 200, 
+            "exp": 235, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float", 
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 140, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 1223, 
+            "mp": 180, 
+            "gil": 250, 
+            "exp": 293, 
+            "level": 20, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float", 
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 1823, 
+            "mp": 230, 
+            "gil": 275, 
+            "exp": 370, 
+            "level": 21, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float", 
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 39, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 160, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 2649, 
+            "mp": 360, 
+            "gil": 302, 
+            "exp": 460, 
+            "level": 24, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Confuse", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float", 
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Reflect", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }, 
+        "inverse_b": {
+            "id": 150, 
+            "name": "Level 3 Confuse"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 148, 
+            "name": "Level 5 Death"
+        }, 
+        "torment_c": {
+            "id": 150, 
+            "name": "Level 3 Confuse"
+        }, 
+        "torment_d": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

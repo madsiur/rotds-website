@@ -1,0 +1,264 @@
+{
+    "id": 6, 
+    "name": "MagRoader", 
+    "filename": "006_magroader", 
+    "special_attack": "Mag Wheel", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 5, 
+            "defense": 50, 
+            "mdef": 140, 
+            "mpow": 3, 
+            "hp": 1420, 
+            "mp": 180, 
+            "gil": 277, 
+            "exp": 232, 
+            "level": 20, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 80, 
+            "mdef": 160, 
+            "mpow": 5, 
+            "hp": 2048, 
+            "mp": 200, 
+            "gil": 346, 
+            "exp": 290, 
+            "level": 21, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 36, 
+            "hit_rate": 110, 
+            "mblock": 20, 
+            "evade": 15, 
+            "defense": 100, 
+            "mdef": 165, 
+            "mpow": 7, 
+            "hp": 2848, 
+            "mp": 350, 
+            "gil": 380, 
+            "exp": 366, 
+            "level": 22, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 55, 
+            "attack": 47, 
+            "hit_rate": 120, 
+            "mblock": 25, 
+            "evade": 20, 
+            "defense": 105, 
+            "mdef": 165, 
+            "mpow": 10, 
+            "hp": 3590, 
+            "mp": 500, 
+            "gil": 418, 
+            "exp": 455, 
+            "level": 25, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 173, 
+            "name": "[Scroll]Bolt Scroll"
+        }, 
+        "steal_common": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "drop_rare": {
+            "id": 172, 
+            "name": "[Scroll]Water Scroll"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }, 
+        "torment_d": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

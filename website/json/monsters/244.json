@@ -1,0 +1,225 @@
+{
+    "id": 244, 
+    "name": "FungiBeast", 
+    "filename": "244_fungibeast", 
+    "special_attack": "Spore Cloud", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 13, 
+            "defense": 80, 
+            "mdef": 100, 
+            "mpow": 1, 
+            "hp": 418, 
+            "mp": 136, 
+            "gil": 135, 
+            "exp": 154, 
+            "level": 12, 
+            "immunity": [
+                "Confuse"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 26, 
+            "defense": 85, 
+            "mdef": 103, 
+            "mpow": 2, 
+            "hp": 656, 
+            "mp": 163, 
+            "gil": 168, 
+            "exp": 192, 
+            "level": 13, 
+            "immunity": [
+                "Confuse"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 43, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 16, 
+            "defense": 90, 
+            "mdef": 105, 
+            "mpow": 3, 
+            "hp": 871, 
+            "mp": 208, 
+            "gil": 184, 
+            "exp": 240, 
+            "level": 14, 
+            "immunity": [
+                "Confuse"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 95, 
+            "mdef": 107, 
+            "mpow": 6, 
+            "hp": 1249, 
+            "mp": 247, 
+            "gil": 230, 
+            "exp": 300, 
+            "level": 17, 
+            "immunity": [
+                "Confuse"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "id": 355, 
+    "name": "Deity", 
+    "filename": "355_deity", 
+    "special_attack": "Cosmos Pound", 
+    "stats": {
+        "normal": {
+            "speed": 37, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 115, 
+            "mpow": 15, 
+            "hp": 8888, 
+            "mp": 2800, 
+            "gil": 450, 
+            "exp": 2292, 
+            "level": 53, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 115, 
+            "mpow": 15, 
+            "hp": 9999, 
+            "mp": 2800, 
+            "gil": 495, 
+            "exp": 2541, 
+            "level": 54, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 115, 
+            "mpow": 15, 
+            "hp": 10999, 
+            "mp": 2800, 
+            "gil": 544, 
+            "exp": 3237, 
+            "level": 55, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 46, 
+            "attack": 19, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 115, 
+            "mpow": 18, 
+            "hp": 11999, 
+            "mp": 2800, 
+            "gil": 598, 
+            "exp": 5265, 
+            "level": 58, 
+            "immunity": [
+                "Pig", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "steal_common": {
+            "id": 171, 
+            "name": "[Scroll]Fire Scroll"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 163, 
+            "name": "Swine Song"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 36, 
+            "name": "[Grey magic]Reflect"
+        }, 
+        "inverse_b": {
+            "id": 47, 
+            "name": "[White magic]Curaga"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 36, 
+            "name": "[Grey magic]Reflect"
+        }, 
+        "torment_c": {
+            "id": 47, 
+            "name": "[White magic]Curaga"
+        }, 
+        "torment_d": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 19, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_c": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_d": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }
+    }
+}

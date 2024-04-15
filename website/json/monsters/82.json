@@ -1,0 +1,231 @@
+{
+    "id": 82, 
+    "name": "Harlot", 
+    "filename": "082_harlot", 
+    "special_attack": "Ominous Dance", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 6, 
+            "defense": 110, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 692, 
+            "mp": 128, 
+            "gil": 296, 
+            "exp": 224, 
+            "level": 15, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 9, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 898, 
+            "mp": 160, 
+            "gil": 470, 
+            "exp": 224, 
+            "level": 16, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 12, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 1318, 
+            "mp": 210, 
+            "gil": 517, 
+            "exp": 282, 
+            "level": 17, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 19, 
+            "defense": 130, 
+            "mdef": 157, 
+            "mpow": 19, 
+            "hp": 1763, 
+            "mp": 320, 
+            "gil": 568, 
+            "exp": 386, 
+            "level": 20, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 4, 
+            "name": "[Large sword]Vendetta"
+        }, 
+        "steal_common": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "inverse_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_c": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }, 
+        "torment_d": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }
+    }, 
+    "fight_animation": {
+        "id": 69, 
+        "name": "[Boomerang]Boomerang"
+    }, 
+    "metamorph": {
+        "id": 9, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

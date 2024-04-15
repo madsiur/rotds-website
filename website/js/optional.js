@@ -1,6 +1,6 @@
-let optional_a = await fetchJson("optional_a");
-let optional_b = await fetchJson("optional_b");
-let optional_c = await fetchJson("optional_c");
+let optional_a = await fetchJson("json/optional_a.json");
+let optional_b = await fetchJson("json/optional_b.json");
+let optional_c = await fetchJson("json/optional_c.json");
 
 $(document).ready(function() {
     listSongTable(optional_a, "optional_a");

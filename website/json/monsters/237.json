@@ -1,0 +1,233 @@
+{
+    "id": 237, 
+    "name": "Metallix", 
+    "filename": "237_metallix", 
+    "special_attack": "Energy Beam", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 6, 
+            "defense": 183, 
+            "mdef": 163, 
+            "mpow": 9, 
+            "hp": 3358, 
+            "mp": 200, 
+            "gil": 1100, 
+            "exp": 2200, 
+            "level": 53, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 9, 
+            "defense": 185, 
+            "mdef": 165, 
+            "mpow": 10, 
+            "hp": 4055, 
+            "mp": 250, 
+            "gil": 1375, 
+            "exp": 2750, 
+            "level": 54, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 26, 
+            "hit_rate": 110, 
+            "mblock": 17, 
+            "evade": 12, 
+            "defense": 187, 
+            "mdef": 167, 
+            "mpow": 13, 
+            "hp": 6903, 
+            "mp": 300, 
+            "gil": 1512, 
+            "exp": 3478, 
+            "level": 55, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 34, 
+            "hit_rate": 120, 
+            "mblock": 23, 
+            "evade": 15, 
+            "defense": 190, 
+            "mdef": 170, 
+            "mpow": 16, 
+            "hp": 9110, 
+            "mp": 400, 
+            "gil": 1512, 
+            "exp": 3932, 
+            "level": 58, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 157, 
+            "name": "Transfusion"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 157, 
+            "name": "Transfusion"
+        }, 
+        "torment_d": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }
+    }, 
+    "fight_animation": {
+        "id": 28, 
+        "name": "[Sword1]Lightsaber"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

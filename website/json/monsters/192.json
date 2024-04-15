@@ -1,0 +1,271 @@
+{
+    "id": 192, 
+    "name": "Banished", 
+    "filename": "192_banished", 
+    "special_attack": "Last Breath", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 9, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 17, 
+            "defense": 130, 
+            "mdef": 115, 
+            "mpow": 6, 
+            "hp": 1265, 
+            "mp": 130, 
+            "gil": 491, 
+            "exp": 258, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 28, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 24, 
+            "defense": 135, 
+            "mdef": 115, 
+            "mpow": 7, 
+            "hp": 1675, 
+            "mp": 190, 
+            "gil": 613, 
+            "exp": 322, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 37, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 27, 
+            "defense": 140, 
+            "mdef": 120, 
+            "mpow": 10, 
+            "hp": 2260, 
+            "mp": 240, 
+            "gil": 674, 
+            "exp": 407, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 46, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 17, 
+            "evade": 34, 
+            "defense": 145, 
+            "mdef": 122, 
+            "mpow": 13, 
+            "hp": 3050, 
+            "mp": 380, 
+            "gil": 741, 
+            "exp": 505, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Seizure", 
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "inverse_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_c": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }, 
+        "torment_d": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }
+    }, 
+    "fight_animation": {
+        "id": 25, 
+        "name": "[Sword2]Cross Radius"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

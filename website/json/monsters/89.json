@@ -1,0 +1,237 @@
+{
+    "id": 89, 
+    "name": "Hydromage", 
+    "filename": "089_hydromage", 
+    "special_attack": "Water Bolt", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 2, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 80, 
+            "mdef": 145, 
+            "mpow": 2, 
+            "hp": 620, 
+            "mp": 230, 
+            "gil": 115, 
+            "exp": 96, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 800, 
+            "mp": 250, 
+            "gil": 143, 
+            "exp": 160, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 40, 
+            "evade": 0, 
+            "defense": 100, 
+            "mdef": 156, 
+            "mpow": 4, 
+            "hp": 1040, 
+            "mp": 380, 
+            "gil": 157, 
+            "exp": 202, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 165, 
+            "mpow": 7, 
+            "hp": 1560, 
+            "mp": 460, 
+            "gil": 172, 
+            "exp": 250, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Stop", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 58, 
+        "name": "[Rod3]Mermaid Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

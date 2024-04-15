@@ -1,0 +1,266 @@
+{
+    "id": 67, 
+    "name": "M-TekRobot", 
+    "filename": "067_m_tekrobot", 
+    "special_attack": "Megaton Punch", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 11, 
+            "defense": 118, 
+            "mdef": 145, 
+            "mpow": 7, 
+            "hp": 2400, 
+            "mp": 270, 
+            "gil": 400, 
+            "exp": 650, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 19, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 3252, 
+            "mp": 320, 
+            "gil": 500, 
+            "exp": 837, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 22, 
+            "defense": 130, 
+            "mdef": 153, 
+            "mpow": 11, 
+            "hp": 4052, 
+            "mp": 340, 
+            "gil": 550, 
+            "exp": 1058, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 60, 
+            "hit_rate": 110, 
+            "mblock": 23, 
+            "evade": 28, 
+            "defense": 143, 
+            "mdef": 160, 
+            "mpow": 14, 
+            "hp": 7004, 
+            "mp": 480, 
+            "gil": 605, 
+            "exp": 1315, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Berserk", 
+                "Seizure", 
+                "Psyche", 
+                "Slow"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 124, 
+            "name": "[Heavy helm1]Diamond Helm"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 133, 
+            "name": "Thunder Beam"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 132, 
+            "name": "Frozen Beam"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }, 
+        "torment_d": {
+            "id": 131, 
+            "name": "Magma Beam"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

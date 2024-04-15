@@ -1,0 +1,237 @@
+{
+    "id": 193, 
+    "name": "Malific", 
+    "filename": "193_malific", 
+    "special_attack": "Cursed Gaze", 
+    "stats": {
+        "normal": {
+            "speed": 39, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 14, 
+            "evade": 9, 
+            "defense": 105, 
+            "mdef": 140, 
+            "mpow": 14, 
+            "hp": 7800, 
+            "mp": 1400, 
+            "gil": 200, 
+            "exp": 3090, 
+            "level": 56, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 46, 
+            "attack": 21, 
+            "hit_rate": 110, 
+            "mblock": 16, 
+            "evade": 9, 
+            "defense": 110, 
+            "mdef": 140, 
+            "mpow": 16, 
+            "hp": 9400, 
+            "mp": 1600, 
+            "gil": 750, 
+            "exp": 3962, 
+            "level": 57, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 55, 
+            "attack": 27, 
+            "hit_rate": 120, 
+            "mblock": 19, 
+            "evade": 11, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 18, 
+            "hp": 12600, 
+            "mp": 1800, 
+            "gil": 825, 
+            "exp": 5011, 
+            "level": 58, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 68, 
+            "attack": 43, 
+            "hit_rate": 130, 
+            "mblock": 23, 
+            "evade": 13, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 21, 
+            "hp": 16200, 
+            "mp": 2200, 
+            "gil": 907, 
+            "exp": 6230, 
+            "level": 61, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }, 
+        "steal_common": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 232, 
+            "name": "Life Purge"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }, 
+        "inverse_b": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }, 
+        "torment_d": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "fight_animation": {
+        "id": 61, 
+        "name": "[Glove]Frost Glove "
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

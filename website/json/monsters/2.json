@@ -1,0 +1,214 @@
+{
+    "id": 2, 
+    "name": "Defender", 
+    "filename": "002_defender", 
+    "special_attack": "Diving Blade", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 150, 
+            "mdef": 80, 
+            "mpow": 3, 
+            "hp": 366, 
+            "mp": 50, 
+            "gil": 96, 
+            "exp": 56, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 14, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 4, 
+            "hp": 595, 
+            "mp": 90, 
+            "gil": 120, 
+            "exp": 70, 
+            "level": 13, 
+            "immunity": [], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 16, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 6, 
+            "hp": 705, 
+            "mp": 140, 
+            "gil": 132, 
+            "exp": 100, 
+            "level": 14, 
+            "immunity": [], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 18, 
+            "defense": 150, 
+            "mdef": 125, 
+            "mpow": 8, 
+            "hp": 1010, 
+            "mp": 280, 
+            "gil": 145, 
+            "exp": 154, 
+            "level": 17, 
+            "immunity": [], 
+            "status": [
+                "Shell"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 107, 
+            "name": "[Heavy Helm2]Assault Helm"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 11, 
+        "name": "[Sword2]Shamshir"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

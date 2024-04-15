@@ -1,0 +1,245 @@
+{
+    "id": 196, 
+    "name": "Imp Poe", 
+    "filename": "196_imp_poe", 
+    "special_attack": "Nocturne", 
+    "stats": {
+        "normal": {
+            "speed": 33, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 10, 
+            "defense": 50, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2677, 
+            "mp": 200, 
+            "gil": 388, 
+            "exp": 587, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 14, 
+            "defense": 60, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 3077, 
+            "mp": 220, 
+            "gil": 485, 
+            "exp": 733, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 52, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 17, 
+            "defense": 70, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 4077, 
+            "mp": 280, 
+            "gil": 533, 
+            "exp": 926, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 35, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 21, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 6154, 
+            "mp": 340, 
+            "gil": 583, 
+            "exp": 1151, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Zombie", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 17, 
+            "name": "[Black magic]Flood"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 26, 
+            "name": "[Grey magic]Expel"
+        }, 
+        "inverse_b": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 26, 
+            "name": "[Grey magic]Expel"
+        }, 
+        "torment_c": {
+            "id": 16, 
+            "name": "[Black magic]Splash"
+        }, 
+        "torment_d": {
+            "id": 32, 
+            "name": "[Grey magic]Stop"
+        }
+    }, 
+    "fight_animation": {
+        "id": 59, 
+        "name": "[Scythe]Soul Harvest"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

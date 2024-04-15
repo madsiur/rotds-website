@@ -1,0 +1,243 @@
+{
+    "id": 173, 
+    "name": "Cezanne", 
+    "filename": "173_cezanne", 
+    "special_attack": "Paint Splatter", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 8, 
+            "defense": 100, 
+            "mdef": 153, 
+            "mpow": 30, 
+            "hp": 2539, 
+            "mp": 300, 
+            "gil": 769, 
+            "exp": 1531, 
+            "level": 32, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 13, 
+            "defense": 110, 
+            "mdef": 153, 
+            "mpow": 30, 
+            "hp": 3739, 
+            "mp": 400, 
+            "gil": 961, 
+            "exp": 1913, 
+            "level": 33, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 36, 
+            "hit_rate": 110, 
+            "mblock": 26, 
+            "evade": 19, 
+            "defense": 120, 
+            "mdef": 158, 
+            "mpow": 30, 
+            "hp": 4693, 
+            "mp": 502, 
+            "gil": 1057, 
+            "exp": 2419, 
+            "level": 34, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 48, 
+            "hit_rate": 120, 
+            "mblock": 33, 
+            "evade": 26, 
+            "defense": 130, 
+            "mdef": 162, 
+            "mpow": 30, 
+            "hp": 5872, 
+            "mp": 633, 
+            "gil": 1162, 
+            "exp": 3008, 
+            "level": 37, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 110, 
+            "name": "[Medium helm]Ashen Cowl"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }, 
+        "inverse_b": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }, 
+        "torment_c": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }, 
+        "torment_d": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }
+    }, 
+    "fight_animation": {
+        "id": 40, 
+        "name": "[Knife1]Throatslicer"
+    }, 
+    "metamorph": {
+        "id": 9, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

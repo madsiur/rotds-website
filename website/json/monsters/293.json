@@ -1,0 +1,237 @@
+{
+    "id": 293, 
+    "name": "Whelp", 
+    "filename": "293_whelp", 
+    "special_attack": "Crimson Claw", 
+    "stats": {
+        "normal": {
+            "speed": 36, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 140, 
+            "mpow": 20, 
+            "hp": 5000, 
+            "mp": 700, 
+            "gil": 500, 
+            "exp": 2390, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 140, 
+            "mpow": 22, 
+            "hp": 6970, 
+            "mp": 800, 
+            "gil": 550, 
+            "exp": 2649, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 140, 
+            "mpow": 24, 
+            "hp": 9701, 
+            "mp": 1200, 
+            "gil": 605, 
+            "exp": 3372, 
+            "level": 56, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 19, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 140, 
+            "mpow": 27, 
+            "hp": 12491, 
+            "mp": 1600, 
+            "gil": 665, 
+            "exp": 4221, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 97, 
+            "name": "Cobra Strike"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "inverse_b": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "torment_c": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }, 
+        "torment_d": {
+            "id": 36, 
+            "name": "[Grey magic]Reflect"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

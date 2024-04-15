@@ -1,0 +1,264 @@
+{
+    "id": 247, 
+    "name": "Witch", 
+    "filename": "247_witch", 
+    "special_attack": "Fly-by", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 10, 
+            "defense": 116, 
+            "mdef": 155, 
+            "mpow": 9, 
+            "hp": 4015, 
+            "mp": 1800, 
+            "gil": 826, 
+            "exp": 2698, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 12, 
+            "defense": 120, 
+            "mdef": 155, 
+            "mpow": 11, 
+            "hp": 5815, 
+            "mp": 2000, 
+            "gil": 1032, 
+            "exp": 3122, 
+            "level": 50, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 23, 
+            "hit_rate": 110, 
+            "mblock": 23, 
+            "evade": 14, 
+            "defense": 122, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 7232, 
+            "mp": 2200, 
+            "gil": 1135, 
+            "exp": 3949, 
+            "level": 51, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 46, 
+            "hit_rate": 120, 
+            "mblock": 26, 
+            "evade": 16, 
+            "defense": 125, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 9360, 
+            "mp": 2500, 
+            "gil": 1135, 
+            "exp": 4464, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 47, 
+            "name": "[White magic]Curaga"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 23, 
+            "name": "[Black magic]Meltdown"
+        }, 
+        "inverse_b": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_c": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_d": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "fight_animation": {
+        "id": 57, 
+        "name": "[Rod2]Lunar Rod"
+    }, 
+    "metamorph": {
+        "id": 17, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 220, 
+            "name": "[Relic1]Exodus Token"
+        }
+    }
+}

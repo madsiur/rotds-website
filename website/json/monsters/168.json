@@ -1,0 +1,203 @@
+{
+    "id": 168, 
+    "name": "Moblin", 
+    "filename": "168_moblin", 
+    "special_attack": "Blitz", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 0, 
+            "hp": 157, 
+            "mp": 60, 
+            "gil": 206, 
+            "exp": 53, 
+            "level": 8, 
+            "immunity": [], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 23, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 186, 
+            "mp": 80, 
+            "gil": 226, 
+            "exp": 66, 
+            "level": 9, 
+            "immunity": [], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 25, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 2, 
+            "hp": 235, 
+            "mp": 100, 
+            "gil": 248, 
+            "exp": 82, 
+            "level": 10, 
+            "immunity": [], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Special event"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 30, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 27, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 314, 
+            "mp": 120, 
+            "gil": 272, 
+            "exp": 102, 
+            "level": 13, 
+            "immunity": [], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 90, 
+            "name": "[Shield1]Buckler"
+        }, 
+        "steal_common": {
+            "id": 105, 
+            "name": "[Mage helm]Leather Cap"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 37, 
+            "name": "[Grey magic]Shell"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }, 
+        "torment_d": {
+            "id": 173, 
+            "name": "Energy Web"
+        }
+    }, 
+    "fight_animation": {
+        "id": 84, 
+        "name": "[Glove]Brass Knucks"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex flex-column border border-dark border-2 page-div pb-1 px-0 my-1 mx-0">
+                    <div class="d-flex flex-column mt-3">
+                        <h3 class="align-self-center">{{ info.name }}</h3>
+                    </div>
+                    <div class="d-flex flex-column align-self-center">
+                        <div id="char-table" class="char-table align-self-center">
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1 pt-1 pb-0 ps-1 pe-0 row-special border border-end-0 border-dark border-2">
+                                    <img alt="{{ info.id }}" class="img-fluid" src="portraits/{{ info.id }}.png"/>
+                                </div>
+                                <div class="col-9 col-sm-10 col-md-11 col-lg-11 col-xl-7 col-xxl-7 py-1 px-1 row-special border border-start-0 border-dark border-2">{{ info.description }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Might:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.might }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Speed:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.speed }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Stamina:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.stamina }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Run Success:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.run_success }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Battle Power:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.battle_power }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Magic Power:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.magic_power }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Defense:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.defense }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Magic Defense:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.magic_defense }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Evade:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.evade }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">MBlock:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.mblock }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Age:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.age }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Height:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.height }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Weight:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.weight }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Zodiac:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.zodiac }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Blood Type:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.blood_type }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Hometown:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.hometown }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Likes:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.likes }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Dislikes:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.dislikes }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Treasure:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.treasure }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Weapons:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.weapons }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Class:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ info.class }}</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Desperation Attack:</div>
+                                <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-2 col-xxl-2 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ info.desperation_attack }}</div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-8 col-xxl-8 py-1 px-2 character-desc-row-special border-start border-end border-bottom border-dark border-2">
+                                    Special Ability: {{ info.ability_name }}. {{ info.ability_desc }}
+                                </div>
+                            </div>
+                            <div id="char-btns" class="d-flex justify-content-center">
+                                <div id="btns-prev-next" class="d-flex {{ class_btns_prev_next }} col-sm-12 col-md-12 col-lg-12 col-xl-8 col-xxl-8">
+                                {%- if info.prev_id != -1 -%}
+                                    <a class="btn btn-dark mt-2 me-1" type="button" href="{{ info.prev_id }}.html">← {{ info.prev_name }}</a>
+                                {%- endif -%}
+                                {%- if info.next_id != -1 -%}
+                                    <a class="btn btn-dark mt-2 ms-1" type="button" href="{{ info.next_id }}.html">{{ info.next_name }} →</a>
+                                {%- endif -%}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'publicscripts.html' %}
+    </body>
+</html>

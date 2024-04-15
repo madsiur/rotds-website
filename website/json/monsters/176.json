@@ -1,0 +1,216 @@
+{
+    "id": 176, 
+    "name": "Zeb", 
+    "filename": "176_zeb", 
+    "special_attack": "Boulder Toss", 
+    "stats": {
+        "normal": {
+            "speed": 70, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2250, 
+            "mp": 100, 
+            "gil": 1524, 
+            "exp": 1356, 
+            "level": 50, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 18, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 2557, 
+            "mp": 146, 
+            "gil": 1524, 
+            "exp": 1995, 
+            "level": 51, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 78, 
+            "attack": 26, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 113, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3765, 
+            "mp": 182, 
+            "gil": 1676, 
+            "exp": 2523, 
+            "level": 52, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 32, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 60, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 5360, 
+            "mp": 240, 
+            "gil": 1843, 
+            "exp": 3136, 
+            "level": 55, 
+            "immunity": [
+                "KO'd", 
+                "Condemned", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 177, 
+            "name": "Blaster"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 218, 
+            "name": "Timebomb"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 31, 
+        "name": "[Spear2]Gold Trident"
+    }, 
+    "metamorph": {
+        "id": 10, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 194, 
+            "name": "[Relic1]Thief Gloves"
+        }
+    }
+}

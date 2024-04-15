@@ -2,6 +2,31 @@ import os
 import shutil
 import sys
 import json
+import bs4
+from .constants import Constants
+from PIL import Image
+
+def get_constants():
+    return Constants()
+
+def get_meta_data(keywords, meta_description, title, url, img_url, img_path, meta_img_alt, cons=get_constants()):
+    meta_title = cons.COMMON_TITLE + title
+    meta_url = f"{cons.WEBSITE_URL}{url}"
+    meta_img_url = f"{cons.WEBSITE_URL}{img_url}"
+    meta_img_width, meta_img_height = get_img_size(img_path)
+
+    meta = {
+        "keywords": keywords,
+        "description": meta_description,
+        "title": meta_title,
+        "url": meta_url,
+        "img_url": meta_img_url,
+        "img_width": meta_img_width,
+        "img_height": meta_img_height,
+        "img_alt": meta_img_alt
+    }
+
+    return meta
 
 def create_name_list(rom, base_offset, start_id, length, num, table):
     array = []
@@ -102,9 +127,9 @@ def write_json(data, filename):
     json_object = json.dumps(data, separators=(', ', ': '), indent=4)
     write_file(json_object, filename)
 
-def write_file(data, filename):
+def write_file(data, filename, encoding="utf-8"):
     try:
-        with open(filename, "w") as f:
+        with open(filename, "w", encoding=encoding) as f:
             f.write(data)
     except IOError as e:
         print(f"An IOError occurred while writing {filename}: {e}")
@@ -145,3 +170,16 @@ def remove_header(rom):
     if len(rom) % 0x10000 == 0x200:
         return rom[0x200:]
     return rom
+
+def prettify_html(html, spaces=4):
+    formatter = bs4.formatter.HTMLFormatter(indent=spaces)
+    bs = bs4.BeautifulSoup(html, 'html.parser')
+    return bs.prettify(formatter=formatter)
+
+def get_img_size(filename):
+    try:
+        with Image.open(filename) as img:
+            return img.size
+    except IOError as e:
+        print(f"An IOError occurred while opening {filename}: {e}")
+        sys.exit()

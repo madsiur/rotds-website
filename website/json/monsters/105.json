@@ -1,0 +1,252 @@
+{
+    "id": 105, 
+    "name": "Poe Boy", 
+    "filename": "105_poe_boy", 
+    "special_attack": "Plasma Star", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 2, 
+            "evade": 2, 
+            "defense": 180, 
+            "mdef": 225, 
+            "mpow": 10, 
+            "hp": 2300, 
+            "mp": 1000, 
+            "gil": 333, 
+            "exp": 970, 
+            "level": 38, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 4, 
+            "defense": 180, 
+            "mdef": 225, 
+            "mpow": 12, 
+            "hp": 3222, 
+            "mp": 1250, 
+            "gil": 416, 
+            "exp": 1712, 
+            "level": 39, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 22, 
+            "hit_rate": 110, 
+            "mblock": 6, 
+            "evade": 6, 
+            "defense": 180, 
+            "mdef": 225, 
+            "mpow": 14, 
+            "hp": 4222, 
+            "mp": 1520, 
+            "gil": 457, 
+            "exp": 2165, 
+            "level": 42, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 76, 
+            "attack": 41, 
+            "hit_rate": 120, 
+            "mblock": 8, 
+            "evade": 8, 
+            "defense": 180, 
+            "mdef": 225, 
+            "mpow": 18, 
+            "hp": 7444, 
+            "mp": 1830, 
+            "gil": 502, 
+            "exp": 2692, 
+            "level": 45, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Poison", 
+                "Float"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 22, 
+        "name": "[Sword2]Wraith Blade"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

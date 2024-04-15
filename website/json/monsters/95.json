@@ -1,0 +1,272 @@
+{
+    "id": 95, 
+    "name": "Fairy Drgn", 
+    "filename": "095_fairy_drgn", 
+    "special_attack": "Phase Out", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 6, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 1335, 
+            "mp": 160, 
+            "gil": 726, 
+            "exp": 1275, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 34, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 29, 
+            "evade": 12, 
+            "defense": 130, 
+            "mdef": 155, 
+            "mpow": 10, 
+            "hp": 1853, 
+            "mp": 180, 
+            "gil": 907, 
+            "exp": 1593, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 23, 
+            "hit_rate": 110, 
+            "mblock": 32, 
+            "evade": 15, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 2353, 
+            "mp": 280, 
+            "gil": 997, 
+            "exp": 2014, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 32, 
+            "hit_rate": 120, 
+            "mblock": 39, 
+            "evade": 22, 
+            "defense": 150, 
+            "mdef": 170, 
+            "mpow": 16, 
+            "hp": 3406, 
+            "mp": 360, 
+            "gil": 1096, 
+            "exp": 2505, 
+            "level": 32, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

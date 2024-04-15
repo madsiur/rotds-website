@@ -1,0 +1,272 @@
+{
+    "id": 229, 
+    "name": "Ara Mitama", 
+    "filename": "229_ara_mitama", 
+    "special_attack": "Mad Touch", 
+    "stats": {
+        "normal": {
+            "speed": 36, 
+            "attack": 1, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 15, 
+            "defense": 60, 
+            "mdef": 180, 
+            "mpow": 10, 
+            "hp": 1590, 
+            "mp": 190, 
+            "gil": 350, 
+            "exp": 574, 
+            "level": 21, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 3, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 18, 
+            "defense": 70, 
+            "mdef": 180, 
+            "mpow": 13, 
+            "hp": 1886, 
+            "mp": 280, 
+            "gil": 437, 
+            "exp": 792, 
+            "level": 22, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 9, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 21, 
+            "defense": 80, 
+            "mdef": 180, 
+            "mpow": 15, 
+            "hp": 2486, 
+            "mp": 330, 
+            "gil": 480, 
+            "exp": 1001, 
+            "level": 23, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 61, 
+            "attack": 18, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 24, 
+            "defense": 90, 
+            "mdef": 180, 
+            "mpow": 18, 
+            "hp": 3294, 
+            "mp": 460, 
+            "gil": 480, 
+            "exp": 1132, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "steal_common": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_rare": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "inverse_b": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_c": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_d": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

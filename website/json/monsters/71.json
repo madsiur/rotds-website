@@ -1,0 +1,245 @@
+{
+    "id": 71, 
+    "name": "GoldenFlan", 
+    "filename": "071_goldenflan", 
+    "special_attack": "Slip Gunk", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 13, 
+            "mdef": 80, 
+            "mpow": 8, 
+            "hp": 455, 
+            "mp": 110, 
+            "gil": 120, 
+            "exp": 160, 
+            "level": 19, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 26, 
+            "mdef": 90, 
+            "mpow": 10, 
+            "hp": 625, 
+            "mp": 130, 
+            "gil": 150, 
+            "exp": 200, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 39, 
+            "mdef": 100, 
+            "mpow": 13, 
+            "hp": 875, 
+            "mp": 220, 
+            "gil": 165, 
+            "exp": 253, 
+            "level": 21, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 52, 
+            "mdef": 120, 
+            "mpow": 15, 
+            "hp": 1510, 
+            "mp": 320, 
+            "gil": 181, 
+            "exp": 314, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind", 
+                "Holy", 
+                "Earth"
+            ], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 217, 
+            "name": "Corrosive Acid"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 217, 
+            "name": "Corrosive Acid"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

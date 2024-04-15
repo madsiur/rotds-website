@@ -1,0 +1,240 @@
+{
+    "id": 124, 
+    "name": "Cinderpede", 
+    "filename": "124_cinderpede", 
+    "special_attack": "Smoulder", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 3, 
+            "defense": 140, 
+            "mdef": 80, 
+            "mpow": 9, 
+            "hp": 1631, 
+            "mp": 120, 
+            "gil": 356, 
+            "exp": 621, 
+            "level": 26, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 41, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 7, 
+            "defense": 140, 
+            "mdef": 90, 
+            "mpow": 12, 
+            "hp": 2116, 
+            "mp": 180, 
+            "gil": 445, 
+            "exp": 701, 
+            "level": 27, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 37, 
+            "attack": 49, 
+            "hit_rate": 100, 
+            "mblock": 24, 
+            "evade": 10, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 12, 
+            "hp": 2916, 
+            "mp": 230, 
+            "gil": 489, 
+            "exp": 886, 
+            "level": 28, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 63, 
+            "hit_rate": 110, 
+            "mblock": 31, 
+            "evade": 17, 
+            "defense": 150, 
+            "mdef": 120, 
+            "mpow": 15, 
+            "hp": 3523, 
+            "mp": 270, 
+            "gil": 537, 
+            "exp": 1102, 
+            "level": 31, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 32, 
+            "name": "[Grey magic]Stop"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_d": {
+            "id": 179, 
+            "name": "Blaze"
+        }
+    }, 
+    "fight_animation": {
+        "id": 41, 
+        "name": "[Knife1]Shinobi"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

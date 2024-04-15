@@ -1,0 +1,224 @@
+{
+    "id": 21, 
+    "name": "Cerathos", 
+    "filename": "021_cerathos", 
+    "special_attack": "Horn Rush", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 3, 
+            "hp": 232, 
+            "mp": 80, 
+            "gil": 206, 
+            "exp": 246, 
+            "level": 8, 
+            "immunity": [
+                "Petrify", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 365, 
+            "mp": 100, 
+            "gil": 232, 
+            "exp": 270, 
+            "level": 9, 
+            "immunity": [
+                "Petrify", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 15, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 567, 
+            "mp": 140, 
+            "gil": 255, 
+            "exp": 341, 
+            "level": 10, 
+            "immunity": [
+                "Petrify", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 42, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 155, 
+            "mpow": 12, 
+            "hp": 803, 
+            "mp": 200, 
+            "gil": 280, 
+            "exp": 423, 
+            "level": 13, 
+            "immunity": [
+                "Petrify", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "inverse_b": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 184, 
+            "name": "Mega Volt"
+        }, 
+        "torment_c": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 88, 
+        "name": "[Claw]Tekken Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

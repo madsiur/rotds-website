@@ -1,0 +1,272 @@
+{
+    "id": 103, 
+    "name": "Shinobi", 
+    "filename": "103_shinobi", 
+    "special_attack": "Jitsu of Fushin", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 4530, 
+            "mp": 240, 
+            "gil": 1768, 
+            "exp": 1757, 
+            "level": 44, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 67, 
+            "attack": 38, 
+            "hit_rate": 130, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 6853, 
+            "mp": 260, 
+            "gil": 2210, 
+            "exp": 3196, 
+            "level": 45, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 46, 
+            "hit_rate": 150, 
+            "mblock": 20, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 21, 
+            "hp": 8853, 
+            "mp": 340, 
+            "gil": 2431, 
+            "exp": 4042, 
+            "level": 46, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 101, 
+            "attack": 74, 
+            "hit_rate": 180, 
+            "mblock": 30, 
+            "evade": 40, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 25, 
+            "hp": 10906, 
+            "mp": 480, 
+            "gil": 2674, 
+            "exp": 5025, 
+            "level": 49, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [
+                "Image"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Clear", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }, 
+        "steal_common": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 159, 
+            "name": "Rock Barrage"
+        }, 
+        "torment_c": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }, 
+        "torment_d": {
+            "id": 103, 
+            "name": "Razor Leaf"
+        }
+    }, 
+    "fight_animation": {
+        "id": 46, 
+        "name": "[Katana]Kogarasumaru"
+    }, 
+    "metamorph": {
+        "id": 25, 
+        "metamorph_a": {
+            "id": 80, 
+            "name": "[Axe]Stone Axe"
+        }, 
+        "metamorph_b": {
+            "id": 82, 
+            "name": "[Knife2]Thief Knife"
+        }, 
+        "metamorph_c": {
+            "id": 5, 
+            "name": "[Knife1]Eviscerator"
+        }, 
+        "metamorph_d": {
+            "id": 78, 
+            "name": "[Ninja]Throw Knives"
+        }
+    }
+}

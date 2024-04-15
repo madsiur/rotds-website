@@ -1,0 +1,264 @@
+{
+    "id": 200, 
+    "name": "Ogopogo", 
+    "filename": "200_ogopogo", 
+    "special_attack": "Mindblow", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 3, 
+            "defense": 135, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 6210, 
+            "mp": 315, 
+            "gil": 519, 
+            "exp": 1720, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 44, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 7, 
+            "defense": 137, 
+            "mdef": 152, 
+            "mpow": 10, 
+            "hp": 6874, 
+            "mp": 350, 
+            "gil": 648, 
+            "exp": 2687, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 57, 
+            "attack": 58, 
+            "hit_rate": 110, 
+            "mblock": 24, 
+            "evade": 10, 
+            "defense": 139, 
+            "mdef": 154, 
+            "mpow": 13, 
+            "hp": 8620, 
+            "mp": 400, 
+            "gil": 712, 
+            "exp": 3398, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 69, 
+            "hit_rate": 120, 
+            "mblock": 31, 
+            "evade": 17, 
+            "defense": 143, 
+            "mdef": 157, 
+            "mpow": 16, 
+            "hp": 9840, 
+            "mp": 530, 
+            "gil": 783, 
+            "exp": 4225, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Ice", 
+                "Holy"
+            ], 
+            "weakness": [
+                "Poison", 
+                "Water"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Silence", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 237, 
+            "name": "Earth Surge"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 237, 
+            "name": "Earth Surge"
+        }, 
+        "torment_d": {
+            "id": 116, 
+            "name": "Avalanche"
+        }
+    }, 
+    "fight_animation": {
+        "id": 41, 
+        "name": "[Knife1]Shinobi"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

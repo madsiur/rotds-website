@@ -1,0 +1,300 @@
+{
+    "id": 36, 
+    "name": "Alduin", 
+    "filename": "036_alduin", 
+    "special_attack": "Storm Call", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 33, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 38500, 
+            "mp": 9000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 71, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 40, 
+            "hit_rate": 130, 
+            "mblock": 35, 
+            "evade": 15, 
+            "defense": 130, 
+            "mdef": 160, 
+            "mpow": 17, 
+            "hp": 45000, 
+            "mp": 11000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 72, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 80, 
+            "attack": 48, 
+            "hit_rate": 150, 
+            "mblock": 40, 
+            "evade": 20, 
+            "defense": 140, 
+            "mdef": 170, 
+            "mpow": 20, 
+            "hp": 52005, 
+            "mp": 15000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 73, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 100, 
+            "attack": 66, 
+            "hit_rate": 180, 
+            "mblock": 50, 
+            "evade": 25, 
+            "defense": 160, 
+            "mdef": 180, 
+            "mpow": 25, 
+            "hp": 65535, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 76, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Haste", 
+                "Stop"
+            ], 
+            "status": [
+                "Reraise"
+            ], 
+            "absorb": [
+                "Holy"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }, 
+        "drop_rare": {
+            "id": 33, 
+            "name": "[Spear3]Holy Lance"
+        }, 
+        "drop_common": {
+            "id": 33, 
+            "name": "[Spear3]Holy Lance"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "inverse_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "torment_c": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_d": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "fight_animation": {
+        "id": 33, 
+        "name": "[Spear3]Holy Lance"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

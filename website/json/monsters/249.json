@@ -1,0 +1,264 @@
+{
+    "id": 249, 
+    "name": "Beezlebub", 
+    "filename": "249_beezlebub", 
+    "special_attack": "Flatten", 
+    "stats": {
+        "normal": {
+            "speed": 64, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 23830, 
+            "mp": 3300, 
+            "gil": 0, 
+            "exp": 6500, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 70, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 25580, 
+            "mp": 4100, 
+            "gil": 0, 
+            "exp": 8900, 
+            "level": 60, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 78, 
+            "attack": 42, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 28820, 
+            "mp": 4600, 
+            "gil": 0, 
+            "exp": 11373, 
+            "level": 61, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 50, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 30016, 
+            "mp": 5200, 
+            "gil": 0, 
+            "exp": 12972, 
+            "level": 64, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "6.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "torment_c": {
+            "id": 198, 
+            "name": "Flare Star"
+        }, 
+        "torment_d": {
+            "id": 177, 
+            "name": "Blaster"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 23, 
+        "metamorph_a": {
+            "id": 174, 
+            "name": "[Scroll]Mist Scroll"
+        }, 
+        "metamorph_b": {
+            "id": 175, 
+            "name": "[Scroll]Ninja Scroll"
+        }, 
+        "metamorph_c": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "metamorph_d": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }
+    }
+}

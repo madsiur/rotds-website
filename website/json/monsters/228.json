@@ -1,0 +1,298 @@
+{
+    "id": 228, 
+    "name": "Tiamat", 
+    "filename": "228_tiamat", 
+    "special_attack": "Vorpal Blow", 
+    "stats": {
+        "normal": {
+            "speed": 57, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 12625, 
+            "mp": 880, 
+            "gil": 900, 
+            "exp": 8789, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 63, 
+            "attack": 46, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 16015, 
+            "mp": 1060, 
+            "gil": 1125, 
+            "exp": 10986, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 72, 
+            "attack": 64, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 19150, 
+            "mp": 1260, 
+            "gil": 1237, 
+            "exp": 12084, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 84, 
+            "attack": 75, 
+            "hit_rate": 130, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 140, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 22170, 
+            "mp": 1520, 
+            "gil": 1237, 
+            "exp": 13292, 
+            "level": 62, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Wind", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 7, 
+            "name": "[Knife2]Angrist"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "inverse_b": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "torment_c": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }, 
+        "torment_d": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "fight_animation": {
+        "id": 60, 
+        "name": "[Rod1]Magus Rod"
+    }, 
+    "metamorph": {
+        "id": 30, 
+        "metamorph_a": {
+            "id": 6, 
+            "name": "[Knife2]War Machete"
+        }, 
+        "metamorph_b": {
+            "id": 7, 
+            "name": "[Knife2]Angrist"
+        }, 
+        "metamorph_c": {
+            "id": 8, 
+            "name": "[Sword2]Demon Killer"
+        }, 
+        "metamorph_d": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }
+    }
+}

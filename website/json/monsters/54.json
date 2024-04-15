@@ -1,0 +1,209 @@
+{
+    "id": 54, 
+    "name": "RedCrawler", 
+    "filename": "054_redcrawler", 
+    "special_attack": "Venom Strike", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 14, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 80, 
+            "mdef": 140, 
+            "mpow": 6, 
+            "hp": 417, 
+            "mp": 20, 
+            "gil": 135, 
+            "exp": 105, 
+            "level": 12, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 15, 
+            "defense": 85, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 562, 
+            "mp": 40, 
+            "gil": 168, 
+            "exp": 131, 
+            "level": 13, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 17, 
+            "defense": 90, 
+            "mdef": 153, 
+            "mpow": 10, 
+            "hp": 708, 
+            "mp": 80, 
+            "gil": 184, 
+            "exp": 165, 
+            "level": 14, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 1034, 
+            "mp": 160, 
+            "gil": 202, 
+            "exp": 205, 
+            "level": 17, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 85, 
+            "name": "[Claw]Spider Fangs"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 173, 
+            "name": "Energy Web"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 5, 
+        "name": "[Knife1]Eviscerator"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

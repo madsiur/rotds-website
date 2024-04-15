@@ -1,0 +1,222 @@
+{
+    "id": 27, 
+    "name": "Blizboar", 
+    "filename": "027_blizboar", 
+    "special_attack": "Charge", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 100, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 0, 
+            "defense": 75, 
+            "mdef": 150, 
+            "mpow": 0, 
+            "hp": 215, 
+            "mp": 40, 
+            "gil": 90, 
+            "exp": 50, 
+            "level": 4, 
+            "immunity": [
+                "KO'd", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 22, 
+            "attack": 110, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 5, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 275, 
+            "mp": 60, 
+            "gil": 112, 
+            "exp": 62, 
+            "level": 5, 
+            "immunity": [
+                "KO'd", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 27, 
+            "attack": 120, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 10, 
+            "defense": 85, 
+            "mdef": 160, 
+            "mpow": 2, 
+            "hp": 325, 
+            "mp": 110, 
+            "gil": 123, 
+            "exp": 78, 
+            "level": 6, 
+            "immunity": [
+                "KO'd", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 32, 
+            "attack": 150, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 15, 
+            "defense": 95, 
+            "mdef": 160, 
+            "mpow": 3, 
+            "hp": 408, 
+            "mp": 180, 
+            "gil": 135, 
+            "exp": 96, 
+            "level": 9, 
+            "immunity": [
+                "KO'd", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 186, 
+            "name": "Frost Bite"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 146, 
+            "name": "Revenge"
+        }, 
+        "inverse_b": {
+            "id": 179, 
+            "name": "Blaze"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 186, 
+            "name": "Frost Bite"
+        }, 
+        "torment_d": {
+            "id": 174, 
+            "name": "Primal Rage"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

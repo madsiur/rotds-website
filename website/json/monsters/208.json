@@ -1,0 +1,240 @@
+{
+    "id": 208, 
+    "name": "Runewing", 
+    "filename": "208_runewing", 
+    "special_attack": "Swoop", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 14, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 1377, 
+            "mp": 88, 
+            "gil": 410, 
+            "exp": 292, 
+            "level": 24, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 17, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 29, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 1641, 
+            "mp": 112, 
+            "gil": 512, 
+            "exp": 365, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 25, 
+            "hit_rate": 110, 
+            "mblock": 12, 
+            "evade": 32, 
+            "defense": 115, 
+            "mdef": 153, 
+            "mpow": 15, 
+            "hp": 2175, 
+            "mp": 188, 
+            "gil": 522, 
+            "exp": 461, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 50, 
+            "hit_rate": 120, 
+            "mblock": 15, 
+            "evade": 39, 
+            "defense": 117, 
+            "mdef": 157, 
+            "mpow": 17, 
+            "hp": 3004, 
+            "mp": 227, 
+            "gil": 522, 
+            "exp": 521, 
+            "level": 29, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "drop_rare": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 42, 
+        "name": "[Knife1]Akuma"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

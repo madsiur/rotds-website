@@ -1,0 +1,225 @@
+{
+    "id": 60, 
+    "name": "Wendigo", 
+    "filename": "060_wendigo", 
+    "special_attack": "Tackle", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 34, 
+            "hit_rate": 100, 
+            "mblock": 2, 
+            "evade": 5, 
+            "defense": 142, 
+            "mdef": 143, 
+            "mpow": 10, 
+            "hp": 2480, 
+            "mp": 150, 
+            "gil": 356, 
+            "exp": 1097, 
+            "level": 26, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 10, 
+            "defense": 152, 
+            "mdef": 153, 
+            "mpow": 13, 
+            "hp": 3366, 
+            "mp": 170, 
+            "gil": 445, 
+            "exp": 1281, 
+            "level": 27, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 42, 
+            "attack": 51, 
+            "hit_rate": 110, 
+            "mblock": 6, 
+            "evade": 15, 
+            "defense": 162, 
+            "mdef": 163, 
+            "mpow": 15, 
+            "hp": 4166, 
+            "mp": 270, 
+            "gil": 489, 
+            "exp": 1514, 
+            "level": 28, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 63, 
+            "attack": 72, 
+            "hit_rate": 130, 
+            "mblock": 12, 
+            "evade": 19, 
+            "defense": 172, 
+            "mdef": 173, 
+            "mpow": 17, 
+            "hp": 6832, 
+            "mp": 540, 
+            "gil": 537, 
+            "exp": 1784, 
+            "level": 31, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 18, 
+            "name": "[Sword2]Blooddrinker"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 116, 
+            "name": "Avalanche"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 12, 
+            "name": "[Black magic]Break"
+        }, 
+        "torment_c": {
+            "id": 155, 
+            "name": "Black Shock"
+        }, 
+        "torment_d": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "fight_animation": {
+        "id": 61, 
+        "name": "[Glove]Frost Glove "
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

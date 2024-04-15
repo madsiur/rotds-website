@@ -1,0 +1,314 @@
+{
+    "id": 382, 
+    "name": "Necron", 
+    "filename": "382_necron", 
+    "special_attack": "Grand Cross", 
+    "stats": {
+        "normal": {
+            "speed": 72, 
+            "attack": 50, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 10, 
+            "defense": 162, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 50000, 
+            "mp": 7300, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 70, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 77, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 29, 
+            "evade": 17, 
+            "defense": 168, 
+            "mdef": 155, 
+            "mpow": 16, 
+            "hp": 54100, 
+            "mp": 9999, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 71, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 82, 
+            "attack": 70, 
+            "hit_rate": 140, 
+            "mblock": 32, 
+            "evade": 20, 
+            "defense": 172, 
+            "mdef": 160, 
+            "mpow": 17, 
+            "hp": 58200, 
+            "mp": 14300, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 72, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 92, 
+            "attack": 80, 
+            "hit_rate": 150, 
+            "mblock": 35, 
+            "evade": 23, 
+            "defense": 180, 
+            "mdef": 170, 
+            "mpow": 20, 
+            "hp": 60300, 
+            "mp": 25000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 75, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Wind", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't inverse", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "drop_rare": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }, 
+        "drop_common": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 199, 
+            "name": "Love Token"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 59, 
+        "name": "[Scythe]Soul Harvest"
+    }, 
+    "metamorph": {
+        "id": 26, 
+        "metamorph_a": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }, 
+        "metamorph_b": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }, 
+        "metamorph_c": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }, 
+        "metamorph_d": {
+            "id": 215, 
+            "name": "[Relic1]Aeon Crystal"
+        }
+    }
+}

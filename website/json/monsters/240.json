@@ -1,0 +1,267 @@
+{
+    "id": 240, 
+    "name": "Whisper", 
+    "filename": "240_whisper", 
+    "special_attack": "Scorn", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 5, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 21, 
+            "hp": 5252, 
+            "mp": 270, 
+            "gil": 526, 
+            "exp": 1957, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 46, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 7, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 22, 
+            "hp": 6058, 
+            "mp": 320, 
+            "gil": 657, 
+            "exp": 2508, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 54, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 9, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 23, 
+            "hp": 8750, 
+            "mp": 460, 
+            "gil": 722, 
+            "exp": 3183, 
+            "level": 45, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 68, 
+            "hit_rate": 110, 
+            "mblock": 17, 
+            "evade": 11, 
+            "defense": 115, 
+            "mdef": 155, 
+            "mpow": 24, 
+            "hp": 9840, 
+            "mp": 540, 
+            "gil": 722, 
+            "exp": 3598, 
+            "level": 48, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Fire", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": [
+                "No damage", 
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 6, 
+            "name": "[Knife2]War Machete"
+        }, 
+        "steal_common": {
+            "id": 7, 
+            "name": "[Knife2]Angrist"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 172, 
+            "name": "Silence"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 40, 
+            "name": "[Grey magic]Slowga"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 40, 
+            "name": "[Grey magic]Slowga"
+        }, 
+        "torment_d": {
+            "id": 39, 
+            "name": "[Grey magic]Hastega"
+        }
+    }, 
+    "fight_animation": {
+        "id": 76, 
+        "name": "[Boomerang]Conformer"
+    }, 
+    "metamorph": {
+        "id": 9, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

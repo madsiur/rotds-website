@@ -1,0 +1,258 @@
+{
+    "id": 133, 
+    "name": "Vlakorados", 
+    "filename": "133_vlakorados", 
+    "special_attack": "Thunderstomp", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 10, 
+            "defense": 105, 
+            "mdef": 50, 
+            "mpow": 12, 
+            "hp": 8500, 
+            "mp": 300, 
+            "gil": 731, 
+            "exp": 2353, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 37, 
+            "hit_rate": 110, 
+            "mblock": 14, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 60, 
+            "mpow": 14, 
+            "hp": 9050, 
+            "mp": 324, 
+            "gil": 913, 
+            "exp": 2911, 
+            "level": 39, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 45, 
+            "hit_rate": 120, 
+            "mblock": 14, 
+            "evade": 20, 
+            "defense": 115, 
+            "mdef": 70, 
+            "mpow": 16, 
+            "hp": 10050, 
+            "mp": 400, 
+            "gil": 1004, 
+            "exp": 3682, 
+            "level": 40, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 57, 
+            "hit_rate": 130, 
+            "mblock": 19, 
+            "evade": 25, 
+            "defense": 120, 
+            "mdef": 75, 
+            "mpow": 18, 
+            "hp": 11200, 
+            "mp": 548, 
+            "gil": 1104, 
+            "exp": 4578, 
+            "level": 45, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Poison"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

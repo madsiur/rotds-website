@@ -1,0 +1,273 @@
+{
+    "id": 356, 
+    "name": "Trickster", 
+    "filename": "356_trickster", 
+    "special_attack": "Crash Dive", 
+    "stats": {
+        "normal": {
+            "speed": 38, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 110, 
+            "mpow": 13, 
+            "hp": 9999, 
+            "mp": 9000, 
+            "gil": 600, 
+            "exp": 2974, 
+            "level": 55, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 110, 
+            "mpow": 14, 
+            "hp": 10999, 
+            "mp": 9000, 
+            "gil": 660, 
+            "exp": 3291, 
+            "level": 56, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 110, 
+            "mpow": 15, 
+            "hp": 11999, 
+            "mp": 9000, 
+            "gil": 726, 
+            "exp": 4186, 
+            "level": 57, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 19, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 200, 
+            "mdef": 110, 
+            "mpow": 18, 
+            "hp": 12999, 
+            "mp": 9000, 
+            "gil": 798, 
+            "exp": 6800, 
+            "level": 60, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [
+                "Wind"
+            ], 
+            "null": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "steal_common": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }, 
+        "drop_rare": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 163, 
+            "name": "Swine Song"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "inverse_b": {
+            "id": 23, 
+            "name": "[Black magic]Meltdown"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "torment_c": {
+            "id": 23, 
+            "name": "[Black magic]Meltdown"
+        }, 
+        "torment_d": {
+            "id": 22, 
+            "name": "[Black magic]Gravity"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 17, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 220, 
+            "name": "[Relic1]Exodus Token"
+        }
+    }
+}

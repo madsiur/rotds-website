@@ -1,4 +1,4 @@
-let sfx = await fetchJson("sfx");
+let sfx = await fetchJson("json/sfx.json");
 
 $(document).ready(function() {
     listSongTable(sfx, "sfx");

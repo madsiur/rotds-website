@@ -1,0 +1,207 @@
+{
+    "id": 202, 
+    "name": "Guardhound", 
+    "filename": "202_guardhound", 
+    "special_attack": "Blinder", 
+    "stats": {
+        "normal": {
+            "speed": 27, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 11, 
+            "defense": 155, 
+            "mdef": 145, 
+            "mpow": 3, 
+            "hp": 1582, 
+            "mp": 75, 
+            "gil": 247, 
+            "exp": 508, 
+            "level": 26, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 155, 
+            "mdef": 145, 
+            "mpow": 5, 
+            "hp": 1861, 
+            "mp": 100, 
+            "gil": 308, 
+            "exp": 585, 
+            "level": 27, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 44, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 23, 
+            "defense": 158, 
+            "mdef": 148, 
+            "mpow": 8, 
+            "hp": 2661, 
+            "mp": 130, 
+            "gil": 338, 
+            "exp": 612, 
+            "level": 28, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 54, 
+            "attack": 58, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 27, 
+            "defense": 160, 
+            "mdef": 152, 
+            "mpow": 10, 
+            "hp": 3322, 
+            "mp": 190, 
+            "gil": 338, 
+            "exp": 692, 
+            "level": 31, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 86, 
+        "name": "[Claw]Titan Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

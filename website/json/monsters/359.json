@@ -1,0 +1,282 @@
+{
+    "id": 359, 
+    "name": "Shadow Boo", 
+    "filename": "359_shadow_boo", 
+    "special_attack": "Magic Drain", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 150, 
+            "mdef": 175, 
+            "mpow": 6, 
+            "hp": 6132, 
+            "mp": 566, 
+            "gil": 1072, 
+            "exp": 3310, 
+            "level": 41, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 53, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 150, 
+            "mdef": 175, 
+            "mpow": 7, 
+            "hp": 6810, 
+            "mp": 648, 
+            "gil": 1262, 
+            "exp": 3895, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 56, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 150, 
+            "mdef": 175, 
+            "mpow": 8, 
+            "hp": 7522, 
+            "mp": 715, 
+            "gil": 1451, 
+            "exp": 4479, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 59, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 100, 
+            "defense": 150, 
+            "mdef": 175, 
+            "mpow": 11, 
+            "hp": 8641, 
+            "mp": 1032, 
+            "gil": 1668, 
+            "exp": 5150, 
+            "level": 46, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 229, 
+            "name": "[Relic1]Ghoul Medal"
+        }, 
+        "steal_common": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 161, 
+            "name": "Shadow Flare"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 13, 
+        "metamorph_a": {
+            "id": 59, 
+            "name": "[Scythe]Soul Harvest"
+        }, 
+        "metamorph_b": {
+            "id": 112, 
+            "name": "[Heavy Helm2]Undead Crown"
+        }, 
+        "metamorph_c": {
+            "id": 221, 
+            "name": "[Relic1]Lich Ring"
+        }, 
+        "metamorph_d": {
+            "id": 253, 
+            "name": "[Item2]Necronomicon"
+        }
+    }
+}

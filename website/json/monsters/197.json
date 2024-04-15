@@ -1,0 +1,232 @@
+{
+    "id": 197, 
+    "name": "Skeletor", 
+    "filename": "197_skeletor", 
+    "special_attack": "Sabreclaw", 
+    "stats": {
+        "normal": {
+            "speed": 50, 
+            "attack": 30, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 80, 
+            "mdef": 145, 
+            "mpow": 6, 
+            "hp": 2859, 
+            "mp": 111, 
+            "gil": 500, 
+            "exp": 797, 
+            "level": 34, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 54, 
+            "attack": 39, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 90, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 3660, 
+            "mp": 168, 
+            "gil": 550, 
+            "exp": 1096, 
+            "level": 35, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 67, 
+            "attack": 52, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 100, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 4495, 
+            "mp": 268, 
+            "gil": 605, 
+            "exp": 1385, 
+            "level": 36, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Undead"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 75, 
+            "attack": 64, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 50, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 6334, 
+            "mp": 336, 
+            "gil": 665, 
+            "exp": 1722, 
+            "level": 39, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 138, 
+            "name": "[Light armor]Ninja Gear"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 88, 
+            "name": "[Claw]Tekken Claw"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 107, 
+            "name": "Will-o'-the-Wisp"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 107, 
+            "name": "Will-o'-the-Wisp"
+        }, 
+        "torment_d": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "fight_animation": {
+        "id": 85, 
+        "name": "[Claw]Spider Fangs"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

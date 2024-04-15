@@ -1,0 +1,294 @@
+{
+    "id": 76, 
+    "name": "Cactuar", 
+    "filename": "076_cactuar", 
+    "special_attack": "Choke Smoke", 
+    "stats": {
+        "normal": {
+            "speed": 39, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 100, 
+            "evade": 100, 
+            "defense": 250, 
+            "mdef": 250, 
+            "mpow": 13, 
+            "hp": 1000, 
+            "mp": 50000, 
+            "gil": 10000, 
+            "exp": 0, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 52, 
+            "attack": 20, 
+            "hit_rate": 110, 
+            "mblock": 100, 
+            "evade": 100, 
+            "defense": 250, 
+            "mdef": 250, 
+            "mpow": 15, 
+            "hp": 3000, 
+            "mp": 50000, 
+            "gil": 10000, 
+            "exp": 0, 
+            "level": 45, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 64, 
+            "attack": 28, 
+            "hit_rate": 120, 
+            "mblock": 100, 
+            "evade": 100, 
+            "defense": 250, 
+            "mdef": 250, 
+            "mpow": 17, 
+            "hp": 5000, 
+            "mp": 50000, 
+            "gil": 10000, 
+            "exp": 0, 
+            "level": 46, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 89, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 100, 
+            "evade": 100, 
+            "defense": 250, 
+            "mdef": 250, 
+            "mpow": 20, 
+            "hp": 8000, 
+            "mp": 50000, 
+            "gil": 10000, 
+            "exp": 0, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 144, 
+            "name": "1000 Needles"
+        }, 
+        "torment_d": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 29, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "id": 362, 
+    "name": "Mermaid", 
+    "filename": "362_mermaid", 
+    "special_attack": "Sweep Slap", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 11, 
+            "evade": 5, 
+            "defense": 102, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 5530, 
+            "mp": 1150, 
+            "gil": 1290, 
+            "exp": 1746, 
+            "level": 47, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Critical attacks if Pig", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 46, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 7, 
+            "defense": 105, 
+            "mdef": 153, 
+            "mpow": 12, 
+            "hp": 5900, 
+            "mp": 1300, 
+            "gil": 1434, 
+            "exp": 1941, 
+            "level": 48, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 52, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 15, 
+            "evade": 9, 
+            "defense": 108, 
+            "mdef": 153, 
+            "mpow": 14, 
+            "hp": 6520, 
+            "mp": 1500, 
+            "gil": 1577, 
+            "exp": 2135, 
+            "level": 49, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 59, 
+            "attack": 43, 
+            "hit_rate": 120, 
+            "mblock": 17, 
+            "evade": 11, 
+            "defense": 111, 
+            "mdef": 156, 
+            "mpow": 17, 
+            "hp": 7880, 
+            "mp": 1800, 
+            "gil": 1577, 
+            "exp": 2135, 
+            "level": 52, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Holy", 
+                "Water"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Wind"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 230, 
+            "name": "[Relic1]First Strike"
+        }, 
+        "steal_common": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "drop_rare": {
+            "id": 58, 
+            "name": "[Rod3]Mermaid Rod"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 29, 
+        "name": "[Spear1]Silver Spear"
+    }, 
+    "metamorph": {
+        "id": 24, 
+        "metamorph_a": {
+            "id": 151, 
+            "name": "[Cloak]Druid Cloak"
+        }, 
+        "metamorph_b": {
+            "id": 57, 
+            "name": "[Rod2]Lunar Rod"
+        }, 
+        "metamorph_c": {
+            "id": 183, 
+            "name": "[Relic1]Mystic Ring"
+        }, 
+        "metamorph_d": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }
+    }
+}

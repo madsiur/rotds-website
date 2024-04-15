@@ -1,0 +1,242 @@
+{
+    "id": 106, 
+    "name": "Plague Doc", 
+    "filename": "106_plague_doc", 
+    "special_attack": "Noxious Blast", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 10, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 8150, 
+            "mp": 800, 
+            "gil": 700, 
+            "exp": 2200, 
+            "level": 53, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 30, 
+            "hit_rate": 110, 
+            "mblock": 6, 
+            "evade": 18, 
+            "defense": 105, 
+            "mdef": 153, 
+            "mpow": 15, 
+            "hp": 9048, 
+            "mp": 900, 
+            "gil": 875, 
+            "exp": 3570, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 9, 
+            "evade": 21, 
+            "defense": 110, 
+            "mdef": 158, 
+            "mpow": 18, 
+            "hp": 12450, 
+            "mp": 1000, 
+            "gil": 962, 
+            "exp": 4516, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 58, 
+            "hit_rate": 150, 
+            "mblock": 15, 
+            "evade": 28, 
+            "defense": 120, 
+            "mdef": 163, 
+            "mpow": 21, 
+            "hp": 19400, 
+            "mp": 1200, 
+            "gil": 1058, 
+            "exp": 5614, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 157, 
+            "name": "[Light armor]Ghost Suit"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "inverse_b": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 15, 
+            "name": "[Black magic]Flare"
+        }, 
+        "torment_c": {
+            "id": 14, 
+            "name": "[Black magic]Holy"
+        }, 
+        "torment_d": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "fight_animation": {
+        "id": 20, 
+        "name": "[Cryogen]Cryogen"
+    }, 
+    "metamorph": {
+        "id": 19, 
+        "metamorph_a": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_b": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_c": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "metamorph_d": {
+            "id": 60, 
+            "name": "[Rod1]Magus Rod"
+        }
+    }
+}

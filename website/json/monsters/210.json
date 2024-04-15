@@ -1,0 +1,221 @@
+{
+    "id": 210, 
+    "name": "Great Orc", 
+    "filename": "210_great_orc", 
+    "special_attack": "Drain Life", 
+    "stats": {
+        "normal": {
+            "speed": 45, 
+            "attack": 160, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 5, 
+            "defense": 145, 
+            "mdef": 100, 
+            "mpow": 10, 
+            "hp": 6200, 
+            "mp": 380, 
+            "gil": 501, 
+            "exp": 4612, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 50, 
+            "attack": 160, 
+            "hit_rate": 110, 
+            "mblock": 17, 
+            "evade": 9, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 13, 
+            "hp": 7400, 
+            "mp": 420, 
+            "gil": 626, 
+            "exp": 5765, 
+            "level": 55, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 160, 
+            "hit_rate": 120, 
+            "mblock": 20, 
+            "evade": 12, 
+            "defense": 150, 
+            "mdef": 110, 
+            "mpow": 15, 
+            "hp": 8600, 
+            "mp": 490, 
+            "gil": 688, 
+            "exp": 7292, 
+            "level": 56, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 65, 
+            "attack": 160, 
+            "hit_rate": 130, 
+            "mblock": 27, 
+            "evade": 16, 
+            "defense": 150, 
+            "mdef": 120, 
+            "mpow": 18, 
+            "hp": 10800, 
+            "mp": 540, 
+            "gil": 688, 
+            "exp": 8243, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Condemned", 
+                "Near fatal", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Drain HP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 14, 
+            "name": "[Mace]Taser Mace"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 114, 
+            "name": "Cave In"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 179, 
+            "name": "Blaze"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 101, 
+            "name": "Wind Slash"
+        }, 
+        "torment_d": {
+            "id": 114, 
+            "name": "Cave In"
+        }
+    }, 
+    "fight_animation": {
+        "id": 1, 
+        "name": "[Large sword]Buster Sword"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "id": 236, 
+    "name": "Weirdling", 
+    "filename": "236_weirdling", 
+    "special_attack": "Power Word", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 8013, 
+            "mp": 706, 
+            "gil": 906, 
+            "exp": 3871, 
+            "level": 49, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Poison", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 122, 
+            "mdef": 145, 
+            "mpow": 16, 
+            "hp": 10244, 
+            "mp": 820, 
+            "gil": 1132, 
+            "exp": 5076, 
+            "level": 50, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Poison", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 55, 
+            "attack": 35, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 124, 
+            "mdef": 149, 
+            "mpow": 18, 
+            "hp": 12313, 
+            "mp": 916, 
+            "gil": 1245, 
+            "exp": 6420, 
+            "level": 51, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Poison", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 44, 
+            "hit_rate": 130, 
+            "mblock": 30, 
+            "evade": 0, 
+            "defense": 128, 
+            "mdef": 155, 
+            "mpow": 21, 
+            "hp": 15226, 
+            "mp": 1040, 
+            "gil": 1245, 
+            "exp": 7257, 
+            "level": 54, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Ice", 
+                "Lightning", 
+                "Poison", 
+                "Wind"
+            ], 
+            "weakness": [
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "4.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "steal_common": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 180, 
+            "name": "Atomic Ray"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }, 
+        "torment_d": {
+            "id": 231, 
+            "name": "Energy Blade"
+        }
+    }, 
+    "fight_animation": {
+        "id": 37, 
+        "name": "[Spear3]Wyvern Lance"
+    }, 
+    "metamorph": {
+        "id": 18, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 228, 
+            "name": "[Relic1]Birdo Egg"
+        }
+    }
+}

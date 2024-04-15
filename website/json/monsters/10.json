@@ -1,0 +1,252 @@
+{
+    "id": 10, 
+    "name": "Rotsucker", 
+    "filename": "010_rotsucker", 
+    "special_attack": "Thrash", 
+    "stats": {
+        "normal": {
+            "speed": 34, 
+            "attack": 31, 
+            "hit_rate": 100, 
+            "mblock": 3, 
+            "evade": 12, 
+            "defense": 110, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 3063, 
+            "mp": 160, 
+            "gil": 485, 
+            "exp": 1890, 
+            "level": 39, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 43, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 25, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 3822, 
+            "mp": 180, 
+            "gil": 606, 
+            "exp": 2238, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 58, 
+            "attack": 53, 
+            "hit_rate": 120, 
+            "mblock": 8, 
+            "evade": 28, 
+            "defense": 120, 
+            "mdef": 155, 
+            "mpow": 15, 
+            "hp": 4822, 
+            "mp": 480, 
+            "gil": 757, 
+            "exp": 2830, 
+            "level": 41, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 69, 
+            "attack": 64, 
+            "hit_rate": 130, 
+            "mblock": 16, 
+            "evade": 34, 
+            "defense": 127, 
+            "mdef": 158, 
+            "mpow": 18, 
+            "hp": 6688, 
+            "mp": 609, 
+            "gil": 832, 
+            "exp": 3519, 
+            "level": 44, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }, 
+        "torment_d": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "id": 161, 
+    "name": "Big Daddy", 
+    "filename": "161_big_daddy", 
+    "special_attack": "Drill Stab", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 83, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 14, 
+            "defense": 160, 
+            "mdef": 140, 
+            "mpow": 15, 
+            "hp": 28000, 
+            "mp": 2800, 
+            "gil": 0, 
+            "exp": 9000, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 80, 
+            "attack": 97, 
+            "hit_rate": 110, 
+            "mblock": 19, 
+            "evade": 16, 
+            "defense": 160, 
+            "mdef": 140, 
+            "mpow": 18, 
+            "hp": 30000, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 11250, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 89, 
+            "attack": 113, 
+            "hit_rate": 120, 
+            "mblock": 22, 
+            "evade": 19, 
+            "defense": 160, 
+            "mdef": 140, 
+            "mpow": 21, 
+            "hp": 32000, 
+            "mp": 3200, 
+            "gil": 0, 
+            "exp": 12375, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 98, 
+            "attack": 126, 
+            "hit_rate": 130, 
+            "mblock": 25, 
+            "evade": 22, 
+            "defense": 160, 
+            "mdef": 145, 
+            "mpow": 25, 
+            "hp": 34000, 
+            "mp": 3500, 
+            "gil": 0, 
+            "exp": 13612, 
+            "level": 62, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 250, 
+            "name": "[Item2]Atomic Ball"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 180, 
+            "name": "Atomic Ray"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 212, 
+            "name": "Toxic Bomb"
+        }, 
+        "torment_d": {
+            "id": 180, 
+            "name": "Atomic Ray"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 30, 
+        "metamorph_a": {
+            "id": 6, 
+            "name": "[Knife2]War Machete"
+        }, 
+        "metamorph_b": {
+            "id": 7, 
+            "name": "[Knife2]Angrist"
+        }, 
+        "metamorph_c": {
+            "id": 8, 
+            "name": "[Sword2]Demon Killer"
+        }, 
+        "metamorph_d": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }
+    }
+}

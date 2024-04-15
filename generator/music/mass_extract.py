@@ -7,7 +7,6 @@ from .build_spc import build_spc, load_data_from_rom, read_pointer
 from .mfvi2mml import akao_to_mml, byte_insert
 from .mfvitrace import mfvi_trace
 import common.helpers as helpers
-import common.constants as cons
 
 SPC_ENGINE_OFFSET = 0x5070E
 STATIC_BRR_OFFSET = 0x51EC7
@@ -27,7 +26,7 @@ def text_insert(data, position, text, length):
     new_data = byte_insert(new_data, 0, bytes(text, "utf-8"), maxlength = length)
     return bytearray(byte_insert(data, position, new_data))
     
-def mass_extract(filename):
+def mass_extract(filename, cons=helpers.get_constants()):
     generator_dir = os.path.dirname(os.path.dirname(__file__))
     root_dir = os.path.dirname(generator_dir)
     roms_dir = os.path.join(generator_dir, cons.ROMS_DIR)

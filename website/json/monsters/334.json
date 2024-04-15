@@ -1,0 +1,238 @@
+{
+    "id": 334, 
+    "name": "MageKnight", 
+    "filename": "334_mageknight", 
+    "special_attack": "Blade Rush", 
+    "stats": {
+        "normal": {
+            "speed": 20, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 4, 
+            "hp": 1056, 
+            "mp": 150, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 12, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 25, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 1250, 
+            "mp": 180, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 13, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 30, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 1401, 
+            "mp": 210, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 14, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 35, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 1802, 
+            "mp": 260, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 17, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "drop_common": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 25, 
+        "name": "[Sword2]Cross Radius"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

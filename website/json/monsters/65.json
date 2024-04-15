@@ -1,0 +1,233 @@
+{
+    "id": 65, 
+    "name": "Clockwerk", 
+    "filename": "065_clockwerk", 
+    "special_attack": "Whomp", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 17, 
+            "evade": 3, 
+            "defense": 120, 
+            "mdef": 140, 
+            "mpow": 2, 
+            "hp": 750, 
+            "mp": 150, 
+            "gil": 100, 
+            "exp": 235, 
+            "level": 18, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Blind", 
+                "Slow", 
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 6, 
+            "defense": 130, 
+            "mdef": 143, 
+            "mpow": 10, 
+            "hp": 875, 
+            "mp": 200, 
+            "gil": 125, 
+            "exp": 243, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Blind", 
+                "Slow", 
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 22, 
+            "hit_rate": 110, 
+            "mblock": 23, 
+            "evade": 10, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 1250, 
+            "mp": 240, 
+            "gil": 150, 
+            "exp": 337, 
+            "level": 20, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Blind", 
+                "Slow", 
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 28, 
+            "hit_rate": 120, 
+            "mblock": 28, 
+            "evade": 16, 
+            "defense": 140, 
+            "mdef": 160, 
+            "mpow": 8, 
+            "hp": 1810, 
+            "mp": 300, 
+            "gil": 165, 
+            "exp": 370, 
+            "level": 23, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Confuse"
+            ], 
+            "status": [
+                "Blind", 
+                "Slow", 
+                "True knight"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 11, 
+            "name": "[Sword2]Shamshir"
+        }, 
+        "steal_common": {
+            "id": 11, 
+            "name": "[Sword2]Shamshir"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 158, 
+            "name": "Rippler"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 140, 
+            "name": "Death Roulette"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "torment_d": {
+            "id": 158, 
+            "name": "Rippler"
+        }
+    }, 
+    "fight_animation": {
+        "id": 84, 
+        "name": "[Glove]Brass Knucks"
+    }, 
+    "metamorph": {
+        "id": 4, 
+        "metamorph_a": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "metamorph_b": {
+            "id": 116, 
+            "name": "[Heavy Helm2]Mithril Helm"
+        }, 
+        "metamorph_c": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "metamorph_d": {
+            "id": 92, 
+            "name": "[Heavy shield]Mithril Shld"
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "id": 127, 
+    "name": "Big Poe", 
+    "filename": "127_big_poe", 
+    "special_attack": "Mirror Breaker", 
+    "stats": {
+        "normal": {
+            "speed": 59, 
+            "attack": 37, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 26000, 
+            "mp": 6500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 43, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 65, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 20, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 30200, 
+            "mp": 7500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 44, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 70, 
+            "attack": 56, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 34200, 
+            "mp": 8500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 45, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 80, 
+            "attack": 72, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 38400, 
+            "mp": 9500, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 48, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 253, 
+            "name": "[Item2]Necronomicon"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 223, 
+            "name": "[Relic1]Prism Cape"
+        }, 
+        "drop_common": {
+            "id": 223, 
+            "name": "[Relic1]Prism Cape"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_d": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 23, 
+        "metamorph_a": {
+            "id": 174, 
+            "name": "[Scroll]Mist Scroll"
+        }, 
+        "metamorph_b": {
+            "id": 175, 
+            "name": "[Scroll]Ninja Scroll"
+        }, 
+        "metamorph_c": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "metamorph_d": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }
+    }
+}

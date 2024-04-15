@@ -1,0 +1,254 @@
+{
+    "id": 79, 
+    "name": "Napalm", 
+    "filename": "079_napalm", 
+    "special_attack": "Burn Up", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 12, 
+            "defense": 90, 
+            "mdef": 150, 
+            "mpow": 1, 
+            "hp": 370, 
+            "mp": 80, 
+            "gil": 80, 
+            "exp": 70, 
+            "level": 8, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 25, 
+            "defense": 95, 
+            "mdef": 155, 
+            "mpow": 2, 
+            "hp": 602, 
+            "mp": 120, 
+            "gil": 100, 
+            "exp": 126, 
+            "level": 9, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 50, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 28, 
+            "defense": 100, 
+            "mdef": 160, 
+            "mpow": 4, 
+            "hp": 860, 
+            "mp": 180, 
+            "gil": 110, 
+            "exp": 158, 
+            "level": 10, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 70, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 22, 
+            "evade": 35, 
+            "defense": 110, 
+            "mdef": 170, 
+            "mpow": 7, 
+            "hp": 1140, 
+            "mp": 240, 
+            "gil": 121, 
+            "exp": 196, 
+            "level": 13, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [
+                "Fire", 
+                "Wind"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }, 
+        "inverse_b": {
+            "id": 228, 
+            "name": "Wildfire"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 162, 
+            "name": "Self-Destruct"
+        }, 
+        "torment_c": {
+            "id": 228, 
+            "name": "Wildfire"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 20, 
+        "metamorph_a": {
+            "id": 73, 
+            "name": "[Anchor]Iron Anchor"
+        }, 
+        "metamorph_b": {
+            "id": 53, 
+            "name": "[Rod3]Fire Rod"
+        }, 
+        "metamorph_c": {
+            "id": 171, 
+            "name": "[Scroll]Fire Scroll"
+        }, 
+        "metamorph_d": {
+            "id": 96, 
+            "name": "[Heavy shield]Red Essence"
+        }
+    }
+}

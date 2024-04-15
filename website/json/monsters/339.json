@@ -1,0 +1,298 @@
+{
+    "id": 339, 
+    "name": "Glaurung", 
+    "filename": "339_glaurung", 
+    "special_attack": "Moltenizer", 
+    "stats": {
+        "normal": {
+            "speed": 75, 
+            "attack": 52, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 44000, 
+            "mp": 10078, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 67, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 75, 
+            "attack": 58, 
+            "hit_rate": 120, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 46000, 
+            "mp": 12780, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 68, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 77, 
+            "attack": 63, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 48000, 
+            "mp": 14780, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 69, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 85, 
+            "attack": 68, 
+            "hit_rate": 140, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 19, 
+            "hp": 50000, 
+            "mp": 16780, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 72, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Dragon", 
+                "Hard to run from", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Remove Reflect", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 231, 
+            "name": "[Cloak]Flame Cloak"
+        }, 
+        "drop_rare": {
+            "id": 49, 
+            "name": "[Katana]Uchigatana"
+        }, 
+        "drop_common": {
+            "id": 49, 
+            "name": "[Katana]Uchigatana"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 142, 
+            "name": "Aquatic Breath"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 152, 
+            "name": "Level ? Holy"
+        }, 
+        "inverse_b": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 7, 
+        "metamorph_a": {
+            "id": 155, 
+            "name": "[Tab]Magic Tab"
+        }, 
+        "metamorph_b": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }, 
+        "metamorph_c": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }, 
+        "metamorph_d": {
+            "id": 81, 
+            "name": "[Tab]Might Tab"
+        }
+    }
+}

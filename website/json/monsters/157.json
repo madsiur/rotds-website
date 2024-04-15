@@ -1,0 +1,229 @@
+{
+    "id": 157, 
+    "name": "Enforcer", 
+    "filename": "157_enforcer", 
+    "special_attack": "Rocket Punch", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 2850, 
+            "mp": 220, 
+            "gil": 629, 
+            "exp": 1583, 
+            "level": 39, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 34, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 3580, 
+            "mp": 240, 
+            "gil": 786, 
+            "exp": 2056, 
+            "level": 40, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 44, 
+            "attack": 45, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3880, 
+            "mp": 320, 
+            "gil": 864, 
+            "exp": 2600, 
+            "level": 41, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 53, 
+            "attack": 58, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 153, 
+            "mpow": 15, 
+            "hp": 4610, 
+            "mp": 340, 
+            "gil": 950, 
+            "exp": 3233, 
+            "level": 44, 
+            "immunity": [
+                "Zombie", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "Seizure"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 181, 
+            "name": "Magitek Laser"
+        }, 
+        "torment_d": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "fight_animation": {
+        "id": 29, 
+        "name": "[Spear1]Silver Spear"
+    }, 
+    "metamorph": {
+        "id": 31, 
+        "metamorph_a": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_b": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_c": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }, 
+        "metamorph_d": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }
+}

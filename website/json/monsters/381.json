@@ -1,0 +1,302 @@
+{
+    "id": 381, 
+    "name": "Vegnagun", 
+    "filename": "381_vegnagun", 
+    "special_attack": "Overlord's Wrath", 
+    "stats": {
+        "normal": {
+            "speed": 63, 
+            "attack": 60, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 110, 
+            "mdef": 135, 
+            "mpow": 10, 
+            "hp": 55000, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 60000, 
+            "level": 70, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Wind", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 68, 
+            "attack": 65, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 115, 
+            "mdef": 140, 
+            "mpow": 12, 
+            "hp": 55000, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 60000, 
+            "level": 71, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Wind", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 73, 
+            "attack": 70, 
+            "hit_rate": 120, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 14, 
+            "hp": 55000, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 60000, 
+            "level": 72, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Wind", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 78, 
+            "attack": 75, 
+            "hit_rate": 130, 
+            "mblock": 30, 
+            "evade": 30, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 16, 
+            "hp": 55000, 
+            "mp": 19000, 
+            "gil": 0, 
+            "exp": 60000, 
+            "level": 75, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison", 
+                "Wind", 
+                "Holy", 
+                "Earth", 
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Block suplex", 
+                "Can't run from", 
+                "Can't scan", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 239, 
+            "name": "[Item2]Omni Elixir"
+        }, 
+        "drop_rare": {
+            "id": 181, 
+            "name": "[Shield2]Omega Shld"
+        }, 
+        "drop_common": {
+            "id": 181, 
+            "name": "[Shield2]Omega Shld"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 197, 
+            "name": "Frozen Tomb"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 19, 
+            "name": "[Black magic]Meteor"
+        }, 
+        "inverse_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 28, 
+        "name": "[Sword1]Lightsaber"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

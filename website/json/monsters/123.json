@@ -1,0 +1,202 @@
+{
+    "id": 123, 
+    "name": "Barghest", 
+    "filename": "123_barghest", 
+    "special_attack": "Swift Attack", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 13, 
+            "defense": 132, 
+            "mdef": 142, 
+            "mpow": 1, 
+            "hp": 620, 
+            "mp": 10, 
+            "gil": 345, 
+            "exp": 255, 
+            "level": 17, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 37, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 18, 
+            "defense": 135, 
+            "mdef": 145, 
+            "mpow": 2, 
+            "hp": 879, 
+            "mp": 20, 
+            "gil": 401, 
+            "exp": 318, 
+            "level": 18, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 43, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 21, 
+            "defense": 138, 
+            "mdef": 148, 
+            "mpow": 3, 
+            "hp": 1231, 
+            "mp": 160, 
+            "gil": 444, 
+            "exp": 401, 
+            "level": 19, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 48, 
+            "attack": 55, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 28, 
+            "defense": 142, 
+            "mdef": 152, 
+            "mpow": 5, 
+            "hp": 1852, 
+            "mp": 200, 
+            "gil": 488, 
+            "exp": 497, 
+            "level": 22, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 119, 
+            "name": "[Medium helm]Tiger Mask"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

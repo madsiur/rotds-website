@@ -1,0 +1,220 @@
+{
+    "id": 83, 
+    "name": "Tormenter", 
+    "filename": "083_tormenter", 
+    "special_attack": "Gigadunk", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 115, 
+            "mpow": 5, 
+            "hp": 2000, 
+            "mp": 100, 
+            "gil": 600, 
+            "exp": 550, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "KO'd"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 40, 
+            "attack": 54, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 130, 
+            "mdef": 120, 
+            "mpow": 5, 
+            "hp": 2800, 
+            "mp": 140, 
+            "gil": 1650, 
+            "exp": 1100, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "KO'd"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 49, 
+            "attack": 60, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 145, 
+            "mdef": 125, 
+            "mpow": 7, 
+            "hp": 3400, 
+            "mp": 220, 
+            "gil": 1815, 
+            "exp": 1391, 
+            "level": 18, 
+            "immunity": [
+                "Blind", 
+                "KO'd"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 68, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 4800, 
+            "mp": 300, 
+            "gil": 1996, 
+            "exp": 1730, 
+            "level": 21, 
+            "immunity": [
+                "Blind", 
+                "KO'd"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Poison"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 196, 
+            "name": "[Relic1]Power Glove"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "torment_d": {
+            "id": 102, 
+            "name": "Sun Bath"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 10, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 194, 
+            "name": "[Relic1]Thief Gloves"
+        }
+    }
+}

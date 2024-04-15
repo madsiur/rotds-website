@@ -1,0 +1,256 @@
+{
+    "id": 357, 
+    "name": "War Golem", 
+    "filename": "357_war_golem", 
+    "special_attack": "Risky Shot", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 100, 
+            "mpow": 7, 
+            "hp": 2540, 
+            "mp": 162, 
+            "gil": 1062, 
+            "exp": 899, 
+            "level": 19, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 175, 
+            "mdef": 100, 
+            "mpow": 8, 
+            "hp": 2870, 
+            "mp": 214, 
+            "gil": 1370, 
+            "exp": 1123, 
+            "level": 20, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 54, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 180, 
+            "mdef": 100, 
+            "mpow": 9, 
+            "hp": 3020, 
+            "mp": 264, 
+            "gil": 1507, 
+            "exp": 1393, 
+            "level": 21, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 40, 
+            "attack": 65, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 185, 
+            "mdef": 100, 
+            "mpow": 12, 
+            "hp": 3580, 
+            "mp": 328, 
+            "gil": 1733, 
+            "exp": 1562, 
+            "level": 24, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Lightning", 
+                "Holy"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 140, 
+            "name": "[Heavy armor]Plate Mail"
+        }, 
+        "steal_common": {
+            "id": 111, 
+            "name": "[Heavy Helm2]Iron Helm"
+        }, 
+        "drop_rare": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 136, 
+            "name": "Life Force"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "inverse_b": {
+            "id": 227, 
+            "name": "Shock Wave"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 188, 
+            "name": "Magnitude Eight"
+        }, 
+        "torment_d": {
+            "id": 232, 
+            "name": "Life Purge"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 6, 
+        "metamorph_a": {
+            "id": 25, 
+            "name": "[Sword2]Cross Radius"
+        }, 
+        "metamorph_b": {
+            "id": 99, 
+            "name": "[Heavy shield]Crystal Shld"
+        }, 
+        "metamorph_c": {
+            "id": 126, 
+            "name": "[Heavy helm1]Crystal Helm"
+        }, 
+        "metamorph_d": {
+            "id": 152, 
+            "name": "[Heavy armor]Crystal Mail"
+        }
+    }
+}

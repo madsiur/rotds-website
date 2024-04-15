@@ -1,0 +1,212 @@
+{
+    "id": 91, 
+    "name": "Cactoid", 
+    "filename": "091_cactoid", 
+    "special_attack": "Needler", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 8, 
+            "hp": 3200, 
+            "mp": 302, 
+            "gil": 1224, 
+            "exp": 2056, 
+            "level": 51, 
+            "immunity": [
+                "Poison"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 4310, 
+            "mp": 420, 
+            "gil": 1530, 
+            "exp": 2420, 
+            "level": 52, 
+            "immunity": [
+                "Poison"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 44, 
+            "attack": 44, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 155, 
+            "mpow": 13, 
+            "hp": 6310, 
+            "mp": 520, 
+            "gil": 1683, 
+            "exp": 2702, 
+            "level": 53, 
+            "immunity": [
+                "Poison"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 58, 
+            "attack": 63, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 10, 
+            "defense": 133, 
+            "mdef": 162, 
+            "mpow": 18, 
+            "hp": 8620, 
+            "mp": 640, 
+            "gil": 1851, 
+            "exp": 3262, 
+            "level": 56, 
+            "immunity": [
+                "Poison"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Lightning", 
+                "Poison"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 153, 
+            "name": "Orb of Travel"
+        }, 
+        "torment_d": {
+            "id": 189, 
+            "name": "Crimson Moon"
+        }
+    }, 
+    "fight_animation": {
+        "id": 29, 
+        "name": "[Spear1]Silver Spear"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

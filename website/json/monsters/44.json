@@ -1,0 +1,245 @@
+{
+    "id": 44, 
+    "name": "Grimer", 
+    "filename": "044_grimer", 
+    "special_attack": "Melt", 
+    "stats": {
+        "normal": {
+            "speed": 10, 
+            "attack": 5, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 160, 
+            "mdef": 70, 
+            "mpow": 5, 
+            "hp": 905, 
+            "mp": 35, 
+            "gil": 400, 
+            "exp": 267, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 12, 
+            "attack": 7, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 80, 
+            "mpow": 6, 
+            "hp": 1514, 
+            "mp": 40, 
+            "gil": 500, 
+            "exp": 648, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 24, 
+            "attack": 14, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 180, 
+            "mdef": 90, 
+            "mpow": 7, 
+            "hp": 2314, 
+            "mp": 240, 
+            "gil": 550, 
+            "exp": 818, 
+            "level": 28, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 36, 
+            "attack": 28, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 200, 
+            "mdef": 100, 
+            "mpow": 12, 
+            "hp": 3628, 
+            "mp": 380, 
+            "gil": 605, 
+            "exp": 1017, 
+            "level": 31, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [
+                "Regen"
+            ], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Seizure", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 173, 
+            "name": "Energy Web"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 173, 
+            "name": "Energy Web"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 173, 
+            "name": "Energy Web"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

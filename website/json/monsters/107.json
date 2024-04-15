@@ -1,0 +1,220 @@
+{
+    "id": 107, 
+    "name": "May Fly", 
+    "filename": "107_may_fly", 
+    "special_attack": "Osmosis", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 11, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 9, 
+            "hp": 1067, 
+            "mp": 100, 
+            "gil": 320, 
+            "exp": 394, 
+            "level": 18, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 23, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 1490, 
+            "mp": 180, 
+            "gil": 400, 
+            "exp": 542, 
+            "level": 19, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 39, 
+            "hit_rate": 110, 
+            "mblock": 12, 
+            "evade": 26, 
+            "defense": 135, 
+            "mdef": 155, 
+            "mpow": 14, 
+            "hp": 1984, 
+            "mp": 230, 
+            "gil": 440, 
+            "exp": 685, 
+            "level": 20, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 56, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 33, 
+            "defense": 142, 
+            "mdef": 162, 
+            "mpow": 17, 
+            "hp": 2680, 
+            "mp": 340, 
+            "gil": 484, 
+            "exp": 851, 
+            "level": 23, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Drain MP", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 52, 
+            "name": "[Rod2]Diffusal Rod"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 202, 
+            "name": "Air Blast"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 41, 
+            "name": "[Grey magic]Osmose"
+        }, 
+        "inverse_b": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "torment_d": {
+            "id": 202, 
+            "name": "Air Blast"
+        }
+    }, 
+    "fight_animation": {
+        "id": 5, 
+        "name": "[Knife1]Eviscerator"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

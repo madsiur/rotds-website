@@ -1,0 +1,319 @@
+{
+    "id": 326, 
+    "name": "Cute UFO", 
+    "filename": "326_cute_ufo", 
+    "special_attack": "Blue Beam", 
+    "stats": {
+        "normal": {
+            "speed": 46, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 100, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 3400, 
+            "mp": 285, 
+            "gil": 1403, 
+            "exp": 552, 
+            "level": 25, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Poison", 
+                "Wind", 
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 53, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 100, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 4200, 
+            "mp": 365, 
+            "gil": 1687, 
+            "exp": 640, 
+            "level": 26, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Poison", 
+                "Wind", 
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 65, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 100, 
+            "defense": 128, 
+            "mdef": 153, 
+            "mpow": 15, 
+            "hp": 5000, 
+            "mp": 565, 
+            "gil": 1855, 
+            "exp": 686, 
+            "level": 27, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Poison", 
+                "Wind", 
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 60, 
+            "hit_rate": 100, 
+            "mblock": 50, 
+            "evade": 100, 
+            "defense": 130, 
+            "mdef": 157, 
+            "mpow": 18, 
+            "hp": 6800, 
+            "mp": 1130, 
+            "gil": 1855, 
+            "exp": 1189, 
+            "level": 30, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Image", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float", 
+                "Reflect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire", 
+                "Poison", 
+                "Wind", 
+                "Water"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }, 
+        "steal_common": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "drop_rare": {
+            "id": 250, 
+            "name": "[Item2]Atomic Ball"
+        }, 
+        "drop_common": {
+            "id": 178, 
+            "name": "[Tab]Scrap Metal"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 74, 
+        "name": "[Special1]Dream Sphere"
+    }, 
+    "metamorph": {
+        "id": 15, 
+        "metamorph_a": {
+            "id": 252, 
+            "name": "[Item2]Quicksilver"
+        }, 
+        "metamorph_b": {
+            "id": 252, 
+            "name": "[Item2]Quicksilver"
+        }, 
+        "metamorph_c": {
+            "id": 252, 
+            "name": "[Item2]Quicksilver"
+        }, 
+        "metamorph_d": {
+            "id": 252, 
+            "name": "[Item2]Quicksilver"
+        }
+    }
+}

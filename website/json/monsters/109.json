@@ -1,0 +1,246 @@
+{
+    "id": 109, 
+    "name": "Drowned", 
+    "filename": "109_drowned", 
+    "special_attack": "Static Surge", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 26, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 8, 
+            "defense": 70, 
+            "mdef": 200, 
+            "mpow": 7, 
+            "hp": 5555, 
+            "mp": 915, 
+            "gil": 960, 
+            "exp": 1189, 
+            "level": 46, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 38, 
+            "attack": 33, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 20, 
+            "defense": 80, 
+            "mdef": 200, 
+            "mpow": 10, 
+            "hp": 7555, 
+            "mp": 1150, 
+            "gil": 1200, 
+            "exp": 2636, 
+            "level": 47, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 50, 
+            "attack": 41, 
+            "hit_rate": 120, 
+            "mblock": 16, 
+            "evade": 23, 
+            "defense": 90, 
+            "mdef": 200, 
+            "mpow": 14, 
+            "hp": 9555, 
+            "mp": 1350, 
+            "gil": 1320, 
+            "exp": 3460, 
+            "level": 48, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 70, 
+            "attack": 64, 
+            "hit_rate": 140, 
+            "mblock": 20, 
+            "evade": 28, 
+            "defense": 100, 
+            "mdef": 200, 
+            "mpow": 22, 
+            "hp": 12110, 
+            "mp": 1600, 
+            "gil": 1452, 
+            "exp": 4301, 
+            "level": 51, 
+            "immunity": [
+                "Pig", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }, 
+        "steal_common": {
+            "id": 2, 
+            "name": "[Large sword]Rune Blade"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }, 
+        "inverse_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 9, 
+            "name": "[Black magic]Inferno"
+        }, 
+        "torment_c": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }, 
+        "torment_d": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "fight_animation": {
+        "id": 15, 
+        "name": "[Sword2]Icebrand"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

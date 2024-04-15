@@ -1,0 +1,260 @@
+{
+    "id": 182, 
+    "name": "Spectre", 
+    "filename": "182_spectre", 
+    "special_attack": "Cursed Rod", 
+    "stats": {
+        "normal": {
+            "speed": 31, 
+            "attack": 1, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 17, 
+            "defense": 0, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 975, 
+            "mp": 120, 
+            "gil": 138, 
+            "exp": 220, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 34, 
+            "attack": 1, 
+            "hit_rate": 100, 
+            "mblock": 16, 
+            "evade": 25, 
+            "defense": 0, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 1220, 
+            "mp": 140, 
+            "gil": 172, 
+            "exp": 375, 
+            "level": 16, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 7, 
+            "hit_rate": 100, 
+            "mblock": 19, 
+            "evade": 28, 
+            "defense": 0, 
+            "mdef": 170, 
+            "mpow": 13, 
+            "hp": 1691, 
+            "mp": 170, 
+            "gil": 189, 
+            "exp": 473, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 46, 
+            "attack": 14, 
+            "hit_rate": 110, 
+            "mblock": 26, 
+            "evade": 34, 
+            "defense": 20, 
+            "mdef": 180, 
+            "mpow": 16, 
+            "hp": 2399, 
+            "mp": 230, 
+            "gil": 207, 
+            "exp": 588, 
+            "level": 20, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Silence", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Poison"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Confuse", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "steal_common": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 32, 
+            "name": "[Grey magic]Stop"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 2, 
+            "name": "[Black magic]Spark"
+        }, 
+        "inverse_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 2, 
+            "name": "[Black magic]Spark"
+        }, 
+        "torment_c": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }, 
+        "torment_d": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

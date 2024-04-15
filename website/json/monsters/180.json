@@ -1,0 +1,237 @@
+{
+    "id": 180, 
+    "name": "Chopper", 
+    "filename": "180_chopper", 
+    "special_attack": "Clamp", 
+    "stats": {
+        "normal": {
+            "speed": 33, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 2000, 
+            "mp": 100, 
+            "gil": 550, 
+            "exp": 1000, 
+            "level": 33, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 39, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 116, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 2322, 
+            "mp": 120, 
+            "gil": 687, 
+            "exp": 1450, 
+            "level": 34, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 23, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 12, 
+            "hp": 3207, 
+            "mp": 200, 
+            "gil": 755, 
+            "exp": 1834, 
+            "level": 35, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 61, 
+            "attack": 36, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 145, 
+            "mpow": 15, 
+            "hp": 4388, 
+            "mp": 280, 
+            "gil": 830, 
+            "exp": 2280, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [
+                "Water"
+            ], 
+            "weakness": [
+                "Ice", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 11, 
+            "name": "[Black magic]Nova"
+        }, 
+        "torment_c": {
+            "id": 185, 
+            "name": "Giga Volt"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

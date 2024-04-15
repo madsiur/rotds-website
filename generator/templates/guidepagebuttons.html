@@ -1,0 +1,8 @@
+<div id="btns-prev-next" class="d-flex {{ class_btns_prev_next }}">
+    {%- if prev_id != -1 -%}
+        <a class="btn btn-dark mt-2 me-1" type="button" href="part-{{ prev_id }}.html">← Previous part</a>
+    {%- endif -%}
+    {%- if next_id != -1 -%}
+        <a class="btn btn-dark mt-2 ms-1" type="button" href="part-{{ next_id }}.html">Next part →</a>
+    {%- endif -%}
+</div>

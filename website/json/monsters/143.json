@@ -1,0 +1,237 @@
+{
+    "id": 143, 
+    "name": "Uruk-hai", 
+    "filename": "143_uruk_hai", 
+    "special_attack": "Doomhammer", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 49, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 5, 
+            "defense": 125, 
+            "mdef": 140, 
+            "mpow": 12, 
+            "hp": 3500, 
+            "mp": 187, 
+            "gil": 726, 
+            "exp": 1753, 
+            "level": 36, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 53, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 5, 
+            "defense": 125, 
+            "mdef": 140, 
+            "mpow": 15, 
+            "hp": 4300, 
+            "mp": 196, 
+            "gil": 907, 
+            "exp": 2197, 
+            "level": 37, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 63, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 8, 
+            "defense": 130, 
+            "mdef": 140, 
+            "mpow": 17, 
+            "hp": 5600, 
+            "mp": 227, 
+            "gil": 997, 
+            "exp": 2778, 
+            "level": 38, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 67, 
+            "attack": 76, 
+            "hit_rate": 120, 
+            "mblock": 22, 
+            "evade": 15, 
+            "defense": 140, 
+            "mdef": 150, 
+            "mpow": 20, 
+            "hp": 7200, 
+            "mp": 274, 
+            "gil": 1096, 
+            "exp": 3454, 
+            "level": 41, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Petrify", 
+                "KO'd", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 62, 
+            "name": "[Glove]Hyper-Fist"
+        }, 
+        "drop_rare": {
+            "id": 17, 
+            "name": "[Hammer]Cael Hammer"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 215, 
+            "name": "Shrapnel Blades"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 8, 
+        "name": "[Sword2]Demon Killer"
+    }, 
+    "metamorph": {
+        "id": 1, 
+        "metamorph_a": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "metamorph_b": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 241, 
+            "name": "[Item2]Karma Jolt"
+        }
+    }
+}

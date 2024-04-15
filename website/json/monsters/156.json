@@ -1,0 +1,241 @@
+{
+    "id": 156, 
+    "name": "Cerberus", 
+    "filename": "156_cerberus", 
+    "special_attack": "Claw", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 27, 
+            "hit_rate": 100, 
+            "mblock": 9, 
+            "evade": 6, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 6, 
+            "hp": 6100, 
+            "mp": 320, 
+            "gil": 520, 
+            "exp": 2947, 
+            "level": 28, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 52, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 18, 
+            "evade": 10, 
+            "defense": 130, 
+            "mdef": 155, 
+            "mpow": 8, 
+            "hp": 6750, 
+            "mp": 400, 
+            "gil": 650, 
+            "exp": 3432, 
+            "level": 29, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 65, 
+            "attack": 42, 
+            "hit_rate": 120, 
+            "mblock": 21, 
+            "evade": 13, 
+            "defense": 135, 
+            "mdef": 155, 
+            "mpow": 10, 
+            "hp": 7025, 
+            "mp": 909, 
+            "gil": 660, 
+            "exp": 4341, 
+            "level": 30, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 56, 
+            "hit_rate": 140, 
+            "mblock": 28, 
+            "evade": 17, 
+            "defense": 135, 
+            "mdef": 160, 
+            "mpow": 13, 
+            "hp": 9560, 
+            "mp": 1818, 
+            "gil": 726, 
+            "exp": 5397, 
+            "level": 33, 
+            "immunity": [
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Confuse"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Ice"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 32, 
+            "name": "[Spear2]Carbon Spear"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 31, 
+            "name": "[Spear2]Gold Trident"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 190, 
+            "name": "Flash Rain"
+        }, 
+        "torment_d": {
+            "id": 201, 
+            "name": "Reverse Polarity"
+        }
+    }, 
+    "fight_animation": {
+        "id": 7, 
+        "name": "[Knife2]Angrist"
+    }, 
+    "metamorph": {
+        "id": 21, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "metamorph_c": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_d": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }
+    }
+}

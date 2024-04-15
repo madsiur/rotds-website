@@ -1,0 +1,221 @@
+{
+    "id": 195, 
+    "name": "GreenSlime", 
+    "filename": "195_greenslime", 
+    "special_attack": "Dissolution", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 100, 
+            "mdef": 90, 
+            "mpow": 30, 
+            "hp": 1175, 
+            "mp": 150, 
+            "gil": 139, 
+            "exp": 473, 
+            "level": 26, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 27, 
+            "defense": 100, 
+            "mdef": 100, 
+            "mpow": 30, 
+            "hp": 1300, 
+            "mp": 200, 
+            "gil": 190, 
+            "exp": 551, 
+            "level": 27, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 39, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 110, 
+            "mdef": 105, 
+            "mpow": 30, 
+            "hp": 2100, 
+            "mp": 240, 
+            "gil": 209, 
+            "exp": 678, 
+            "level": 28, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 49, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 115, 
+            "mdef": 110, 
+            "mpow": 30, 
+            "hp": 4200, 
+            "mp": 300, 
+            "gil": 229, 
+            "exp": 839, 
+            "level": 31, 
+            "immunity": [
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 45, 
+            "name": "[White magic]Cure"
+        }, 
+        "inverse_b": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 45, 
+            "name": "[White magic]Cure"
+        }, 
+        "torment_c": {
+            "id": 46, 
+            "name": "[White magic]Cura"
+        }, 
+        "torment_d": {
+            "id": 51, 
+            "name": "[White magic]Esuna"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

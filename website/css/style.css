@@ -55,11 +55,17 @@
     width: 100%;
 }
 
-.character-div {
+.page-div {
     min-width: 50%;
-    width: 96%;
+    width: 97%;
     max-width: 100%;
     background-color: #bbcbe6;
+}
+
+.char-table {
+    min-width: 90vw;
+    width: 90vw;
+    max-width: 100vw;
 }
 
 .character-desc-row-special {
@@ -110,6 +116,42 @@
     }
 }
 
+@media (min-width: 300px) {
+    div#char-table {
+      font-size: 0.72rem;
+    }
+}
+
+@media (min-width: 400px) {
+    div#char-table {
+      font-size: 0.76rem;
+    }
+}
+
+@media (min-width: 600px) {
+    div#char-table {
+      font-size: 0.81rem;
+    }
+}
+
+@media (min-width: 900px) {
+    div#char-table {
+      font-size: 0.87rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    div#char-table {
+      font-size: 0.92rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    div#char-table {
+      font-size: 1rem;
+    }
+}
+
 table#monster-table td.row-a,
 div#char-table div > div.row-a {
     background-color: #a4b4cd;
@@ -126,16 +168,20 @@ div#char-table div > div.row-special {
 }
 
 
-div#btns-mons-top button.btn-dark,
-div#btns-mons-bottom button.btn-dark,
-div#btns-prev-next button.btn-dark,
+div#btns-mons-gallery a.btn-dark,
+div#btns-prev-next a.btn-dark,
 div#btns-diff button.btn-dark {
     border-radius: 0%;
 }
 
-div#btns-mons-top button.btn-secondary,
-div#btns-mons-bottom button.btn-secondary,
-div#btns-prev-next button.btn-secondary,
+div#btns-mons-gallery a.btn-secondary,
+div#btns-prev-next a.btn-secondary,
 div#btns-diff button.btn-secondary {
     border-radius: 0%;
+}
+
+div#char-table.container,
+table#monster-table.container {
+    padding-left: 5px;
+    padding-right: 5px;
 }

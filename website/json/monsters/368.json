@@ -1,0 +1,300 @@
+{
+    "id": 368, 
+    "name": "Ice Titan", 
+    "filename": "368_ice_titan", 
+    "special_attack": "Ice Crusher", 
+    "stats": {
+        "normal": {
+            "speed": 60, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 129, 
+            "mdef": 153, 
+            "mpow": 12, 
+            "hp": 26001, 
+            "mp": 3814, 
+            "gil": 2520, 
+            "exp": 9040, 
+            "level": 57, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 65, 
+            "attack": 55, 
+            "hit_rate": 110, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 132, 
+            "mdef": 156, 
+            "mpow": 13, 
+            "hp": 28240, 
+            "mp": 4117, 
+            "gil": 2800, 
+            "exp": 9600, 
+            "level": 58, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "6.25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 69, 
+            "attack": 61, 
+            "hit_rate": 120, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 135, 
+            "mdef": 159, 
+            "mpow": 14, 
+            "hp": 30011, 
+            "mp": 4700, 
+            "gil": 3080, 
+            "exp": 11084, 
+            "level": 59, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 74, 
+            "attack": 72, 
+            "hit_rate": 130, 
+            "mblock": 10, 
+            "evade": 0, 
+            "defense": 138, 
+            "mdef": 163, 
+            "mpow": 17, 
+            "hp": 32011, 
+            "mp": 5001, 
+            "gil": 3080, 
+            "exp": 12008, 
+            "level": 62, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex", 
+                "Can't run from", 
+                "Special event", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "3.125%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 249, 
+            "name": "[Tab]Soma Drop"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }, 
+        "spirit_b": {
+            "id": 0, 
+            "name": "[Black magic]Fireball"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 30, 
+        "metamorph_a": {
+            "id": 6, 
+            "name": "[Knife2]War Machete"
+        }, 
+        "metamorph_b": {
+            "id": 7, 
+            "name": "[Knife2]Angrist"
+        }, 
+        "metamorph_c": {
+            "id": 8, 
+            "name": "[Sword2]Demon Killer"
+        }, 
+        "metamorph_d": {
+            "id": 131, 
+            "name": "[Tab]Stamina Tab"
+        }
+    }
+}

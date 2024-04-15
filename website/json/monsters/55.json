@@ -1,0 +1,294 @@
+{
+    "id": 55, 
+    "name": "Olbohn", 
+    "filename": "placeholder", 
+    "special_attack": "Surge Crusher", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 9, 
+            "defense": 115, 
+            "mdef": 147, 
+            "mpow": 10, 
+            "hp": 20760, 
+            "mp": 3000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 30, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Critical attacks if Pig", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 22, 
+            "evade": 12, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 22760, 
+            "mp": 3535, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 31, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 51, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 25, 
+            "evade": 15, 
+            "defense": 124, 
+            "mdef": 154, 
+            "mpow": 15, 
+            "hp": 24760, 
+            "mp": 3835, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 32, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 60, 
+            "attack": 31, 
+            "hit_rate": 110, 
+            "mblock": 29, 
+            "evade": 18, 
+            "defense": 127, 
+            "mdef": 157, 
+            "mpow": 18, 
+            "hp": 26520, 
+            "mp": 4670, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 35, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop"
+            ], 
+            "status": [
+                "Float", 
+                "Shell", 
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Human", 
+                "Critical attacks if Pig", 
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "3.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 236, 
+            "name": "Dancing Flame"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 177, 
+            "name": "Blaster"
+        }, 
+        "torment_b": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }, 
+        "torment_c": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }, 
+        "torment_d": {
+            "id": 209, 
+            "name": "Hyper Drive"
+        }
+    }, 
+    "fight_animation": {
+        "id": 63, 
+        "name": "[Glove]Shatterhand"
+    }, 
+    "metamorph": {
+        "id": 23, 
+        "metamorph_a": {
+            "id": 174, 
+            "name": "[Scroll]Mist Scroll"
+        }, 
+        "metamorph_b": {
+            "id": 175, 
+            "name": "[Scroll]Ninja Scroll"
+        }, 
+        "metamorph_c": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "metamorph_d": {
+            "id": 67, 
+            "name": "[Stars]Master Star"
+        }
+    }
+}

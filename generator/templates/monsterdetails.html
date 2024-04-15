@@ -1,0 +1,134 @@
+
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex flex-column border border-dark border-2 page-div pt-0 px-0 pb-2 my-2 mx-0">
+                    <div class="d-flex flex-column mt-3">
+                        <h3 class="align-self-center">{{ monster.name }}</h3>
+                        <div id="btns-diff" class="align-self-center my-3">
+                            <button data-diff="normal" type="button" class="btn btn-dark">Normal</button>
+                            <button data-diff="hard" type="button" class="btn btn-dark">Hard</button>
+                            <button data-diff="extreme" type="button" class="btn btn-dark">Extreme</button>
+                            <button data-diff="insane" type="button" class="btn btn-dark">Insane</button>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="container-xl">
+                            <table id="monster-table" class="table">
+                                <tbody>
+                                    <tr class="justify-content-center">
+                                        <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 pt-1 pb-0 ps-1 pe-0 row-special border border-dark border-2 align-middle text-center" rowspan="4">
+                                            <img alt="{{ monster.name }}" class="img-fluid" src="{{ img_relative_url }}"/>
+                                        </td>
+                                        <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-a border-bottom border-top border-dark border-2">ID:</td>
+                                        <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-a border border-start-0 border-dark border-2 text-end">{{ monster.id }}</td>
+                                        <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-b border-bottom border-top border-dark border-2">Level:</td>
+                                        <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-b border border-start-0 border-dark border-2 text-end" id="level"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">HP:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="hp"></td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">MP:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="mp"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Attack:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="attack"></td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Magic Power:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="mpow"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Def:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="defense"></td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Magic Def:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="mdef"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Evade:</td>
+                                        <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2" id="evade"></td>
+                                        <td class="col-sm-1 col-md-1 col-lg-1 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Magic Block:</td>
+                                        <td class="col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4 py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="mblock"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Hit Rate:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2" id="hit-rate"></td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Speed:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="speed"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Gil:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2" id="gil"></td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Exp:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="exp"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Special Attack:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2">{{ monster.special_attack }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Absorb:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="absorb"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Special Effect:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2" id="special-attack-effect"></td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Nullify:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="null-elem"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Immunity:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2" id="immunity"></td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Weakness:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" id="weakness"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Status:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2" id="status"></td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Misc:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" id="misc"></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Spirit:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2">{{ monster.spirits }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Steal common:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ monster.steal_common }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Inverse:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2">{{ monster.inverses }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Steal rare:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ monster.steal_rare }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Torment:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end" colspan="2">{{ monster.torments }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-bottom border-dark border-2">Drop common:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end">{{ monster.drop_common }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Metamorph:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-end border-bottom border-dark border-2 text-end" colspan="2" id="metamorph"></td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-bottom border-dark border-2">Drop rare:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-end border-bottom border-dark border-2 text-end">{{ monster.drop_rare }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div id="btns-prev-next" class="d-flex {{ class_btns_prev_next }}">
+                            {%- if prev_id != -1 -%}
+                                <a class="btn btn-dark" type="button" href="{{ prev_id }}.html">← {{ prev_name }}</a>
+                            {%- endif -%}
+                            {%- if next_id != -1 -%}
+                                <a class="btn btn-dark" type="button" href="{{ next_id }}.html">{{ next_name }} →</a>
+                            {%- endif -%}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'publicscripts.html' %}
+        {% include 'scripts.html' %}
+        <script type="module" src="../js/monsterdetails.js"></script>
+    </body>
+</html>

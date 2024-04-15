@@ -1,0 +1,272 @@
+{
+    "id": 53, 
+    "name": "Undead Ent", 
+    "filename": "053_undead_ent", 
+    "special_attack": "Devil's Sap", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 150, 
+            "mdef": 100, 
+            "mpow": 4, 
+            "hp": 704, 
+            "mp": 172, 
+            "gil": 96, 
+            "exp": 160, 
+            "level": 13, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 42, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 160, 
+            "mdef": 110, 
+            "mpow": 5, 
+            "hp": 853, 
+            "mp": 215, 
+            "gil": 120, 
+            "exp": 200, 
+            "level": 14, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 58, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 170, 
+            "mdef": 120, 
+            "mpow": 7, 
+            "hp": 1028, 
+            "mp": 258, 
+            "gil": 132, 
+            "exp": 250, 
+            "level": 15, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 43, 
+            "attack": 64, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 180, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 1546, 
+            "mp": 301, 
+            "gil": 145, 
+            "exp": 307, 
+            "level": 18, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Poison"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Human", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "Inflict Condemned", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 233, 
+            "name": "Saintly Beam"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 8, 
+            "name": "[Black magic]Plague"
+        }, 
+        "torment_d": {
+            "id": 13, 
+            "name": "[Black magic]Death"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 3, 
+        "metamorph_a": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "metamorph_b": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }, 
+        "metamorph_c": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "metamorph_d": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }
+    }
+}

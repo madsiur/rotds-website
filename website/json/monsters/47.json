@@ -1,0 +1,228 @@
+{
+    "id": 47, 
+    "name": "Cockatrice", 
+    "filename": "047_cockatrice", 
+    "special_attack": "Rock Talon", 
+    "stats": {
+        "normal": {
+            "speed": 30, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 6, 
+            "evade": 14, 
+            "defense": 50, 
+            "mdef": 155, 
+            "mpow": 2, 
+            "hp": 363, 
+            "mp": 60, 
+            "gil": 145, 
+            "exp": 89, 
+            "level": 11, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 33, 
+            "attack": 20, 
+            "hit_rate": 100, 
+            "mblock": 12, 
+            "evade": 23, 
+            "defense": 55, 
+            "mdef": 160, 
+            "mpow": 4, 
+            "hp": 590, 
+            "mp": 80, 
+            "gil": 181, 
+            "exp": 111, 
+            "level": 12, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 27, 
+            "defense": 60, 
+            "mdef": 170, 
+            "mpow": 6, 
+            "hp": 790, 
+            "mp": 120, 
+            "gil": 198, 
+            "exp": 140, 
+            "level": 13, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 45, 
+            "attack": 37, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 32, 
+            "defense": 70, 
+            "mdef": 180, 
+            "mpow": 10, 
+            "hp": 1080, 
+            "mp": 260, 
+            "gil": 217, 
+            "exp": 174, 
+            "level": 16, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 33, 
+            "name": "[Grey magic]Frenzy"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 230, 
+            "name": "Gale Cut"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 230, 
+            "name": "Gale Cut"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 38, 
+        "name": "[Knife1]Genji Knife"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

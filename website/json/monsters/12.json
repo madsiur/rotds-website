@@ -1,0 +1,248 @@
+{
+    "id": 12, 
+    "name": "Meat", 
+    "filename": "012_meat", 
+    "special_attack": "Ballistic Bone", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 10, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 8, 
+            "hp": 2000, 
+            "mp": 195, 
+            "gil": 325, 
+            "exp": 1200, 
+            "level": 26, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 37, 
+            "attack": 38, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 13, 
+            "defense": 90, 
+            "mdef": 153, 
+            "mpow": 10, 
+            "hp": 2846, 
+            "mp": 215, 
+            "gil": 456, 
+            "exp": 1500, 
+            "level": 27, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 46, 
+            "attack": 46, 
+            "hit_rate": 100, 
+            "mblock": 15, 
+            "evade": 15, 
+            "defense": 100, 
+            "mdef": 155, 
+            "mpow": 12, 
+            "hp": 3546, 
+            "mp": 415, 
+            "gil": 521, 
+            "exp": 1897, 
+            "level": 28, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 62, 
+            "attack": 67, 
+            "hit_rate": 110, 
+            "mblock": 18, 
+            "evade": 18, 
+            "defense": 110, 
+            "mdef": 160, 
+            "mpow": 16, 
+            "hp": 5092, 
+            "mp": 630, 
+            "gil": 593, 
+            "exp": 2359, 
+            "level": 31, 
+            "immunity": [
+                "Zombie", 
+                "Poison", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Near fatal", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Earth", 
+                "Water"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "25%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 189, 
+            "name": "[Relic1]AngelPendant"
+        }, 
+        "steal_common": {
+            "id": 10, 
+            "name": "[Sword2]Iron Sword"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 150, 
+            "name": "Level 3 Confuse"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 150, 
+            "name": "Level 3 Confuse"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 150, 
+            "name": "Level 3 Confuse"
+        }, 
+        "torment_d": {
+            "id": 149, 
+            "name": "Level 4 Flare"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

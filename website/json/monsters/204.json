@@ -1,0 +1,230 @@
+{
+    "id": 204, 
+    "name": "Flyclops", 
+    "filename": "204_flyclops", 
+    "special_attack": "Gnaw", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 70, 
+            "defense": 100, 
+            "mdef": 150, 
+            "mpow": 5, 
+            "hp": 1585, 
+            "mp": 55, 
+            "gil": 497, 
+            "exp": 653, 
+            "level": 36, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 45, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 70, 
+            "defense": 102, 
+            "mdef": 152, 
+            "mpow": 8, 
+            "hp": 1964, 
+            "mp": 87, 
+            "gil": 621, 
+            "exp": 816, 
+            "level": 37, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 53, 
+            "attack": 34, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 70, 
+            "defense": 104, 
+            "mdef": 154, 
+            "mpow": 10, 
+            "hp": 2469, 
+            "mp": 187, 
+            "gil": 683, 
+            "exp": 1031, 
+            "level": 38, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 72, 
+            "attack": 48, 
+            "hit_rate": 140, 
+            "mblock": 0, 
+            "evade": 70, 
+            "defense": 106, 
+            "mdef": 156, 
+            "mpow": 13, 
+            "hp": 3582, 
+            "mp": 247, 
+            "gil": 683, 
+            "exp": 1166, 
+            "level": 41, 
+            "immunity": [
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Wind"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Petrify", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 158, 
+            "name": "[Light armor]Skelly Suit"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 5, 
+        "name": "[Knife1]Eviscerator"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

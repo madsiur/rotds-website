@@ -1,0 +1,236 @@
+{
+    "id": 43, 
+    "name": "Horror", 
+    "filename": "043_horror", 
+    "special_attack": "Super Grip", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 2, 
+            "defense": 110, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 3615, 
+            "mp": 233, 
+            "gil": 421, 
+            "exp": 1994, 
+            "level": 42, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 42, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 5, 
+            "defense": 115, 
+            "mdef": 145, 
+            "mpow": 12, 
+            "hp": 4515, 
+            "mp": 266, 
+            "gil": 443, 
+            "exp": 2492, 
+            "level": 43, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 54, 
+            "attack": 56, 
+            "hit_rate": 120, 
+            "mblock": 15, 
+            "evade": 10, 
+            "defense": 125, 
+            "mdef": 155, 
+            "mpow": 16, 
+            "hp": 5851, 
+            "mp": 633, 
+            "gil": 467, 
+            "exp": 3152, 
+            "level": 44, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 68, 
+            "attack": 65, 
+            "hit_rate": 150, 
+            "mblock": 20, 
+            "evade": 15, 
+            "defense": 135, 
+            "mdef": 160, 
+            "mpow": 19, 
+            "hp": 6035, 
+            "mp": 866, 
+            "gil": 493, 
+            "exp": 3919, 
+            "level": 47, 
+            "immunity": [
+                "Blind", 
+                "Pig", 
+                "Petrify", 
+                "Condemned", 
+                "Berserk", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Undead", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 247, 
+            "name": "[Item1]Shelter"
+        }, 
+        "steal_common": {
+            "id": 246, 
+            "name": "[Item1]Snuggie"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }, 
+        "torment_d": {
+            "id": 143, 
+            "name": "Aero"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 17, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 220, 
+            "name": "[Relic1]Exodus Token"
+        }
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "id": 56, 
+    "name": "Killamari", 
+    "filename": "056_killamari", 
+    "special_attack": "Ink Blast", 
+    "stats": {
+        "normal": {
+            "speed": 32, 
+            "attack": 18, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 6, 
+            "defense": 90, 
+            "mdef": 130, 
+            "mpow": 3, 
+            "hp": 336, 
+            "mp": 64, 
+            "gil": 173, 
+            "exp": 216, 
+            "level": 11, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 35, 
+            "attack": 23, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 8, 
+            "defense": 100, 
+            "mdef": 135, 
+            "mpow": 5, 
+            "hp": 465, 
+            "mp": 96, 
+            "gil": 216, 
+            "exp": 130, 
+            "level": 12, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 38, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 10, 
+            "defense": 110, 
+            "mdef": 140, 
+            "mpow": 7, 
+            "hp": 675, 
+            "mp": 143, 
+            "gil": 237, 
+            "exp": 164, 
+            "level": 13, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 47, 
+            "attack": 50, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 12, 
+            "defense": 120, 
+            "mdef": 145, 
+            "mpow": 12, 
+            "hp": 890, 
+            "mp": 197, 
+            "gil": 260, 
+            "exp": 204, 
+            "level": 16, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [
+                "Water"
+            ], 
+            "null": [
+                "Holy"
+            ], 
+            "weakness": [
+                "Fire", 
+                "Lightning"
+            ], 
+            "misc": [
+                "Hard to run from", 
+                "Can't run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 3, 
+            "name": "[Black magic]Virus"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

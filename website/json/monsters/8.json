@@ -1,0 +1,244 @@
+{
+    "id": 8, 
+    "name": "Executor", 
+    "filename": "008_executor", 
+    "special_attack": "Red Mist", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 6, 
+            "defense": 100, 
+            "mdef": 140, 
+            "mpow": 3, 
+            "hp": 380, 
+            "mp": 69, 
+            "gil": 101, 
+            "exp": 80, 
+            "level": 13, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 27, 
+            "attack": 28, 
+            "hit_rate": 100, 
+            "mblock": 26, 
+            "evade": 13, 
+            "defense": 100, 
+            "mdef": 140, 
+            "mpow": 5, 
+            "hp": 552, 
+            "mp": 93, 
+            "gil": 126, 
+            "exp": 125, 
+            "level": 14, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 35, 
+            "attack": 32, 
+            "hit_rate": 100, 
+            "mblock": 26, 
+            "evade": 16, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 7, 
+            "hp": 752, 
+            "mp": 136, 
+            "gil": 138, 
+            "exp": 154, 
+            "level": 15, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 44, 
+            "attack": 48, 
+            "hit_rate": 100, 
+            "mblock": 28, 
+            "evade": 18, 
+            "defense": 110, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 1040, 
+            "mp": 200, 
+            "gil": 151, 
+            "exp": 189, 
+            "level": 18, 
+            "immunity": [
+                "Zombie", 
+                "Pig", 
+                "Psyche"
+            ], 
+            "status": [
+                "Float"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Fire"
+            ], 
+            "weakness": [
+                "Holy"
+            ], 
+            "misc": [
+                "Dies at 0 MP", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Berserk", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 7, 
+            "name": "[Black magic]Storm"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 4, 
+            "name": "[Black magic]Drain"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 59, 
+        "name": "[Scythe]Soul Harvest"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

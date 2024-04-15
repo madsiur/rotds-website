@@ -1,0 +1,227 @@
+{
+    "id": 282, 
+    "name": "Predator", 
+    "filename": "282_predator", 
+    "special_attack": "Blade Fury", 
+    "stats": {
+        "normal": {
+            "speed": 40, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 102, 
+            "mdef": 153, 
+            "mpow": 2, 
+            "hp": 750, 
+            "mp": 180, 
+            "gil": 387, 
+            "exp": 255, 
+            "level": 12, 
+            "immunity": [
+                "Poison", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 43, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 107, 
+            "mdef": 153, 
+            "mpow": 3, 
+            "hp": 901, 
+            "mp": 220, 
+            "gil": 431, 
+            "exp": 339, 
+            "level": 13, 
+            "immunity": [
+                "Poison", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 47, 
+            "attack": 21, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 112, 
+            "mdef": 153, 
+            "mpow": 4, 
+            "hp": 1240, 
+            "mp": 260, 
+            "gil": 474, 
+            "exp": 355, 
+            "level": 14, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 50, 
+            "attack": 24, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 117, 
+            "mdef": 153, 
+            "mpow": 5, 
+            "hp": 1502, 
+            "mp": 300, 
+            "gil": 521, 
+            "exp": 439, 
+            "level": 17, 
+            "immunity": [
+                "Blind", 
+                "Poison", 
+                "Confuse", 
+                "Seizure", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [
+                "Wind"
+            ], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "4.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "drop_rare": {
+            "id": 174, 
+            "name": "[Scroll]Mist Scroll"
+        }, 
+        "drop_common": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 146, 
+            "name": "Revenge"
+        }, 
+        "spirit_b": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 44, 
+        "name": "[Katana]Yasha"
+    }, 
+    "metamorph": {
+        "id": 27, 
+        "metamorph_a": {
+            "id": 78, 
+            "name": "[Ninja]Throw Knives"
+        }, 
+        "metamorph_b": {
+            "id": 65, 
+            "name": "[Stars]Shuriken"
+        }, 
+        "metamorph_c": {
+            "id": 66, 
+            "name": "[Stars]Ninja Star"
+        }, 
+        "metamorph_d": {
+            "id": 101, 
+            "name": "[Tab]Speed Tab"
+        }
+    }
+}

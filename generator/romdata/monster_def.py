@@ -25,5 +25,5 @@ meta_rate_def = ["99.6%",
                  "3.125%",
                  "0%"]
 
-sp_atk_attr = ["No damage",
-                    "Can't miss"]
+sp_atk_attr = [ "No damage",
+                "Can't miss"]

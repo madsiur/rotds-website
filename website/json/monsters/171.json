@@ -1,0 +1,304 @@
+{
+    "id": 171, 
+    "name": "Griever", 
+    "filename": "171_griever", 
+    "special_attack": "Pulsar Bolt", 
+    "stats": {
+        "normal": {
+            "speed": 67, 
+            "attack": 73, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 12, 
+            "hp": 40000, 
+            "mp": 40000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 65, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Regen", 
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "hard": {
+            "speed": 74, 
+            "attack": 78, 
+            "hit_rate": 130, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 45000, 
+            "mp": 45000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 66, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Regen", 
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "extreme": {
+            "speed": 79, 
+            "attack": 83, 
+            "hit_rate": 140, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 14, 
+            "hp": 50000, 
+            "mp": 50000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 67, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Regen", 
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }, 
+        "insane": {
+            "speed": 87, 
+            "attack": 98, 
+            "hit_rate": 150, 
+            "mblock": 0, 
+            "evade": 0, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 55000, 
+            "mp": 55000, 
+            "gil": 0, 
+            "exp": 0, 
+            "level": 70, 
+            "immunity": [
+                "Blind", 
+                "Zombie", 
+                "Poison", 
+                "Magitek", 
+                "Clear", 
+                "Pig", 
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Silence", 
+                "Berserk", 
+                "Confuse", 
+                "Psyche", 
+                "Slow", 
+                "Stop", 
+                "Reflect"
+            ], 
+            "status": [
+                "Regen", 
+                "Haste"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Attack first", 
+                "Can't run from", 
+                "Can't scan", 
+                "Can't inverse", 
+                "Can't torment"
+            ], 
+            "metamorph_rate": "0%", 
+            "special_attack_effect": "Inflict Blind", 
+            "special_attack_flags": [
+                "Can't miss"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 206, 
+            "name": "[Relic1]Celestriad"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 103, 
+            "name": "[Shield2]Paladin Shld"
+        }, 
+        "drop_common": {
+            "id": 103, 
+            "name": "[Shield2]Paladin Shld"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 208, 
+            "name": "Tentacle"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 208, 
+            "name": "Tentacle"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 223, 
+            "name": "Ninth Dimension"
+        }, 
+        "torment_d": {
+            "id": 208, 
+            "name": "Tentacle"
+        }
+    }, 
+    "fight_animation": {
+        "id": 87, 
+        "name": "[Claw]Blazing Claw"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

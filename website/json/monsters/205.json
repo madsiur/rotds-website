@@ -1,0 +1,243 @@
+{
+    "id": 205, 
+    "name": "Icebinder", 
+    "filename": "205_icebinder", 
+    "special_attack": "Frozen Staff", 
+    "stats": {
+        "normal": {
+            "speed": 33, 
+            "attack": 10, 
+            "hit_rate": 100, 
+            "mblock": 20, 
+            "evade": 2, 
+            "defense": 105, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 5000, 
+            "mp": 250, 
+            "gil": 750, 
+            "exp": 2000, 
+            "level": 33, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 36, 
+            "attack": 12, 
+            "hit_rate": 100, 
+            "mblock": 30, 
+            "evade": 4, 
+            "defense": 105, 
+            "mdef": 145, 
+            "mpow": 13, 
+            "hp": 5500, 
+            "mp": 300, 
+            "gil": 937, 
+            "exp": 2500, 
+            "level": 34, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 40, 
+            "attack": 15, 
+            "hit_rate": 100, 
+            "mblock": 40, 
+            "evade": 6, 
+            "defense": 105, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 6000, 
+            "mp": 350, 
+            "gil": 1030, 
+            "exp": 3162, 
+            "level": 35, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 52, 
+            "attack": 30, 
+            "hit_rate": 110, 
+            "mblock": 50, 
+            "evade": 8, 
+            "defense": 115, 
+            "mdef": 150, 
+            "mpow": 17, 
+            "hp": 7500, 
+            "mp": 400, 
+            "gil": 1030, 
+            "exp": 3575, 
+            "level": 38, 
+            "immunity": [
+                "Petrify", 
+                "Near fatal", 
+                "Silence", 
+                "Stop"
+            ], 
+            "status": [
+                "Reflect"
+            ], 
+            "absorb": [
+                "Ice"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Fire"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "Inflict Runic", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 232, 
+            "name": "[Item2]Holy Water"
+        }, 
+        "steal_common": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "drop_rare": {
+            "id": 54, 
+            "name": "[Rod3]Ice Rod"
+        }, 
+        "drop_common": {
+            "id": 235, 
+            "name": "[Item2]Ether"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 35, 
+            "name": "[Grey magic]Hex"
+        }, 
+        "inverse_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 1, 
+            "name": "[Black magic]Icicle"
+        }, 
+        "torment_c": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }, 
+        "torment_d": {
+            "id": 10, 
+            "name": "[Black magic]Blizzard"
+        }
+    }, 
+    "fight_animation": {
+        "id": 54, 
+        "name": "[Rod3]Ice Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center mt-2">
+                <h3>BRR Samples</h3>
+            </div>
+            <table id="sortTbl" class="table table-primary table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">Game</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Occurences</th>
+                        <th scope="col">Size</th>
+                        <th scope="col">Loop</th>
+                        <th scope="col">Env.</th>
+                        <th scope="col">Pitch</th>
+                        <th scope="col">BRR</th>
+                    </tr>
+                </thead>
+                <tbody id="ostTbl"></tbody>
+            </table>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'publicscripts.html' %}
+        <script src="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.js"></script>
+        {% include 'scripts.html' %}
+        <script type="module" src="js/brr.js"></script>
+    </body>
+</html>

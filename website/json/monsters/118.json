@@ -1,0 +1,193 @@
+{
+    "id": 118, 
+    "name": "Paraslime", 
+    "filename": "118_paraslime", 
+    "special_attack": "Goo Projection", 
+    "stats": {
+        "normal": {
+            "speed": 15, 
+            "attack": 9, 
+            "hit_rate": 100, 
+            "mblock": 2, 
+            "evade": 0, 
+            "defense": 70, 
+            "mdef": 140, 
+            "mpow": 10, 
+            "hp": 225, 
+            "mp": 32, 
+            "gil": 110, 
+            "exp": 53, 
+            "level": 10, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 20, 
+            "attack": 13, 
+            "hit_rate": 100, 
+            "mblock": 5, 
+            "evade": 0, 
+            "defense": 75, 
+            "mdef": 145, 
+            "mpow": 10, 
+            "hp": 352, 
+            "mp": 40, 
+            "gil": 137, 
+            "exp": 76, 
+            "level": 11, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 25, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 8, 
+            "evade": 0, 
+            "defense": 80, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 527, 
+            "mp": 60, 
+            "gil": 150, 
+            "exp": 95, 
+            "level": 12, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 30, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 13, 
+            "evade": 0, 
+            "defense": 90, 
+            "mdef": 160, 
+            "mpow": 10, 
+            "hp": 704, 
+            "mp": 80, 
+            "gil": 165, 
+            "exp": 118, 
+            "level": 15, 
+            "immunity": [], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Water"
+            ], 
+            "misc": [
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "99.6%", 
+            "special_attack_effect": "1.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 48, 
+            "name": "[White magic]Raise"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 238, 
+            "name": "Attack"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "id": 62, 
+    "name": "Sand Eater", 
+    "filename": "062_sand_eater", 
+    "special_attack": "Boulder Crush", 
+    "stats": {
+        "normal": {
+            "speed": 51, 
+            "attack": 54, 
+            "hit_rate": 180, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 120, 
+            "mdef": 50, 
+            "mpow": 20, 
+            "hp": 23018, 
+            "mp": 8000, 
+            "gil": 6000, 
+            "exp": 7524, 
+            "level": 49, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 54, 
+            "attack": 74, 
+            "hit_rate": 180, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 130, 
+            "mdef": 60, 
+            "mpow": 22, 
+            "hp": 28072, 
+            "mp": 8000, 
+            "gil": 8000, 
+            "exp": 9405, 
+            "level": 50, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 66, 
+            "attack": 92, 
+            "hit_rate": 180, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 140, 
+            "mdef": 70, 
+            "mpow": 27, 
+            "hp": 32219, 
+            "mp": 8000, 
+            "gil": 8800, 
+            "exp": 11896, 
+            "level": 51, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 82, 
+            "attack": 127, 
+            "hit_rate": 180, 
+            "mblock": 10, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 80, 
+            "mpow": 35, 
+            "hp": 34740, 
+            "mp": 8000, 
+            "gil": 9680, 
+            "exp": 14792, 
+            "level": 54, 
+            "immunity": [
+                "Pig", 
+                "Petrify", 
+                "Psyche", 
+                "Stop"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Earth"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice", 
+                "Water"
+            ], 
+            "misc": [
+                "Doesn't die from ID attacks", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "5.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 245, 
+            "name": "[Item2]Remedy"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 239, 
+            "name": "Special"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 105, 
+            "name": "Sand Storm"
+        }, 
+        "torment_d": {
+            "id": 21, 
+            "name": "[Black magic]Quake"
+        }
+    }, 
+    "fight_animation": {
+        "id": 255, 
+        "name": "Nothing"
+    }, 
+    "metamorph": {
+        "id": 14, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_c": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_d": {
+            "id": 238, 
+            "name": "[Item2]Elixir"
+        }
+    }
+}

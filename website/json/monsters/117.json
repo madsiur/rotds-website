@@ -1,0 +1,232 @@
+{
+    "id": 117, 
+    "name": "Chimera", 
+    "filename": "117_chimera", 
+    "special_attack": "Bane Strike", 
+    "stats": {
+        "normal": {
+            "speed": 23, 
+            "attack": 29, 
+            "hit_rate": 100, 
+            "mblock": 4, 
+            "evade": 9, 
+            "defense": 100, 
+            "mdef": 120, 
+            "mpow": 8, 
+            "hp": 1465, 
+            "mp": 135, 
+            "gil": 400, 
+            "exp": 592, 
+            "level": 19, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 28, 
+            "attack": 36, 
+            "hit_rate": 100, 
+            "mblock": 7, 
+            "evade": 12, 
+            "defense": 105, 
+            "mdef": 130, 
+            "mpow": 10, 
+            "hp": 2056, 
+            "mp": 142, 
+            "gil": 500, 
+            "exp": 740, 
+            "level": 20, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 33, 
+            "attack": 45, 
+            "hit_rate": 100, 
+            "mblock": 10, 
+            "evade": 18, 
+            "defense": 115, 
+            "mdef": 140, 
+            "mpow": 13, 
+            "hp": 2449, 
+            "mp": 192, 
+            "gil": 550, 
+            "exp": 936, 
+            "level": 21, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 41, 
+            "attack": 59, 
+            "hit_rate": 110, 
+            "mblock": 13, 
+            "evade": 22, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 11, 
+            "hp": 3091, 
+            "mp": 238, 
+            "gil": 605, 
+            "exp": 1163, 
+            "level": 24, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned"
+            ], 
+            "status": [
+                "Haste"
+            ], 
+            "absorb": [
+                "Lightning"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Earth"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Poison", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 165, 
+            "name": "[Aether]Psycho Blade"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 198, 
+            "name": "[Tab]Beast Hide"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 53, 
+            "name": "[White magic]Reraise"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 53, 
+            "name": "[White magic]Reraise"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 53, 
+            "name": "[White magic]Reraise"
+        }, 
+        "torment_d": {
+            "id": 33, 
+            "name": "[Grey magic]Frenzy"
+        }
+    }, 
+    "fight_animation": {
+        "id": 86, 
+        "name": "[Claw]Titan Claw"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "id": 216, 
+    "name": "Klarrgas", 
+    "filename": "216_klarrgas", 
+    "special_attack": "Tri-Wing", 
+    "stats": {
+        "normal": {
+            "speed": 42, 
+            "attack": 35, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 20, 
+            "defense": 150, 
+            "mdef": 115, 
+            "mpow": 10, 
+            "hp": 2992, 
+            "mp": 175, 
+            "gil": 1300, 
+            "exp": 895, 
+            "level": 27, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 46, 
+            "attack": 40, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 25, 
+            "defense": 152, 
+            "mdef": 117, 
+            "mpow": 10, 
+            "hp": 3320, 
+            "mp": 200, 
+            "gil": 1500, 
+            "exp": 1118, 
+            "level": 28, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 53, 
+            "attack": 51, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 154, 
+            "mdef": 119, 
+            "mpow": 13, 
+            "hp": 4206, 
+            "mp": 225, 
+            "gil": 1650, 
+            "exp": 1413, 
+            "level": 29, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dragon", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 64, 
+            "attack": 62, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 30, 
+            "defense": 158, 
+            "mdef": 121, 
+            "mpow": 16, 
+            "hp": 5400, 
+            "mp": 300, 
+            "gil": 1650, 
+            "exp": 1597, 
+            "level": 32, 
+            "immunity": [
+                "Pig"
+            ], 
+            "status": [
+                "Float", 
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [], 
+            "weakness": [], 
+            "misc": [
+                "Dragon", 
+                "Hard to run from", 
+                "Block suplex"
+            ], 
+            "metamorph_rate": "12.5%", 
+            "special_attack_effect": "2.0x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 187, 
+            "name": "[Relic1]Reflect Ring"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 178, 
+            "name": "Cyclonic"
+        }, 
+        "torment_d": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "fight_animation": {
+        "id": 86, 
+        "name": "[Claw]Titan Claw"
+    }, 
+    "metamorph": {
+        "id": 6, 
+        "metamorph_a": {
+            "id": 25, 
+            "name": "[Sword2]Cross Radius"
+        }, 
+        "metamorph_b": {
+            "id": 99, 
+            "name": "[Heavy shield]Crystal Shld"
+        }, 
+        "metamorph_c": {
+            "id": 126, 
+            "name": "[Heavy helm1]Crystal Helm"
+        }, 
+        "metamorph_d": {
+            "id": 152, 
+            "name": "[Heavy armor]Crystal Mail"
+        }
+    }
+}

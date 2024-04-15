@@ -1,0 +1,236 @@
+{
+    "id": 235, 
+    "name": "Hothead", 
+    "filename": "235_hothead", 
+    "special_attack": "Psych Burst", 
+    "stats": {
+        "normal": {
+            "speed": 25, 
+            "attack": 16, 
+            "hit_rate": 100, 
+            "mblock": 21, 
+            "evade": 1, 
+            "defense": 120, 
+            "mdef": 150, 
+            "mpow": 10, 
+            "hp": 1860, 
+            "mp": 152, 
+            "gil": 525, 
+            "exp": 845, 
+            "level": 25, 
+            "immunity": [
+                "Petrify", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "hard": {
+            "speed": 30, 
+            "attack": 19, 
+            "hit_rate": 100, 
+            "mblock": 24, 
+            "evade": 4, 
+            "defense": 125, 
+            "mdef": 150, 
+            "mpow": 13, 
+            "hp": 2592, 
+            "mp": 182, 
+            "gil": 656, 
+            "exp": 1006, 
+            "level": 26, 
+            "immunity": [
+                "Petrify", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "extreme": {
+            "speed": 32, 
+            "attack": 25, 
+            "hit_rate": 100, 
+            "mblock": 27, 
+            "evade": 7, 
+            "defense": 130, 
+            "mdef": 150, 
+            "mpow": 15, 
+            "hp": 3324, 
+            "mp": 282, 
+            "gil": 721, 
+            "exp": 1271, 
+            "level": 27, 
+            "immunity": [
+                "Petrify", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }, 
+        "insane": {
+            "speed": 44, 
+            "attack": 30, 
+            "hit_rate": 110, 
+            "mblock": 30, 
+            "evade": 10, 
+            "defense": 135, 
+            "mdef": 150, 
+            "mpow": 18, 
+            "hp": 5187, 
+            "mp": 346, 
+            "gil": 721, 
+            "exp": 1437, 
+            "level": 30, 
+            "immunity": [
+                "Petrify", 
+                "Silence", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [], 
+            "absorb": [
+                "Fire"
+            ], 
+            "null": [], 
+            "weakness": [
+                "Ice"
+            ], 
+            "misc": [
+                "Human", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "Inflict Psyche", 
+            "special_attack_flags": [
+                "No damage"
+            ]
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 240, 
+            "name": "[Item2]Recharge"
+        }, 
+        "steal_common": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "drop_rare": {
+            "id": 251, 
+            "name": "[Item2]Echo Herbs"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 179, 
+            "name": "Blaze"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 6, 
+            "name": "[Black magic]Freeze"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 5, 
+            "name": "[Black magic]Scorch"
+        }, 
+        "torment_d": {
+            "id": 179, 
+            "name": "Blaze"
+        }
+    }, 
+    "fight_animation": {
+        "id": 53, 
+        "name": "[Rod3]Fire Rod"
+    }, 
+    "metamorph": {
+        "id": 0, 
+        "metamorph_a": {
+            "id": 242, 
+            "name": "[Item2]Aqualin"
+        }, 
+        "metamorph_b": {
+            "id": 248, 
+            "name": "[Item2]Tulaberry"
+        }, 
+        "metamorph_c": {
+            "id": 243, 
+            "name": "[Item2]Clear Eyes"
+        }, 
+        "metamorph_d": {
+            "id": 244, 
+            "name": "[Item2]Tissue"
+        }
+    }
+}

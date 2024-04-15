@@ -1,0 +1,244 @@
+{
+    "id": 214, 
+    "name": "Gigaspede", 
+    "filename": "214_gigaspede", 
+    "special_attack": "Constrict", 
+    "stats": {
+        "normal": {
+            "speed": 35, 
+            "attack": 22, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 5, 
+            "defense": 100, 
+            "mdef": 170, 
+            "mpow": 3, 
+            "hp": 1805, 
+            "mp": 150, 
+            "gil": 189, 
+            "exp": 1250, 
+            "level": 24, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "hard": {
+            "speed": 37, 
+            "attack": 33, 
+            "hit_rate": 100, 
+            "mblock": 0, 
+            "evade": 7, 
+            "defense": 105, 
+            "mdef": 170, 
+            "mpow": 4, 
+            "hp": 2310, 
+            "mp": 180, 
+            "gil": 237, 
+            "exp": 1612, 
+            "level": 25, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "extreme": {
+            "speed": 45, 
+            "attack": 43, 
+            "hit_rate": 110, 
+            "mblock": 0, 
+            "evade": 9, 
+            "defense": 110, 
+            "mdef": 170, 
+            "mpow": 5, 
+            "hp": 2810, 
+            "mp": 240, 
+            "gil": 260, 
+            "exp": 2061, 
+            "level": 26, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }, 
+        "insane": {
+            "speed": 53, 
+            "attack": 59, 
+            "hit_rate": 120, 
+            "mblock": 0, 
+            "evade": 11, 
+            "defense": 115, 
+            "mdef": 170, 
+            "mpow": 8, 
+            "hp": 4260, 
+            "mp": 300, 
+            "gil": 260, 
+            "exp": 2330, 
+            "level": 29, 
+            "immunity": [
+                "Petrify", 
+                "KO'd", 
+                "Condemned", 
+                "Near fatal", 
+                "Confuse", 
+                "Psyche"
+            ], 
+            "status": [
+                "Protect"
+            ], 
+            "absorb": [], 
+            "null": [
+                "Earth"
+            ], 
+            "weakness": [
+                "Lightning"
+            ], 
+            "misc": [
+                "Critical attacks if Pig", 
+                "Hard to run from"
+            ], 
+            "metamorph_rate": "50%", 
+            "special_attack_effect": "2.5x damage", 
+            "special_attack_flags": []
+        }
+    }, 
+    "loots": {
+        "steal_rare": {
+            "id": 93, 
+            "name": "[Heavy shield]Gold Shld"
+        }, 
+        "steal_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_rare": {
+            "id": 255, 
+            "name": "Nothing"
+        }, 
+        "drop_common": {
+            "id": 255, 
+            "name": "Nothing"
+        }
+    }, 
+    "spirits": {
+        "spirit_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "spirit_b": {
+            "id": 217, 
+            "name": "Corrosive Acid"
+        }
+    }, 
+    "inverses": {
+        "inverse_a": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "inverse_b": {
+            "id": 177, 
+            "name": "Blaster"
+        }
+    }, 
+    "torments": {
+        "torment_a": {
+            "id": 238, 
+            "name": "Attack"
+        }, 
+        "torment_b": {
+            "id": 239, 
+            "name": "Special"
+        }, 
+        "torment_c": {
+            "id": 169, 
+            "name": "Acid Rain"
+        }, 
+        "torment_d": {
+            "id": 217, 
+            "name": "Corrosive Acid"
+        }
+    }, 
+    "fight_animation": {
+        "id": 82, 
+        "name": "[Knife2]Thief Knife"
+    }, 
+    "metamorph": {
+        "id": 2, 
+        "metamorph_a": {
+            "id": 233, 
+            "name": "[Item2]Potion"
+        }, 
+        "metamorph_b": {
+            "id": 236, 
+            "name": "[Item2]Tincture"
+        }, 
+        "metamorph_c": {
+            "id": 237, 
+            "name": "[Item2]X-Ether"
+        }, 
+        "metamorph_d": {
+            "id": 234, 
+            "name": "[Item2]X-Potion"
+        }
+    }
+}

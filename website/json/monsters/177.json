@@ -167,11 +167,11 @@
         }, 
         "steal_common": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_common": {
             "id": 255, 
@@ -209,7 +209,7 @@
         }, 
         "torment_c": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }, 
         "torment_d": {
             "id": 255, 
@@ -218,25 +218,25 @@
     }, 
     "fight_animation": {
         "id": 52, 
-        "name": "[Rod2]Diffusal Rod"
+        "name": "Diffusal Rod"
     }, 
     "metamorph": {
         "id": 5, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 54, 
-            "name": "[Rod3]Ice Rod"
+            "name": "Ice Rod"
         }, 
         "metamorph_d": {
             "id": 55, 
-            "name": "[Rod3]Thunder Rod"
+            "name": "Thunder Rod"
         }
     }
 }

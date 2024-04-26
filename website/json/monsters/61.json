@@ -185,11 +185,11 @@
     "loots": {
         "steal_rare": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "steal_common": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -240,25 +240,25 @@
     }, 
     "fight_animation": {
         "id": 52, 
-        "name": "[Rod2]Diffusal Rod"
+        "name": "Diffusal Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

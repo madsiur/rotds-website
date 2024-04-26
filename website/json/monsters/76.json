@@ -215,15 +215,15 @@
     "loots": {
         "steal_rare": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "drop_common": {
             "id": 255, 
@@ -270,25 +270,25 @@
     }, 
     "fight_animation": {
         "id": 53, 
-        "name": "[Rod3]Fire Rod"
+        "name": "Fire Rod"
     }, 
     "metamorph": {
         "id": 29, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

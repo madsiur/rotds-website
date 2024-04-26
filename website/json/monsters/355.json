@@ -159,15 +159,15 @@
     "loots": {
         "steal_rare": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "steal_common": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "drop_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_common": {
             "id": 255, 
@@ -181,17 +181,17 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 36, 
-            "name": "[Grey magic]Reflect"
+            "name": "Reflect"
         }, 
         "inverse_b": {
             "id": 47, 
-            "name": "[White magic]Curaga"
+            "name": "Curaga"
         }
     }, 
     "torments": {
@@ -201,15 +201,15 @@
         }, 
         "torment_b": {
             "id": 36, 
-            "name": "[Grey magic]Reflect"
+            "name": "Reflect"
         }, 
         "torment_c": {
             "id": 47, 
-            "name": "[White magic]Curaga"
+            "name": "Curaga"
         }, 
         "torment_d": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }
     }, 
     "fight_animation": {
@@ -220,19 +220,19 @@
         "id": 19, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_c": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_d": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }
     }
 }

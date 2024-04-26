@@ -165,7 +165,7 @@
     "loots": {
         "steal_rare": {
             "id": 93, 
-            "name": "[Heavy shield]Gold Shld"
+            "name": "Gold Shld"
         }, 
         "steal_common": {
             "id": 255, 
@@ -220,25 +220,25 @@
     }, 
     "fight_animation": {
         "id": 82, 
-        "name": "[Knife2]Thief Knife"
+        "name": "Thief Knife"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

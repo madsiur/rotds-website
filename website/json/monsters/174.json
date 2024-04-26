@@ -239,15 +239,15 @@
         }, 
         "steal_common": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "drop_rare": {
             "id": 204, 
-            "name": "[Relic1]Crystal Ball"
+            "name": "Crystal Ball"
         }, 
         "drop_common": {
             "id": 204, 
-            "name": "[Relic1]Crystal Ball"
+            "name": "Crystal Ball"
         }
     }, 
     "spirits": {
@@ -290,25 +290,25 @@
     }, 
     "fight_animation": {
         "id": 17, 
-        "name": "[Hammer]Cael Hammer"
+        "name": "Cael Hammer"
     }, 
     "metamorph": {
         "id": 8, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

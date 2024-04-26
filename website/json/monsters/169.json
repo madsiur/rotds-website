@@ -153,7 +153,7 @@
     "loots": {
         "steal_rare": {
             "id": 125, 
-            "name": "[Medium helm]Silken Hood"
+            "name": "Silken Hood"
         }, 
         "steal_common": {
             "id": 255, 
@@ -161,7 +161,7 @@
         }, 
         "drop_rare": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "drop_common": {
             "id": 255, 
@@ -185,7 +185,7 @@
         }, 
         "inverse_b": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }
     }, 
     "torments": {
@@ -199,34 +199,34 @@
         }, 
         "torment_c": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "torment_d": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "fight_animation": {
         "id": 11, 
-        "name": "[Sword2]Shamshir"
+        "name": "Shamshir"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

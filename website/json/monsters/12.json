@@ -169,11 +169,11 @@
     "loots": {
         "steal_rare": {
             "id": 189, 
-            "name": "[Relic1]AngelPendant"
+            "name": "AngelPendant"
         }, 
         "steal_common": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -230,19 +230,19 @@
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

@@ -169,7 +169,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -177,7 +177,7 @@
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -191,7 +191,7 @@
         }, 
         "spirit_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "inverses": {
@@ -201,7 +201,7 @@
         }, 
         "inverse_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "torments": {
@@ -219,30 +219,30 @@
         }, 
         "torment_d": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }
     }, 
     "fight_animation": {
         "id": 88, 
-        "name": "[Claw]Tekken Claw"
+        "name": "Tekken Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

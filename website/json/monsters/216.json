@@ -137,7 +137,7 @@
     "loots": {
         "steal_rare": {
             "id": 187, 
-            "name": "[Relic1]Reflect Ring"
+            "name": "Reflect Ring"
         }, 
         "steal_common": {
             "id": 255, 
@@ -192,25 +192,25 @@
     }, 
     "fight_animation": {
         "id": 86, 
-        "name": "[Claw]Titan Claw"
+        "name": "Titan Claw"
     }, 
     "metamorph": {
         "id": 6, 
         "metamorph_a": {
             "id": 25, 
-            "name": "[Sword2]Cross Radius"
+            "name": "Cross Radius"
         }, 
         "metamorph_b": {
             "id": 99, 
-            "name": "[Heavy shield]Crystal Shld"
+            "name": "Crystal Shld"
         }, 
         "metamorph_c": {
             "id": 126, 
-            "name": "[Heavy helm1]Crystal Helm"
+            "name": "Crystal Helm"
         }, 
         "metamorph_d": {
             "id": 152, 
-            "name": "[Heavy armor]Crystal Mail"
+            "name": "Crystal Mail"
         }
     }
 }

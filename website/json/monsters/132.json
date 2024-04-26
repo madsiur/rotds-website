@@ -155,7 +155,7 @@
     "loots": {
         "steal_rare": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "steal_common": {
             "id": 255, 
@@ -177,7 +177,7 @@
         }, 
         "spirit_b": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }
     }, 
     "inverses": {
@@ -187,7 +187,7 @@
         }, 
         "inverse_b": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "torments": {
@@ -201,11 +201,11 @@
         }, 
         "torment_c": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "torment_d": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }
     }, 
     "fight_animation": {
@@ -216,19 +216,19 @@
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

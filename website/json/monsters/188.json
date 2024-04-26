@@ -184,7 +184,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -192,7 +192,7 @@
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -206,13 +206,13 @@
         }, 
         "spirit_b": {
             "id": 22, 
-            "name": "[Black magic]Gravity"
+            "name": "Gravity"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "inverse_b": {
             "id": 140, 
@@ -239,25 +239,25 @@
     }, 
     "fight_animation": {
         "id": 32, 
-        "name": "[Spear2]Carbon Spear"
+        "name": "Carbon Spear"
     }, 
     "metamorph": {
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

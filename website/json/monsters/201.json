@@ -157,7 +157,7 @@
         }, 
         "drop_rare": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "drop_common": {
             "id": 255, 
@@ -177,7 +177,7 @@
     "inverses": {
         "inverse_a": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "inverse_b": {
             "id": 159, 
@@ -191,7 +191,7 @@
         }, 
         "torment_b": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "torment_c": {
             "id": 159, 
@@ -210,19 +210,19 @@
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

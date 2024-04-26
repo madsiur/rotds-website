@@ -114,11 +114,11 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -136,7 +136,7 @@
         }, 
         "spirit_b": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }
     }, 
     "inverses": {
@@ -146,7 +146,7 @@
         }, 
         "inverse_b": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }
     }, 
     "torments": {
@@ -160,7 +160,7 @@
         }, 
         "torment_c": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }, 
         "torment_d": {
             "id": 169, 
@@ -169,25 +169,25 @@
     }, 
     "fight_animation": {
         "id": 84, 
-        "name": "[Glove]Brass Knucks"
+        "name": "Brass Knucks"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

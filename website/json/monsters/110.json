@@ -210,15 +210,15 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_rare": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_common": {
             "id": 255, 
@@ -232,7 +232,7 @@
         }, 
         "spirit_b": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }
     }, 
     "inverses": {
@@ -256,7 +256,7 @@
         }, 
         "torment_c": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "torment_d": {
             "id": 255, 
@@ -265,25 +265,25 @@
     }, 
     "fight_animation": {
         "id": 8, 
-        "name": "[Sword2]Demon Killer"
+        "name": "Demon Killer"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

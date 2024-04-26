@@ -172,15 +172,15 @@
     "loots": {
         "steal_rare": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "steal_common": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "drop_rare": {
             "id": 95, 
-            "name": "[Heavy shield]Diamond Shld"
+            "name": "Diamond Shld"
         }, 
         "drop_common": {
             "id": 255, 
@@ -227,25 +227,25 @@
     }, 
     "fight_animation": {
         "id": 1, 
-        "name": "[Large sword]Buster Sword"
+        "name": "Buster Sword"
     }, 
     "metamorph": {
         "id": 4, 
         "metamorph_a": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "metamorph_b": {
             "id": 116, 
-            "name": "[Heavy Helm2]Mithril Helm"
+            "name": "Mithril Helm"
         }, 
         "metamorph_c": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "metamorph_d": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }
     }
 }

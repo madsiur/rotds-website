@@ -153,7 +153,7 @@
     "loots": {
         "steal_rare": {
             "id": 138, 
-            "name": "[Light armor]Ninja Gear"
+            "name": "Ninja Gear"
         }, 
         "steal_common": {
             "id": 255, 
@@ -161,7 +161,7 @@
         }, 
         "drop_rare": {
             "id": 88, 
-            "name": "[Claw]Tekken Claw"
+            "name": "Tekken Claw"
         }, 
         "drop_common": {
             "id": 255, 
@@ -208,25 +208,25 @@
     }, 
     "fight_animation": {
         "id": 85, 
-        "name": "[Claw]Spider Fangs"
+        "name": "Spider Fangs"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

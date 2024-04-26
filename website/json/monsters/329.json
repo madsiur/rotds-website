@@ -215,15 +215,15 @@
         }, 
         "steal_common": {
             "id": 204, 
-            "name": "[Relic1]Crystal Ball"
+            "name": "Crystal Ball"
         }, 
         "drop_rare": {
             "id": 104, 
-            "name": "[Shield2]Sublime Shld"
+            "name": "Sublime Shld"
         }, 
         "drop_common": {
             "id": 104, 
-            "name": "[Shield2]Sublime Shld"
+            "name": "Sublime Shld"
         }
     }, 
     "spirits": {
@@ -233,17 +233,17 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "inverse_b": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "torments": {
@@ -272,19 +272,19 @@
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

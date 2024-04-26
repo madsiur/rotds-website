@@ -211,25 +211,25 @@
         }, 
         "steal_common": {
             "id": 129, 
-            "name": "[Heavy Helm2]Dragon Helm"
+            "name": "Dragon Helm"
         }, 
         "drop_rare": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }, 
         "drop_common": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -239,7 +239,7 @@
         }, 
         "inverse_b": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }
     }, 
     "torments": {
@@ -262,25 +262,25 @@
     }, 
     "fight_animation": {
         "id": 88, 
-        "name": "[Claw]Tekken Claw"
+        "name": "Tekken Claw"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

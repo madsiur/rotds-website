@@ -244,11 +244,11 @@
     "spirits": {
         "spirit_a": {
             "id": 24, 
-            "name": "[Black magic]Meteo"
+            "name": "Meteo"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -287,19 +287,19 @@
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

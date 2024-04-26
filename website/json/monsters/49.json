@@ -129,7 +129,7 @@
     "loots": {
         "steal_rare": {
             "id": 86, 
-            "name": "[Claw]Titan Claw"
+            "name": "Titan Claw"
         }, 
         "steal_common": {
             "id": 255, 
@@ -184,25 +184,25 @@
     }, 
     "fight_animation": {
         "id": 1, 
-        "name": "[Large sword]Buster Sword"
+        "name": "Buster Sword"
     }, 
     "metamorph": {
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

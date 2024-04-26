@@ -172,7 +172,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -180,7 +180,7 @@
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -194,17 +194,17 @@
         }, 
         "spirit_b": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "inverse_b": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "torments": {
@@ -214,11 +214,11 @@
         }, 
         "torment_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "torment_c": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }, 
         "torment_d": {
             "id": 255, 
@@ -233,19 +233,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

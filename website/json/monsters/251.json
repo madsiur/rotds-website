@@ -192,7 +192,7 @@
     "loots": {
         "steal_rare": {
             "id": 252, 
-            "name": "[Item2]Quicksilver"
+            "name": "Quicksilver"
         }, 
         "steal_common": {
             "id": 255, 
@@ -200,11 +200,11 @@
         }, 
         "drop_rare": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "drop_common": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }
     }, 
     "spirits": {
@@ -234,7 +234,7 @@
         }, 
         "torment_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_c": {
             "id": 196, 
@@ -247,25 +247,25 @@
     }, 
     "fight_animation": {
         "id": 59, 
-        "name": "[Scythe]Soul Harvest"
+        "name": "Soul Harvest"
     }, 
     "metamorph": {
         "id": 23, 
         "metamorph_a": {
             "id": 174, 
-            "name": "[Scroll]Mist Scroll"
+            "name": "Mist Scroll"
         }, 
         "metamorph_b": {
             "id": 175, 
-            "name": "[Scroll]Ninja Scroll"
+            "name": "Ninja Scroll"
         }, 
         "metamorph_c": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "metamorph_d": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }
     }
 }

@@ -165,11 +165,11 @@
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "drop_common": {
             "id": 255, 
@@ -183,7 +183,7 @@
         }, 
         "spirit_b": {
             "id": 32, 
-            "name": "[Grey magic]Stop"
+            "name": "Stop"
         }
     }, 
     "inverses": {
@@ -207,7 +207,7 @@
         }, 
         "torment_c": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }, 
         "torment_d": {
             "id": 179, 
@@ -216,25 +216,25 @@
     }, 
     "fight_animation": {
         "id": 41, 
-        "name": "[Knife1]Shinobi"
+        "name": "Shinobi"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

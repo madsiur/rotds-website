@@ -196,15 +196,15 @@
     "loots": {
         "steal_rare": {
             "id": 227, 
-            "name": "[Relic1]Ninja Sight"
+            "name": "Ninja Sight"
         }, 
         "steal_common": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }, 
         "drop_rare": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "drop_common": {
             "id": 255, 
@@ -251,25 +251,25 @@
     }, 
     "fight_animation": {
         "id": 40, 
-        "name": "[Knife1]Throatslicer"
+        "name": "Throatslicer"
     }, 
     "metamorph": {
         "id": 25, 
         "metamorph_a": {
             "id": 80, 
-            "name": "[Axe]Stone Axe"
+            "name": "Stone Axe"
         }, 
         "metamorph_b": {
             "id": 82, 
-            "name": "[Knife2]Thief Knife"
+            "name": "Thief Knife"
         }, 
         "metamorph_c": {
             "id": 5, 
-            "name": "[Knife1]Eviscerator"
+            "name": "Eviscerator"
         }, 
         "metamorph_d": {
             "id": 78, 
-            "name": "[Ninja]Throw Knives"
+            "name": "Throw Knives"
         }
     }
 }

@@ -129,15 +129,15 @@
     "loots": {
         "steal_rare": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }, 
         "drop_common": {
             "id": 255, 
@@ -184,25 +184,25 @@
     }, 
     "fight_animation": {
         "id": 86, 
-        "name": "[Claw]Titan Claw"
+        "name": "Titan Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

@@ -239,21 +239,21 @@
         }, 
         "drop_rare": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "drop_common": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -292,19 +292,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

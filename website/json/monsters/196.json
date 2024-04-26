@@ -174,7 +174,7 @@
         }, 
         "drop_rare": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "drop_common": {
             "id": 255, 
@@ -188,17 +188,17 @@
         }, 
         "spirit_b": {
             "id": 17, 
-            "name": "[Black magic]Flood"
+            "name": "Flood"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 26, 
-            "name": "[Grey magic]Expel"
+            "name": "Expel"
         }, 
         "inverse_b": {
             "id": 16, 
-            "name": "[Black magic]Splash"
+            "name": "Splash"
         }
     }, 
     "torments": {
@@ -208,38 +208,38 @@
         }, 
         "torment_b": {
             "id": 26, 
-            "name": "[Grey magic]Expel"
+            "name": "Expel"
         }, 
         "torment_c": {
             "id": 16, 
-            "name": "[Black magic]Splash"
+            "name": "Splash"
         }, 
         "torment_d": {
             "id": 32, 
-            "name": "[Grey magic]Stop"
+            "name": "Stop"
         }
     }, 
     "fight_animation": {
         "id": 59, 
-        "name": "[Scythe]Soul Harvest"
+        "name": "Soul Harvest"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

@@ -248,7 +248,7 @@
     "loots": {
         "steal_rare": {
             "id": 222, 
-            "name": "[Mage helm]Chrono Helm"
+            "name": "Chrono Helm"
         }, 
         "steal_common": {
             "id": 255, 
@@ -280,7 +280,7 @@
         }, 
         "inverse_b": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "torments": {
@@ -303,25 +303,25 @@
     }, 
     "fight_animation": {
         "id": 21, 
-        "name": "[Sword2]Dual Breaker"
+        "name": "Dual Breaker"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

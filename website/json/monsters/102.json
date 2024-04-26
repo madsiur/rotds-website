@@ -141,15 +141,15 @@
     "loots": {
         "steal_rare": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }, 
         "steal_common": {
             "id": 16, 
-            "name": "[Sword2]Cutlass"
+            "name": "Cutlass"
         }, 
         "drop_rare": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "drop_common": {
             "id": 255, 
@@ -163,7 +163,7 @@
         }, 
         "spirit_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "inverses": {
@@ -173,7 +173,7 @@
         }, 
         "inverse_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "torments": {
@@ -187,11 +187,11 @@
         }, 
         "torment_c": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }, 
         "torment_d": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }
     }, 
     "fight_animation": {
@@ -202,19 +202,19 @@
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

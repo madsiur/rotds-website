@@ -155,7 +155,7 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 255, 
@@ -205,7 +205,7 @@
         }, 
         "torment_d": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "fight_animation": {
@@ -216,19 +216,19 @@
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

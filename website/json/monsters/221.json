@@ -185,11 +185,11 @@
     "loots": {
         "steal_rare": {
             "id": 3, 
-            "name": "[Large sword]Hawk Cleaver"
+            "name": "Hawk Cleaver"
         }, 
         "steal_common": {
             "id": 2, 
-            "name": "[Large sword]Rune Blade"
+            "name": "Rune Blade"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -207,7 +207,7 @@
         }, 
         "spirit_b": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }
     }, 
     "inverses": {
@@ -227,38 +227,38 @@
         }, 
         "torment_b": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "torment_c": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "torment_d": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }
     }, 
     "fight_animation": {
         "id": 23, 
-        "name": "[Sword2]Dragonslayer"
+        "name": "Dragonslayer"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

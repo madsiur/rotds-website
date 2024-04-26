@@ -163,7 +163,7 @@
     "loots": {
         "steal_rare": {
             "id": 157, 
-            "name": "[Light armor]Ghost Suit"
+            "name": "Ghost Suit"
         }, 
         "steal_common": {
             "id": 255, 
@@ -185,17 +185,17 @@
         }, 
         "spirit_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "inverse_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "torments": {
@@ -205,38 +205,38 @@
         }, 
         "torment_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_c": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }, 
         "torment_d": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "fight_animation": {
         "id": 20, 
-        "name": "[Cryogen]Cryogen"
+        "name": "Cryogen"
     }, 
     "metamorph": {
         "id": 19, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_c": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_d": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }
     }
 }

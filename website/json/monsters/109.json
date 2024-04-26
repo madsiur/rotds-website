@@ -167,11 +167,11 @@
     "loots": {
         "steal_rare": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }, 
         "steal_common": {
             "id": 2, 
-            "name": "[Large sword]Rune Blade"
+            "name": "Rune Blade"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -189,17 +189,17 @@
         }, 
         "spirit_b": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "inverse_b": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }
     }, 
     "torments": {
@@ -209,38 +209,38 @@
         }, 
         "torment_b": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "torment_c": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }, 
         "torment_d": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "fight_animation": {
         "id": 15, 
-        "name": "[Sword2]Icebrand"
+        "name": "Icebrand"
     }, 
     "metamorph": {
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

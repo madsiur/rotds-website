@@ -229,7 +229,7 @@
     "loots": {
         "steal_rare": {
             "id": 253, 
-            "name": "[Item2]Necronomicon"
+            "name": "Necronomicon"
         }, 
         "steal_common": {
             "id": 255, 
@@ -237,21 +237,21 @@
         }, 
         "drop_rare": {
             "id": 226, 
-            "name": "[Relic1]Soul Booster"
+            "name": "Soul Booster"
         }, 
         "drop_common": {
             "id": 226, 
-            "name": "[Relic1]Soul Booster"
+            "name": "Soul Booster"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -284,25 +284,25 @@
     }, 
     "fight_animation": {
         "id": 35, 
-        "name": "[Spear3]Gungnir"
+        "name": "Gungnir"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

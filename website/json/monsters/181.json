@@ -195,7 +195,7 @@
     "loots": {
         "steal_rare": {
             "id": 108, 
-            "name": "[Heavy shield]Rubber Shld"
+            "name": "Rubber Shld"
         }, 
         "steal_common": {
             "id": 255, 
@@ -203,7 +203,7 @@
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -256,19 +256,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

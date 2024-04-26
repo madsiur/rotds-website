@@ -162,11 +162,11 @@
         }, 
         "steal_common": {
             "id": 62, 
-            "name": "[Glove]Hyper-Fist"
+            "name": "Hyper-Fist"
         }, 
         "drop_rare": {
             "id": 17, 
-            "name": "[Hammer]Cael Hammer"
+            "name": "Cael Hammer"
         }, 
         "drop_common": {
             "id": 255, 
@@ -213,25 +213,25 @@
     }, 
     "fight_animation": {
         "id": 8, 
-        "name": "[Sword2]Demon Killer"
+        "name": "Demon Killer"
     }, 
     "metamorph": {
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

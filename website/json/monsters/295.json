@@ -219,25 +219,25 @@
         }, 
         "steal_common": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }, 
         "drop_rare": {
             "id": 77, 
-            "name": "[Katana]Zanmato"
+            "name": "Zanmato"
         }, 
         "drop_common": {
             "id": 77, 
-            "name": "[Katana]Zanmato"
+            "name": "Zanmato"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 53, 
-            "name": "[White magic]Reraise"
+            "name": "Reraise"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -247,7 +247,7 @@
         }, 
         "inverse_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "torments": {
@@ -270,25 +270,25 @@
     }, 
     "fight_animation": {
         "id": 77, 
-        "name": "[Katana]Zanmato"
+        "name": "Zanmato"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

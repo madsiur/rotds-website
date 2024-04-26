@@ -190,7 +190,7 @@
     "loots": {
         "steal_rare": {
             "id": 20, 
-            "name": "[Cryogen]Cryogen"
+            "name": "Cryogen"
         }, 
         "steal_common": {
             "id": 255, 
@@ -245,25 +245,25 @@
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

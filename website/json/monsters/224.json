@@ -151,7 +151,7 @@
     "loots": {
         "steal_rare": {
             "id": 89, 
-            "name": "[Claw]Tiger Claw"
+            "name": "Tiger Claw"
         }, 
         "steal_common": {
             "id": 255, 
@@ -173,7 +173,7 @@
         }, 
         "spirit_b": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }
     }, 
     "inverses": {
@@ -183,7 +183,7 @@
         }, 
         "inverse_b": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }
     }, 
     "torments": {
@@ -197,11 +197,11 @@
         }, 
         "torment_c": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }, 
         "torment_d": {
             "id": 24, 
-            "name": "[Black magic]Meteo"
+            "name": "Meteo"
         }
     }, 
     "fight_animation": {
@@ -212,19 +212,19 @@
         "id": 14, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }
 }

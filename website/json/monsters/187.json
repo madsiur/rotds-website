@@ -203,15 +203,15 @@
         }, 
         "steal_common": {
             "id": 169, 
-            "name": "[Aether]Nightsever"
+            "name": "Nightsever"
         }, 
         "drop_rare": {
             "id": 9, 
-            "name": "[Large sword]Apocalypse"
+            "name": "Apocalypse"
         }, 
         "drop_common": {
             "id": 9, 
-            "name": "[Large sword]Apocalypse"
+            "name": "Apocalypse"
         }
     }, 
     "spirits": {
@@ -227,7 +227,7 @@
     "inverses": {
         "inverse_a": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }, 
         "inverse_b": {
             "id": 233, 
@@ -254,25 +254,25 @@
     }, 
     "fight_animation": {
         "id": 72, 
-        "name": "[Hammer]Mjollnir"
+        "name": "Mjollnir"
     }, 
     "metamorph": {
         "id": 24, 
         "metamorph_a": {
             "id": 151, 
-            "name": "[Cloak]Druid Cloak"
+            "name": "Druid Cloak"
         }, 
         "metamorph_b": {
             "id": 57, 
-            "name": "[Rod2]Lunar Rod"
+            "name": "Lunar Rod"
         }, 
         "metamorph_c": {
             "id": 183, 
-            "name": "[Relic1]Mystic Ring"
+            "name": "Mystic Ring"
         }, 
         "metamorph_d": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }
     }
 }

@@ -195,15 +195,15 @@
     "loots": {
         "steal_rare": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "steal_common": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "drop_rare": {
             "id": 250, 
-            "name": "[Item2]Atomic Ball"
+            "name": "Atomic Ball"
         }, 
         "drop_common": {
             "id": 255, 
@@ -217,7 +217,7 @@
         }, 
         "spirit_b": {
             "id": 23, 
-            "name": "[Black magic]Meltdown"
+            "name": "Meltdown"
         }
     }, 
     "inverses": {
@@ -256,19 +256,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

@@ -225,15 +225,15 @@
         }, 
         "steal_common": {
             "id": 239, 
-            "name": "[Item2]Omni Elixir"
+            "name": "Omni Elixir"
         }, 
         "drop_rare": {
             "id": 33, 
-            "name": "[Spear3]Holy Lance"
+            "name": "Holy Lance"
         }, 
         "drop_common": {
             "id": 33, 
-            "name": "[Spear3]Holy Lance"
+            "name": "Holy Lance"
         }
     }, 
     "spirits": {
@@ -243,17 +243,17 @@
         }, 
         "spirit_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "inverse_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "torments": {
@@ -263,7 +263,7 @@
         }, 
         "torment_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_c": {
             "id": 239, 
@@ -271,30 +271,30 @@
         }, 
         "torment_d": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "fight_animation": {
         "id": 33, 
-        "name": "[Spear3]Holy Lance"
+        "name": "Holy Lance"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

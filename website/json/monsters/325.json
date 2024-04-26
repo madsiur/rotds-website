@@ -228,7 +228,7 @@
         }, 
         "steal_common": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -246,7 +246,7 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -279,25 +279,25 @@
     }, 
     "fight_animation": {
         "id": 72, 
-        "name": "[Hammer]Mjollnir"
+        "name": "Mjollnir"
     }, 
     "metamorph": {
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

@@ -236,7 +236,7 @@
     "loots": {
         "steal_rare": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "steal_common": {
             "id": 255, 
@@ -244,21 +244,21 @@
         }, 
         "drop_rare": {
             "id": 189, 
-            "name": "[Relic1]AngelPendant"
+            "name": "AngelPendant"
         }, 
         "drop_common": {
             "id": 189, 
-            "name": "[Relic1]AngelPendant"
+            "name": "AngelPendant"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -297,19 +297,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

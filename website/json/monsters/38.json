@@ -193,7 +193,7 @@
     "loots": {
         "steal_rare": {
             "id": 202, 
-            "name": "[Relic1]Griffin Eye"
+            "name": "Griffin Eye"
         }, 
         "steal_common": {
             "id": 255, 
@@ -201,7 +201,7 @@
         }, 
         "drop_rare": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "drop_common": {
             "id": 255, 
@@ -239,7 +239,7 @@
         }, 
         "torment_c": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }, 
         "torment_d": {
             "id": 214, 
@@ -248,25 +248,25 @@
     }, 
     "fight_animation": {
         "id": 36, 
-        "name": "[Spear1]Mithril Pike"
+        "name": "Mithril Pike"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

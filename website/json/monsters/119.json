@@ -142,7 +142,7 @@
     "loots": {
         "steal_rare": {
             "id": 157, 
-            "name": "[Light armor]Ghost Suit"
+            "name": "Ghost Suit"
         }, 
         "steal_common": {
             "id": 255, 
@@ -197,25 +197,25 @@
     }, 
     "fight_animation": {
         "id": 31, 
-        "name": "[Spear2]Gold Trident"
+        "name": "Gold Trident"
     }, 
     "metamorph": {
         "id": 10, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 194, 
-            "name": "[Relic1]Thief Gloves"
+            "name": "Thief Gloves"
         }
     }
 }

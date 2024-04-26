@@ -239,15 +239,15 @@
         }, 
         "steal_common": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "drop_rare": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }, 
         "drop_common": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }
     }, 
     "spirits": {
@@ -257,7 +257,7 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -290,25 +290,25 @@
     }, 
     "fight_animation": {
         "id": 59, 
-        "name": "[Scythe]Soul Harvest"
+        "name": "Soul Harvest"
     }, 
     "metamorph": {
         "id": 26, 
         "metamorph_a": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }, 
         "metamorph_b": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }, 
         "metamorph_c": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }, 
         "metamorph_d": {
             "id": 215, 
-            "name": "[Relic1]Aeon Crystal"
+            "name": "Aeon Crystal"
         }
     }
 }

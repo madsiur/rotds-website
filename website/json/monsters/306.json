@@ -173,7 +173,7 @@
     "loots": {
         "steal_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "steal_common": {
             "id": 255, 
@@ -181,7 +181,7 @@
         }, 
         "drop_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_common": {
             "id": 255, 
@@ -191,21 +191,21 @@
     "spirits": {
         "spirit_a": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 2, 
-            "name": "[Black magic]Spark"
+            "name": "Spark"
         }, 
         "inverse_b": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }
     }, 
     "torments": {
@@ -215,38 +215,38 @@
         }, 
         "torment_b": {
             "id": 2, 
-            "name": "[Black magic]Spark"
+            "name": "Spark"
         }, 
         "torment_c": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "torment_d": {
             "id": 31, 
-            "name": "[Grey magic]Haste"
+            "name": "Haste"
         }
     }, 
     "fight_animation": {
         "id": 55, 
-        "name": "[Rod3]Thunder Rod"
+        "name": "Thunder Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

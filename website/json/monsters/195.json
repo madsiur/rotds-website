@@ -142,15 +142,15 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_common": {
             "id": 255, 
@@ -164,17 +164,17 @@
         }, 
         "spirit_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 45, 
-            "name": "[White magic]Cure"
+            "name": "Cure"
         }, 
         "inverse_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "torments": {
@@ -184,15 +184,15 @@
         }, 
         "torment_b": {
             "id": 45, 
-            "name": "[White magic]Cure"
+            "name": "Cure"
         }, 
         "torment_c": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }, 
         "torment_d": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }
     }, 
     "fight_animation": {
@@ -203,19 +203,19 @@
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

@@ -154,7 +154,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -209,25 +209,25 @@
     }, 
     "fight_animation": {
         "id": 63, 
-        "name": "[Glove]Shatterhand"
+        "name": "Shatterhand"
     }, 
     "metamorph": {
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

@@ -211,7 +211,7 @@
         }, 
         "inverse_b": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "torments": {
@@ -225,34 +225,34 @@
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }
     }, 
     "fight_animation": {
         "id": 87, 
-        "name": "[Claw]Blazing Claw"
+        "name": "Blazing Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

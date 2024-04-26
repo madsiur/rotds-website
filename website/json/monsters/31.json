@@ -227,7 +227,7 @@
     "loots": {
         "steal_rare": {
             "id": 118, 
-            "name": "[Heavy helm1]Gold Helm"
+            "name": "Gold Helm"
         }, 
         "steal_common": {
             "id": 255, 
@@ -235,7 +235,7 @@
         }, 
         "drop_rare": {
             "id": 143, 
-            "name": "[Heavy armor]Mithril Mail"
+            "name": "Mithril Mail"
         }, 
         "drop_common": {
             "id": 255, 
@@ -282,25 +282,25 @@
     }, 
     "fight_animation": {
         "id": 14, 
-        "name": "[Mace]Taser Mace"
+        "name": "Taser Mace"
     }, 
     "metamorph": {
         "id": 20, 
         "metamorph_a": {
             "id": 73, 
-            "name": "[Anchor]Iron Anchor"
+            "name": "Iron Anchor"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "metamorph_d": {
             "id": 96, 
-            "name": "[Heavy shield]Red Essence"
+            "name": "Red Essence"
         }
     }
 }

@@ -213,25 +213,25 @@
     }, 
     "fight_animation": {
         "id": 84, 
-        "name": "[Glove]Brass Knucks"
+        "name": "Brass Knucks"
     }, 
     "metamorph": {
         "id": 4, 
         "metamorph_a": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "metamorph_b": {
             "id": 116, 
-            "name": "[Heavy Helm2]Mithril Helm"
+            "name": "Mithril Helm"
         }, 
         "metamorph_c": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "metamorph_d": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }
     }
 }

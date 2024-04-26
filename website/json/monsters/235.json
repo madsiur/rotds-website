@@ -157,15 +157,15 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "drop_rare": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "drop_common": {
             "id": 255, 
@@ -189,7 +189,7 @@
         }, 
         "inverse_b": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }
     }, 
     "torments": {
@@ -203,7 +203,7 @@
         }, 
         "torment_c": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }, 
         "torment_d": {
             "id": 179, 
@@ -212,25 +212,25 @@
     }, 
     "fight_animation": {
         "id": 53, 
-        "name": "[Rod3]Fire Rod"
+        "name": "Fire Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

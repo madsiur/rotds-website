@@ -238,15 +238,15 @@
         }, 
         "steal_common": {
             "id": 201, 
-            "name": "[Relic1]Cosmos Ring"
+            "name": "Cosmos Ring"
         }, 
         "drop_rare": {
             "id": 22, 
-            "name": "[Sword2]Wraith Blade"
+            "name": "Wraith Blade"
         }, 
         "drop_common": {
             "id": 22, 
-            "name": "[Sword2]Wraith Blade"
+            "name": "Wraith Blade"
         }
     }, 
     "spirits": {
@@ -289,25 +289,25 @@
     }, 
     "fight_animation": {
         "id": 17, 
-        "name": "[Hammer]Cael Hammer"
+        "name": "Cael Hammer"
     }, 
     "metamorph": {
         "id": 13, 
         "metamorph_a": {
             "id": 59, 
-            "name": "[Scythe]Soul Harvest"
+            "name": "Soul Harvest"
         }, 
         "metamorph_b": {
             "id": 112, 
-            "name": "[Heavy Helm2]Undead Crown"
+            "name": "Undead Crown"
         }, 
         "metamorph_c": {
             "id": 221, 
-            "name": "[Relic1]Lich Ring"
+            "name": "Lich Ring"
         }, 
         "metamorph_d": {
             "id": 253, 
-            "name": "[Item2]Necronomicon"
+            "name": "Necronomicon"
         }
     }
 }

@@ -201,7 +201,7 @@
         }, 
         "drop_rare": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "drop_common": {
             "id": 255, 
@@ -243,30 +243,30 @@
         }, 
         "torment_d": {
             "id": 1, 
-            "name": "[Black magic]Icicle"
+            "name": "Icicle"
         }
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

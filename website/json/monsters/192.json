@@ -200,7 +200,7 @@
         }, 
         "drop_rare": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "drop_common": {
             "id": 255, 
@@ -214,17 +214,17 @@
         }, 
         "spirit_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }, 
         "inverse_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }
     }, 
     "torments": {
@@ -234,38 +234,38 @@
         }, 
         "torment_b": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }, 
         "torment_c": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "torment_d": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }
     }, 
     "fight_animation": {
         "id": 25, 
-        "name": "[Sword2]Cross Radius"
+        "name": "Cross Radius"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

@@ -165,7 +165,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -173,7 +173,7 @@
         }, 
         "drop_rare": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "drop_common": {
             "id": 255, 
@@ -220,25 +220,25 @@
     }, 
     "fight_animation": {
         "id": 5, 
-        "name": "[Knife1]Eviscerator"
+        "name": "Eviscerator"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

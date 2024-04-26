@@ -185,7 +185,7 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 255, 
@@ -193,7 +193,7 @@
         }, 
         "drop_rare": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "drop_common": {
             "id": 255, 
@@ -235,7 +235,7 @@
         }, 
         "torment_d": {
             "id": 20, 
-            "name": "[Black magic]Ultima"
+            "name": "Ultima"
         }
     }, 
     "fight_animation": {
@@ -246,19 +246,19 @@
         "id": 24, 
         "metamorph_a": {
             "id": 151, 
-            "name": "[Cloak]Druid Cloak"
+            "name": "Druid Cloak"
         }, 
         "metamorph_b": {
             "id": 57, 
-            "name": "[Rod2]Lunar Rod"
+            "name": "Lunar Rod"
         }, 
         "metamorph_c": {
             "id": 183, 
-            "name": "[Relic1]Mystic Ring"
+            "name": "Mystic Ring"
         }, 
         "metamorph_d": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }
     }
 }

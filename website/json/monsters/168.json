@@ -124,15 +124,15 @@
     "loots": {
         "steal_rare": {
             "id": 90, 
-            "name": "[Shield1]Buckler"
+            "name": "Buckler"
         }, 
         "steal_common": {
             "id": 105, 
-            "name": "[Mage helm]Leather Cap"
+            "name": "Leather Cap"
         }, 
         "drop_rare": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_common": {
             "id": 255, 
@@ -146,7 +146,7 @@
         }, 
         "spirit_b": {
             "id": 37, 
-            "name": "[Grey magic]Shell"
+            "name": "Shell"
         }
     }, 
     "inverses": {
@@ -179,25 +179,25 @@
     }, 
     "fight_animation": {
         "id": 84, 
-        "name": "[Glove]Brass Knucks"
+        "name": "Brass Knucks"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

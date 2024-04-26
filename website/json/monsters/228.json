@@ -219,7 +219,7 @@
     "loots": {
         "steal_rare": {
             "id": 7, 
-            "name": "[Knife2]Angrist"
+            "name": "Angrist"
         }, 
         "steal_common": {
             "id": 255, 
@@ -227,7 +227,7 @@
         }, 
         "drop_rare": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "drop_common": {
             "id": 255, 
@@ -274,25 +274,25 @@
     }, 
     "fight_animation": {
         "id": 60, 
-        "name": "[Rod1]Magus Rod"
+        "name": "Magus Rod"
     }, 
     "metamorph": {
         "id": 30, 
         "metamorph_a": {
             "id": 6, 
-            "name": "[Knife2]War Machete"
+            "name": "War Machete"
         }, 
         "metamorph_b": {
             "id": 7, 
-            "name": "[Knife2]Angrist"
+            "name": "Angrist"
         }, 
         "metamorph_c": {
             "id": 8, 
-            "name": "[Sword2]Demon Killer"
+            "name": "Demon Killer"
         }, 
         "metamorph_d": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }
     }
 }

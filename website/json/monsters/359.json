@@ -203,11 +203,11 @@
     "loots": {
         "steal_rare": {
             "id": 229, 
-            "name": "[Relic1]Ghoul Medal"
+            "name": "Ghoul Medal"
         }, 
         "steal_common": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -225,7 +225,7 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -258,25 +258,25 @@
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 13, 
         "metamorph_a": {
             "id": 59, 
-            "name": "[Scythe]Soul Harvest"
+            "name": "Soul Harvest"
         }, 
         "metamorph_b": {
             "id": 112, 
-            "name": "[Heavy Helm2]Undead Crown"
+            "name": "Undead Crown"
         }, 
         "metamorph_c": {
             "id": 221, 
-            "name": "[Relic1]Lich Ring"
+            "name": "Lich Ring"
         }, 
         "metamorph_d": {
             "id": 253, 
-            "name": "[Item2]Necronomicon"
+            "name": "Necronomicon"
         }
     }
 }

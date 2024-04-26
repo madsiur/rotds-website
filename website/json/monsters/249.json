@@ -217,7 +217,7 @@
         }, 
         "inverse_b": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "torments": {
@@ -227,7 +227,7 @@
         }, 
         "torment_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_c": {
             "id": 198, 
@@ -246,19 +246,19 @@
         "id": 23, 
         "metamorph_a": {
             "id": 174, 
-            "name": "[Scroll]Mist Scroll"
+            "name": "Mist Scroll"
         }, 
         "metamorph_b": {
             "id": 175, 
-            "name": "[Scroll]Ninja Scroll"
+            "name": "Ninja Scroll"
         }, 
         "metamorph_c": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "metamorph_d": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }
     }
 }

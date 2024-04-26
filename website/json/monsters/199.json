@@ -146,11 +146,11 @@
     "loots": {
         "steal_rare": {
             "id": 137, 
-            "name": "[Heavy armor]Chain Mail"
+            "name": "Chain Mail"
         }, 
         "steal_common": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -168,7 +168,7 @@
         }, 
         "spirit_b": {
             "id": 36, 
-            "name": "[Grey magic]Reflect"
+            "name": "Reflect"
         }
     }, 
     "inverses": {
@@ -192,34 +192,34 @@
         }, 
         "torment_c": {
             "id": 28, 
-            "name": "[Grey magic]Protect"
+            "name": "Protect"
         }, 
         "torment_d": {
             "id": 37, 
-            "name": "[Grey magic]Shell"
+            "name": "Shell"
         }
     }, 
     "fight_animation": {
         "id": 12, 
-        "name": "[Sword2]Mystic Sword"
+        "name": "Mystic Sword"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

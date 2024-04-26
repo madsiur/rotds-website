@@ -194,7 +194,7 @@
         }, 
         "drop_rare": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "drop_common": {
             "id": 255, 
@@ -241,25 +241,25 @@
     }, 
     "fight_animation": {
         "id": 83, 
-        "name": "[Gun]Blunderbuss"
+        "name": "Blunderbuss"
     }, 
     "metamorph": {
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

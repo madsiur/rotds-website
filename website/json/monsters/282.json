@@ -148,19 +148,19 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 174, 
-            "name": "[Scroll]Mist Scroll"
+            "name": "Mist Scroll"
         }, 
         "drop_common": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }
     }, 
     "spirits": {
@@ -170,7 +170,7 @@
         }, 
         "spirit_b": {
             "id": 1, 
-            "name": "[Black magic]Icicle"
+            "name": "Icicle"
         }
     }, 
     "inverses": {
@@ -203,25 +203,25 @@
     }, 
     "fight_animation": {
         "id": 44, 
-        "name": "[Katana]Yasha"
+        "name": "Yasha"
     }, 
     "metamorph": {
         "id": 27, 
         "metamorph_a": {
             "id": 78, 
-            "name": "[Ninja]Throw Knives"
+            "name": "Throw Knives"
         }, 
         "metamorph_b": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }, 
         "metamorph_c": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "metamorph_d": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }
     }
 }

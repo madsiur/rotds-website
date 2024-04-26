@@ -154,11 +154,11 @@
     "loots": {
         "steal_rare": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "steal_common": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -215,19 +215,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

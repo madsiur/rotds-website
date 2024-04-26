@@ -157,7 +157,7 @@
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -185,7 +185,7 @@
         }, 
         "inverse_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }
     }, 
     "torments": {
@@ -208,25 +208,25 @@
     }, 
     "fight_animation": {
         "id": 88, 
-        "name": "[Claw]Tekken Claw"
+        "name": "Tekken Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

@@ -162,7 +162,7 @@
     "loots": {
         "steal_rare": {
             "id": 32, 
-            "name": "[Spear2]Carbon Spear"
+            "name": "Carbon Spear"
         }, 
         "steal_common": {
             "id": 255, 
@@ -170,7 +170,7 @@
         }, 
         "drop_rare": {
             "id": 31, 
-            "name": "[Spear2]Gold Trident"
+            "name": "Gold Trident"
         }, 
         "drop_common": {
             "id": 255, 
@@ -217,25 +217,25 @@
     }, 
     "fight_animation": {
         "id": 7, 
-        "name": "[Knife2]Angrist"
+        "name": "Angrist"
     }, 
     "metamorph": {
         "id": 21, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "metamorph_c": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_d": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }
     }
 }

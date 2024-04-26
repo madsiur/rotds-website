@@ -168,7 +168,7 @@
         }, 
         "steal_common": {
             "id": 110, 
-            "name": "[Medium helm]Ashen Cowl"
+            "name": "Ashen Cowl"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -186,17 +186,17 @@
         }, 
         "spirit_b": {
             "id": 41, 
-            "name": "[Grey magic]Osmose"
+            "name": "Osmose"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "inverse_b": {
             "id": 41, 
-            "name": "[Grey magic]Osmose"
+            "name": "Osmose"
         }
     }, 
     "torments": {
@@ -206,38 +206,38 @@
         }, 
         "torment_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "torment_c": {
             "id": 41, 
-            "name": "[Grey magic]Osmose"
+            "name": "Osmose"
         }, 
         "torment_d": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }
     }, 
     "fight_animation": {
         "id": 40, 
-        "name": "[Knife1]Throatslicer"
+        "name": "Throatslicer"
     }, 
     "metamorph": {
         "id": 9, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

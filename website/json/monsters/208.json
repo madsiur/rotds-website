@@ -165,11 +165,11 @@
         }, 
         "steal_common": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "drop_rare": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "drop_common": {
             "id": 255, 
@@ -216,25 +216,25 @@
     }, 
     "fight_animation": {
         "id": 42, 
-        "name": "[Knife1]Akuma"
+        "name": "Akuma"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

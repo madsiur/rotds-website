@@ -255,34 +255,34 @@
         }, 
         "torment_c": {
             "id": 28, 
-            "name": "[Grey magic]Protect"
+            "name": "Protect"
         }, 
         "torment_d": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }
     }, 
     "fight_animation": {
         "id": 69, 
-        "name": "[Boomerang]Boomerang"
+        "name": "Boomerang"
     }, 
     "metamorph": {
         "id": 5, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 54, 
-            "name": "[Rod3]Ice Rod"
+            "name": "Ice Rod"
         }, 
         "metamorph_d": {
             "id": 55, 
-            "name": "[Rod3]Thunder Rod"
+            "name": "Thunder Rod"
         }
     }
 }

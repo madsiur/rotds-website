@@ -167,21 +167,21 @@
         }, 
         "drop_rare": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "drop_common": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -214,25 +214,25 @@
     }, 
     "fight_animation": {
         "id": 25, 
-        "name": "[Sword2]Cross Radius"
+        "name": "Cross Radius"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

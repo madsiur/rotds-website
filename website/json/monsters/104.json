@@ -150,11 +150,11 @@
     "loots": {
         "steal_rare": {
             "id": 47, 
-            "name": "[Katana]Bizen Boat"
+            "name": "Bizen Boat"
         }, 
         "steal_common": {
             "id": 43, 
-            "name": "[Katana]Sange"
+            "name": "Sange"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -162,7 +162,7 @@
         }, 
         "drop_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }, 
     "spirits": {
@@ -172,17 +172,17 @@
         }, 
         "spirit_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "inverse_b": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }
     }, 
     "torments": {
@@ -192,11 +192,11 @@
         }, 
         "torment_b": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }, 
         "torment_c": {
             "id": 9, 
-            "name": "[Black magic]Inferno"
+            "name": "Inferno"
         }, 
         "torment_d": {
             "id": 236, 
@@ -205,25 +205,25 @@
     }, 
     "fight_animation": {
         "id": 56, 
-        "name": "[Rod1]Serpent Rod"
+        "name": "Serpent Rod"
     }, 
     "metamorph": {
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

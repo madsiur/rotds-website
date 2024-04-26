@@ -173,7 +173,7 @@
         }, 
         "drop_rare": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "drop_common": {
             "id": 255, 
@@ -197,7 +197,7 @@
         }, 
         "inverse_b": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }
     }, 
     "torments": {
@@ -226,19 +226,19 @@
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

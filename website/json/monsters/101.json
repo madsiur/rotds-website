@@ -131,15 +131,15 @@
     "loots": {
         "steal_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "drop_common": {
             "id": 255, 
@@ -163,7 +163,7 @@
         }, 
         "inverse_b": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }
     }, 
     "torments": {
@@ -177,34 +177,34 @@
         }, 
         "torment_c": {
             "id": 1, 
-            "name": "[Black magic]Icicle"
+            "name": "Icicle"
         }, 
         "torment_d": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }
     }, 
     "fight_animation": {
         "id": 10, 
-        "name": "[Sword2]Iron Sword"
+        "name": "Iron Sword"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

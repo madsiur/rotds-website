@@ -177,7 +177,7 @@
     "loots": {
         "steal_rare": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "steal_common": {
             "id": 255, 
@@ -185,7 +185,7 @@
         }, 
         "drop_rare": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_common": {
             "id": 255, 
@@ -205,7 +205,7 @@
     "inverses": {
         "inverse_a": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "inverse_b": {
             "id": 238, 
@@ -219,7 +219,7 @@
         }, 
         "torment_b": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "torment_c": {
             "id": 255, 
@@ -238,19 +238,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

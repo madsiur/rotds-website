@@ -188,11 +188,11 @@
     "loots": {
         "steal_rare": {
             "id": 6, 
-            "name": "[Knife2]War Machete"
+            "name": "War Machete"
         }, 
         "steal_common": {
             "id": 7, 
-            "name": "[Knife2]Angrist"
+            "name": "Angrist"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -220,7 +220,7 @@
         }, 
         "inverse_b": {
             "id": 40, 
-            "name": "[Grey magic]Slowga"
+            "name": "Slowga"
         }
     }, 
     "torments": {
@@ -234,34 +234,34 @@
         }, 
         "torment_c": {
             "id": 40, 
-            "name": "[Grey magic]Slowga"
+            "name": "Slowga"
         }, 
         "torment_d": {
             "id": 39, 
-            "name": "[Grey magic]Hastega"
+            "name": "Hastega"
         }
     }, 
     "fight_animation": {
         "id": 76, 
-        "name": "[Boomerang]Conformer"
+        "name": "Conformer"
     }, 
     "metamorph": {
         "id": 9, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

@@ -209,15 +209,15 @@
     "loots": {
         "steal_rare": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "steal_common": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -264,25 +264,25 @@
     }, 
     "fight_animation": {
         "id": 37, 
-        "name": "[Spear3]Wyvern Lance"
+        "name": "Wyvern Lance"
     }, 
     "metamorph": {
         "id": 18, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 228, 
-            "name": "[Relic1]Birdo Egg"
+            "name": "Birdo Egg"
         }
     }
 }

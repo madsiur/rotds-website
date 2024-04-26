@@ -145,11 +145,11 @@
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "drop_common": {
             "id": 255, 
@@ -169,11 +169,11 @@
     "inverses": {
         "inverse_a": {
             "id": 41, 
-            "name": "[Grey magic]Osmose"
+            "name": "Osmose"
         }, 
         "inverse_b": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "torments": {
@@ -187,7 +187,7 @@
         }, 
         "torment_c": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }, 
         "torment_d": {
             "id": 202, 
@@ -196,25 +196,25 @@
     }, 
     "fight_animation": {
         "id": 5, 
-        "name": "[Knife1]Eviscerator"
+        "name": "Eviscerator"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

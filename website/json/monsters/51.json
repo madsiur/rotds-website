@@ -225,7 +225,7 @@
     "loots": {
         "steal_rare": {
             "id": 160, 
-            "name": "[Light armor]Prinny Suit"
+            "name": "Prinny Suit"
         }, 
         "steal_common": {
             "id": 255, 
@@ -247,7 +247,7 @@
         }, 
         "spirit_b": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }
     }, 
     "inverses": {
@@ -286,19 +286,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

@@ -197,11 +197,11 @@
         }, 
         "steal_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_rare": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "drop_common": {
             "id": 255, 
@@ -239,34 +239,34 @@
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "fight_animation": {
         "id": 53, 
-        "name": "[Rod3]Fire Rod"
+        "name": "Fire Rod"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

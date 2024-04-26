@@ -163,11 +163,11 @@
     "loots": {
         "steal_rare": {
             "id": 179, 
-            "name": "[Relic1]Holy Amulet"
+            "name": "Holy Amulet"
         }, 
         "steal_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -191,11 +191,11 @@
     "inverses": {
         "inverse_a": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "inverse_b": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "torments": {
@@ -205,11 +205,11 @@
         }, 
         "torment_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "torment_c": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }, 
         "torment_d": {
             "id": 239, 
@@ -218,25 +218,25 @@
     }, 
     "fight_animation": {
         "id": 87, 
-        "name": "[Claw]Blazing Claw"
+        "name": "Blazing Claw"
     }, 
     "metamorph": {
         "id": 13, 
         "metamorph_a": {
             "id": 59, 
-            "name": "[Scythe]Soul Harvest"
+            "name": "Soul Harvest"
         }, 
         "metamorph_b": {
             "id": 112, 
-            "name": "[Heavy Helm2]Undead Crown"
+            "name": "Undead Crown"
         }, 
         "metamorph_c": {
             "id": 221, 
-            "name": "[Relic1]Lich Ring"
+            "name": "Lich Ring"
         }, 
         "metamorph_d": {
             "id": 253, 
-            "name": "[Item2]Necronomicon"
+            "name": "Necronomicon"
         }
     }
 }

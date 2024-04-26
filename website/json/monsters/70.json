@@ -195,13 +195,13 @@
         }, 
         "spirit_b": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "inverse_b": {
             "id": 238, 
@@ -215,7 +215,7 @@
         }, 
         "torment_b": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "torment_c": {
             "id": 255, 
@@ -234,19 +234,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

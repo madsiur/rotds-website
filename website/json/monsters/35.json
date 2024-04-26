@@ -186,15 +186,15 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }, 
         "drop_rare": {
             "id": 86, 
-            "name": "[Claw]Titan Claw"
+            "name": "Titan Claw"
         }, 
         "drop_common": {
             "id": 255, 
@@ -236,7 +236,7 @@
         }, 
         "torment_d": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }
     }, 
     "fight_animation": {
@@ -247,19 +247,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

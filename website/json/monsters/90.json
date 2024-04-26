@@ -185,11 +185,11 @@
     "loots": {
         "steal_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "steal_common": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -207,17 +207,17 @@
         }, 
         "spirit_b": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }, 
         "inverse_b": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }
     }, 
     "torments": {
@@ -227,7 +227,7 @@
         }, 
         "torment_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }, 
         "torment_c": {
             "id": 255, 
@@ -240,25 +240,25 @@
     }, 
     "fight_animation": {
         "id": 55, 
-        "name": "[Rod3]Thunder Rod"
+        "name": "Thunder Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

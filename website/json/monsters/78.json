@@ -146,15 +146,15 @@
     "loots": {
         "steal_rare": {
             "id": 213, 
-            "name": "[Relic1]Monk's Belt"
+            "name": "Monk's Belt"
         }, 
         "steal_common": {
             "id": 45, 
-            "name": "[Katana]Iaito"
+            "name": "Iaito"
         }, 
         "drop_rare": {
             "id": 183, 
-            "name": "[Relic1]Mystic Ring"
+            "name": "Mystic Ring"
         }, 
         "drop_common": {
             "id": 255, 
@@ -168,7 +168,7 @@
         }, 
         "spirit_b": {
             "id": 31, 
-            "name": "[Grey magic]Haste"
+            "name": "Haste"
         }
     }, 
     "inverses": {
@@ -192,34 +192,34 @@
         }, 
         "torment_c": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "torment_d": {
             "id": 2, 
-            "name": "[Black magic]Spark"
+            "name": "Spark"
         }
     }, 
     "fight_animation": {
         "id": 87, 
-        "name": "[Claw]Blazing Claw"
+        "name": "Blazing Claw"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

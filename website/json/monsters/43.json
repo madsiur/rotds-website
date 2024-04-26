@@ -157,11 +157,11 @@
     "loots": {
         "steal_rare": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "steal_common": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -212,25 +212,25 @@
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 17, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 220, 
-            "name": "[Relic1]Exodus Token"
+            "name": "Exodus Token"
         }
     }
 }

@@ -229,19 +229,19 @@
     "loots": {
         "steal_rare": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "steal_common": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "drop_rare": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "drop_common": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }, 
     "spirits": {
@@ -257,7 +257,7 @@
     "inverses": {
         "inverse_a": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }, 
         "inverse_b": {
             "id": 191, 
@@ -275,7 +275,7 @@
         }, 
         "torment_c": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_d": {
             "id": 182, 
@@ -290,19 +290,19 @@
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

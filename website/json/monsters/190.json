@@ -225,7 +225,7 @@
         }, 
         "inverse_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }
     }, 
     "torments": {
@@ -239,34 +239,34 @@
         }, 
         "torment_c": {
             "id": 30, 
-            "name": "[Grey magic]Confuse"
+            "name": "Confuse"
         }, 
         "torment_d": {
             "id": 44, 
-            "name": "[Grey magic]Dispel"
+            "name": "Dispel"
         }
     }, 
     "fight_animation": {
         "id": 71, 
-        "name": "[Boomerang]Lode Shuttle"
+        "name": "Lode Shuttle"
     }, 
     "metamorph": {
         "id": 19, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_c": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_d": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }
     }
 }

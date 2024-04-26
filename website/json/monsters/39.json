@@ -183,15 +183,15 @@
     "loots": {
         "steal_rare": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }, 
         "steal_common": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "drop_rare": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }, 
         "drop_common": {
             "id": 255, 
@@ -229,34 +229,34 @@
         }, 
         "torment_c": {
             "id": 25, 
-            "name": "[Grey magic]Slow"
+            "name": "Slow"
         }, 
         "torment_d": {
             "id": 31, 
-            "name": "[Grey magic]Haste"
+            "name": "Haste"
         }
     }, 
     "fight_animation": {
         "id": 88, 
-        "name": "[Claw]Tekken Claw"
+        "name": "Tekken Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

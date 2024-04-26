@@ -173,11 +173,11 @@
     "loots": {
         "steal_rare": {
             "id": 213, 
-            "name": "[Relic1]Monk's Belt"
+            "name": "Monk's Belt"
         }, 
         "steal_common": {
             "id": 45, 
-            "name": "[Katana]Iaito"
+            "name": "Iaito"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -205,7 +205,7 @@
         }, 
         "inverse_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "torments": {
@@ -215,38 +215,38 @@
         }, 
         "torment_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 39, 
-            "name": "[Grey magic]Hastega"
+            "name": "Hastega"
         }
     }, 
     "fight_animation": {
         "id": 47, 
-        "name": "[Katana]Bizen Boat"
+        "name": "Bizen Boat"
     }, 
     "metamorph": {
         "id": 16, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

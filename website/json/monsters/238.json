@@ -181,7 +181,7 @@
     "loots": {
         "steal_rare": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }, 
         "steal_common": {
             "id": 255, 
@@ -189,7 +189,7 @@
         }, 
         "drop_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "drop_common": {
             "id": 255, 
@@ -236,25 +236,25 @@
     }, 
     "fight_animation": {
         "id": 11, 
-        "name": "[Sword2]Shamshir"
+        "name": "Shamshir"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

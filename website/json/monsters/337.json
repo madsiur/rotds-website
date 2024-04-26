@@ -230,15 +230,15 @@
         }, 
         "steal_common": {
             "id": 239, 
-            "name": "[Item2]Omni Elixir"
+            "name": "Omni Elixir"
         }, 
         "drop_rare": {
             "id": 130, 
-            "name": "[Medium helm]Serpent Mask"
+            "name": "Serpent Mask"
         }, 
         "drop_common": {
             "id": 130, 
-            "name": "[Medium helm]Serpent Mask"
+            "name": "Serpent Mask"
         }
     }, 
     "spirits": {
@@ -248,13 +248,13 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "inverse_b": {
             "id": 142, 
@@ -281,25 +281,25 @@
     }, 
     "fight_animation": {
         "id": 4, 
-        "name": "[Large sword]Vendetta"
+        "name": "Vendetta"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

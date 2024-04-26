@@ -189,11 +189,11 @@
         }, 
         "drop_rare": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }, 
         "drop_common": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }
     }, 
     "spirits": {
@@ -209,7 +209,7 @@
     "inverses": {
         "inverse_a": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "inverse_b": {
             "id": 185, 
@@ -223,7 +223,7 @@
         }, 
         "torment_b": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }, 
         "torment_c": {
             "id": 185, 
@@ -236,25 +236,25 @@
     }, 
     "fight_animation": {
         "id": 88, 
-        "name": "[Claw]Tekken Claw"
+        "name": "Tekken Claw"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

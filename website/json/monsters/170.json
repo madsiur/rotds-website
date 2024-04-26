@@ -177,7 +177,7 @@
         }, 
         "steal_common": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -201,11 +201,11 @@
     "inverses": {
         "inverse_a": {
             "id": 39, 
-            "name": "[Grey magic]Hastega"
+            "name": "Hastega"
         }, 
         "inverse_b": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }
     }, 
     "torments": {
@@ -234,19 +234,19 @@
         "id": 20, 
         "metamorph_a": {
             "id": 73, 
-            "name": "[Anchor]Iron Anchor"
+            "name": "Iron Anchor"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "metamorph_d": {
             "id": 96, 
-            "name": "[Heavy shield]Red Essence"
+            "name": "Red Essence"
         }
     }
 }

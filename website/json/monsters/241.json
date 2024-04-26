@@ -177,7 +177,7 @@
     "loots": {
         "steal_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "steal_common": {
             "id": 255, 
@@ -189,7 +189,7 @@
         }, 
         "drop_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }, 
     "spirits": {
@@ -205,11 +205,11 @@
     "inverses": {
         "inverse_a": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }, 
         "inverse_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "torments": {
@@ -219,38 +219,38 @@
         }, 
         "torment_b": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }
     }, 
     "fight_animation": {
         "id": 53, 
-        "name": "[Rod3]Fire Rod"
+        "name": "Fire Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

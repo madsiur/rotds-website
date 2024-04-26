@@ -152,15 +152,15 @@
         }, 
         "steal_common": {
             "id": 107, 
-            "name": "[Heavy Helm2]Assault Helm"
+            "name": "Assault Helm"
         }, 
         "drop_rare": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }, 
         "drop_common": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }, 
     "spirits": {
@@ -194,7 +194,7 @@
         }, 
         "torment_c": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }, 
         "torment_d": {
             "id": 173, 
@@ -203,25 +203,25 @@
     }, 
     "fight_animation": {
         "id": 3, 
-        "name": "[Large sword]Hawk Cleaver"
+        "name": "Hawk Cleaver"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

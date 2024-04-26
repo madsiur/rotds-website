@@ -187,7 +187,7 @@
         }, 
         "spirit_b": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "inverses": {
@@ -197,7 +197,7 @@
         }, 
         "inverse_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }
     }, 
     "torments": {
@@ -211,7 +211,7 @@
         }, 
         "torment_c": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "torment_d": {
             "id": 255, 
@@ -220,25 +220,25 @@
     }, 
     "fight_animation": {
         "id": 59, 
-        "name": "[Scythe]Soul Harvest"
+        "name": "Soul Harvest"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

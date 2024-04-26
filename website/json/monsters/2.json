@@ -135,15 +135,15 @@
     "loots": {
         "steal_rare": {
             "id": 107, 
-            "name": "[Heavy Helm2]Assault Helm"
+            "name": "Assault Helm"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_common": {
             "id": 255, 
@@ -157,7 +157,7 @@
         }, 
         "spirit_b": {
             "id": 5, 
-            "name": "[Black magic]Scorch"
+            "name": "Scorch"
         }
     }, 
     "inverses": {
@@ -190,25 +190,25 @@
     }, 
     "fight_animation": {
         "id": 11, 
-        "name": "[Sword2]Shamshir"
+        "name": "Shamshir"
     }, 
     "metamorph": {
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

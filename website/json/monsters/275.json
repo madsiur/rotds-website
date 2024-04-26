@@ -245,7 +245,7 @@
     "loots": {
         "steal_rare": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "steal_common": {
             "id": 255, 
@@ -253,21 +253,21 @@
         }, 
         "drop_rare": {
             "id": 191, 
-            "name": "[Relic1]Eaglehorn"
+            "name": "Eaglehorn"
         }, 
         "drop_common": {
             "id": 191, 
-            "name": "[Relic1]Eaglehorn"
+            "name": "Eaglehorn"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -300,25 +300,25 @@
     }, 
     "fight_animation": {
         "id": 74, 
-        "name": "[Special1]Dream Sphere"
+        "name": "Dream Sphere"
     }, 
     "metamorph": {
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

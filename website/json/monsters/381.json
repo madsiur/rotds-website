@@ -227,15 +227,15 @@
         }, 
         "steal_common": {
             "id": 239, 
-            "name": "[Item2]Omni Elixir"
+            "name": "Omni Elixir"
         }, 
         "drop_rare": {
             "id": 181, 
-            "name": "[Shield2]Omega Shld"
+            "name": "Omega Shld"
         }, 
         "drop_common": {
             "id": 181, 
-            "name": "[Shield2]Omega Shld"
+            "name": "Omega Shld"
         }
     }, 
     "spirits": {
@@ -245,13 +245,13 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }, 
         "inverse_b": {
             "id": 239, 
@@ -278,25 +278,25 @@
     }, 
     "fight_animation": {
         "id": 28, 
-        "name": "[Sword1]Lightsaber"
+        "name": "Lightsaber"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

@@ -193,7 +193,7 @@
     "loots": {
         "steal_rare": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "steal_common": {
             "id": 255, 
@@ -201,7 +201,7 @@
         }, 
         "drop_rare": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "drop_common": {
             "id": 255, 
@@ -239,11 +239,11 @@
         }, 
         "torment_c": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "torment_d": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "fight_animation": {
@@ -254,19 +254,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

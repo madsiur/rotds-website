@@ -233,11 +233,11 @@
         }, 
         "steal_common": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_rare": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "drop_common": {
             "id": 255, 
@@ -275,7 +275,7 @@
         }, 
         "torment_c": {
             "id": 30, 
-            "name": "[Grey magic]Confuse"
+            "name": "Confuse"
         }, 
         "torment_d": {
             "id": 212, 
@@ -290,19 +290,19 @@
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

@@ -227,7 +227,7 @@
     "loots": {
         "steal_rare": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "steal_common": {
             "id": 255, 
@@ -235,21 +235,21 @@
         }, 
         "drop_rare": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }, 
         "drop_common": {
             "id": 238, 
-            "name": "[Item2]Elixir"
+            "name": "Elixir"
         }
     }, 
     "spirits": {
         "spirit_a": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -282,25 +282,25 @@
     }, 
     "fight_animation": {
         "id": 36, 
-        "name": "[Spear1]Mithril Pike"
+        "name": "Mithril Pike"
     }, 
     "metamorph": {
         "id": 31, 
         "metamorph_a": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_b": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_c": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "metamorph_d": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }
 }

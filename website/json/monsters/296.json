@@ -247,15 +247,15 @@
         }, 
         "steal_common": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "drop_rare": {
             "id": 219, 
-            "name": "[Relic1]Goddess Ring"
+            "name": "Goddess Ring"
         }, 
         "drop_common": {
             "id": 219, 
-            "name": "[Relic1]Goddess Ring"
+            "name": "Goddess Ring"
         }
     }, 
     "spirits": {
@@ -265,7 +265,7 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
@@ -298,25 +298,25 @@
     }, 
     "fight_animation": {
         "id": 58, 
-        "name": "[Rod3]Mermaid Rod"
+        "name": "Mermaid Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

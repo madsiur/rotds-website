@@ -216,15 +216,15 @@
         }, 
         "steal_common": {
             "id": 100, 
-            "name": "[Shield2]Daedric Shld"
+            "name": "Daedric Shld"
         }, 
         "drop_rare": {
             "id": 207, 
-            "name": "[Relic1]Wrath Band"
+            "name": "Wrath Band"
         }, 
         "drop_common": {
             "id": 207, 
-            "name": "[Relic1]Wrath Band"
+            "name": "Wrath Band"
         }
     }, 
     "spirits": {
@@ -244,7 +244,7 @@
         }, 
         "inverse_b": {
             "id": 26, 
-            "name": "[Grey magic]Expel"
+            "name": "Expel"
         }
     }, 
     "torments": {
@@ -258,7 +258,7 @@
         }, 
         "torment_c": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "torment_d": {
             "id": 204, 
@@ -267,25 +267,25 @@
     }, 
     "fight_animation": {
         "id": 58, 
-        "name": "[Rod3]Mermaid Rod"
+        "name": "Mermaid Rod"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

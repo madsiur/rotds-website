@@ -193,15 +193,15 @@
     "loots": {
         "steal_rare": {
             "id": 164, 
-            "name": "[Aether]Poison Nova"
+            "name": "Poison Nova"
         }, 
         "steal_common": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_rare": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "drop_common": {
             "id": 255, 
@@ -225,7 +225,7 @@
         }, 
         "inverse_b": {
             "id": 11, 
-            "name": "[Black magic]Nova"
+            "name": "Nova"
         }
     }, 
     "torments": {
@@ -239,11 +239,11 @@
         }, 
         "torment_c": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }, 
         "torment_d": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }
     }, 
     "fight_animation": {
@@ -254,19 +254,19 @@
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

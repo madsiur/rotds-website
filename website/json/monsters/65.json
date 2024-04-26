@@ -154,11 +154,11 @@
     "loots": {
         "steal_rare": {
             "id": 11, 
-            "name": "[Sword2]Shamshir"
+            "name": "Shamshir"
         }, 
         "steal_common": {
             "id": 11, 
-            "name": "[Sword2]Shamshir"
+            "name": "Shamshir"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -182,7 +182,7 @@
     "inverses": {
         "inverse_a": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "inverse_b": {
             "id": 140, 
@@ -200,7 +200,7 @@
         }, 
         "torment_c": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "torment_d": {
             "id": 158, 
@@ -209,25 +209,25 @@
     }, 
     "fight_animation": {
         "id": 84, 
-        "name": "[Glove]Brass Knucks"
+        "name": "Brass Knucks"
     }, 
     "metamorph": {
         "id": 4, 
         "metamorph_a": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "metamorph_b": {
             "id": 116, 
-            "name": "[Heavy Helm2]Mithril Helm"
+            "name": "Mithril Helm"
         }, 
         "metamorph_c": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "metamorph_d": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }
     }
 }

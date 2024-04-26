@@ -183,11 +183,11 @@
         }, 
         "steal_common": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "drop_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_common": {
             "id": 255, 
@@ -197,21 +197,21 @@
     "spirits": {
         "spirit_a": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "inverse_b": {
             "id": 33, 
-            "name": "[Grey magic]Frenzy"
+            "name": "Frenzy"
         }
     }, 
     "torments": {
@@ -221,38 +221,38 @@
         }, 
         "torment_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "torment_c": {
             "id": 33, 
-            "name": "[Grey magic]Frenzy"
+            "name": "Frenzy"
         }, 
         "torment_d": {
             "id": 39, 
-            "name": "[Grey magic]Hastega"
+            "name": "Hastega"
         }
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

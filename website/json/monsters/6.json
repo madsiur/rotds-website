@@ -185,15 +185,15 @@
     "loots": {
         "steal_rare": {
             "id": 173, 
-            "name": "[Scroll]Bolt Scroll"
+            "name": "Bolt Scroll"
         }, 
         "steal_common": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }, 
         "drop_rare": {
             "id": 172, 
-            "name": "[Scroll]Water Scroll"
+            "name": "Water Scroll"
         }, 
         "drop_common": {
             "id": 255, 
@@ -207,7 +207,7 @@
         }, 
         "spirit_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }
     }, 
     "inverses": {
@@ -217,7 +217,7 @@
         }, 
         "inverse_b": {
             "id": 7, 
-            "name": "[Black magic]Storm"
+            "name": "Storm"
         }
     }, 
     "torments": {
@@ -231,11 +231,11 @@
         }, 
         "torment_c": {
             "id": 1, 
-            "name": "[Black magic]Icicle"
+            "name": "Icicle"
         }, 
         "torment_d": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }
     }, 
     "fight_animation": {
@@ -246,19 +246,19 @@
         "id": 4, 
         "metamorph_a": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "metamorph_b": {
             "id": 116, 
-            "name": "[Heavy Helm2]Mithril Helm"
+            "name": "Mithril Helm"
         }, 
         "metamorph_c": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "metamorph_d": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }
     }
 }

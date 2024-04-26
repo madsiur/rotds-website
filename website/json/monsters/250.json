@@ -214,11 +214,11 @@
     "loots": {
         "steal_rare": {
             "id": 40, 
-            "name": "[Knife1]Throatslicer"
+            "name": "Throatslicer"
         }, 
         "steal_common": {
             "id": 82, 
-            "name": "[Knife2]Thief Knife"
+            "name": "Thief Knife"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -236,7 +236,7 @@
         }, 
         "spirit_b": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "inverses": {
@@ -246,7 +246,7 @@
         }, 
         "inverse_b": {
             "id": 22, 
-            "name": "[Black magic]Gravity"
+            "name": "Gravity"
         }
     }, 
     "torments": {
@@ -260,34 +260,34 @@
         }, 
         "torment_c": {
             "id": 22, 
-            "name": "[Black magic]Gravity"
+            "name": "Gravity"
         }, 
         "torment_d": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "fight_animation": {
         "id": 58, 
-        "name": "[Rod3]Mermaid Rod"
+        "name": "Mermaid Rod"
     }, 
     "metamorph": {
         "id": 17, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 220, 
-            "name": "[Relic1]Exodus Token"
+            "name": "Exodus Token"
         }
     }
 }

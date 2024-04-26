@@ -146,7 +146,7 @@
     "loots": {
         "steal_rare": {
             "id": 173, 
-            "name": "[Scroll]Bolt Scroll"
+            "name": "Bolt Scroll"
         }, 
         "steal_common": {
             "id": 255, 
@@ -154,7 +154,7 @@
         }, 
         "drop_rare": {
             "id": 172, 
-            "name": "[Scroll]Water Scroll"
+            "name": "Water Scroll"
         }, 
         "drop_common": {
             "id": 255, 
@@ -168,7 +168,7 @@
         }, 
         "spirit_b": {
             "id": 39, 
-            "name": "[Grey magic]Hastega"
+            "name": "Hastega"
         }
     }, 
     "inverses": {
@@ -207,19 +207,19 @@
         "id": 5, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 54, 
-            "name": "[Rod3]Ice Rod"
+            "name": "Ice Rod"
         }, 
         "metamorph_d": {
             "id": 55, 
-            "name": "[Rod3]Thunder Rod"
+            "name": "Thunder Rod"
         }
     }
 }

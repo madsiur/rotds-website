@@ -150,7 +150,7 @@
     "loots": {
         "steal_rare": {
             "id": 172, 
-            "name": "[Scroll]Water Scroll"
+            "name": "Water Scroll"
         }, 
         "steal_common": {
             "id": 255, 
@@ -158,7 +158,7 @@
         }, 
         "drop_rare": {
             "id": 171, 
-            "name": "[Scroll]Fire Scroll"
+            "name": "Fire Scroll"
         }, 
         "drop_common": {
             "id": 255, 
@@ -211,19 +211,19 @@
         "id": 4, 
         "metamorph_a": {
             "id": 10, 
-            "name": "[Sword2]Iron Sword"
+            "name": "Iron Sword"
         }, 
         "metamorph_b": {
             "id": 116, 
-            "name": "[Heavy Helm2]Mithril Helm"
+            "name": "Mithril Helm"
         }, 
         "metamorph_c": {
             "id": 140, 
-            "name": "[Heavy armor]Plate Mail"
+            "name": "Plate Mail"
         }, 
         "metamorph_d": {
             "id": 92, 
-            "name": "[Heavy shield]Mithril Shld"
+            "name": "Mithril Shld"
         }
     }
 }

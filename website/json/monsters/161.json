@@ -199,7 +199,7 @@
     "loots": {
         "steal_rare": {
             "id": 250, 
-            "name": "[Item2]Atomic Ball"
+            "name": "Atomic Ball"
         }, 
         "steal_common": {
             "id": 255, 
@@ -207,11 +207,11 @@
         }, 
         "drop_rare": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }, 
         "drop_common": {
             "id": 178, 
-            "name": "[Tab]Scrap Metal"
+            "name": "Scrap Metal"
         }
     }, 
     "spirits": {
@@ -260,19 +260,19 @@
         "id": 30, 
         "metamorph_a": {
             "id": 6, 
-            "name": "[Knife2]War Machete"
+            "name": "War Machete"
         }, 
         "metamorph_b": {
             "id": 7, 
-            "name": "[Knife2]Angrist"
+            "name": "Angrist"
         }, 
         "metamorph_c": {
             "id": 8, 
-            "name": "[Sword2]Demon Killer"
+            "name": "Demon Killer"
         }, 
         "metamorph_d": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }
     }
 }

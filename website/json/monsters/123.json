@@ -123,7 +123,7 @@
     "loots": {
         "steal_rare": {
             "id": 119, 
-            "name": "[Medium helm]Tiger Mask"
+            "name": "Tiger Mask"
         }, 
         "steal_common": {
             "id": 255, 
@@ -184,19 +184,19 @@
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

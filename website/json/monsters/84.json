@@ -185,7 +185,7 @@
         }, 
         "drop_rare": {
             "id": 102, 
-            "name": "[Relic1]Talisman"
+            "name": "Talisman"
         }, 
         "drop_common": {
             "id": 255, 
@@ -209,7 +209,7 @@
         }, 
         "inverse_b": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }
     }, 
     "torments": {
@@ -223,7 +223,7 @@
         }, 
         "torment_c": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "torment_d": {
             "id": 153, 
@@ -232,25 +232,25 @@
     }, 
     "fight_animation": {
         "id": 7, 
-        "name": "[Knife2]Angrist"
+        "name": "Angrist"
     }, 
     "metamorph": {
         "id": 11, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 239, 
-            "name": "[Item2]Omni Elixir"
+            "name": "Omni Elixir"
         }
     }
 }

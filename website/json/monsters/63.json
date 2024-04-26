@@ -211,7 +211,7 @@
     "loots": {
         "steal_rare": {
             "id": 137, 
-            "name": "[Heavy armor]Chain Mail"
+            "name": "Chain Mail"
         }, 
         "steal_common": {
             "id": 255, 
@@ -219,11 +219,11 @@
         }, 
         "drop_rare": {
             "id": 179, 
-            "name": "[Relic1]Holy Amulet"
+            "name": "Holy Amulet"
         }, 
         "drop_common": {
             "id": 179, 
-            "name": "[Relic1]Holy Amulet"
+            "name": "Holy Amulet"
         }
     }, 
     "spirits": {
@@ -266,25 +266,25 @@
     }, 
     "fight_animation": {
         "id": 6, 
-        "name": "[Knife2]War Machete"
+        "name": "War Machete"
     }, 
     "metamorph": {
         "id": 5, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 53, 
-            "name": "[Rod3]Fire Rod"
+            "name": "Fire Rod"
         }, 
         "metamorph_c": {
             "id": 54, 
-            "name": "[Rod3]Ice Rod"
+            "name": "Ice Rod"
         }, 
         "metamorph_d": {
             "id": 55, 
-            "name": "[Rod3]Thunder Rod"
+            "name": "Thunder Rod"
         }
     }
 }

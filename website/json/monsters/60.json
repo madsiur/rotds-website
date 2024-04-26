@@ -146,7 +146,7 @@
     "loots": {
         "steal_rare": {
             "id": 18, 
-            "name": "[Sword2]Blooddrinker"
+            "name": "Blooddrinker"
         }, 
         "steal_common": {
             "id": 255, 
@@ -154,7 +154,7 @@
         }, 
         "drop_rare": {
             "id": 198, 
-            "name": "[Tab]Beast Hide"
+            "name": "Beast Hide"
         }, 
         "drop_common": {
             "id": 255, 
@@ -174,11 +174,11 @@
     "inverses": {
         "inverse_a": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "inverse_b": {
             "id": 51, 
-            "name": "[White magic]Esuna"
+            "name": "Esuna"
         }
     }, 
     "torments": {
@@ -188,7 +188,7 @@
         }, 
         "torment_b": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "torment_c": {
             "id": 155, 
@@ -201,25 +201,25 @@
     }, 
     "fight_animation": {
         "id": 61, 
-        "name": "[Glove]Frost Glove "
+        "name": "Frost Glove"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

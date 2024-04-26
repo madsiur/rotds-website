@@ -222,19 +222,19 @@
     "loots": {
         "steal_rare": {
             "id": 45, 
-            "name": "[Katana]Iaito"
+            "name": "Iaito"
         }, 
         "steal_common": {
             "id": 45, 
-            "name": "[Katana]Iaito"
+            "name": "Iaito"
         }, 
         "drop_rare": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }, 
         "drop_common": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }, 
     "spirits": {
@@ -277,25 +277,25 @@
     }, 
     "fight_animation": {
         "id": 36, 
-        "name": "[Spear1]Mithril Pike"
+        "name": "Mithril Pike"
     }, 
     "metamorph": {
         "id": 2, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "metamorph_c": {
             "id": 237, 
-            "name": "[Item2]X-Ether"
+            "name": "X-Ether"
         }, 
         "metamorph_d": {
             "id": 234, 
-            "name": "[Item2]X-Potion"
+            "name": "X-Potion"
         }
     }
 }

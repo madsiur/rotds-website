@@ -161,11 +161,11 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -193,7 +193,7 @@
         }, 
         "inverse_b": {
             "id": 3, 
-            "name": "[Black magic]Virus"
+            "name": "Virus"
         }
     }, 
     "torments": {
@@ -207,7 +207,7 @@
         }, 
         "torment_c": {
             "id": 30, 
-            "name": "[Grey magic]Confuse"
+            "name": "Confuse"
         }, 
         "torment_d": {
             "id": 176, 
@@ -216,25 +216,25 @@
     }, 
     "fight_animation": {
         "id": 56, 
-        "name": "[Rod1]Serpent Rod"
+        "name": "Serpent Rod"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

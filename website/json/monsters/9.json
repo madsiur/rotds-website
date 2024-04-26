@@ -195,7 +195,7 @@
     "loots": {
         "steal_rare": {
             "id": 159, 
-            "name": "[Heavy armor]Elite Armor"
+            "name": "Elite Armor"
         }, 
         "steal_common": {
             "id": 255, 
@@ -217,17 +217,17 @@
         }, 
         "spirit_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 27, 
-            "name": "[Grey magic]Mute"
+            "name": "Mute"
         }, 
         "inverse_b": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }
     }, 
     "torments": {
@@ -237,11 +237,11 @@
         }, 
         "torment_b": {
             "id": 27, 
-            "name": "[Grey magic]Mute"
+            "name": "Mute"
         }, 
         "torment_c": {
             "id": 46, 
-            "name": "[White magic]Cura"
+            "name": "Cura"
         }, 
         "torment_d": {
             "id": 239, 
@@ -256,19 +256,19 @@
         "id": 19, 
         "metamorph_a": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_b": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_c": {
             "id": 52, 
-            "name": "[Rod2]Diffusal Rod"
+            "name": "Diffusal Rod"
         }, 
         "metamorph_d": {
             "id": 60, 
-            "name": "[Rod1]Magus Rod"
+            "name": "Magus Rod"
         }
     }
 }

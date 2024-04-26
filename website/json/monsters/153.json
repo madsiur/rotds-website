@@ -164,19 +164,19 @@
     "loots": {
         "steal_rare": {
             "id": 152, 
-            "name": "[Heavy armor]Crystal Mail"
+            "name": "Crystal Mail"
         }, 
         "steal_common": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }, 
         "drop_rare": {
             "id": 17, 
-            "name": "[Hammer]Cael Hammer"
+            "name": "Cael Hammer"
         }, 
         "drop_common": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }, 
     "spirits": {
@@ -196,7 +196,7 @@
         }, 
         "inverse_b": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }
     }, 
     "torments": {
@@ -210,7 +210,7 @@
         }, 
         "torment_c": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "torment_d": {
             "id": 109, 
@@ -219,25 +219,25 @@
     }, 
     "fight_animation": {
         "id": 70, 
-        "name": "[Special2]Morning Star"
+        "name": "Morning Star"
     }, 
     "metamorph": {
         "id": 6, 
         "metamorph_a": {
             "id": 25, 
-            "name": "[Sword2]Cross Radius"
+            "name": "Cross Radius"
         }, 
         "metamorph_b": {
             "id": 99, 
-            "name": "[Heavy shield]Crystal Shld"
+            "name": "Crystal Shld"
         }, 
         "metamorph_c": {
             "id": 126, 
-            "name": "[Heavy helm1]Crystal Helm"
+            "name": "Crystal Helm"
         }, 
         "metamorph_d": {
             "id": 152, 
-            "name": "[Heavy armor]Crystal Mail"
+            "name": "Crystal Mail"
         }
     }
 }

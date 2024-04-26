@@ -169,7 +169,7 @@
     "loots": {
         "steal_rare": {
             "id": 48, 
-            "name": "[Katana]Masamune"
+            "name": "Masamune"
         }, 
         "steal_common": {
             "id": 255, 
@@ -197,7 +197,7 @@
     "inverses": {
         "inverse_a": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }, 
         "inverse_b": {
             "id": 101, 
@@ -224,25 +224,25 @@
     }, 
     "fight_animation": {
         "id": 48, 
-        "name": "[Katana]Masamune"
+        "name": "Masamune"
     }, 
     "metamorph": {
         "id": 16, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

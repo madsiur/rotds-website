@@ -187,7 +187,7 @@
     "loots": {
         "steal_rare": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }, 
         "steal_common": {
             "id": 255, 
@@ -209,7 +209,7 @@
         }, 
         "spirit_b": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }
     }, 
     "inverses": {
@@ -219,7 +219,7 @@
         }, 
         "inverse_b": {
             "id": 8, 
-            "name": "[Black magic]Plague"
+            "name": "Plague"
         }
     }, 
     "torments": {
@@ -242,25 +242,25 @@
     }, 
     "fight_animation": {
         "id": 70, 
-        "name": "[Special2]Morning Star"
+        "name": "Morning Star"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

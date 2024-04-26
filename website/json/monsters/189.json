@@ -183,7 +183,7 @@
     "loots": {
         "steal_rare": {
             "id": 17, 
-            "name": "[Hammer]Cael Hammer"
+            "name": "Cael Hammer"
         }, 
         "steal_common": {
             "id": 255, 
@@ -229,34 +229,34 @@
         }, 
         "torment_c": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }, 
         "torment_d": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }
     }, 
     "fight_animation": {
         "id": 45, 
-        "name": "[Katana]Iaito"
+        "name": "Iaito"
     }, 
     "metamorph": {
         "id": 25, 
         "metamorph_a": {
             "id": 80, 
-            "name": "[Axe]Stone Axe"
+            "name": "Stone Axe"
         }, 
         "metamorph_b": {
             "id": 82, 
-            "name": "[Knife2]Thief Knife"
+            "name": "Thief Knife"
         }, 
         "metamorph_c": {
             "id": 5, 
-            "name": "[Knife1]Eviscerator"
+            "name": "Eviscerator"
         }, 
         "metamorph_d": {
             "id": 78, 
-            "name": "[Ninja]Throw Knives"
+            "name": "Throw Knives"
         }
     }
 }

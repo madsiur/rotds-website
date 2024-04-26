@@ -211,7 +211,7 @@
     "loots": {
         "steal_rare": {
             "id": 253, 
-            "name": "[Item2]Necronomicon"
+            "name": "Necronomicon"
         }, 
         "steal_common": {
             "id": 255, 
@@ -219,11 +219,11 @@
         }, 
         "drop_rare": {
             "id": 223, 
-            "name": "[Relic1]Prism Cape"
+            "name": "Prism Cape"
         }, 
         "drop_common": {
             "id": 223, 
-            "name": "[Relic1]Prism Cape"
+            "name": "Prism Cape"
         }
     }, 
     "spirits": {
@@ -257,7 +257,7 @@
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 223, 
@@ -266,25 +266,25 @@
     }, 
     "fight_animation": {
         "id": 53, 
-        "name": "[Rod3]Fire Rod"
+        "name": "Fire Rod"
     }, 
     "metamorph": {
         "id": 23, 
         "metamorph_a": {
             "id": 174, 
-            "name": "[Scroll]Mist Scroll"
+            "name": "Mist Scroll"
         }, 
         "metamorph_b": {
             "id": 175, 
-            "name": "[Scroll]Ninja Scroll"
+            "name": "Ninja Scroll"
         }, 
         "metamorph_c": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "metamorph_d": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }
     }
 }

@@ -161,25 +161,25 @@
     }, 
     "fight_animation": {
         "id": 42, 
-        "name": "[Knife1]Akuma"
+        "name": "Akuma"
     }, 
     "metamorph": {
         "id": 10, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 194, 
-            "name": "[Relic1]Thief Gloves"
+            "name": "Thief Gloves"
         }
     }
 }

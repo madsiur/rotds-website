@@ -189,11 +189,11 @@
         }, 
         "steal_common": {
             "id": 156, 
-            "name": "[Mage armor]Shaman Dress"
+            "name": "Shaman Dress"
         }, 
         "drop_rare": {
             "id": 156, 
-            "name": "[Mage armor]Shaman Dress"
+            "name": "Shaman Dress"
         }, 
         "drop_common": {
             "id": 255, 
@@ -217,7 +217,7 @@
         }, 
         "inverse_b": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }
     }, 
     "torments": {
@@ -231,7 +231,7 @@
         }, 
         "torment_c": {
             "id": 12, 
-            "name": "[Black magic]Break"
+            "name": "Break"
         }, 
         "torment_d": {
             "id": 153, 
@@ -240,25 +240,25 @@
     }, 
     "fight_animation": {
         "id": 7, 
-        "name": "[Knife2]Angrist"
+        "name": "Angrist"
     }, 
     "metamorph": {
         "id": 7, 
         "metamorph_a": {
             "id": 155, 
-            "name": "[Tab]Magic Tab"
+            "name": "Magic Tab"
         }, 
         "metamorph_b": {
             "id": 131, 
-            "name": "[Tab]Stamina Tab"
+            "name": "Stamina Tab"
         }, 
         "metamorph_c": {
             "id": 101, 
-            "name": "[Tab]Speed Tab"
+            "name": "Speed Tab"
         }, 
         "metamorph_d": {
             "id": 81, 
-            "name": "[Tab]Might Tab"
+            "name": "Might Tab"
         }
     }
 }

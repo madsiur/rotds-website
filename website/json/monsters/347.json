@@ -252,7 +252,7 @@
         }, 
         "steal_common": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -266,11 +266,11 @@
     "spirits": {
         "spirit_a": {
             "id": 45, 
-            "name": "[White magic]Cure"
+            "name": "Cure"
         }, 
         "spirit_b": {
             "id": 2, 
-            "name": "[Black magic]Spark"
+            "name": "Spark"
         }
     }, 
     "inverses": {
@@ -303,25 +303,25 @@
     }, 
     "fight_animation": {
         "id": 80, 
-        "name": "[Axe]Stone Axe"
+        "name": "Stone Axe"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

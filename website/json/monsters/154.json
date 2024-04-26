@@ -177,7 +177,7 @@
     "loots": {
         "steal_rare": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "steal_common": {
             "id": 255, 
@@ -185,7 +185,7 @@
         }, 
         "drop_rare": {
             "id": 236, 
-            "name": "[Item2]Tincture"
+            "name": "Tincture"
         }, 
         "drop_common": {
             "id": 255, 
@@ -223,7 +223,7 @@
         }, 
         "torment_c": {
             "id": 21, 
-            "name": "[Black magic]Quake"
+            "name": "Quake"
         }, 
         "torment_d": {
             "id": 149, 
@@ -232,25 +232,25 @@
     }, 
     "fight_animation": {
         "id": 52, 
-        "name": "[Rod2]Diffusal Rod"
+        "name": "Diffusal Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

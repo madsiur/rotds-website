@@ -181,7 +181,7 @@
     "loots": {
         "steal_rare": {
             "id": 13, 
-            "name": "[Axe]Molten Axe"
+            "name": "Molten Axe"
         }, 
         "steal_common": {
             "id": 255, 
@@ -189,7 +189,7 @@
         }, 
         "drop_rare": {
             "id": 14, 
-            "name": "[Mace]Taser Mace"
+            "name": "Taser Mace"
         }, 
         "drop_common": {
             "id": 255, 
@@ -203,7 +203,7 @@
         }, 
         "spirit_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "inverses": {
@@ -213,7 +213,7 @@
         }, 
         "inverse_b": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }
     }, 
     "torments": {
@@ -227,34 +227,34 @@
         }, 
         "torment_c": {
             "id": 13, 
-            "name": "[Black magic]Death"
+            "name": "Death"
         }, 
         "torment_d": {
             "id": 18, 
-            "name": "[Black magic]Vortex"
+            "name": "Vortex"
         }
     }, 
     "fight_animation": {
         "id": 70, 
-        "name": "[Special2]Morning Star"
+        "name": "Morning Star"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

@@ -179,7 +179,7 @@
     "loots": {
         "steal_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "steal_common": {
             "id": 255, 
@@ -187,7 +187,7 @@
         }, 
         "drop_rare": {
             "id": 198, 
-            "name": "[Tab]Beast Hide"
+            "name": "Beast Hide"
         }, 
         "drop_common": {
             "id": 255, 
@@ -201,17 +201,17 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "inverse_b": {
             "id": 27, 
-            "name": "[Grey magic]Mute"
+            "name": "Mute"
         }
     }, 
     "torments": {
@@ -221,15 +221,15 @@
         }, 
         "torment_b": {
             "id": 4, 
-            "name": "[Black magic]Drain"
+            "name": "Drain"
         }, 
         "torment_c": {
             "id": 27, 
-            "name": "[Grey magic]Mute"
+            "name": "Mute"
         }, 
         "torment_d": {
             "id": 38, 
-            "name": "[Grey magic]Vanish"
+            "name": "Vanish"
         }
     }, 
     "fight_animation": {
@@ -240,19 +240,19 @@
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

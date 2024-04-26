@@ -193,11 +193,11 @@
     "loots": {
         "steal_rare": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }, 
         "steal_common": {
             "id": 65, 
-            "name": "[Stars]Shuriken"
+            "name": "Shuriken"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -248,25 +248,25 @@
     }, 
     "fight_animation": {
         "id": 46, 
-        "name": "[Katana]Kogarasumaru"
+        "name": "Kogarasumaru"
     }, 
     "metamorph": {
         "id": 25, 
         "metamorph_a": {
             "id": 80, 
-            "name": "[Axe]Stone Axe"
+            "name": "Stone Axe"
         }, 
         "metamorph_b": {
             "id": 82, 
-            "name": "[Knife2]Thief Knife"
+            "name": "Thief Knife"
         }, 
         "metamorph_c": {
             "id": 5, 
-            "name": "[Knife1]Eviscerator"
+            "name": "Eviscerator"
         }, 
         "metamorph_d": {
             "id": 78, 
-            "name": "[Ninja]Throw Knives"
+            "name": "Throw Knives"
         }
     }
 }

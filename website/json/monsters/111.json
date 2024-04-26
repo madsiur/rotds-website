@@ -189,19 +189,19 @@
     "loots": {
         "steal_rare": {
             "id": 146, 
-            "name": "[Heavy armor]Gold Armor"
+            "name": "Gold Armor"
         }, 
         "steal_common": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "drop_rare": {
             "id": 179, 
-            "name": "[Relic1]Holy Amulet"
+            "name": "Holy Amulet"
         }, 
         "drop_common": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }, 
     "spirits": {
@@ -211,7 +211,7 @@
         }, 
         "spirit_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }
     }, 
     "inverses": {
@@ -221,7 +221,7 @@
         }, 
         "inverse_b": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }
     }, 
     "torments": {
@@ -235,7 +235,7 @@
         }, 
         "torment_c": {
             "id": 15, 
-            "name": "[Black magic]Flare"
+            "name": "Flare"
         }, 
         "torment_d": {
             "id": 255, 
@@ -244,25 +244,25 @@
     }, 
     "fight_animation": {
         "id": 55, 
-        "name": "[Rod3]Thunder Rod"
+        "name": "Thunder Rod"
     }, 
     "metamorph": {
         "id": 3, 
         "metamorph_a": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "metamorph_b": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "metamorph_c": {
             "id": 246, 
-            "name": "[Item1]Snuggie"
+            "name": "Snuggie"
         }, 
         "metamorph_d": {
             "id": 245, 
-            "name": "[Item2]Remedy"
+            "name": "Remedy"
         }
     }
 }

@@ -158,11 +158,11 @@
     "loots": {
         "steal_rare": {
             "id": 67, 
-            "name": "[Stars]Master Star"
+            "name": "Master Star"
         }, 
         "steal_common": {
             "id": 66, 
-            "name": "[Stars]Ninja Star"
+            "name": "Ninja Star"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -186,7 +186,7 @@
     "inverses": {
         "inverse_a": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }, 
         "inverse_b": {
             "id": 227, 
@@ -208,30 +208,30 @@
         }, 
         "torment_d": {
             "id": 14, 
-            "name": "[Black magic]Holy"
+            "name": "Holy"
         }
     }, 
     "fight_animation": {
         "id": 61, 
-        "name": "[Glove]Frost Glove "
+        "name": "Frost Glove"
     }, 
     "metamorph": {
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

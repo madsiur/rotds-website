@@ -194,11 +194,11 @@
     "loots": {
         "steal_rare": {
             "id": 195, 
-            "name": "[Relic1]Oracle Ring"
+            "name": "Oracle Ring"
         }, 
         "steal_common": {
             "id": 174, 
-            "name": "[Scroll]Mist Scroll"
+            "name": "Mist Scroll"
         }, 
         "drop_rare": {
             "id": 255, 
@@ -255,19 +255,19 @@
         "id": 1, 
         "metamorph_a": {
             "id": 247, 
-            "name": "[Item1]Shelter"
+            "name": "Shelter"
         }, 
         "metamorph_b": {
             "id": 240, 
-            "name": "[Item2]Recharge"
+            "name": "Recharge"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 241, 
-            "name": "[Item2]Karma Jolt"
+            "name": "Karma Jolt"
         }
     }
 }

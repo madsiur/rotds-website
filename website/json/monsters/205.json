@@ -164,19 +164,19 @@
     "loots": {
         "steal_rare": {
             "id": 232, 
-            "name": "[Item2]Holy Water"
+            "name": "Holy Water"
         }, 
         "steal_common": {
             "id": 251, 
-            "name": "[Item2]Echo Herbs"
+            "name": "Echo Herbs"
         }, 
         "drop_rare": {
             "id": 54, 
-            "name": "[Rod3]Ice Rod"
+            "name": "Ice Rod"
         }, 
         "drop_common": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }
     }, 
     "spirits": {
@@ -186,13 +186,13 @@
         }, 
         "spirit_b": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 35, 
-            "name": "[Grey magic]Hex"
+            "name": "Hex"
         }, 
         "inverse_b": {
             "id": 178, 
@@ -206,38 +206,38 @@
         }, 
         "torment_b": {
             "id": 1, 
-            "name": "[Black magic]Icicle"
+            "name": "Icicle"
         }, 
         "torment_c": {
             "id": 6, 
-            "name": "[Black magic]Freeze"
+            "name": "Freeze"
         }, 
         "torment_d": {
             "id": 10, 
-            "name": "[Black magic]Blizzard"
+            "name": "Blizzard"
         }
     }, 
     "fight_animation": {
         "id": 54, 
-        "name": "[Rod3]Ice Rod"
+        "name": "Ice Rod"
     }, 
     "metamorph": {
         "id": 0, 
         "metamorph_a": {
             "id": 242, 
-            "name": "[Item2]Aqualin"
+            "name": "Aqualin"
         }, 
         "metamorph_b": {
             "id": 248, 
-            "name": "[Item2]Tulaberry"
+            "name": "Tulaberry"
         }, 
         "metamorph_c": {
             "id": 243, 
-            "name": "[Item2]Clear Eyes"
+            "name": "Clear Eyes"
         }, 
         "metamorph_d": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }
     }
 }

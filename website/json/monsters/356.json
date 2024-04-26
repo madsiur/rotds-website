@@ -194,15 +194,15 @@
     "loots": {
         "steal_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "steal_common": {
             "id": 244, 
-            "name": "[Item2]Tissue"
+            "name": "Tissue"
         }, 
         "drop_rare": {
             "id": 235, 
-            "name": "[Item2]Ether"
+            "name": "Ether"
         }, 
         "drop_common": {
             "id": 255, 
@@ -216,17 +216,17 @@
         }, 
         "spirit_b": {
             "id": 0, 
-            "name": "[Black magic]Fireball"
+            "name": "Fireball"
         }
     }, 
     "inverses": {
         "inverse_a": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }, 
         "inverse_b": {
             "id": 23, 
-            "name": "[Black magic]Meltdown"
+            "name": "Meltdown"
         }
     }, 
     "torments": {
@@ -236,15 +236,15 @@
         }, 
         "torment_b": {
             "id": 19, 
-            "name": "[Black magic]Meteor"
+            "name": "Meteor"
         }, 
         "torment_c": {
             "id": 23, 
-            "name": "[Black magic]Meltdown"
+            "name": "Meltdown"
         }, 
         "torment_d": {
             "id": 22, 
-            "name": "[Black magic]Gravity"
+            "name": "Gravity"
         }
     }, 
     "fight_animation": {
@@ -255,19 +255,19 @@
         "id": 17, 
         "metamorph_a": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_b": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_c": {
             "id": 233, 
-            "name": "[Item2]Potion"
+            "name": "Potion"
         }, 
         "metamorph_d": {
             "id": 220, 
-            "name": "[Relic1]Exodus Token"
+            "name": "Exodus Token"
         }
     }
 }

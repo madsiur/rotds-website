@@ -14,12 +14,13 @@ The website is currently hosted at https://www.ff6hacking.com/rotds/home.html.
     * [Jinja2 3.1.3](https://pypi.org/project/Jinja2/)
     * [pillow 10.3.0](https://pypi.org/project/pillow/)
     * [beautifulsoup4 4.12.3](https://pypi.org/project/beautifulsoup4/)
+    * [mfvitools](https://github.com/emberling/mfvitools) (partially included in `generator/music`)
 2. Website dependencies (included from CND)
     * [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/download/)
     * [jQuery 3.6.3](https://jquery.com/)
     * [SMW Central SPC Player](https://github.com/telinc1/smwcentral-spc-player)
 
-###
+### Credits
 The following people contributed to the romhack assets hosted or on portions of the generator/website code, see `website/credits.html` for details.
 
 * Gi Nattak

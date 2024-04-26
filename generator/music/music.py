@@ -16,7 +16,7 @@ def write_pages(page_name, js_file_name, title, website_dir, templates_dir, cons
     img_url = f"{cons.MEDIA_DIR}/{img_name}"
     img_path = os.path.join(website_dir, cons.MEDIA_DIR, img_name)
     meta_img_alt = "Music Player"
-    meta = helpers.get_meta_data(cons.CHARACTER_KEYWORDS, meta_description, title, url, img_url, img_path, meta_img_alt)
+    meta = helpers.get_meta_data(cons.MUSIC_KEYWORDS, meta_description, title, url, img_url, img_path, meta_img_alt)
 
     data = {
         "levels": levels,
@@ -45,7 +45,7 @@ def write_brr_page(website_dir, templates_dir, cons=helpers.get_constants()):
     img_url = f"{cons.MEDIA_DIR}/{img_name}"
     img_path = os.path.join(website_dir, cons.MEDIA_DIR, img_name)
     meta_img_alt = "Music Player"
-    meta = helpers.get_meta_data(cons.CHARACTER_KEYWORDS, meta_description, "BRR Samples", url, img_url, img_path, meta_img_alt)
+    meta = helpers.get_meta_data(cons.MUSIC_KEYWORDS, meta_description, "BRR Samples", url, img_url, img_path, meta_img_alt)
 
     data = {
         "levels": levels,

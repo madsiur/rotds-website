@@ -74,7 +74,7 @@ def write_pages(guide_parts, website_dir, templates_dir, cons=helpers.get_consta
         img_url = f"{cons.GUIDE_MEDIA_DIR}/{id}/{img_name}.png"
         img_path = os.path.join(website_dir, cons.GUIDE_MEDIA_DIR, str(id), f"{img_name}.png")
         meta_img_alt = f"Guide image {img_name}"
-        meta = helpers.get_meta_data(cons.CHARACTER_KEYWORDS, meta_description, meta_title, url, img_url, img_path, meta_img_alt)
+        meta = helpers.get_meta_data(cons.GUIDE_KEYWORDS, meta_description, meta_title, url, img_url, img_path, meta_img_alt)
 
 
         data = {

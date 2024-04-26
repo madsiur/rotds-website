@@ -6,12 +6,16 @@ class Constants:
     _CHAR_DIR = "characters"
     _MUSIC_DIR = "music"
     _TEXT_DIR = "text"
+    _FONT_DIR = "fonts"
     _GUIDE_DIR = "guide"
     _GUIDE_MEDIA_DIR = "guidemedia"
+    _ITEM_MEDIA_DIR = "itemsmedia"
     _MEDIA_DIR = "media"
     _NPC_DIR = "npcs"
     _MONS_DETAIL_DIR = "monsterdetails"
     _MONS_IMG_DIR = "monsters"
+    _MONS_JSON_DIR = "monsters"
+    _PORTRAITS_DIR = "portraits"
     _TEMPLATES_DIR = "templates"
     _MML_DIR = "mml"
     _SPC_DIR = "spc"
@@ -165,6 +169,10 @@ class Constants:
         "npc images"
     ]
 
+    _CHAR_NAME_ADDR = 0x0478C0
+    _CHAR_NAME_LENGTH = 6
+    _CHAR_NUM = 64
+
     _CMD_NAME_ADDR = 0x18CEA0
     _CMD_NAME_LENGTH = 7
     _CMD_NUM = 32
@@ -218,6 +226,19 @@ class Constants:
     _META_LENGTH = 4
     _META_NUM = 32
 
+    _SMALL_FONT_ADDR = 0x0485C0
+    _SMALL_FONT_LENGTH = 0xA00
+    _SMALL_FONT_NUM_CHARS = 0xA0
+    _SMALL_FONT_STRAT_CHAR = 0x60
+    _SMALL_FONT_PALETTE = [
+        (0x00, 0x00, 0xA0), # Blue
+        (0x00, 0x00, 0x00), # Black
+        (0x80, 0x80, 0x80), # Gray
+        (0xFF, 0xFF, 0xFF), # White
+    ]
+
+    TILE_LENGTH_2BPP = 16
+
     @property
     def WEBSITE_DIR(self):
         return self._WEBSITE_DIR
@@ -243,6 +264,10 @@ class Constants:
         return self._TEXT_DIR
     
     @property
+    def FONT_DIR(self):
+        return self._FONT_DIR
+    
+    @property
     def GUIDE_DIR(self):
         return self._GUIDE_DIR
     
@@ -259,12 +284,24 @@ class Constants:
         return self._GUIDE_MEDIA_DIR
     
     @property
+    def ITEM_MEDIA_DIR(self):
+        return self._ITEM_MEDIA_DIR
+    
+    @property
     def MONS_DETAIL_DIR(self):
         return self._MONS_DETAIL_DIR
     
     @property
     def MONS_IMG_DIR(self):
         return self._MONS_IMG_DIR
+    
+    @property
+    def MONS_JSON_DIR(self):
+        return self._MONS_JSON_DIR
+    
+    @property
+    def PORTRAITS_DIR(self):
+        return self._PORTRAITS_DIR
     
     @property
     def TEMPLATES_DIR(self):
@@ -345,6 +382,18 @@ class Constants:
     @property
     def NPCS_KEYWORDS(self):
         return ", ".join(self._COMMON_KEYWORDS + self._NPCS_KEYWORDS)
+    
+    @property
+    def CHAR_NAME_ADDR(self):
+        return self._CHAR_NAME_ADDR
+    
+    @property
+    def CHAR_NAME_LENGTH(self):
+        return self._CHAR_NAME_LENGTH
+    
+    @property
+    def CHAR_NUM(self):
+        return self._CHAR_NUM
     
     @property
     def CMD_NAME_ADDR(self):
@@ -501,3 +550,28 @@ class Constants:
     @property
     def META_NUM(self):
         return self._META_NUM
+    
+    @property
+    def SMALL_FONT_ADDR(self):
+        return self._SMALL_FONT_ADDR
+    
+    @property
+    def SMALL_FONT_LENGTH(self):
+        return self._SMALL_FONT_LENGTH
+    
+    @property
+    def SMALL_FONT_PALETTE(self):
+        return self._SMALL_FONT_PALETTE
+    
+    @property
+    def SMALL_FONT_NUM_CHARS(self):
+        return self._SMALL_FONT_NUM_CHARS
+    
+    @property
+    def SMALL_FONT_STRAT_CHAR(self):
+        return self._SMALL_FONT_STRAT_CHAR
+    
+    @property
+    def TILE_LENGTH_2BPP(self):
+        return self.TILE_LENGTH_2BPP
+

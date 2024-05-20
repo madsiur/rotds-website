@@ -10,7 +10,9 @@ class Constants:
     _GUIDE_DIR = "guide"
     _GUIDE_MEDIA_DIR = "guidemedia"
     _ITEM_MEDIA_DIR = "itemsmedia"
+    _ITEM_DETAIL_DIR = "itemdetails"
     _MEDIA_DIR = "media"
+    _ROMDATA_DIR = "romdata"
     _NPC_DIR = "npcs"
     _MONS_DETAIL_DIR = "monsterdetails"
     _MONS_IMG_DIR = "monsters"
@@ -23,7 +25,7 @@ class Constants:
     _FOLDER_SECTION = "folder"
     _BRR_SECTION = "brr"
 
-    _WEBSITE_URL = "https://www.ff6hacking.com/rotds/"
+    _WEBSITE_URL = "https://www.rotds.com/"
     _COMMON_TITLE = "RotDS - "
     _COMMON_DESC = "of the Return of the Dark Sorcerer official website."
 
@@ -169,6 +171,30 @@ class Constants:
         "npc images"
     ]
 
+    _ITEM_KEYWORDS = [
+        "items",
+        "game items",
+        "armors",
+        "relics",
+        "weapons",
+        "aethers",
+        "helmets",
+        "shields",
+        "rods",
+        "cloacks",
+        "flairs",
+        "bracers",
+        "belts",
+        "gloves",
+        "boots",
+        "rings",
+        "amulets",
+        "consumable",
+        "consumables",
+        "items list",
+        "item list",
+    ]
+
     _CHAR_NAME_ADDR = 0x0478C0
     _CHAR_NAME_LENGTH = 6
     _CHAR_NUM = 64
@@ -179,6 +205,14 @@ class Constants:
 
     _ITEM_NAME_ADDR = 0x12B300
     _ITEM_NAME_LENGTH = 13
+
+    _ITEM_DATA_ADDR = 0x185000
+    _ITEM_DATA_LENGTH = 30
+
+    _ITEM_DESC_BASE_ADDR = 0x369A00
+    _ITEM_DESC_BASE_PTR = 0x2D7AA0
+    _ITEM_DESC_PTR_LENGTH = 0x02
+
     _ITEM_NUM = 256
 
     _SPELL_NAME_ADDR = 0x316100
@@ -229,9 +263,9 @@ class Constants:
     _SMALL_FONT_ADDR = 0x0485C0
     _SMALL_FONT_LENGTH = 0xA00
     _SMALL_FONT_NUM_CHARS = 0xA0
-    _SMALL_FONT_STRAT_CHAR = 0x60
+    _SMALL_FONT_START_CHAR = 0x60
     _SMALL_FONT_PALETTE = [
-        (0x00, 0x00, 0xA0), # Blue
+        (0xB4, 0xC4, 0xDD), # background
         (0x00, 0x00, 0x00), # Black
         (0x80, 0x80, 0x80), # Gray
         (0xFF, 0xFF, 0xFF), # White
@@ -276,6 +310,10 @@ class Constants:
         return self._MEDIA_DIR
     
     @property
+    def ROMDATA_DIR(self):
+        return self._ROMDATA_DIR
+    
+    @property
     def NPC_DIR(self):
         return self._NPC_DIR
     
@@ -286,6 +324,10 @@ class Constants:
     @property
     def ITEM_MEDIA_DIR(self):
         return self._ITEM_MEDIA_DIR
+    
+    @property
+    def ITEM_DETAIL_DIR(self):
+        return self._ITEM_DETAIL_DIR
     
     @property
     def MONS_DETAIL_DIR(self):
@@ -384,6 +426,10 @@ class Constants:
         return ", ".join(self._COMMON_KEYWORDS + self._NPCS_KEYWORDS)
     
     @property
+    def ITEM_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._ITEM_KEYWORDS)
+    
+    @property
     def CHAR_NAME_ADDR(self):
         return self._CHAR_NAME_ADDR
     
@@ -414,6 +460,26 @@ class Constants:
     @property
     def ITEM_NAME_LENGTH(self):
         return self._ITEM_NAME_LENGTH
+    
+    @property
+    def ITEM_DATA_ADDR(self):
+        return self._ITEM_DATA_ADDR
+    
+    @property
+    def ITEM_DATA_LENGTH(self):
+        return self._ITEM_DATA_LENGTH
+    
+    @property
+    def ITEM_DESC_BASE_ADDR(self):
+        return self._ITEM_DESC_BASE_ADDR
+    
+    @property
+    def ITEM_DESC_BASE_PTR(self):
+        return self._ITEM_DESC_BASE_PTR
+    
+    @property
+    def ITEM_DESC_PTR_LENGTH(self):
+        return self._ITEM_DESC_PTR_LENGTH
     
     @property
     def ITEM_NUM(self):
@@ -568,8 +634,8 @@ class Constants:
         return self._SMALL_FONT_NUM_CHARS
     
     @property
-    def SMALL_FONT_STRAT_CHAR(self):
-        return self._SMALL_FONT_STRAT_CHAR
+    def SMALL_FONT_START_CHAR(self):
+        return self._SMALL_FONT_START_CHAR
     
     @property
     def TILE_LENGTH_2BPP(self):

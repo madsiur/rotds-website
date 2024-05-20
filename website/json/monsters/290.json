@@ -256,12 +256,12 @@
     }, 
     "inverses": {
         "inverse_a": {
-            "id": 239, 
-            "name": "Special"
+            "id": 25, 
+            "name": "Slow"
         }, 
         "inverse_b": {
-            "id": 238, 
-            "name": "Attack"
+            "id": 31, 
+            "name": "Haste"
         }
     }, 
     "torments": {

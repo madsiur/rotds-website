@@ -153,16 +153,20 @@
 }
 
 table#monster-table td.row-a,
+table#item-table td.row-a,
 div#char-table div > div.row-a {
     background-color: #a4b4cd;
 }
 
 table#monster-table td.row-b,
+table#item-table td.row-a,
 div#char-table div > div.row-b {
     background-color: #b4c4dd;
 }
 
 table#monster-table td.row-special,
+table#item-table th.row-special,
+table#item-table td.row-special,
 div#char-table div > div.row-special {
     background-color: #8494ad;
 }

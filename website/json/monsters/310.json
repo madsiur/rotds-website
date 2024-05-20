@@ -39,6 +39,7 @@
                 "Stop"
             ], 
             "status": [
+                "Regen", 
                 "Shell", 
                 "Protect"
             ], 
@@ -97,6 +98,7 @@
                 "Stop"
             ], 
             "status": [
+                "Regen", 
                 "Shell", 
                 "Protect"
             ], 
@@ -156,6 +158,7 @@
                 "Stop"
             ], 
             "status": [
+                "Regen", 
                 "Shell", 
                 "Protect"
             ], 
@@ -215,6 +218,7 @@
                 "Stop"
             ], 
             "status": [
+                "Regen", 
                 "Shell", 
                 "Protect"
             ], 

@@ -62,7 +62,7 @@
         }, 
         "hard": {
             "speed": 30, 
-            "attack": 78, 
+            "attack": 75, 
             "hit_rate": 100, 
             "mblock": 0, 
             "evade": 0, 
@@ -117,7 +117,7 @@
         }, 
         "extreme": {
             "speed": 35, 
-            "attack": 86, 
+            "attack": 83, 
             "hit_rate": 100, 
             "mblock": 0, 
             "evade": 0, 
@@ -172,7 +172,7 @@
         }, 
         "insane": {
             "speed": 40, 
-            "attack": 92, 
+            "attack": 89, 
             "hit_rate": 100, 
             "mblock": 0, 
             "evade": 0, 

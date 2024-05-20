@@ -1,0 +1,70 @@
+
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center">
+                <div class="d-flex flex-column border border-dark border-2 page-div pt-0 px-0 pb-2 my-2 mx-0">
+                    <div class="d-flex flex-column mt-3">
+                        <h3 class="align-self-center">{{ full_name }}</h3>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="container-xl">
+                            <table id="item-table" class="table">
+                                <tbody>
+                                    <tr class="justify-content-center">
+                                        <td class="col-sm-11 col-md-11 col-lg-11 col-xl-8 col-xxl-8 px-2 py-2 row-special border border-dark border-2 text-center" colspan="4"><i>{{ description }}</i></td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Game Name:</td>
+                                        <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-b border-bottom border-end border-dark border-2 text-end">
+                                            <img alt="{{ full_name }}" class="img-fluid" src="../itemsmedia/{{ id }}.png"/>
+                                        </td>
+                                        <td class="col-sm-2 col-md-2 col-lg-2 col-xl-1 col-xxl-1 py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">ID:</td>
+                                        <td class="col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3 py-1 ps-1 pe-2 row-a border-bottom border-end border-dark border-2 text-end">{{ id }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Type:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-bottom border-end border-dark border-2 text-end">{{ item.type }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Subtype:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-bottom border-end border-dark border-2 text-end">{{ item.sub_type }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Cost:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-bottom border-end border-dark border-2 text-end">{{ item.cost }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Targeting:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-bottom border-end border-dark border-2 text-end">{{ item.targeting }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Power:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-bottom border-end border-dark border-2 text-end">{{ item.power }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Special Effect:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-bottom border-end border-dark border-2 text-end">{{ item.special_effect }}</td>
+                                    </tr>
+                                    <tr class="justify-content-center">
+                                        <td class="py-1 ps-2 pe-1 row-b border-start border-bottom border-dark border-2">Status:</td>
+                                        <td class="py-1 ps-1 pe-2 row-b border-bottom border-end border-dark border-2 text-end">{{ item.status_item }}</td>
+                                        <td class="py-1 ps-2 pe-1 row-a border-start border-bottom border-dark border-2">Flags:</td>
+                                        <td class="py-1 ps-1 pe-2 row-a border-bottom border-end border-dark border-2 text-end">{{ item.item_flags }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div id="btns-prev-next" class="d-flex {{ class_btns_prev_next }}">
+                            {%- if prev_id != -1 -%}
+                                <a class="btn btn-dark" type="button" href="{{ prev_id }}.html">← {{ prev_name }}</a>
+                            {%- endif -%}
+                            {%- if next_id != -1 -%}
+                                <a class="btn btn-dark" type="button" href="{{ next_id }}.html">{{ next_name }} →</a>
+                            {%- endif -%}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'publicscripts.html' %}
+        {% include 'scripts.html' %}
+        {% include 'monsterspage.html' %}
+    </body>
+</html>

@@ -3,6 +3,9 @@ import shutil
 import sys
 import json
 import bs4
+
+from romdata.battle_commands import BattleCommandList
+from romdata.items import ItemList
 from .constants import Constants
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader
@@ -42,10 +45,15 @@ def get_bin_data(rom, id, addr, length):
     start_offset = addr + (id * length)
     return rom[start_offset:start_offset+length]
 
+def get_ptr(rom, base_ptr_addr, id, ptr_length):
+    ptr_addr = base_ptr_addr + (id * ptr_length)
+    if ptr_length == 2:
+        return get_short(rom, ptr_addr)
+
 def create_string(rom, id, addr, length, table):
     bin_string = get_bin_data(rom, id, addr, length)
     string = create_text(bin_string, table).strip()
-    return string
+    return string   
 
 def create_text(data: bytearray, table: dict):
     text = ""
@@ -70,6 +78,14 @@ def get_string_flags(list, b, length=None):
             if b & (1 << i):
                 flags.append(list[i])
     return flags
+
+def get_flags_string_from_byte(list, b, length=None):
+    flags = get_string_flags(list, b, length)
+    return get_flags_string(flags)
+
+def get_flags_string(flags):
+    flags = [f for f in flags if (not f.startswith("Not used")) or f == ""]
+    return ", ".join(sorted(flags)) if len(flags) > 0 else "None"
 
 def get_short(data, offset):
     short = data[offset + 1] * 0x100
@@ -104,6 +120,15 @@ def read_file(filename):
             for i in range(len(rows)):
                 rows[i] = rows[i].strip('\n')
             return rows
+    except IOError as e:
+        print(f"An IOError occurred while reading {filename}: {e}")
+        sys.exit()
+
+def read_json(filename):
+    try:
+        with open(filename, "r", encoding='utf-8') as f:
+            json_content = json.load(f)
+            return json_content
     except IOError as e:
         print(f"An IOError occurred while reading {filename}: {e}")
         sys.exit()

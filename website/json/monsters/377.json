@@ -6,7 +6,7 @@
     "stats": {
         "normal": {
             "speed": 30, 
-            "attack": 28, 
+            "attack": 30, 
             "hit_rate": 100, 
             "mblock": 20, 
             "evade": 10, 
@@ -150,7 +150,7 @@
         }, 
         "insane": {
             "speed": 45, 
-            "attack": 47, 
+            "attack": 50, 
             "hit_rate": 110, 
             "mblock": 20, 
             "evade": 10, 
@@ -158,7 +158,7 @@
             "mdef": 150, 
             "mpow": 10, 
             "hp": 1794, 
-            "mp": 300, 
+            "mp": 303, 
             "gil": 0, 
             "exp": 0, 
             "level": 20, 

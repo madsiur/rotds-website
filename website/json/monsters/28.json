@@ -5,12 +5,12 @@
     "special_attack": "Rabies", 
     "stats": {
         "normal": {
-            "speed": 28, 
+            "speed": 30, 
             "attack": 25, 
             "hit_rate": 100, 
             "mblock": 8, 
-            "evade": 11, 
-            "defense": 50, 
+            "evade": 12, 
+            "defense": 65, 
             "mdef": 160, 
             "mpow": 3, 
             "hp": 654, 
@@ -40,11 +40,11 @@
             "special_attack_flags": []
         }, 
         "hard": {
-            "speed": 32, 
+            "speed": 35, 
             "attack": 36, 
             "hit_rate": 100, 
             "mblock": 9, 
-            "evade": 13, 
+            "evade": 14, 
             "defense": 75, 
             "mdef": 160, 
             "mpow": 4, 
@@ -76,12 +76,12 @@
             "special_attack_flags": []
         }, 
         "extreme": {
-            "speed": 35, 
+            "speed": 40, 
             "attack": 44, 
             "hit_rate": 100, 
             "mblock": 10, 
-            "evade": 15, 
-            "defense": 80, 
+            "evade": 16, 
+            "defense": 85, 
             "mdef": 160, 
             "mpow": 5, 
             "hp": 1210, 
@@ -112,11 +112,11 @@
             "special_attack_flags": []
         }, 
         "insane": {
-            "speed": 43, 
+            "speed": 45, 
             "attack": 63, 
             "hit_rate": 100, 
             "mblock": 11, 
-            "evade": 17, 
+            "evade": 18, 
             "defense": 95, 
             "mdef": 160, 
             "mpow": 8, 

@@ -23,10 +23,12 @@ if __name__ == '__main__':
     templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
     text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
     font_dir = os.path.join(generator_dir, cons.FONT_DIR)
+    romdata_dir = os.path.join(generator_dir, cons.ROMDATA_DIR)
     characters_dir = os.path.join(text_dir, cons.CHAR_DIR)
     guide_dir = os.path.join(text_dir, cons.GUIDE_DIR)
     website_dir = os.path.join(root_dir, cons.WEBSITE_DIR)
     mons_detail_dir = os.path.join(website_dir, cons.MONS_DETAIL_DIR)
+    item_detail_dir = os.path.join(website_dir, cons.ITEM_DETAIL_DIR)
     website_guide_dir = os.path.join(website_dir, cons.GUIDE_DIR)
     item_media_dir = os.path.join(website_dir, cons.ITEM_MEDIA_DIR)
     website_characters_dir = os.path.join(website_dir, cons.CHAR_DIR)
@@ -42,6 +44,9 @@ if __name__ == '__main__':
     helpers.remove_directory(mons_detail_dir)
     os.makedirs(mons_detail_dir)
 
+    helpers.remove_directory(item_detail_dir)
+    os.makedirs(item_detail_dir)
+
     helpers.remove_directory(website_guide_dir)
     os.makedirs(website_guide_dir)
 
@@ -56,44 +61,47 @@ if __name__ == '__main__':
     music.write_pages("sfx", "sfx", "Sound Effects", website_dir, templates_dir)
     music.write_brr_page(website_dir, templates_dir)
 
-    path = os.path.join(roms_dir, "ost_a.smc")
-    rom = helpers.read_bin_file(path)
-    rom = helpers.remove_header(rom)
+    path = os.path.join(roms_dir, "rom.smc")
+    data_rom = helpers.read_bin_file(path)
+    data_rom = helpers.remove_header(data_rom)
 
     path = os.path.join(roms_dir, "font.smc")
     font_rom = helpers.read_bin_file(path)
     font_rom = helpers.remove_header(font_rom)
+
     fonts.extract_small_font(font_dir, font_rom)
     font_path = os.path.join(font_dir, "small_font.png")
 
-    spell_list = SpellList()
-    spell_list.create_list(rom)
+    spells_list = SpellList()
+    spells_list.create_list(data_rom)
 
-    command_list = BattleCommandList()
-    command_list.create_list(rom)
+    battle_commands_list = BattleCommandList()
+    battle_commands_list.create_list(data_rom)
 
     metamorph_list = MetamorphPackList()
-    metamorph_list.create_list(rom)
+    metamorph_list.create_list(data_rom)
 
-    character_list = CharacterList()
-    character_list.create_list(characters_dir, portrait_dir)
-    character_list.write_gallery(website_dir, templates_dir)
-    character_list.write_details(website_dir, templates_dir)
+    characters_list = CharacterList()
+    characters_list.create_list(characters_dir, portrait_dir)
+    characters_list.write_gallery(website_dir, templates_dir)
+    characters_list.write_details(website_dir, templates_dir)
 
-    item_list = ItemList(font_path)
-    item_list.create_list(rom)
-    item_list.create_images(item_media_dir)
+    items_list = ItemList(font_path, romdata_dir, battle_commands_list, characters_list, spells_list)
+    items_list.create_list(data_rom)
+    items_list.create_images(item_media_dir)
+    items_list.write_gallery(website_dir, templates_dir)
+    items_list.write_details(website_dir, templates_dir)
 
     path = os.path.join(website_dir, cons.MONS_IMG_DIR)
     mons_filenames = os.listdir(path)
     mons_filenames = sorted(mons_filenames)
 
     monster_list = MonsterList()
-    monster_list.create_list(rom, mons_filenames, item_list, spell_list, metamorph_list, monster_json_dir)
+    monster_list.create_list(data_rom, mons_filenames, items_list, spells_list, metamorph_list, monster_json_dir)
     monster_list.write_pages(website_dir, templates_dir)
 
     esper_list = EsperList()
-    esper_list.create_list(rom, mons_filenames)
+    esper_list.create_list(data_rom, mons_filenames)
     esper_list.write_gallery(website_dir, templates_dir)
 
     guide_data = guide.write_gallery(guide_dir, website_dir, templates_dir)

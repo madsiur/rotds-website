@@ -7,6 +7,7 @@ status_def = [
     "Pig",
     "Petrify",
     "KO'd",
+
     "Condemned",
     "Near fatal",
     "Image",
@@ -15,6 +16,7 @@ status_def = [
     "Confuse",
     "Seizure",
     "Psyche",
+
     "Dance",
     "Regen",
     "Slow",
@@ -23,6 +25,7 @@ status_def = [
     "Shell",
     "Protect",
     "Reflect",
+    
     "True knight",
     "Runic",
     "Reraise",

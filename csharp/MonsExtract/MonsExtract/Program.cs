@@ -6,11 +6,6 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 
 namespace MonsExtract
 {
@@ -34,13 +29,13 @@ namespace MonsExtract
             string currentFolder = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName);
             DirectoryInfo rootDirectory = Directory.GetParent(Directory.GetParent(Directory.GetParent(Directory.GetParent(Directory.GetParent(currentFolder).FullName).FullName).FullName).FullName);
             string monsterJson = Path.Combine(rootDirectory.FullName, "common", "monsters.json");
+            string monsterFilenamesJson = Path.Combine(rootDirectory.FullName, "common", "monster_filenames.json");
             string websiteFolder = Path.Combine(rootDirectory.FullName, "website");
             string imageFolder = Path.Combine(websiteFolder, "monsters");
-            string jsFile = Path.Combine(websiteFolder, "js", "generated", "monsters.js");
 
             if (!File.Exists(monsterJson))
             {
-                Console.WriteLine(monsterJson + " does not exist.");
+                Console.WriteLine($"{monsterJson} does not exist.");
                 Environment.Exit(0);
             }
 
@@ -65,9 +60,11 @@ namespace MonsExtract
             if (Directory.Exists(imageFolder))
             {
                 Directory.Delete(imageFolder, true);
+                Console.WriteLine($"Deleting {imageFolder}");
             }
 
             Directory.CreateDirectory(imageFolder);
+            Console.WriteLine($"Creating {imageFolder}");
 
             byte[] rom = br.ReadBytes((int)fs.Length);
 
@@ -81,19 +78,19 @@ namespace MonsExtract
                     if (i <= MAX_MONS)
                     {
                         m = monsters.Where(x => x.id == i).First();
-                        monsName = m.name.ToLower().Trim().Replace(". ", "_").Replace(" ", "_").Replace(".", "_").Replace("-", "_");
+                        monsName = m.name.Replace(". ", "_").Replace(" ", "_").Replace(".", "_").Replace("-", "_").Replace("__", "_");
                     }
 
                     Bitmap img = GetMonsImg(rom, i);
                     
                     // create filename
                     string strId = i < 10 ? "00" + i : i < 100 ? "0" + i : i.ToString();
-                    string filename = monsName == string.Empty ? strId: strId + "_" + monsName;
+                    string imageFilename = monsName == string.Empty ? strId: $"{strId}_{monsName.ToLower()}";
+                    
                     if (i <= MAX_MONS)
                     {
-                        m.filename = filename;
+                        m.filename = imageFilename;
                     }
-                    filename += ".png";
 
                     if (img != null)
                     {
@@ -101,8 +98,9 @@ namespace MonsExtract
                         {
                             img = TrimBitmap(img);
                         }
-                        img.Save(Path.Combine(imageFolder, filename), ImageFormat.Png);
-                        Console.WriteLine("creating " + filename + "..");
+                        imageFilename = $"{imageFilename}.png";
+                        img.Save(Path.Combine(imageFolder, imageFilename), ImageFormat.Png);
+                        Console.WriteLine($"Creating {imageFilename}");
                     }
                 }
             }
@@ -110,12 +108,12 @@ namespace MonsExtract
             br.Close();
             fs.Close();
 
-            // write js file
-            string strJson = "const monsters = \n";
-            strJson += JsonConvert.SerializeObject(monsters, Formatting.Indented) + ";";
-            using (StreamWriter w = new StreamWriter(jsFile))
+            // write json file
+            var strJson = JsonConvert.SerializeObject(monsters, Formatting.Indented);
+            using (StreamWriter w = new StreamWriter(monsterFilenamesJson))
             {
                 w.Write(strJson);
+                Console.WriteLine($"Creating {monsterFilenamesJson}");
             }
 
             Console.WriteLine(" ");

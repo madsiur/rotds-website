@@ -1,7 +1,7 @@
 import os
 import common.helpers as helpers
 from common.constants import Constants
-from .tables import tbl_menu_a
+from .tables import tbl_menu_a, tbl_battle_b
 
 class Esper:
     def __init__(self, id: int, name: str):
@@ -15,18 +15,35 @@ class EsperList(list):
         super().__init__()
         self.cons = Constants()
 
-    def create_list(self, rom: bytearray, mons_filenames: list):
+    def get_names(self, rom: bytearray):
+        entries = []
+        for id in range(self.cons.ESPER_NUM):
+            entry = {}
+            name = helpers.create_string(rom, id, self.cons.ESPER_NAME_ADDR, self.cons.ESPER_NAME_LENGTH, tbl_battle_b)
+            name = name.replace(" ", "_").strip()
+            entry["id"] = id + self.cons.MONS_NUM
+            entry["name"] = name
+            entries.append(entry)
+        return entries
+
+    def create_list(self, rom: bytearray, esper_names: list, mons_filenames: list):
         start = self.cons.MONS_NUM
         end = start + self.cons.ESPER_NUM
+
         for id in range(start, end):
-            name = helpers.create_string(rom, id - self.cons.MONS_NUM, self.cons.ESPER_NAME_ADDR, self.cons.ESPER_NAME_LENGTH, tbl_menu_a)
+            entry = [f for f in esper_names if f["id"] == id]
+            name = entry[0]["name"].replace("_", " ")                                                                                                                                             
             self.append(Esper(id, name))
 
-        # add file names
-        for id in range(0, self.cons.ESPER_NUM):
-            filename = [f for f in mons_filenames if f[0:3] == str(id+self.cons.MONS_NUM).zfill(3)]
-            if len(filename) != 0:
-                self[id].filename = filename[0].replace(".png", "")
+        # add filenames
+        for id in range(start, end):
+            esper_exists = any(d.get("id") == id for d in mons_filenames)
+            if(esper_exists):
+                entry = [f for f in mons_filenames if f["id"] == id]
+                filename = entry[0]["filename"]
+                if filename != "":
+                    index = id - start
+                    self[index].filename = filename
 
     def write_gallery(self, website_dir, templates_dir):
         is_esper = True

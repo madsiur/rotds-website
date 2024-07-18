@@ -6,4 +6,5 @@ __pycache__
 bin
 obj
 packages
-env
+venv
+download/

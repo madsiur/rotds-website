@@ -31,15 +31,30 @@ class MonsterList(list):
         super().__init__()
         self.cons = Constants()
 
-    def create_list(self, rom: bytearray, mons_filenames: list, item_list: ItemList, spell_list: SpellList, metamorph_list: MetamorphPackList, json_dir: str):
+    def get_names(self, rom: bytearray):
+        entries = []
         for id in range(self.cons.MONS_NUM):
-            name = helpers.create_string(rom, id, self.cons.MONS_NAME_ADDR, self.cons.MONS_NAME_LENGTH, tbl_menu_a)
+            entry = {}
+            name = helpers.create_string(rom, id, self.cons.MONS_NAME_ADDR, self.cons.MONS_NAME_LENGTH, tbl_battle_b)
+            name = name.replace(" ", "_").strip()
+            entry["id"] = id
+            entry["name"] = name
+            entries.append(entry)
+        return entries
+
+    def create_list(self, rom: bytearray, monster_names: list, monster_filenames: list, item_list: ItemList, spell_list: SpellList, metamorph_list: MetamorphPackList, json_dir: str):
+        for id in range(self.cons.MONS_NUM):
+            entry = [f for f in monster_names if f["id"] == id]
+            name = entry[0]["name"].replace("_", " ")                                                                                                                                                
             self.append(Monster(id, name))
 
         for id in range(self.cons.MONS_NUM):
-            filename = [f for f in mons_filenames if f[0:3] == str(id).zfill(3)]
-            if len(filename) != 0:
-                self[id].filename = filename[0].replace(".png", "")
+            monster_exists = any(d.get("id") == id for d in monster_filenames)
+            if(monster_exists):
+                entry = [f for f in monster_filenames if f["id"] == id]
+                filename = entry[0]["filename"]
+                if filename != "":
+                    self[id].filename = filename
 
             self[id].special_attack = helpers.create_string(rom, id, self.cons.MONS_SATK_NAME_ADDR, self.cons.MONS_SATK_NAME_LENGTH, tbl_battle_b)
 

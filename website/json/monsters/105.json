@@ -2,7 +2,7 @@
     "id": 105, 
     "name": "Poe Boy", 
     "filename": "105_poe_boy", 
-    "special_attack": "Plasma Star", 
+    "special_attack": "Spin Attack", 
     "stats": {
         "normal": {
             "speed": 38, 

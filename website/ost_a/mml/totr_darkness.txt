@@ -29,22 +29,17 @@ g+rg+4^8r4^8ar  arara4^8r4^8  a+ra+ra+ra+4^8r4  ^8brbrbrb4^8r4
 
 l16
 {2}
-l16%e1r1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^2 $2 v104p60|0%r4o3b2  ^4<c2^4  d+2^4d2  ^4>a+2^4  
+l16%e1[13r1  
+]r2 $2 v104p60|0%r4o3b2  ^4<c2^4  d+2^4d2  ^4>a+2^4  
 g+2^4g2  ^4<c2^4  d+2^4g+2  ^4<c2^4  
 d+2^4r2  ^4o3b1  ^8<d1  ^8f1  
 ^1  ^1  ^4^8r1  ^1  
-^1  ^2^4v30p80|1%r2>g8g+8  a8a+2^4o6gr32f+  r32f+r32[5[8gr32gr32f+r32f+r32]][7gr32gr32f+r32f+r32]gr32r4  
-^8v104p60|0%r4o4c+rc+rc+rc+4^8r4  ^8drdrdrd4^8r4  ^8d+rd+rd+rd+4^8r4  
+^1  ^2^4v30p80|1%r2>g8g+8  a8a+2^4o6[18g24r24f+24  r24f+24r24g24r24g24r24f+24r24f+24r24g24r24g24r24f+24r24f+24r24g24r24]r3  
+r24v104p60|0%r4o4c+rc+rc+rc+4^8r4  ^8drdrdrd4^8r4  ^8d+rd+rd+rd+4^8r4  
 ^8ererere4^8r4  ^8frfrfrf4^8r4  ^8f+rf+rf+rf+4^8r4  ^8grgrgrg4^8r4  
 ^8g+rg+rg+rg+4^8r4  ^8ararara4^8r4  ^8a+ra+ra+ra+4^8r4  ^8brbrbrb4^8r4  
 ^8<crcrcrc4^8c+1  ^1  ^1  v224,0^1  
-^2r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  
+^2[9r1  ]
 ;2
 
 l16
@@ -56,24 +51,17 @@ l16%e1r1  ^1  ^1
 ^1  v192,24^2^4v104d2  ^4d+1  ^1  
 ^1  v192,24^2^4v104g+2  ^4g1  ^8a+1  
 ^8<c+1  ^1  ^1  v192,24^2^4v104c+1  
-^8d4^8c+4d4  d+4e4r8v80p60|1%r2ererer  era+ra+ra+r<ererera+r  a+ra+rerer1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^>c+1  ^8d1  ^8d+1  
-^8e1  ^8f1  ^8f+1  ^8g1  
-^8g+1  ^8a1  ^8a+1  ^8b1  
-^8<c1  ^8r1  ^1  ^1  
-^1  ^2
+^8d4^8c+4d4  d+4e4r8v80p60|1%r2ererer  era+ra+ra+r<ererera+r  a+ra+rere[18r1  
+]r>c+1  ^8d1  ^8d+1  ^8e1  
+^8f1  ^8f+1  ^8g1  ^8g+1  
+^8a1  ^8a+1  ^8b1  ^8<c1  
+^8r1  ^1  ^1  ^1  
+^2
 ;3
 
 l16
 {4}
-l16%e1 $4 r1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^v60p60|1%r2o5v16,16,32gg+a+<c1  
+l16%e1 $4 [14r1  ]rv60p60|1%r2o5v16,16,32gg+a+<c1  
 ^2>a+2  ^4<d+2^4  d2^4>a+2  ^4<c1  
 ^1  ^1  ^2^4d+2  ^4d4^8>b4^8  
 g4^8f4^8d4  ^8f4^8g+4fgg+8  r8a+<cc+8r8fgg+8r8g+<c  c+8r8ff+g+8r1  
@@ -112,7 +100,7 @@ g8r4g8r4g8rg8  rg8r4
 
 l16
 {6}
-l16%e1v127p20|3o3g8g8g8g8^4  g8^4g8^4g8^g8  
+l16%e1v120p20|3o3g8g8g8g8^4  g8^4g8^4g8^g8  
 ^g8^4g8g8g8g8^4  g8^4g8^4g8^g8  ^g8^4 $6 g8g8g8g8^4  [2g8^4g8^4g8^g8  
 ^g8^4g8g8g8g8^4  g8^4g8^4g8^g8  ^g8^4g8g8g8g8^4  ]a8^4a8^4a8^a8  
 ^a8^4a8a8a8a8^4  a8^4a8^4a8^a8  ^a8^4g8g8g8g8^4  a8^4a8^4a8^a8  

@@ -33,8 +33,7 @@
             "weakness": [], 
             "misc": [
                 "Human", 
-                "Critical attacks if Pig", 
-                "Undead"
+                "Critical attacks if Pig"
             ], 
             "metamorph_rate": "99.6%", 
             "special_attack_effect": "2.0x damage", 
@@ -69,8 +68,7 @@
             "weakness": [], 
             "misc": [
                 "Human", 
-                "Critical attacks if Pig", 
-                "Undead"
+                "Critical attacks if Pig"
             ], 
             "metamorph_rate": "99.6%", 
             "special_attack_effect": "2.0x damage", 
@@ -105,8 +103,7 @@
             "weakness": [], 
             "misc": [
                 "Human", 
-                "Critical attacks if Pig", 
-                "Undead"
+                "Critical attacks if Pig"
             ], 
             "metamorph_rate": "99.6%", 
             "special_attack_effect": "2.0x damage", 
@@ -142,7 +139,6 @@
             "misc": [
                 "Human", 
                 "Critical attacks if Pig", 
-                "Undead", 
                 "Hard to run from"
             ], 
             "metamorph_rate": "99.6%", 

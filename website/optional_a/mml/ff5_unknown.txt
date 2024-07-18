@@ -68,7 +68,7 @@ c+1  c+1  c+1  ^1
 
 l16
 {5}
-l16v75p31|2%e1o4v57cd+g<c>v50cd+g<c>v42cd+g<c>v35cd+g<c  
+l16v75p60|2%e1o4v57cd+g<c>v50cd+g<c>v42cd+g<c>v35cd+g<c  
 >v27cd+g<c>v22cd+g<c>v17cd+g<c>v15cd+g<c  > $5 v57cd+g<c>v50cd+g<c>v42cd+g<c>v35cd+g<c  
 >v27cd+g<c>v22cd+g<c>v17cd+g<c>v15cd+g<c  >v57c+fg+<c+>v50c+fg+<c+>v42c+fg+<c+>v35c+fg+<c+  
 >v27c+fg+<c+>v22c+fg+<c+>v17c+fg+<c+>v15c+fg+<c+  >>v57a+<c+fa+>v50a+<c+fa+>v42a+<c+fa+>v35a+<c+fa+  
@@ -103,14 +103,14 @@ b1  <c+1  ^1
 
 l16
 {7}
-l16p32r1  
+l16p62r1  
 r1  o5 $7 |4v70a8|5v60g+g+v50ggv40f+f+|4v30f8|5v40ee|4v50d+8|5v60dd  
 |4v70c+8|5v60ddv50d+d+v40ee|4v30f8|5v40f+f+|4v50g8|5v60g+g+  
 ;7
 
 l16
 {8}
-l16p32r1  
+l16p60r1  
 r1   $8 o5[8|6v125%e0a8a8^2^4  a8a8^4|8a2  |6a8a8^2^4  
 a8a8^4|7%e1v125a6v87a6v50a6  ]|6v125%e0a8a8^2^4  a8a8^4|8a2  
 ;8

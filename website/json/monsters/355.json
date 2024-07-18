@@ -1,8 +1,8 @@
 {
     "id": 355, 
-    "name": "Deity", 
-    "filename": "355_deity", 
-    "special_attack": "Cosmos Pound", 
+    "name": "GremlinNob", 
+    "filename": "355_gremlinnob", 
+    "special_attack": "Savage Strike", 
     "stats": {
         "normal": {
             "speed": 37, 
@@ -33,9 +33,7 @@
                 "Poison"
             ], 
             "misc": [
-                "Dies at 0 MP", 
-                "Human", 
-                "Dragon"
+                "Dies at 0 MP"
             ], 
             "metamorph_rate": "12.5%", 
             "special_attack_effect": "5.0x damage", 
@@ -71,8 +69,6 @@
             ], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
-                "Dragon", 
                 "Hard to run from"
             ], 
             "metamorph_rate": "12.5%", 
@@ -109,8 +105,6 @@
             ], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
-                "Dragon", 
                 "Hard to run from"
             ], 
             "metamorph_rate": "12.5%", 
@@ -147,8 +141,6 @@
             ], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
-                "Dragon", 
                 "Hard to run from"
             ], 
             "metamorph_rate": "12.5%", 
@@ -213,8 +205,8 @@
         }
     }, 
     "fight_animation": {
-        "id": 255, 
-        "name": "Nothing"
+        "id": 17, 
+        "name": "Cael Hammer"
     }, 
     "metamorph": {
         "id": 19, 

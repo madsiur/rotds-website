@@ -1,8 +1,8 @@
 {
     "id": 239, 
-    "name": "Neematoad", 
-    "filename": "239_neematoad", 
-    "special_attack": "Tongue Lash", 
+    "name": "Basilisk", 
+    "filename": "239_basilisk", 
+    "special_attack": "Leap Attack", 
     "stats": {
         "normal": {
             "speed": 25, 

@@ -5,7 +5,7 @@
     "special_attack": "Flying Slam", 
     "stats": {
         "normal": {
-            "speed": 10, 
+            "speed": 20, 
             "attack": 33, 
             "hit_rate": 100, 
             "mblock": 6, 
@@ -15,14 +15,13 @@
             "mpow": 10, 
             "hp": 6000, 
             "mp": 801, 
-            "gil": 620, 
+            "gil": 420, 
             "exp": 3700, 
             "level": 54, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
-                "Petrify", 
-                "KO'd"
+                "Petrify"
             ], 
             "status": [], 
             "absorb": [
@@ -43,7 +42,7 @@
             "special_attack_flags": []
         }, 
         "hard": {
-            "speed": 13, 
+            "speed": 23, 
             "attack": 38, 
             "hit_rate": 100, 
             "mblock": 8, 
@@ -53,14 +52,13 @@
             "mpow": 10, 
             "hp": 7643, 
             "mp": 1020, 
-            "gil": 682, 
+            "gil": 482, 
             "exp": 4394, 
             "level": 55, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
                 "Petrify", 
-                "KO'd", 
                 "Stop"
             ], 
             "status": [], 
@@ -82,7 +80,7 @@
             "special_attack_flags": []
         }, 
         "extreme": {
-            "speed": 18, 
+            "speed": 28, 
             "attack": 46, 
             "hit_rate": 100, 
             "mblock": 10, 
@@ -92,14 +90,13 @@
             "mpow": 13, 
             "hp": 10346, 
             "mp": 1520, 
-            "gil": 750, 
+            "gil": 550, 
             "exp": 5557, 
             "level": 56, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
                 "Petrify", 
-                "KO'd", 
                 "Stop"
             ], 
             "status": [], 
@@ -121,7 +118,7 @@
             "special_attack_flags": []
         }, 
         "insane": {
-            "speed": 25, 
+            "speed": 35, 
             "attack": 52, 
             "hit_rate": 110, 
             "mblock": 13, 
@@ -131,14 +128,13 @@
             "mpow": 18, 
             "hp": 14692, 
             "mp": 3040, 
-            "gil": 825, 
+            "gil": 625, 
             "exp": 6910, 
             "level": 59, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
                 "Petrify", 
-                "KO'd", 
                 "Stop"
             ], 
             "status": [], 

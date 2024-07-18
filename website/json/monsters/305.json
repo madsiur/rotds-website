@@ -290,8 +290,8 @@
         }
     }, 
     "fight_animation": {
-        "id": 255, 
-        "name": "Nothing"
+        "id": 63, 
+        "name": "Shatterhand"
     }, 
     "metamorph": {
         "id": 0, 

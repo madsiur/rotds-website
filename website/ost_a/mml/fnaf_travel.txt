@@ -8,7 +8,7 @@
 #WAVE 0x22 0x18 ## acoustic bass (FF6)
 
 {1}
-l16t120%v40%e1%b0,70%f0,0 $1 v60p64|0o3a8<c8e8a8<e8c8>a8e8  
+l16t120%v50%e1%b0,80%f0,0 $1 v60p64|0o3a8<c8e8a8<e8c8>a8e8  
 >a8<c8e8a8<e8c8>a8e8  c8e8g8<c8e8c8>g8e8  >e8g8b8<e8b8g8e8>b8  f8a8<c8a8<c8>a8f8c8  
 >g8b8<d8g8b8g8e8c8  >a8<c8e8a8<e8c8>a8e8  >a8<c8e8a8<e8c8>a8e8  
 >d8f8a8<d8f8d8>a8f8  d8f8a8<d8f8d8>a8f8  f8a8<c8f8a8f8c8>a8  a8<c8e8a8<c8>a8e8c8  
@@ -52,22 +52,17 @@ d2e2  c1  c2^4>a4  <c2>b2
 
 l16
 {3}
-l16%e0 $3 v100p64|2r1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-^1  ^1  ^1  ^1  
-o4d1  f1  a+1  f1  
-g1  <c1  >f2e2  d2c2  
-d1  f1  a+1  f1  
-a+1  e1  f1  f1  
-a8r2^4^8  <c8r2^4^8  >e8r2^4^8  f8r2^4^8  
-a8r2^4^8  <c8r2^4^8  >e8r2^4^8  f8r2^4^8  
-d8r2^4^8  f8r2^4^8  a8r2^4^8  a+8r2^4^8  
-<d2c2  >a+2a2  g2f2  e2c2  
-d1  f1  a+1  f2c2  
-g1  c1  f2e2  d4a4<c4>a4  
-d1  f1  e1  a2g2  
-f1  e1  
+l16%e0 $3 v100p64|2[16r1  ]o4d1  f1  a+1  
+f1  g1  <c1  >f2e2  
+d2c2  d1  f1  a+1  
+f1  a+1  e1  f1  
+f1  [2a8r2^4^8  <c8r2^4^8  >e8r2^4^8  
+f8r2^4^8  ]d8r2^4^8  f8r2^4^8  a8r2^4^8  
+a+8r2^4^8  <d2c2  >a+2a2  g2f2  
+e2c2  d1  f1  a+1  
+f2c2  g1  c1  f2e2  
+d4a4<c4>a4  d1  f1  e1  
+a2g2  f1  e1  
 ;3
 
 l16

@@ -2,7 +2,7 @@
     "id": 193, 
     "name": "Malific", 
     "filename": "193_malific", 
-    "special_attack": "Cursed Gaze", 
+    "special_attack": "Decompose", 
     "stats": {
         "normal": {
             "speed": 39, 

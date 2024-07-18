@@ -152,7 +152,7 @@
         "env": 65504, 
         "pitch": 44960, 
         "size": 9412, 
-        "occ": 298, 
+        "occ": 297, 
         "filename": "FF6_strings"
     }, 
     {
@@ -320,7 +320,7 @@
         "env": 65520, 
         "pitch": 43328, 
         "size": 952, 
-        "occ": 148, 
+        "occ": 147, 
         "filename": "FF6_harp"
     }, 
     {
@@ -380,7 +380,7 @@
         "env": 65514, 
         "pitch": 43264, 
         "size": 3148, 
-        "occ": 49, 
+        "occ": 50, 
         "filename": "FF6_marimba"
     }, 
     {
@@ -1352,7 +1352,7 @@
         "env": 65504, 
         "pitch": 21504, 
         "size": 7801, 
-        "occ": 1, 
+        "occ": 2, 
         "filename": "CT_future_strings"
     }, 
     {
@@ -2156,7 +2156,7 @@
         "env": 65504, 
         "pitch": 6144, 
         "size": 7081, 
-        "occ": 7, 
+        "occ": 8, 
         "filename": "GH_synth_strings"
     }, 
     {

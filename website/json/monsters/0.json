@@ -185,8 +185,8 @@
         }
     }, 
     "fight_animation": {
-        "id": 10, 
-        "name": "Iron Sword"
+        "id": 6, 
+        "name": "War Machete"
     }, 
     "metamorph": {
         "id": 0, 

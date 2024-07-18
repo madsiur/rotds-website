@@ -23,8 +23,8 @@ d+4f32g32g+32a+32v60o6c32c+32d+32f1  ^1  m20,18,217v255,0^1  ^1
 
 l16
 {2}
-l16%e0v40p64|1%r8o5f1  ^1  f1  v144,0^1  
-[17r1  ] $2 o5v50%r12[2d+^d+4d+^d+^d+4d+^  c+^c+4c+^c+^c+4c+^  ]>a+^a+4a+^<c^c4c^  
+l16%e0v60p64|1%r8o5f1  ^1  f1  v144,0^1  
+[17r1  ] $2 o5v60%r12[2d+^d+4d+^d+^d+4d+^  c+^c+4c+^c+^c+4c+^  ]>a+^a+4a+^<c^c4c^  
 >f2^4^r8^  [7f2^4^r8^  ]<d+2c+2  c2>a+2  
 <c2>f2  ^4^[5r8^f2  ^4^]r8^<d+2  c+2c2  
 >a+2<c2  >f2^4^r8^  f2^4^r8^  
@@ -32,7 +32,7 @@ l16%e0v40p64|1%r8o5f1  ^1  f1  v144,0^1
 
 l16
 {3}
-l16%e1v10p64 $3 |2o5p0,192,127[4>v240,60fr<cr>g+r<cr>fr<c+r>a+r<c+r  
+l16%e1v10p64 $3 |2o5p0,192,127[4>v240,50fr<cr>g+r<cr>fr<c+r>a+r<c+r  
 >fr<d+rcrd+r>fr<c+r>a+r<c+r  ]>d+r<cr>gr<cr>c+rg+rfrg+r  crgrd+rgr>a+r<frc+rfr  
 crgrd+rgrfr<cr>g+r<cr  >fr<c+r>a+r<c+r>fr<d+rcrd+r  >fr<c+r>a+r<c+r>fr<cr>g+r<cr  
 >fr<c+r>a+r<c+r>fr<d+rcrd+r  >fr<c+r>a+r<c+r>fr<cr>g+r<cr  >fr<c+r>a+r<c+r>fr<d+rcrd+r  

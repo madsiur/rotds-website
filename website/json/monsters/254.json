@@ -1,8 +1,8 @@
 {
     "id": 254, 
-    "name": "Crockpot", 
-    "filename": "254_crockpot", 
-    "special_attack": "Crush", 
+    "name": "Arachtron", 
+    "filename": "254_arachtron", 
+    "special_attack": "Plasma Shot", 
     "stats": {
         "normal": {
             "speed": 60, 
@@ -252,8 +252,8 @@
         }
     }, 
     "fight_animation": {
-        "id": 83, 
-        "name": "Blunderbuss"
+        "id": 1, 
+        "name": "Buster Sword"
     }, 
     "metamorph": {
         "id": 31, 

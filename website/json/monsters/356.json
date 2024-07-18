@@ -1,8 +1,8 @@
 {
     "id": 356, 
-    "name": "Trickster", 
-    "filename": "356_trickster", 
-    "special_attack": "Crash Dive", 
+    "name": "Karakasa", 
+    "filename": "356_karakasa", 
+    "special_attack": "Tongue Lash", 
     "stats": {
         "normal": {
             "speed": 38, 
@@ -41,7 +41,6 @@
             "weakness": [], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
                 "Block suplex", 
                 "Can't run from"
             ], 
@@ -87,7 +86,6 @@
             "weakness": [], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
                 "Hard to run from", 
                 "Block suplex", 
                 "Can't run from"
@@ -134,7 +132,6 @@
             "weakness": [], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
                 "Hard to run from", 
                 "Block suplex", 
                 "Can't run from"
@@ -181,7 +178,6 @@
             "weakness": [], 
             "misc": [
                 "Dies at 0 MP", 
-                "Human", 
                 "Hard to run from", 
                 "Block suplex", 
                 "Can't run from"

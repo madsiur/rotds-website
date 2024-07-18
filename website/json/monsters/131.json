@@ -1,8 +1,8 @@
 {
     "id": 131, 
-    "name": "Dragon", 
-    "filename": "131_dragon", 
-    "special_attack": "Tail Swing", 
+    "name": "Deathwing", 
+    "filename": "131_deathwing", 
+    "special_attack": "Onslaught", 
     "stats": {
         "normal": {
             "speed": 50, 
@@ -219,8 +219,8 @@
         }
     }, 
     "fight_animation": {
-        "id": 255, 
-        "name": "Nothing"
+        "id": 87, 
+        "name": "Blazing Claw"
     }, 
     "metamorph": {
         "id": 14, 

@@ -20,7 +20,7 @@
         "env": 65518, 
         "pitch": 43328, 
         "size": 1159, 
-        "occ": 131, 
+        "occ": 132, 
         "filename": "FF6_electric_bass"
     }, 
     {
@@ -152,7 +152,7 @@
         "env": 65504, 
         "pitch": 44960, 
         "size": 9412, 
-        "occ": 297, 
+        "occ": 298, 
         "filename": "FF6_strings"
     }, 
     {
@@ -164,7 +164,7 @@
         "env": 65504, 
         "pitch": 43264, 
         "size": 1078, 
-        "occ": 107, 
+        "occ": 108, 
         "filename": "FF6_trumpet"
     }, 
     {
@@ -176,7 +176,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 727, 
-        "occ": 95, 
+        "occ": 97, 
         "filename": "FF6_closed_hi_hat"
     }, 
     {
@@ -200,7 +200,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 4831, 
-        "occ": 88, 
+        "occ": 89, 
         "filename": "FF6_open_hi_hat"
     }, 
     {
@@ -212,7 +212,7 @@
         "env": 65518, 
         "pitch": 0, 
         "size": 4291, 
-        "occ": 203, 
+        "occ": 204, 
         "filename": "FF6_cymbal"
     }, 
     {
@@ -332,7 +332,7 @@
         "env": 65504, 
         "pitch": 64928, 
         "size": 1312, 
-        "occ": 126, 
+        "occ": 128, 
         "filename": "FF6_bass"
     }, 
     {
@@ -404,7 +404,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 1231, 
-        "occ": 207, 
+        "occ": 209, 
         "filename": "FF6_kick_drum"
     }, 
     {
@@ -632,7 +632,7 @@
         "env": 65521, 
         "pitch": 0, 
         "size": 2509, 
-        "occ": 67, 
+        "occ": 68, 
         "filename": "UNK_melodic_tom"
     }, 
     {
@@ -644,7 +644,7 @@
         "env": 65504, 
         "pitch": 43360, 
         "size": 2203, 
-        "occ": 20, 
+        "occ": 21, 
         "filename": "UNK_sawtooth"
     }, 
     {
@@ -1136,7 +1136,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 4498, 
-        "occ": 48, 
+        "occ": 50, 
         "filename": "FF6_hard_snare"
     }, 
     {
@@ -1556,7 +1556,7 @@
         "env": 65504, 
         "pitch": 48544, 
         "size": 6712, 
-        "occ": 17, 
+        "occ": 18, 
         "filename": "SOM_strings"
     }, 
     {
@@ -2504,7 +2504,7 @@
         "env": 36352, 
         "pitch": 54720, 
         "size": 3553, 
-        "occ": 2, 
+        "occ": 3, 
         "filename": "TOTR_orchit"
     }, 
     {

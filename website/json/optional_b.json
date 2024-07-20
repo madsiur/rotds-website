@@ -36,6 +36,15 @@
         "duration": 64
     }, 
     {
+        "id": 76, 
+        "filename": "rambo_stage", 
+        "title": "Stage Select", 
+        "game": "Rambo", 
+        "composer": "Tohru Hasabe, Minky Motoyama", 
+        "arranger": "Gi Nattak", 
+        "duration": 118
+    }, 
+    {
         "id": 79, 
         "filename": "ff3_dark", 
         "title": "Dark World", 

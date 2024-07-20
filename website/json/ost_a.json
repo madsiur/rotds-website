@@ -1036,7 +1036,7 @@
     }, 
     {
         "id": 122, 
-        "filename": "sgf_battle", 
+        "filename": "sgf_battle5", 
         "title": "Battle #5", 
         "game": "Saga Frontier", 
         "composer": "Kenji Ito", 
@@ -1607,7 +1607,7 @@
         "title": "Dreadful Battle", 
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
-        "arranger": "Gi Nattak", 
+        "arranger": "Tsushiy", 
         "duration": 177
     }, 
     {

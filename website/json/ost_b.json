@@ -487,7 +487,7 @@
     }, 
     {
         "id": 59, 
-        "filename": "sgf_battle", 
+        "filename": "sgf_battle3", 
         "title": "Battle #3", 
         "game": "Saga Frontier", 
         "composer": "Kenji Ito", 
@@ -1036,7 +1036,7 @@
     }, 
     {
         "id": 122, 
-        "filename": "sgf_battle_2", 
+        "filename": "sgf_battle2", 
         "title": "Battle #2", 
         "game": "Saga Frontier", 
         "composer": "Kenji Ito", 

@@ -114,7 +114,7 @@
 77: lf2_battle; Battle Theme; Lufia II; Yasunori Shiono; Jackimus
 78: ff5_earth; Cursed Earth; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 79: ff4_town; Welcome to Our Town; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
-7A: sgf_battle; Battle #5; Saga Frontier; Kenji Ito; Tsushiy
+7A: sgf_battle5; Battle #5; Saga Frontier; Kenji Ito; Tsushiy
 7B: ff5_bridge; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 7C: xng_emperor; Grahf Emperor of Darkness; Xenogears; Yasunori Mitsuda; Tsushiy
 7D: ff5_tenderness; Tenderness in the Air; Final Fantasy V; Nobuo Uematsu; Gi Nattak
@@ -177,7 +177,7 @@ BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak
 BC: pq_lullaby; Godom Lullaby; Paladin's Quest; Kohei Tanaka; Gi Nattak
 BD: som_oracle; Oracle; Secret of Mana; Hiroki Kikuta; Gi Nattak
 BE: som_dance; Meridian Dance; Secret of Mana; Hiroki Kikuta; Gi Nattak
-BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
+BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy
 C0: ff5_decisive; The Decisive Battle; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 C1: rsms_prelude; Prelude to Battle; Romancing Saga Minstrel Song; Kenji Ito; Gi Nattak
 C2: rs2_last; Last Battle; Romancing Saga 2; Kenji Ito; Gi Nattak
@@ -296,7 +296,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 37: rs3_katrina; Katrina's Theme; Romancing Saga 3; Kenji Ito; Gi Nattak
 38: ff4_night; Good Night; Final Fantasy IV; Nobuo Uematsu; Tsushiy
 39: cc_arni; Arni Village; Chrono Cross; Yasunori Mitsuda; Gi Nattak, emberling
-3B: sgf_battle; Battle #3; Saga Frontier; Kenji Ito; Tsushiy
+3B: sgf_battle3; Battle #3; Saga Frontier; Kenji Ito; Tsushiy
 3C: lf2_mountain; Towering Mountain; Lufia II; Yasunori Shiono; emberling
 3D: so2_stream; Pure a Stream; Star Ocean 2; Motoi Sakuraba; Gi Nattak
 3E: chopin_march; Funeral March; Chopin; N/A; Gi Nattak
@@ -357,7 +357,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak
 77: bof_battling; Battling; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak
 78: cc_marshes; Hydra Marshes; Chrono Cross; Yasunori Mitsuda; emberling
 79: ff4_troian; Troian Beauty; Final Fantasy IV; Nobuo Uematsu; Gi Nattak
-7A: sgf_battle_2; Battle #2; Saga Frontier; Kenji Ito; Tsushiy
+7A: sgf_battle2; Battle #2; Saga Frontier; Kenji Ito; Tsushiy
 7B: ff5_clash; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak
 7C: bl_gudruff; Gudruff's Theme; Bahamut Lagoon; Noriko Matsueda; Gi Nattak
 7D: xng_clouds; The Sky Clouds and You; Xenogears; Yasunori Mitsuda; Gi Nattak
@@ -520,6 +520,7 @@ FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A
 4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak
 4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak
 4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak
+6D: snca_xzone; X-Zone; Sonic Advance 1; Tatsuyuki Maeda, Yutaka Minobe; Gi Nattak
 6E: ff7_judgement; Judgement Day; Final Fantasy VII; Nobuo Uematsu; Gi Nattak
 71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak
 73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak
@@ -544,6 +545,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak
 24: ff1_battle; Battle Scene; Final Fantasy I; Nobuo Uematsu; Gi Nattak 
 28: srtype_fish; Wet as a Fish; Super-R Type; Yasuhiro Kawakami; Gi Nattak
 33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak
+4C: rambo_stage; Stage Select; Rambo; Tohru Hasabe, Minky Motoyama; Gi Nattak
 4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak
 87: fft_plain; Run Past Through the Plain; Final Fantasy Tactics; Hitoshi Sakimoto, Masaharu Iwata; Gi Nattak
 

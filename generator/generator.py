@@ -22,6 +22,7 @@ if __name__ == '__main__':
     common_dir = os.path.join(root_dir, cons.COMMON_DIR)
     roms_dir = os.path.join(generator_dir, cons.ROMS_DIR)
     templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
+    guide_template_dir = os.path.join(templates_dir, cons.GUIDE_DIR)
     text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
     font_dir = os.path.join(generator_dir, cons.FONT_DIR)
     romdata_dir = os.path.join(generator_dir, cons.ROMDATA_DIR)
@@ -117,6 +118,7 @@ if __name__ == '__main__':
     esper_list.create_list(data_rom, esper_names, monster_filenames)
     esper_list.write_gallery(website_dir, templates_dir)
 
+    guide.validate_guide_parts(guide_template_dir)
     guide_data = guide.write_gallery(guide_dir, website_dir, templates_dir)
     guide.write_pages(guide_data, website_dir, templates_dir)
 

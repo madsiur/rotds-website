@@ -1,8 +1,9 @@
 import os
+import sys
 import common.helpers as helpers
 from jinja2 import Environment, FileSystemLoader
 
-def write_gallery(guide_dir, website_dir, templates_dir, cons=helpers.get_constants()):
+def write_gallery(guide_dir: str, website_dir: str, templates_dir: str, cons=helpers.get_constants()):
     env = Environment(loader=FileSystemLoader(templates_dir))
     template = env.get_template("guide.html")
 
@@ -45,7 +46,20 @@ def write_gallery(guide_dir, website_dir, templates_dir, cons=helpers.get_consta
 
     return guide_parts
 
-def write_pages(guide_parts, website_dir, templates_dir, cons=helpers.get_constants()):
+def validate_guide_parts(template_dir: str, cons=helpers.get_constants()):
+    templates = os.listdir(template_dir)
+    for template in templates:
+        if "guide_" in template:
+            file_path = os.path.join(template_dir, template)
+            html = helpers.read_html_file(file_path)
+            is_valid = helpers.is_valid_html(html)
+            if not is_valid:
+                print(f"Guide template file {template} is not valid HTML code.")
+                sys.exit()
+    print(f"Guide template files are validated.")
+
+
+def write_pages(guide_parts: list, website_dir: str, templates_dir: str, cons=helpers.get_constants()):
     env = Environment(loader=FileSystemLoader(templates_dir))
     template = env.get_template("guidepage.html")
     

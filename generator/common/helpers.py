@@ -3,7 +3,7 @@ import shutil
 import sys
 import json
 import bs4
-
+from lxml import etree, html
 from romdata.battle_commands import BattleCommandList
 from romdata.items import ItemList
 from .constants import Constants
@@ -124,6 +124,15 @@ def read_file(filename):
         print(f"An IOError occurred while reading {filename}: {e}")
         sys.exit()
 
+def read_html_file(filename):
+    try:
+        with open(filename, "r", encoding='utf-8') as f:
+            html = f.read()
+            return html
+    except IOError as e:
+        print(f"An IOError occurred while reading {filename}: {e}")
+        sys.exit()
+
 def read_json(filename):
     try:
         with open(filename, "r", encoding='utf-8') as f:
@@ -162,3 +171,12 @@ def get_img_size(filename):
     except IOError as e:
         print(f"An IOError occurred while opening {filename}: {e}")
         sys.exit()
+
+def is_valid_html(html_code):
+    try:
+        parser = html.HTMLParser(recover=False)
+        etree.fromstring(html_code, parser)
+        return True
+    except (etree.XMLSyntaxError, etree.DocumentInvalid) as e:
+        print(f"HTML parsing error: {e}")
+        return False

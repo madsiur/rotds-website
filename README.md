@@ -14,6 +14,7 @@ The website is currently hosted at https://www.rotds.com.
     * [Jinja2 3.1.4](https://pypi.org/project/Jinja2/)
     * [pillow 10.4.0](https://pypi.org/project/pillow/)
     * [beautifulsoup4 4.12.3](https://pypi.org/project/beautifulsoup4/)
+    * [lxml 5.2.2](https://pypi.org/project/lxml/)
     * [mfvitools](https://github.com/emberling/mfvitools) (partially included in `generator/music`)
 2. Website dependencies (included from CDN)
     * [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/download/)

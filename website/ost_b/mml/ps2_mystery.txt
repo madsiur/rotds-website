@@ -12,18 +12,18 @@
 #WAVE 0x27 0x0D ## strings (FF6)
 
 {1}
-l16t150%v40%e1%b0,70%f0,0 $1 %x224v100p60@5o4%a12%y2%s7%r6<m48,21,239g2^4c4  
+l16t150%v40%e1%b0,70%f0,0 $1 %x240v100p60@5o4%a12%y2%s6%r8<m48,21,239g2^4c4  
 d+4c4>a+rf4g1  ^1  ^8<f2^4d4  
 >a+4<d4fr>a+4<a+1  ^1  ^8g2^4d4  
 d+4c4>a+r<c4>g1  ^1  ^8r8fra+r<d4c4  >a+4^8<f4d4f4  
-a+1  f1  g+rgrd+r4^%l1>a+4<c2  ^8d4^8%l0%l1g+4g8d+%l0r4  
+a+1  f1  %y%r4g+rgrd+r4^%l1>a+4<c2  ^8d4^8%l0%l1g+4g8d+%l0r4  
 ^%l1<c4>a+4g+8a+4%l0r2  g+rgrd+r4^>a+4<c4  ^8d4d+4crg1  
 ^8r1  
 ;1
 
 l16
 {2}
-l16%e0 $2 v104p64|1o5a+8<c8c8c8c8c8c8c8  c8c8c8c8c8c8c8c8  
+l16%e0 $2 v120p64|1o5a+8<c8c8c8c8c8c8c8  c8c8c8c8c8c8c8c8  
 >a+8<c8c8c8c8c8c8c8  c8c8c8c8c8c8c8c8  >g+8a+8a+8a+8a+8a+8a+8a+8  
 a+8a+8a+8a+8a+8a+8a+8a+8  g+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8a+8a+8a+8a+8a+8a+8  
 a+8<c8c8c8c8c8c8c8  c8c8c8c8c8c8c8c8  >a+8<c8c8c8c8c8c8c8  c8c8c8c8c8c8c8c8  
@@ -39,7 +39,7 @@ l16%e1 $3 v50p34|2o5f8g8r2^4  ^8g4g2^8  f8g8r2^4
 ^8g4g4g8g4  d+8f8r2^4  ^8f4f2^8  d+8f8r2^4  
 ^8f4f4f4^8  f8g8r1  ^8g4g4^8f8<c8  r2^4^8>g4  
 g4g4^8d+8f8r2  ^4^8f^r4f4  f4d+8f8r2  ^4^8f4f4f8  
-f4v60p64|7<c8>g^d+^r4g4  f4f^f^f^f^f^f^  f^r8g^d+^r4g4  f4f^f^f^f^f^f^  
+f4v60p54|7<c8>g^d+^r4g4  f4f^f^f^f^f^f^  f^r8g^d+^r4g4  f4f^f^f^f^f^f^  
 f^<c8>d+^d+^r4g4  <d4d^d^d^d^d^d^  >g1  ^8r8d+^d+^a^a+^r4  
 ^8
 ;3
@@ -61,32 +61,31 @@ l16%e1 $5 v50p94|2o5<d8d+8r2^4  ^8c4c2^8  >a+8<d+8r2^4
 ^8d+4d+4d+8d+4  >g+8a+8r2^4  ^8<d4d2^8  c8>a+8r2^4  
 ^8a+4a+4a+4^8  a+8<d+8r1  ^8c4c4^8>a+8<d+8  r2^4^8c4  
 c4c4^8c8>a+8r2  ^4^8<d^r4d+4  d4>g+8a+8r2  ^4^8a+4a+4a+8  
-a+4v60p64|7d+8a+^<c^r4d+4  >a+4a+^a+^a+^a+^a+^a+^  a+^r8a+^<c^r4d+4  
+a+4v60p74|7d+8a+^<c^r4d+4  >a+4a+^a+^a+^a+^a+^a+^  a+^r8a+^<c^r4d+4  
 >a+4a+^a+^a+^a+^a+^a+^  a+^d+8a+^<c^r4c4  >a+4a+^a+^a+^a+^a+^a+^  
 <d+1  ^8r8>c^c^c+^d^r4  ^8
 ;5
 
 l16
 {6}
-l16%e0 $6 v100p64o4|4b8b8<|5d8r4>|4b8<|5d8  
->|4b8r8b8<|5d8>|4b8r4<|5d8  r8>|4b8b8<|5d8r4>|4b8<|5d8  >|4b8r8b8<|5d8>|4b8r8b8<|5d8  
-r8>|4b8b8<|5d8r4>|4b8<|5d8  >|4b8r8b8<|5d8>|4b8r4<|5d8  r8>|4b8b8<|5d8r4>|4b8<|5d8  
->|4b8r8b8<|5d8>|4b8o5%e1|6ddbbo4<%e0|5d8  r8>|4b8b8<|5d8r4>|4b8<|5d8  
->|4b8r8b8<|5d8>|4b8r4<|5d8  r8>|4b8b8<|5d8r4>|4b8<|5d8  >|4b8r8b8<|5d8>|4b8r8b8<|5d8  
-r8>|4b8b8<|5d8r4>|4b8<|5d8  >|4b8r8b8<|5d8>|4b8r4<|5d8  r8>|4b8b8<|5d8r4>|4b8<|5d8  
->|4b8r8b8<|5d8>|4b8o5%e1|6d24d24d24c>bdr8  ^o5>%e0|4b8b8<|5d8r4>|4b8<|5d8>|4b8  
-r8b8<|5d8r4>|4b8<|5d8>|4b8  r8b8<|5d8r4>|4b8<|5d8>|4b8  r8b8<|5d8r8>|4bbrb<|5d8r8  
->|4b8b8<|5d8r4>|4b8<|5d8>|4b8  r8b8<|5d8r8o4<%e1|6dd>o5%e0|5d8>|4b8b8  
-o4<|5d8r8d8r4>|4bb<|5d8r8  o4<%e1|6ddc8o4%e0|4b8b8<|5d8r4^8  
+l16%e0 $6 v120p64o4|4b8b8<|5d4^8>|4b8<|5d8  
+>|4b4b8<|5d8>|4b4^8<|5d4  >|4b8b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d8>|4b4b8<|5d4>|4b8  
+b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d8>|4b4^8<|5d4>|4b8  b8<|5d4^8>|4b8<|5d8>|4b4  
+b8<|5d8>|4b8<%e1|6v80p94ddp34bbv120p64%e0|5d4>|4b8  b8<|5d4^8>|4b8<|5d8>|4b4  
+b8<|5d8>|4b4^8<|5d4>|4b8  b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d8>|4b4b8<|5d4>|4b8  
+b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d8>|4b4^8<|5d4>|4b8  b8<|5d4^8>|4b8<|5d8>|4b4  
+b8<|5d8>|4b8<%e1|6v80p94d24d24d24v100p64c>v80p34bp94dv120p64r8^%e0|4b8  
+b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d4^8>|4b8<|5d8>|4b4  
+b8<|5d4>|4bb8b<|5d4>|4b8  b8<|5d4^8>|4b8<|5d8>|4b4  b8<|5d4%e1v80p94|6ddv120p64%e0|5d8>|4b8b8<|5d4  
+d4^8>|4bb<|5d4%e1|6v80p94ddv100p64c8  v120%e0|4>b8b8<|5d2
 ;6
 
 l16
 {7}
-l16%e1 $7 v40p64|3o5[7f+8f+8f+8f+8f+8f+8f+8f+8  
-]f+8f+8f+8f+8f+f+f+f+f+8f+8  [7f+8f+8f+8f+8f+8f+8f+8f+8  ]f+8f+8f+8f+8r4^8f+r  
-[3f+8f+8f+8f+8f+8f+8f+8f+8  ]f+rf+rf+rf+rf+rf+rf+rf+r  f+8f+8f+8f+8f+8f+8f+8f+8  
-f+8f+8f+8f+8r4f+8f+8  f+8f+8f+8f+8f+8f+8f+8f+8  r4f+8f+8f+8f+8f+8f+8  
-
+l16%e0 $7 v40p64|3o5[7f+8f+8  
+f+8f+8f+8f+8f+8f+8]f+8f+8  f+8f+8f+f+f+f+f+8f+8[7f+8f+8  f+8f+8f+8f+8f+8f+8]f+8f+8  
+f+8f+8r4^8f+8[3f+8f+8  f+8f+8f+8f+8f+8f+8]f+rf+r  f+rf+rf+rf+rf+rf+rf+8f+8  
+[2f+8f+8f+8f+8f+8f+8f+8f+8  f+8f+8r4]f+8f+8f+8f+8  f+8f+8
 ;7
 
 l16

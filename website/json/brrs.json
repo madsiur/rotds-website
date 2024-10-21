@@ -68,7 +68,7 @@
         "env": 65504, 
         "pitch": 44928, 
         "size": 5155, 
-        "occ": 48, 
+        "occ": 49, 
         "filename": "FF6_chorus"
     }, 
     {
@@ -152,7 +152,7 @@
         "env": 65504, 
         "pitch": 44960, 
         "size": 9412, 
-        "occ": 298, 
+        "occ": 297, 
         "filename": "FF6_strings"
     }, 
     {
@@ -212,7 +212,7 @@
         "env": 65518, 
         "pitch": 0, 
         "size": 4291, 
-        "occ": 204, 
+        "occ": 206, 
         "filename": "FF6_cymbal"
     }, 
     {
@@ -224,7 +224,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 6055, 
-        "occ": 9, 
+        "occ": 10, 
         "filename": "FF4_synth_strings"
     }, 
     {
@@ -1256,7 +1256,7 @@
         "env": 65504, 
         "pitch": 15360, 
         "size": 7027, 
-        "occ": 14, 
+        "occ": 13, 
         "filename": "CT_chorus"
     }, 
     {

@@ -21,7 +21,7 @@ c1  v100,24^2v60d+8f8ga+8^  <c2^4>g+8a+8  <c2d+2
 d4^8>a+4<c8>g1  r4g+2^4  f8g8g+2a+4  <c4>a+4^8d+4^8  
 f8g1  ^8<c2^4>g+8  a+8<c2d+2  d4^8>a+4<c8>g1  
 <f8g8g+2^4  f8g8g+2^8g8  g8d+8f4^8>a+2  b1  
-^8c>v80%l1gd+<c>gd+cd+<c>gd+<c>gd+  cd+<c>gd+<c>gd+cd+<c>gd+<c>gd+  
+^8c>%r2v80%l1gd+<c>gd+cd+<c>gd+<c>gd+  cd+<c>gd+<c>gd+cd+<c>gd+<c>gd+  
 cd+%l0<cv60r8c2^4  ^>br8b2^4  ^<g4>v50g8r8v40g8r8v20g8r8  
 ;1
 
@@ -81,7 +81,7 @@ c1  v100,12^2v40d+8f8ga+8^  <c2^4>g+8a+8  <c2d+2
 d4^8>a+4<c8>g1  r4g+2^4  f8g8g+2a+4  <c4>a+4^8d+4^8  
 f8g1  ^8<c2^4>g+8  a+8<c2d+2  d4^8>a+4<c8>g1  
 v30<f8g8g+2^4  f8g8g+2^8g8  g8d+8f4^8>a+2  b1  
-^8c>v60%l1gd+<c>gd+cd+<c>gd+<c>gd+  cd+<c>gd+<c>gd+cd+<c>gd+<c>gd+  
+^8c>%r2v60%l1gd+<c>gd+cd+<c>gd+<c>gd+  cd+<c>gd+<c>gd+cd+<c>gd+<c>gd+  
 cd+%l0<cv40r8c2^4  ^>br8b2^4  ^<g4>v30g8r8v20g8r8v10g8r  
 ;5
 

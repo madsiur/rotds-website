@@ -9,7 +9,7 @@
 #WAVE 0x23 0x18 ## acoustic bass (FF6)
 
 {1}
-l16t75%v32%e1%b0,70%f0,0 $1 v90p64|0o5m24,18,201f8g8a4a8a+8<c4  
+l16t75%v50%e1%b0,70%f0,0 $1 v90p64|0o5m24,18,201f8g8a4a8a+8<c4  
 d8e8f4c4a8g8  f8e8f4d4c8>g8  a8a+8a4^8a+ag4  f8g8a4a8a+8<c4  
 d8e8f4c4a8g8  f8e8f4d2  e8f8f2^4  r8^32>f32g+32<c+32f4^8f8d+8>a+8  
 <c8c+8c2>g+4  a+8<c8c+4d+8c+8c4  ^8>a+8<c2^8c8  c+8d+8f4^8f8d+8>a+8  

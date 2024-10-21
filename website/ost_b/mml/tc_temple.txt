@@ -6,6 +6,7 @@
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x22 0xB2 ## drum sequence (TC)
 #WAVE 0x24 0x8B ## e.piano (TC)
+#WAVE 0x27 0x12 ## cymbal (FF6)
 
 {1}
 l16t120%b0,70%f0,0 $1 |0v64p1%l1o3a1  ^1  ^1  g+1  

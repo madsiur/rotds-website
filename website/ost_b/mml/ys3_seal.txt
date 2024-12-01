@@ -2,6 +2,7 @@
 #ALBUM Ys III
 #COMPOSER Mieko Ishikawa
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0xC3 ## synth (TOTR)
 #WAVE 0x21 0xC6 ## trumpet (ARS)

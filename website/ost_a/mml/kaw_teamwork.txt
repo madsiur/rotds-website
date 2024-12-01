@@ -2,6 +2,7 @@
 #ALBUM King Aurther's World
 #COMPOSER Justin Scharvona
 #ARRANGED Gi Nattak
+#TRANSCRIPTION JILost
 
 #WAVE 0x20 0x02 ## electric bass (FF6)
 #WAVE 0x21 0x1B ## harp (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Sword of Mana
 #COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Black_Wing
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x16 ## timpani (FF6)

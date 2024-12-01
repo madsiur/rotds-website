@@ -2,6 +2,7 @@
 #ALBUM Mega Man 2
 #COMPOSER Takashi Tateishi
 #ARRANGED Gi Nattak
+#TRANSCRIPTION UltimaOmega
 
 #WAVE 0x20 0x48 ## trumpet (RS3)
 #WAVE 0x21 0xC1 ## e.guitar synth (EB)

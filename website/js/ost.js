@@ -20,6 +20,7 @@ function listSongTable(array, dirName) {
         tr.append($('<td></td>').text(strMin + ":" + strSec));
         tr.append($('<td></td>').text(value.composer));
         tr.append($('<td></td>').text(value.arranger));
+        tr.append($('<td></td>').text(value.transcription));
         tr.append($('<td><a class="link-primary" id="' + value.filename + '" href="' + dirName + '/spc/' + value.filename + '.spc">spc</a></td>'));
         tr.append($('<td><a class="link-primary" href="' + dirName + '/mml/' + value.filename + '.txt">mml</a></td>'));
         table.append(tr);

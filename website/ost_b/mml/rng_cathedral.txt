@@ -2,6 +2,7 @@
 #ALBUM RednGreen
 #COMPOSER RednGreen Music
 #ARRANGED Gi Nattak
+#TRANSCRIPTION ShinkoNetCavy
 
 #WAVE 0x20 0xE5 ## bright piano (CT)
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)

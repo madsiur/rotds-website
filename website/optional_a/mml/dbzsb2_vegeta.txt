@@ -2,6 +2,7 @@
 #ALBUM Dragon Ball Z: Super Butouden 2
 #COMPOSER Kenji Yamamoto
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Robert Hansson
 
 #WAVE 0x20 0xA5 ## synth bass (FM)
 #WAVE 0x21 0x5B ## orch hit (THG)

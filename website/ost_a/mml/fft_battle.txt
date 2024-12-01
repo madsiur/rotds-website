@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy Tactics
 #COMPOSER Masaharu Iwata
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Insane Apu
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x19 ## pizzo string (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy Tactics
 #COMPOSER Hitoshi Sakimoto
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Kyung Hoon Kang
 
 #WAVE 0x20 0x1B ## harp (FF6)
 

@@ -2,6 +2,7 @@
 #ALBUM Pokemon red/blue/yellow
 #COMPOSER Junichi Masuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jay Reichard
 
 #WAVE 0x20 0x40 ## slap bass (RS3)
 #WAVE 0x21 0x0F ## closed hi-hat (FF6)
@@ -9,7 +10,7 @@
 #WAVE 0x23 0x22 ## kick drum (FF6)
 #WAVE 0x24 0x56 ## snare drum 2 (RS3)
 #WAVE 0x25 0x12 ## cymbal (FF6)
-#WAVE 0x26 0x36 ## sawtooth (UNK)
+#WAVE 0x26 0x36 ## sawtooth (NW)
 
 {1}
 l16t90%v20%e1%b0,70%f0,0v100p64|6o5<a32f32f+32f32a32e32f32e32a32d+32e32d+32a32d32d+32d32a32c+32d32c+32a32c32c+32c32a32>b32<c32>b32<a32>a+32b32a+32  

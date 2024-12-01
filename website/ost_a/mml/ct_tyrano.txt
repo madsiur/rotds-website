@@ -2,6 +2,7 @@
 #ALBUM Chrono Trigger Beta
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SPC injection
 
 #WAVE 0x20 0x6F ## trumpet (CT)
 #WAVE 0x21 0x28 ## rock organ (CT)

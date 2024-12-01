@@ -2,6 +2,7 @@
 #ALBUM Tales of Phantasia
 #COMPOSER Motoi Sakuraba, Shinji Tamura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Cacau
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

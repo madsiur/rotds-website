@@ -2,6 +2,7 @@
 #ALBUM Xenoblade
 #COMPOSER ACE+
 #ARRANGED Jackimus
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x12 ## cymbal (FF6)
 #WAVE 0x21 0x2F ## shaker (FF6)

@@ -2,8 +2,9 @@
 #ALBUM Megaman 9
 #COMPOSER Ryo Kawakami
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jay Reichard
 
-#WAVE 0x20 0x36 ## sawtooth (UNK)
+#WAVE 0x20 0x36 ## sawtooth (NW)
 #WAVE 0x21 0x25 ## pipe organ (FF6)
 #WAVE 0x22 0x02 ## electric bass (FF6)
 #WAVE 0x23 0x4F ## closed hi-hat (RS3)

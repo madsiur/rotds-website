@@ -2,6 +2,7 @@
 #ALBUM Xenogears
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Dermot Mac Flannchaidh
 
 #WAVE 0x20 0x5E ## flute (FF6)
 #WAVE 0x21 0x19 ## pizzo string (FF6)

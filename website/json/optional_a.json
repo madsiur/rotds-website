@@ -6,6 +6,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "Kaminoken", 
         "duration": 154
     }, 
     {
@@ -15,6 +16,7 @@
         "game": "Top Gear", 
         "composer": "Barry Leitch", 
         "arranger": "Gi Nattak", 
+        "transcription": "Dave Phaneuf", 
         "duration": 383
     }, 
     {
@@ -24,6 +26,7 @@
         "game": "doranarasi Music", 
         "composer": "doranarasi", 
         "arranger": "Gi Nattak", 
+        "transcription": "mfvitools", 
         "duration": 189
     }, 
     {
@@ -33,6 +36,7 @@
         "game": "Kirby Super Star", 
         "composer": "Jun Ishikawa", 
         "arranger": "Gi Nattak", 
+        "transcription": "Joe Cortez", 
         "duration": 215
     }, 
     {
@@ -42,6 +46,7 @@
         "game": "Halo: Combat Evolved", 
         "composer": "Martin O'Donnell, Michael Salvatori", 
         "arranger": "Gi Nattak", 
+        "transcription": "Bryan Liguori", 
         "duration": 206
     }, 
     {
@@ -51,6 +56,7 @@
         "game": "RPG Maker VX Ace", 
         "composer": "Joel Steudler", 
         "arranger": "Gi Nattak", 
+        "transcription": "TsukiStuffs", 
         "duration": 125
     }, 
     {
@@ -60,6 +66,7 @@
         "game": "Final Fantasy III", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMusic", 
         "duration": 360
     }, 
     {
@@ -69,6 +76,7 @@
         "game": "Super Mario 64", 
         "composer": "Koji Kondo", 
         "arranger": "Gi Nattak", 
+        "transcription": "Jeff", 
         "duration": 184
     }, 
     {
@@ -78,6 +86,7 @@
         "game": "Zombies Ate My Neighbors", 
         "composer": "Joe McDermott", 
         "arranger": "Gi Nattak", 
+        "transcription": "Robert Hansson", 
         "duration": 121
     }, 
     {
@@ -87,6 +96,7 @@
         "game": "Killer Instinct", 
         "composer": "Robin Beanland, Graeme Norgate", 
         "arranger": "Gi Nattak", 
+        "transcription": "Stacy Anne Christiansen", 
         "duration": 72
     }, 
     {
@@ -96,6 +106,7 @@
         "game": "Chrono Trigger", 
         "composer": "Yasunori Mitsuda", 
         "arranger": "Gi Nattak", 
+        "transcription": "mfvitools", 
         "duration": 33
     }, 
     {
@@ -105,6 +116,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "mfvitools", 
         "duration": 98
     }, 
     {
@@ -114,6 +126,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "FF7 PC MIDI", 
         "duration": 8
     }, 
     {
@@ -123,6 +136,7 @@
         "game": "Mega Man X", 
         "composer": "Alph Lyla group", 
         "arranger": "Gi Nattak", 
+        "transcription": "King Meteor", 
         "duration": 128
     }, 
     {
@@ -132,6 +146,7 @@
         "game": "Star Ocean 2", 
         "composer": "Motoi Sakuraba", 
         "arranger": "Gi Nattak", 
+        "transcription": "Dyne", 
         "duration": 101
     }, 
     {
@@ -141,6 +156,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
+        "transcription": "Amber Ritchie", 
         "duration": 123
     }, 
     {
@@ -150,6 +166,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMusic", 
         "duration": 122
     }, 
     {
@@ -159,6 +176,7 @@
         "game": "Lufia", 
         "composer": "Yasunori Shiono", 
         "arranger": "Gi Nattak", 
+        "transcription": "SinclairC", 
         "duration": 118
     }, 
     {
@@ -168,6 +186,7 @@
         "game": "Mega Man 2", 
         "composer": "Takashi Tateishi", 
         "arranger": "Gi Nattak", 
+        "transcription": "UltimaOmega", 
         "duration": 153
     }, 
     {
@@ -177,6 +196,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "FF5>FF6 MCS2.exe", 
         "duration": 124
     }, 
     {
@@ -186,6 +206,7 @@
         "game": "Sonic Advance 1", 
         "composer": "Tatsuyuki Maeda, Yutaka Minobe", 
         "arranger": "Gi Nattak", 
+        "transcription": "Jay Reichard", 
         "duration": 179
     }, 
     {
@@ -195,6 +216,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "FF7 PC MIDI", 
         "duration": 360
     }, 
     {
@@ -204,6 +226,7 @@
         "game": "Mega Man 10", 
         "composer": "Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda", 
         "arranger": "Gi Nattak", 
+        "transcription": "Matt Tropiano", 
         "duration": 104
     }, 
     {
@@ -213,6 +236,7 @@
         "game": "Mega Man 7", 
         "composer": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa", 
         "arranger": "Gi Nattak", 
+        "transcription": "Moccy", 
         "duration": 105
     }, 
     {
@@ -222,6 +246,7 @@
         "game": "Final Fantasy I", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMusic", 
         "duration": 66
     }, 
     {
@@ -231,6 +256,7 @@
         "game": "Mega Man 9", 
         "composer": "Ryo Kawakami", 
         "arranger": "Gi Nattak", 
+        "transcription": "Alan Ramirez", 
         "duration": 166
     }, 
     {
@@ -240,6 +266,7 @@
         "game": "Ys IV: The Dawn of Ys", 
         "composer": "Masaru Nakajima", 
         "arranger": "Gi Nattak", 
+        "transcription": "Unknown", 
         "duration": 179
     }, 
     {
@@ -249,6 +276,7 @@
         "game": "Magic Sword", 
         "composer": "Manami Matsumae", 
         "arranger": "Gi Nattak", 
+        "transcription": "Willow", 
         "duration": 76
     }, 
     {
@@ -258,6 +286,7 @@
         "game": "RPG Maker VX Ace", 
         "composer": "Joel Steudler", 
         "arranger": "Gi Nattak", 
+        "transcription": "TsukiStuffs", 
         "duration": 152
     }, 
     {
@@ -267,6 +296,7 @@
         "game": "Ragnarok Online", 
         "composer": "SoundTeMP", 
         "arranger": "Gi Nattak", 
+        "transcription": "noshift", 
         "duration": 71
     }, 
     {
@@ -276,6 +306,7 @@
         "game": "Breath of Fire", 
         "composer": "Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura", 
         "arranger": "Gi Nattak", 
+        "transcription": "Walter F. Williams III", 
         "duration": 67
     }, 
     {
@@ -285,6 +316,7 @@
         "game": "Lufia II", 
         "composer": "Yasunori Shiono", 
         "arranger": "Gi Nattak", 
+        "transcription": "SinclairC", 
         "duration": 133
     }, 
     {
@@ -294,6 +326,7 @@
         "game": "Dragon Ball Z: Super Butouden 2", 
         "composer": "Kenji Yamamoto", 
         "arranger": "Gi Nattak", 
+        "transcription": "Robert Hansson", 
         "duration": 117
     }, 
     {
@@ -303,6 +336,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "mfvitools", 
         "duration": 125
     }, 
     {
@@ -312,6 +346,7 @@
         "game": "Mega Man X3", 
         "composer": "Kinuyo Yamashita, Yoshino Aoki, Shusaku Uchiyama, Toshihiko Horiyama, Makoto Tomozawa", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMTrans", 
         "duration": 102
     }, 
     {
@@ -321,6 +356,7 @@
         "game": "Xenogears", 
         "composer": "Yasunori Mitsuda", 
         "arranger": "Gi Nattak", 
+        "transcription": "J.J.", 
         "duration": 260
     }, 
     {
@@ -330,6 +366,7 @@
         "game": "Grandia", 
         "composer": "Noriyuki Iwadare", 
         "arranger": "Gi Nattak", 
+        "transcription": "Joshua Kaufman", 
         "duration": 175
     }, 
     {
@@ -339,6 +376,7 @@
         "game": "Dragon Ball Z", 
         "composer": "Fuminori Iwazaki", 
         "arranger": "Gi Nattak", 
+        "transcription": "Carlo Prato", 
         "duration": 93
     }, 
     {
@@ -348,6 +386,7 @@
         "game": "Mega Man X", 
         "composer": "Alph Lyla group", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMTrans", 
         "duration": 103
     }
 ]

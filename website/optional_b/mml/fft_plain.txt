@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy Tactics
 #COMPOSER Hitoshi Sakimoto, Masaharu Iwata
 #ARRANGED Gi Nattak
+#TRANSCRIPTION D. Harasymovich
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

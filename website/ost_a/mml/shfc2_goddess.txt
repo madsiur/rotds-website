@@ -2,6 +2,7 @@
 #ALBUM Shining Force II
 #COMPOSER Motoaki Takenouchi
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Johnnyz
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)
 #WAVE 0x21 0x1B ## harp (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Seiken Densetsu 3
 #COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x28 0x03 ## wind flute (FF6)
 #WAVE 0x29 0xC9 ## bass (FF6T)

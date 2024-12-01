@@ -2,6 +2,7 @@
 #ALBUM Mega Man X
 #COMPOSER Alph Lyla group
 #ARRANGED Jackimus
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x1C ## bass (FF6)
 #WAVE 0x21 0x1E ## distortion guitar (FF6)

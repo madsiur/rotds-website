@@ -2,9 +2,10 @@
 #ALBUM Journey to Silius
 #COMPOSER Naoki Kodaka
 #ARRANGED Gi Nattak
+#TRANSCRIPTION tdkim
 
 #WAVE 0x20 0x0D ## strings (FF6)
-#WAVE 0x21 0x36 ## sawtooth (UNK)
+#WAVE 0x21 0x36 ## sawtooth (NW)
 #WAVE 0x22 0x40 ## slap bass (RS3)
 #WAVE 0x23 0x22 ## kick drum (FF6)
 #WAVE 0x24 0x4A ## snare drum 1 (RS3)

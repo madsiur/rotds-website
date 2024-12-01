@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy III
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Andrew Thompson
 
 #WAVE 0x20 0x76 ## sax (CT)
 #WAVE 0x21 0x08 ## french horn (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VII
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Pesmerga
 
 #WAVE 0x20 0x69 ## chorus (CT)
 #WAVE 0x21 0x44 ## strings (RS3)

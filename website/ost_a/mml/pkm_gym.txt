@@ -2,6 +2,7 @@
 #ALBUM Pokemon red/blue/yellow
 #COMPOSER Junichi Masuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Machiavel
 
 #WAVE 0x21 0x40 ## slap bass (RS3)
 #WAVE 0x22 0x17 ## conga (FF6)

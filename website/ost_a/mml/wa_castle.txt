@@ -2,6 +2,7 @@
 #ALBUM Wild Arms
 #COMPOSER Michiko Naruke
 #ARRANGED Gi Nattak
+#TRANSCRIPTION VGMusic
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Chrono Trigger
 #COMPOSER Minoru Akao
 #ARRANGED N/A
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x3F ## tribal shout 1 (RD)
 #WAVE 0x21 0x38 ## tenor male voice (FF6)

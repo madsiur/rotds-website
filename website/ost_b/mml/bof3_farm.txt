@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire III
 #COMPOSER Yoshino Aoki, Akari Kaida
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Louie Devera
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)
 #WAVE 0x21 0x60 ## violin (FF6)

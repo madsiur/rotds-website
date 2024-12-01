@@ -2,6 +2,7 @@
 #ALBUM F-Zero
 #COMPOSER Yumiko Kanki, Naoto Ishida
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jay Reichard
 
 #WAVE 0x20 0xE8 ## strings (CT)
 #WAVE 0x21 0x12 ## cymbal (FF6)
@@ -12,7 +13,7 @@
 #WAVE 0x26 0x02 ## electric bass (FF6)
 #WAVE 0x27 0x22 ## kick drum (FF6)
 #WAVE 0x28 0x14 ## snare (FF6)
-#WAVE 0x29 0x36 ## sawtooth (UNK)
+#WAVE 0x29 0x36 ## sawtooth (NW)
 
 {1}
 l16t200%v32%e1%b0,70%f0,0v80p64|9%r10m16,16,201r1  o6m120,+1b1  

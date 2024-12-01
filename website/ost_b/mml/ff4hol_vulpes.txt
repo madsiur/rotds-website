@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy: The 4 Heroes of Light
 #COMPOSER Naoshi Mizuta
 #ARRANGED Tsushiy
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x0A ## oboe (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

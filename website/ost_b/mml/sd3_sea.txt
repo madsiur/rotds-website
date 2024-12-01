@@ -2,6 +2,7 @@
 #ALBUM Seiken Densetsu 3
 #COMPOSER Hiroki Kikuta
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x98 ## acoustic guitar (SD3)
 #WAVE 0x21 0x03 ## wind flute (FF6)

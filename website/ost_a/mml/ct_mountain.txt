@@ -2,6 +2,7 @@
 #ALBUM Chrono Trigger
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Tiffany
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x69 ## chorus (CT)

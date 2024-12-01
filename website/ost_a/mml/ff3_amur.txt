@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy III
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Thomas Christensen
 
 #WAVE 0x20 0x0A ## oboe (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

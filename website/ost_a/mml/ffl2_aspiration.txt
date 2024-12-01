@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy Legend II
 #COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Steve Ragnone
 
 #WAVE 0x20 0x0A ## oboe (FF6)
 #WAVE 0x21 0x1F ## ocarina (FF6)

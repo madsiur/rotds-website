@@ -2,6 +2,7 @@
 #ALBUM Romancing Saga 3
 #COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SPC injection
 
 #WAVE 0x20 0x65 ## tam (RS3)
 #WAVE 0x21 0x56 ## snare drum 2 (RS3)

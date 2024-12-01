@@ -2,6 +2,7 @@
 #ALBUM Super Mario RPG
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x20 0xEE ## shaker (SMRPG)
 #WAVE 0x21 0x14 ## snare (FF6)

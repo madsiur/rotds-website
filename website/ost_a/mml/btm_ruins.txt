@@ -2,6 +2,7 @@
 #ALBUM Batman: The Video Game
 #COMPOSER Naoki Kodaka
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Alejandro Hernandez
 
 #WAVE 0x20 0x1E ## distortion guitar (FF6)
 #WAVE 0x21 0x25 ## pipe organ (FF6)

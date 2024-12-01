@@ -2,6 +2,7 @@
 #ALBUM Sonic Generations
 #COMPOSER Jun Senoue
 #ARRANGED Gi Nattak
+#TRANSCRIPTION HeroBoy1092
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x1C ## bass (FF6)

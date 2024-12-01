@@ -2,6 +2,7 @@
 #ALBUM ActRaiser
 #COMPOSER Yuzo Koshiro
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jorge D. Fuentes
 
 #WAVE 0x20 0x5E ## flute (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

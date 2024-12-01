@@ -2,6 +2,7 @@
 #ALBUM Xenogears
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION J.J.
 
 #WAVE 0x20 0x03 ## wind flute (FF6)
 #WAVE 0x21 0x0A ## oboe (FF6)

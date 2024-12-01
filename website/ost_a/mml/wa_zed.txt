@@ -2,6 +2,7 @@
 #ALBUM Wild Arms
 #COMPOSER Michiko Naruke
 #ARRANGED Gi Nattak, emberling
+#TRANSCRIPTION Valius
 
 #WAVE 0x20 0x18 ## acoustic bass (FF6)
 #WAVE 0x21 0x20 ## marimba (FF6)

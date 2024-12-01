@@ -2,6 +2,7 @@
 #ALBUM Brave Fencer Musashi
 #COMPOSER Tsuyoshi Sekito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SinclairC
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x3E ## xylophone (FF6)

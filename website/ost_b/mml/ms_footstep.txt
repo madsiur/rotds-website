@@ -2,6 +2,7 @@
 #ALBUM Metal Saga
 #COMPOSER Satoshi Kadokura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Japanese MIDI
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

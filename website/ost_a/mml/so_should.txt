@@ -2,6 +2,7 @@
 #ALBUM Star Ocean
 #COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Rune Walsh
 
 #WAVE 0x20 0x07 ## flute (YI)
 #WAVE 0x21 0x32 ## acoustic guitar (FF6)

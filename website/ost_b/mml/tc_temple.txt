@@ -2,6 +2,7 @@
 #ALBUM Treasure Conflix
 #COMPOSER Junya Nakano
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SPC injection
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x22 0xB2 ## drum sequence (TC)

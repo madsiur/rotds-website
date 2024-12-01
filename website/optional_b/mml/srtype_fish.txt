@@ -1,7 +1,8 @@
 #TITLE Wet as a Fish
-#ALBUM Super-R Type
+#ALBUM Super R-Type
 #COMPOSER Yasuhiro Kawakami
 #ARRANGED Gi Nattak
+#TRANSCRIPTION The Jade Emperor
 
 #WAVE 0x20 0xB4 ## synth strings (GH)
 #WAVE 0x21 0x0C ## piano (FF6)

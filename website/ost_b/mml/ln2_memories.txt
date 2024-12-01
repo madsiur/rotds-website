@@ -2,6 +2,7 @@
 #ALBUM Lunar 2
 #COMPOSER Noriyuki Iwadare
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Timothy Peters
 
 #WAVE 0x20 0x05 ## cello (FF6)
 #WAVE 0x21 0x1B ## harp (FF6)

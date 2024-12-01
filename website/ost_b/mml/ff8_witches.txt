@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VIII
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x31 ## bright piano (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Legend of Mana
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Sevon
 
 #WAVE 0x20 0x24 ## tubular bell (FF6)
 #WAVE 0x21 0x1B ## harp (FF6)

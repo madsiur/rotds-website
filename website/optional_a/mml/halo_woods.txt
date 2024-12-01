@@ -2,6 +2,7 @@
 #ALBUM Halo: Combat Evolved
 #COMPOSER Martin O'Donnell, Michael Salvatori
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Bryan Liguori
 
 #WAVE 0x20 0x1C ## bass (FF6)
 #WAVE 0x21 0x06 ## chorus (FF6)

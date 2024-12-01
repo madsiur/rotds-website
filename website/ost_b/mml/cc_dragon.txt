@@ -2,6 +2,7 @@
 #ALBUM Chrono Cross
 #COMPOSER Yasunori Mitsuda
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x83 ## chorus (SOM)
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Earthbound
 #COMPOSER Keiichi Suzuki, Hirokazu Tanaka
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Chibi Vegito
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

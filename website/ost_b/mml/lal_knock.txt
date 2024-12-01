@@ -2,6 +2,7 @@
 #ALBUM Live A Live
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SaGaUpLoader
 
 #WAVE 0x20 0xF7 ## brass (LAL)
 #WAVE 0x21 0x02 ## electric bass (FF6)

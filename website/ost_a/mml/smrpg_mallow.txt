@@ -2,6 +2,7 @@
 #ALBUM Super Mario RPG
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x2B 0xBA ## piano (SMRPG)
 #WAVE 0x2C 0xF0 ## piano 2 (SMRPG)

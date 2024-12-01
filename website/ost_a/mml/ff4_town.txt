@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy IV
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION kaminoken
 
 #WAVE 0x20 0x07 ## flute (YI)
 #WAVE 0x21 0x1B ## harp (FF6)

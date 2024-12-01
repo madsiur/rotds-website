@@ -2,6 +2,7 @@
 #ALBUM Lost Odyssey
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x34 ## strings (TOTR)
 #WAVE 0x21 0xB9 ## violin (SMRPG)

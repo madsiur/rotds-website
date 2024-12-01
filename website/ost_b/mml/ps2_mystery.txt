@@ -2,6 +2,7 @@
 #ALBUM Phantasy Star II
 #COMPOSER Tokuhiko Uwabo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Rune Walsh
 
 #WAVE 0x21 0x02 ## electric bass (FF6)
 #WAVE 0x22 0x20 ## marimba (FF6)

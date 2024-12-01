@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire
 #COMPOSER Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Electric Mew
 
 #WAVE 0x20 0x58 ## french horn (RS3)
 #WAVE 0x21 0x1C ## bass (FF6)

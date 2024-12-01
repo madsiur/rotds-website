@@ -2,6 +2,7 @@
 #ALBUM Europe
 #COMPOSER N/A
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Unknown
 
 #WAVE 0x20 0x82 ## strings (SOM)
 #WAVE 0x21 0xC3 ## synth (TOTR)

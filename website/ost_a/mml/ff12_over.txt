@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy XII
 #COMPOSER Hitoshi Sakimoto, Hayato Matsuo, Masaharu Iwata
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Thomash Lee
 
 #WAVE 0x20 0x1B ## harp (FF6)
 

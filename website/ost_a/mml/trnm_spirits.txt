@@ -2,6 +2,7 @@
 #ALBUM Terranigma
 #COMPOSER Masanori Hikichi
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Gigasoft
 
 #WAVE 0x20 0x1F ## ocarina (FF6)
 #WAVE 0x21 0xB3 ## synth voice (GH)

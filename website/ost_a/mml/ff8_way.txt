@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VIII
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION IChibaN
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x24 ## tubular bell (FF6)

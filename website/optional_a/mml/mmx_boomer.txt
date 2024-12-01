@@ -2,6 +2,7 @@
 #ALBUM Mega Man X
 #COMPOSER Alph Lyla group
 #ARRANGED Gi Nattak
+#TRANSCRIPTION King Meteor
 
 #WAVE 0x20 0x85 ## brass section (SOM)
 #WAVE 0x22 0x82 ## strings (SOM)

@@ -2,6 +2,7 @@
 #ALBUM Everquest
 #COMPOSER Jay Barbeau
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Randall Laws
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x0A ## oboe (FF6)

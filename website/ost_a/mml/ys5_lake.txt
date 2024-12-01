@@ -2,6 +2,7 @@
 #ALBUM Ys V
 #COMPOSER Naoki Kaneda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Xenu
 
 #WAVE 0x20 0x1F ## ocarina (FF6)
 #WAVE 0x21 0x0C ## piano (FF6)

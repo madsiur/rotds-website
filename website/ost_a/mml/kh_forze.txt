@@ -2,6 +2,7 @@
 #ALBUM Kingdom Hearts
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Marlin Exton
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

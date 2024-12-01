@@ -2,6 +2,7 @@
 #ALBUM Chrono Cross
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Freddie
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x69 ## chorus (CT)

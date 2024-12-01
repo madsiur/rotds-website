@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy IX
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Sephiroth3
 
 #WAVE 0x20 0x34 ## strings (TOTR)
 #WAVE 0x21 0x08 ## french horn (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Startropics
 #COMPOSER Yoshio Hirai
 #ARRANGED Gi Nattak
+#TRANSCRIPTION XERO
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x06 ## chorus (FF6)

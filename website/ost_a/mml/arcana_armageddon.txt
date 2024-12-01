@@ -2,6 +2,7 @@
 #ALBUM Arcana
 #COMPOSER Jun Ishikawa, Hirokazu Ando
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Steve Ragnone
 
 #WAVE 0x20 0x0E ## trumpet (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

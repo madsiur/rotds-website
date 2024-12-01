@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy IV
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Kaminoken
 
 #WAVE 0x20 0x0E ## trumpet (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

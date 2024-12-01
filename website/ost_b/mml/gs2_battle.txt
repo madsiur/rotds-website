@@ -2,6 +2,7 @@
 #ALBUM Golden Sun 2
 #COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Makayo_99994
 
 #WAVE 0x20 0xC3 ## synth (TOTR)
 #WAVE 0x21 0x35 ## melodic tom (UNK)

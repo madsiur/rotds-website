@@ -2,6 +2,7 @@
 #ALBUM Wild Arms
 #COMPOSER Michiko Naruke
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SinclairC
 
 #WAVE 0x20 0x6F ## trumpet (CT)
 #WAVE 0x21 0x44 ## strings (RS3)

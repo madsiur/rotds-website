@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VII
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0xB0 ## synth strings (CT)
 #WAVE 0x21 0x68 ## grand piano (CT)

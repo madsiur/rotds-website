@@ -2,6 +2,7 @@
 #ALBUM Illusion of Gaia
 #COMPOSER Yasuhiro Kawasaki
 #ARRANGED emberling
+#TRANSCRIPTION Jeff Daily
 
 #WAVE 0x20 0xCA ## future (SMRPG)
 #WAVE 0x21 0x06 ## chorus (FF6)

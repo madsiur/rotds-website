@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy XIV
 #COMPOSER Masayoshi Soken
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x8A ## future bass synth (SMRPG)
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Bahamut Lagoon
 #COMPOSER Noriko Matsueda
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x28 0x06 ## chorus (FF6)
 #WAVE 0x29 0x0D ## strings (FF6)

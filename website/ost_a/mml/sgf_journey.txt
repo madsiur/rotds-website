@@ -2,6 +2,7 @@
 #ALBUM Saga Frontier
 #COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Masterlink
 
 #WAVE 0x20 0x70 ## piano (CT)
 #WAVE 0x21 0x1B ## harp (FF6)

@@ -2,6 +2,7 @@
 #ALBUM E.V.O. Search for Eden
 #COMPOSER Koichi Sugiyama
 #ARRANGED Gi Nattak
+#TRANSCRIPTION NeoVelocity
 
 #WAVE 0x20 0x44 ## strings (RS3)
 #WAVE 0x21 0x1E ## distortion guitar (FF6)

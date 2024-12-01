@@ -2,6 +2,7 @@
 #ALBUM Illusion of Gaia
 #COMPOSER Yasuhiro Kawasaki
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jeff Daily
 
 #WAVE 0x20 0x1B ## harp (FF6)
 #WAVE 0x21 0x46 ## voice 2 (RS3)

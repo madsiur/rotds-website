@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire II
 #COMPOSER Yuko Takehara
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Sephiroth3
 
 #WAVE 0x20 0x1C ## bass (FF6)
 #WAVE 0x21 0x08 ## french horn (FF6)

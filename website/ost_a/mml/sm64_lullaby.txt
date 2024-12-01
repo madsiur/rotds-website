@@ -2,6 +2,7 @@
 #ALBUM Super Mario 64
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jarel Jones
 
 #WAVE 0x20 0x6B ## music box (CT)
 

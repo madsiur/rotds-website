@@ -2,6 +2,7 @@
 #ALBUM Grandia
 #COMPOSER Noriyuki Iwadare
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Joshua Kaufman
 
 #WAVE 0x20 0x60 ## violin (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

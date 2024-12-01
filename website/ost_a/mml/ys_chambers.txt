@@ -2,6 +2,7 @@
 #ALBUM Ys
 #COMPOSER Ryo Yonemitsu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Willow
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)
 #WAVE 0x22 0x0D ## strings (FF6)
@@ -9,7 +10,7 @@
 #WAVE 0x24 0x02 ## electric bass (FF6)
 #WAVE 0x25 0x22 ## kick drum (FF6)
 #WAVE 0x26 0x5F ## hard snare (FF6)
-#WAVE 0x27 0x36 ## sawtooth (UNK)
+#WAVE 0x27 0x36 ## sawtooth (NW)
 
 {1}
 l16t150%v20v80p85%e1%b0,70%f0,0|0o5e>bg<e>bg<e>b<d>af+<d>af+<d>a  

@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire
 #COMPOSER Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Walter F. Williams III
 
 #WAVE 0x20 0x16 ## timpani (FF6)
 #WAVE 0x21 0x12 ## cymbal (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire II
 #COMPOSER Yuko Takehara
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Sephiroth3
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)

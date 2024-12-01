@@ -2,6 +2,7 @@
 #ALBUM Live A Live
 #COMPOSER Yoko Shimomura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x20 0xF4 ## pipe organ (LAL)
 #WAVE 0x21 0xF5 ## strings (LAL)

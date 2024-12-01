@@ -2,6 +2,7 @@
 #ALBUM Mega Man 9
 #COMPOSER Ryo Kawakami
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Alan Ramirez
 
 #WAVE 0x20 0xC3 ## synth (TOTR)
 #WAVE 0x21 0x79 ## synth strings (TC)

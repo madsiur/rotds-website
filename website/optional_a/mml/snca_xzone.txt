@@ -2,6 +2,7 @@
 #ALBUM Sonic Advance 1
 #COMPOSER Tatsuyuki Maeda, Yutaka Minobe
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jay Reichard
 
 #WAVE 0x20 0x82 ## strings (SOM)
 #WAVE 0x21 0xD1 ## orchit (TOTR)
@@ -13,7 +14,7 @@
 #WAVE 0x27 0x12 ## cymbal (FF6)
 #WAVE 0x28 0x35 ## melodic tom (UNK)
 #WAVE 0x29 0x5F ## hard snare (FF6)
-#WAVE 0x2A 0x36 ## sawtooth (UNK)
+#WAVE 0x2A 0x36 ## sawtooth (NW)
 
 {1}
 l16t155%v32%e1%b0,70%f0,0 $1 v100p54|0o5%a9%y7%s7%r2c1  ^1  

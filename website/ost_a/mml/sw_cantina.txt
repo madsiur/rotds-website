@@ -2,6 +2,7 @@
 #ALBUM Star Wars
 #COMPOSER John Williams
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Unknown
 
 #WAVE 0x20 0x76 ## sax (CT)
 #WAVE 0x21 0x18 ## acoustic bass (FF6)

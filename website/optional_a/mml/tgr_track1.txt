@@ -2,9 +2,10 @@
 #ALBUM Top Gear
 #COMPOSER Barry Leitch
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Dave Phaneuf
 
 #WAVE 0x20 0xC3 ## synth (TOTR)
-#WAVE 0x21 0x36 ## sawtooth (UNK)
+#WAVE 0x21 0x36 ## sawtooth (NW)
 #WAVE 0x22 0xA5 ## synth bass (FM)
 #WAVE 0x23 0x22 ## kick drum (FF6)
 #WAVE 0x24 0x56 ## snare drum 2 (RS3)

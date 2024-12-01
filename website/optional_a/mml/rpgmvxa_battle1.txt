@@ -2,6 +2,7 @@
 #ALBUM RPG Maker VX Ace
 #COMPOSER Joel Steudler
 #ARRANGED Gi Nattak
+#TRANSCRIPTION TsukiStuffs
 
 #WAVE 0x20 0xAF ## reed organ (GH)
 #WAVE 0x21 0x82 ## strings (SOM)

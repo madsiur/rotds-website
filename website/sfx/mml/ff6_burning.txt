@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VI
 #COMPOSER Minoru Akao
 #ARRANGED N/A
+#TRANSCRIPTION N/A
 
 
 {1}

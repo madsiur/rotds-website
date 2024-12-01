@@ -2,6 +2,7 @@
 #ALBUM Super Mario 64
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jeff
 
 #WAVE 0x20 0x4B ## celesta (RS3)
 #WAVE 0x21 0x0D ## strings (FF6)

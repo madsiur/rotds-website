@@ -2,6 +2,7 @@
 #ALBUM Tales of Destiny
 #COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
+#TRANSCRIPTION MaliceX
 
 #WAVE 0x20 0x08 ## french horn (FF6)
 #WAVE 0x21 0x02 ## electric bass (FF6)

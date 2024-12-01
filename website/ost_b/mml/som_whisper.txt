@@ -2,6 +2,7 @@
 #ALBUM Secret of Mana
 #COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x20 0x70 ## piano (CT)
 #WAVE 0x21 0x83 ## chorus (SOM)

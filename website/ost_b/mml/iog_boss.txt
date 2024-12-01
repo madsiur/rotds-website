@@ -2,6 +2,7 @@
 #ALBUM Illusion of Gaia
 #COMPOSER Yasuhiro Kawasaki
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Tarq
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)
 #WAVE 0x21 0x0E ## trumpet (FF6)

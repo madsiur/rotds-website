@@ -2,6 +2,7 @@
 #ALBUM Treasure of the Rudras
 #COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Chrono
 
 #WAVE 0x20 0x13 ## synth strings (FF4)
 #WAVE 0x21 0x12 ## cymbal (FF6)

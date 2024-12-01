@@ -2,6 +2,7 @@
 #ALBUM Lufia
 #COMPOSER Yasunori Shiono
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x9A ## overdrive guitar (GH)
 #WAVE 0x21 0x34 ## strings (TOTR)

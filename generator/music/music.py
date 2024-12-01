@@ -72,7 +72,8 @@ def generate_music_json(roms, brrs, json_dir):
                 "game": v2[2],
                 "composer": v2[3],
                 "arranger": v2[4],
-                "duration": v2[5],
+                "transcription": v2[5],
+                "duration": v2[6],
             }
             entries.append(entry)
 

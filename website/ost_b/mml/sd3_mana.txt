@@ -2,6 +2,7 @@
 #ALBUM Seiken Densetsu 3
 #COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x20 0xD0 ## dulcimer (SOM)
 #WAVE 0x21 0xC9 ## bass (FF6T)

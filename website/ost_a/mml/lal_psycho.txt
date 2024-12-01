@@ -2,6 +2,7 @@
 #ALBUM Live A Live
 #COMPOSER Yoko Shimomura
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0xBE ## harmonica (RS3)
 #WAVE 0x21 0x02 ## electric bass (FF6)

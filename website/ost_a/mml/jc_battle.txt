@@ -2,6 +2,7 @@
 #ALBUM Jade Cocoon
 #COMPOSER Kimitaka Matsumae
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Dehadin
 
 #WAVE 0x20 0x5B ## orch hit (THG)
 #WAVE 0x21 0x33 ## bagpipe (FF6)

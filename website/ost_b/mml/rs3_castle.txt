@@ -2,6 +2,7 @@
 #ALBUM Romancing Saga 3
 #COMPOSER Kenji Ito
 #ARRANGED Tsushiy
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0xAF ## reed organ (GH)
 #WAVE 0x21 0x44 ## strings (RS3)

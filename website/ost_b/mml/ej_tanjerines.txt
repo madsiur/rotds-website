@@ -2,6 +2,7 @@
 #ALBUM Earthworm Jim
 #COMPOSER Tommy Tallarico
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Chris Heneghan
 
 #WAVE 0x21 0x32 ## acoustic guitar (FF6)
 #WAVE 0x22 0x0D ## strings (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Earthbound
 #COMPOSER Keiichi Suzuki, Hirokazu Tanaka
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jay Reichard
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x1C ## bass (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Earthbound
 #COMPOSER Keiichi Suzuki, Hirokazu Tanaka
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Xky Rauh
 
 #WAVE 0x20 0x33 ## bagpipe (FF6)
 #WAVE 0x21 0x0E ## trumpet (FF6)

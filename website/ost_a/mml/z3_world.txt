@@ -2,6 +2,7 @@
 #ALBUM The Legend of Zelda: A Link to the Past
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Haakon Marthinsen
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)
 

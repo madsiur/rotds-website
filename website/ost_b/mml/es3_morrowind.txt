@@ -2,6 +2,7 @@
 #ALBUM Elder Scrolls III
 #COMPOSER Jeremy Soule
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Ilya Gordon
 
 #WAVE 0x20 0x0A ## oboe (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

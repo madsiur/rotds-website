@@ -2,8 +2,9 @@
 #ALBUM T&C Skate Session
 #COMPOSER Tsukasa Masuko
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Kain Xiorcal
 
-#WAVE 0x20 0x36 ## sawtooth (UNK)
+#WAVE 0x20 0x36 ## sawtooth (NW)
 #WAVE 0x21 0x1C ## bass (FF6)
 #WAVE 0x22 0x2B ## rimshot (FF6)
 #WAVE 0x23 0x4A ## snare drum 1 (RS3)

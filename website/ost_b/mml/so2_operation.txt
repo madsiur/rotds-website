@@ -2,6 +2,7 @@
 #ALBUM Star Ocean 2
 #COMPOSER Motoi Sakuraba
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x43 ## electric guitar 2 (RS3)
 #WAVE 0x21 0x53 ## synth strings (RS3)

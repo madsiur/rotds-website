@@ -2,6 +2,7 @@
 #ALBUM Romancing Saga 2
 #COMPOSER Kenji Ito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION RMSephy
 
 #WAVE 0x20 0x44 ## strings (RS3)
 #WAVE 0x21 0x40 ## slap bass (RS3)

@@ -2,6 +2,7 @@
 #ALBUM Super Metroid
 #COMPOSER Minako Hamano, Kenji Yamamoto
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Ryan L.
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x06 ## chorus (FF6)

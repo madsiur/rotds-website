@@ -101,6 +101,7 @@ def mass_extract(filename, cons=helpers.get_constants()):
 
         try:
             with open(brr_path, "wb") as f:
+                pass
                 f.write(brr_data)
         except IOError:
             print(f"ERROR: Couldn't write brr sample {i:02X}:brr_filename")
@@ -160,7 +161,7 @@ def mass_extract(filename, cons=helpers.get_constants()):
             
             ## Deal with metadata
             meta_cfg = config[rom_file][song_idx_string].split(';')
-            if len(meta_cfg) != 5:
+            if len(meta_cfg) != 6:
                 print(f"bad song {str(song_idx)} metadata")
                 sys.exit()
 
@@ -183,6 +184,7 @@ def mass_extract(filename, cons=helpers.get_constants()):
             spc = text_insert(spc, 0xB1, meta_cfg[3], 0x20)
             out_mml.append(f"#ARRANGED {meta_cfg[4]}")
             spc = text_insert(spc, 0x6E, meta_cfg[4], 0x10)
+            out_mml.append(f"#TRANSCRIPTION {meta_cfg[5]}")
 
             spc[0x23] = 0x1A
             spc = byte_insert(spc, 0xAC, b"\x35\x30\x30\x30")

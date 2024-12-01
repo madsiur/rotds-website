@@ -2,6 +2,7 @@
 #ALBUM The Legend of Zelda: A Link to the Past
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Haakon Marthinsen
 
 #WAVE 0x20 0x16 ## timpani (FF6)
 #WAVE 0x21 0x1A ## trombone (FF6)

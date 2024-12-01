@@ -2,6 +2,7 @@
 #ALBUM Brave Fencer Musashi
 #COMPOSER Tsuyoshi Sekito
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Degeon
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)
 #WAVE 0x21 0x18 ## acoustic bass (FF6)

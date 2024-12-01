@@ -2,6 +2,7 @@
 #ALBUM Shining Force
 #COMPOSER Motoaki Takenouchi
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Johnnyz
 
 #WAVE 0x20 0x2C ## contrabass (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy X
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x82 ## strings (SOM)
 #WAVE 0x21 0x0E ## trumpet (FF6)

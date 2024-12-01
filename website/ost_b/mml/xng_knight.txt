@@ -2,6 +2,7 @@
 #ALBUM Xenogears
 #COMPOSER Yasunori Mitsuda
 #ARRANGED emberling
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x25 ## pipe organ (FF6)
 #WAVE 0x21 0x03 ## wind flute (FF6)

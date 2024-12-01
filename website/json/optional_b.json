@@ -6,6 +6,7 @@
         "game": "Zelda II", 
         "composer": "Akito Nakatsuka", 
         "arranger": "Gi Nattak", 
+        "transcription": "JILost", 
         "duration": 83
     }, 
     {
@@ -15,15 +16,17 @@
         "game": "Final Fantasy I", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "VGMusic", 
         "duration": 78
     }, 
     {
         "id": 40, 
         "filename": "srtype_fish", 
         "title": "Wet as a Fish", 
-        "game": "Super-R Type", 
+        "game": "Super R-Type", 
         "composer": "Yasuhiro Kawakami", 
         "arranger": "Gi Nattak", 
+        "transcription": "The Jade Emperor", 
         "duration": 360
     }, 
     {
@@ -33,6 +36,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "FF5>FF6 MCS2", 
         "duration": 64
     }, 
     {
@@ -42,6 +46,7 @@
         "game": "Rambo", 
         "composer": "Tohru Hasabe, Minky Motoyama", 
         "arranger": "Gi Nattak", 
+        "transcription": "tdkim", 
         "duration": 118
     }, 
     {
@@ -51,6 +56,7 @@
         "game": "Final Fantasy III", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
+        "transcription": "Cryogen Glacien", 
         "duration": 120
     }, 
     {
@@ -60,6 +66,7 @@
         "game": "Final Fantasy Tactics", 
         "composer": "Hitoshi Sakimoto, Masaharu Iwata", 
         "arranger": "Gi Nattak", 
+        "transcription": "D. Harasymovich", 
         "duration": 192
     }
 ]

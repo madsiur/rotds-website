@@ -2,6 +2,7 @@
 #ALBUM Kirby Super Star
 #COMPOSER Jun Ishikawa
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Xky Rauh
 
 #WAVE 0x20 0x48 ## trumpet (RS3)
 #WAVE 0x21 0x07 ## flute (YI)

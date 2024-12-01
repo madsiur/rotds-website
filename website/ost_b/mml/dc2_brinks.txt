@@ -2,6 +2,7 @@
 #ALBUM Dark Cloud 2
 #COMPOSER Tomohito Nishiura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Sevon
 
 #WAVE 0x20 0xB7 ## accordion (SMRPG)
 #WAVE 0x21 0x18 ## acoustic bass (FF6)

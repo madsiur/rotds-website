@@ -2,6 +2,7 @@
 #ALBUM Seiken Densetsu 3
 #COMPOSER Hiroki Kikuta
 #ARRANGED Gi Nattak
+#TRANSCRIPTION mfvitools
 
 #WAVE 0x28 0xB0 ## synth strings (CT)
 #WAVE 0x29 0xCC ## metal bang (SD3)

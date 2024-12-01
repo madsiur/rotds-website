@@ -2,6 +2,7 @@
 #ALBUM Romancing Saga 3
 #COMPOSER Minoru Akao
 #ARRANGED N/A
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x3D ## metal sound (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

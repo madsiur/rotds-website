@@ -2,6 +2,7 @@
 #ALBUM Final Fantasy VI
 #COMPOSER Nobuo Uematsu
 #ARRANGED N/A
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x3A ## female voice (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

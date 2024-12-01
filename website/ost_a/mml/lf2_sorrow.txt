@@ -2,6 +2,7 @@
 #ALBUM Lufia II
 #COMPOSER Yasunori Shiono
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Daniel Marjenburgh
 
 #WAVE 0x20 0x07 ## flute (YI)
 #WAVE 0x21 0x05 ## cello (FF6)

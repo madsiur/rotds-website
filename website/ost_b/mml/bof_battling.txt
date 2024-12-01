@@ -2,6 +2,7 @@
 #ALBUM Breath of Fire
 #COMPOSER Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jorge D. Fuentes
 
 #WAVE 0x20 0x22 ## kick drum (FF6)
 #WAVE 0x21 0x14 ## snare (FF6)

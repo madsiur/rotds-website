@@ -2,6 +2,7 @@
 #ALBUM Kirby Super Star
 #COMPOSER Jun Ishikawa
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Joe Cortez
 
 #WAVE 0x20 0x16 ## timpani (FF6)
 #WAVE 0x21 0x82 ## strings (SOM)

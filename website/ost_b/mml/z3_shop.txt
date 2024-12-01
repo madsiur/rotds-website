@@ -2,6 +2,7 @@
 #ALBUM The Legend of Zelda: Ocarina of Time
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Princess Peach Toadstool
 
 #WAVE 0x20 0x32 ## acoustic guitar (FF6)
 #WAVE 0x21 0x95 ## clap (TOTR)

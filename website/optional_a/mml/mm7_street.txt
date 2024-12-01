@@ -2,6 +2,7 @@
 #ALBUM Mega Man 7
 #COMPOSER Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Moccy
 
 #WAVE 0x20 0x02 ## electric bass (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

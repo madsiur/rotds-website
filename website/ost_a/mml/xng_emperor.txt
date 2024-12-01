@@ -2,6 +2,7 @@
 #ALBUM Xenogears
 #COMPOSER Yasunori Mitsuda
 #ARRANGED Tsushiy
+#TRANSCRIPTION N/A
 
 #WAVE 0x20 0x48 ## trumpet (RS3)
 #WAVE 0x21 0x44 ## strings (RS3)

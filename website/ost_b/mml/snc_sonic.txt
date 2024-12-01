@@ -2,6 +2,7 @@
 #ALBUM Kyu S. Music
 #COMPOSER Kyu S.
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Kyu S.
 
 #WAVE 0x20 0x20 ## marimba (FF6)
 #WAVE 0x21 0xA6 ## piano (FM)

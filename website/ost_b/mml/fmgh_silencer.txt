@@ -2,6 +2,7 @@
 #ALBUM Front Mission: Gun Hazard
 #COMPOSER N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu
 #ARRANGED Gi Nattak
+#TRANSCRIPTION SPC injection
 
 #WAVE 0x20 0x68 ## grand piano (CT)
 #WAVE 0x21 0x58 ## french horn (RS3)

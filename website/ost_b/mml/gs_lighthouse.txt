@@ -2,6 +2,7 @@
 #ALBUM Golden Sun
 #COMPOSER Motoi Sakuraba
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Justus Johnston
 
 #WAVE 0x20 0x6F ## trumpet (CT)
 #WAVE 0x21 0x44 ## strings (RS3)

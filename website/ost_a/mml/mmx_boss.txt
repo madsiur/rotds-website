@@ -2,6 +2,7 @@
 #ALBUM Mega Man X
 #COMPOSER Alph Lyla group
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Jarel Jones
 
 #WAVE 0x20 0x1C ## bass (FF6)
 #WAVE 0x21 0x0D ## strings (FF6)

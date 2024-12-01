@@ -2,6 +2,7 @@
 #ALBUM Romancing Saga 3
 #COMPOSER Kenji Ito
 #ARRANGED JCE3000GT
+#TRANSCRIPTION SPC injection
 
 #WAVE 0x20 0x3C ## metal sound (RS3)
 #WAVE 0x21 0x3D ## metal sound (FF6)

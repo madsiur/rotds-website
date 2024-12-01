@@ -2,6 +2,7 @@
 #ALBUM Super Mario World 2: Yoshi's Island
 #COMPOSER Koji Kondo
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Gigasoft
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)
 #WAVE 0x21 0x19 ## pizzo string (FF6)

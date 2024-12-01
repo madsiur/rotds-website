@@ -2,6 +2,7 @@
 #ALBUM Treasure of the Rudras
 #COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak
+#TRANSCRIPTION Cryogen Glacien
 
 #WAVE 0x20 0xB6 ## strings (SMRPG)
 #WAVE 0x21 0x12 ## cymbal (FF6)

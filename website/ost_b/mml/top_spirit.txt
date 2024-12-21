@@ -2,7 +2,7 @@
 #ALBUM Tales of Phantasia
 #COMPOSER Motoi Sakuraba, Shinji Tamura
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION top2mid
 
 #WAVE 0x20 0x9D ## halo (FM)
 #WAVE 0x21 0x36 ## sawtooth (NW)

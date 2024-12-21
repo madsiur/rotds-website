@@ -2,7 +2,7 @@
 #ALBUM Doom
 #COMPOSER Bobby Prince
 #ARRANGED Gi Nattak
-#TRANSCRIPTION Unknown
+#TRANSCRIPTION gamerip
 
 #WAVE 0x20 0xB4 ## synth strings (GH)
 #WAVE 0x21 0x02 ## electric bass (FF6)

@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy VIII
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION VGMTrans
 
 #WAVE 0x20 0x53 ## synth strings (RS3)
 #WAVE 0x21 0x0D ## strings (FF6)

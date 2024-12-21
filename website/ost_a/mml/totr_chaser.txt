@@ -2,7 +2,7 @@
 #ALBUM Treasure of the Rudras
 #COMPOSER Ryuji Sasai
 #ARRANGED Gi Nattak, emberling
-#TRANSCRIPTION Robert Hansson
+#TRANSCRIPTION Robert Hansson, spc2it
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x1C ## bass (FF6)

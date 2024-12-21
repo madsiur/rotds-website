@@ -2,7 +2,7 @@
 #ALBUM Seiken Densetsu 3
 #COMPOSER Hiroki Kikuta
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION VGMTrans
 
 #WAVE 0x20 0x1F ## ocarina (FF6)
 #WAVE 0x21 0x3E ## xylophone (FF6)

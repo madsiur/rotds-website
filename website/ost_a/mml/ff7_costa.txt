@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy VII
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION gamerip (PC)
 
 #WAVE 0x20 0x20 ## marimba (FF6)
 #WAVE 0x21 0x5E ## flute (FF6)

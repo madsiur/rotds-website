@@ -2,7 +2,7 @@
 #ALBUM Treasure of the Rudras
 #COMPOSER Ryuji Sasai
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION spc2it
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x3A ## female voice (FF6)

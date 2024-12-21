@@ -192,11 +192,11 @@
     {
         "id": 79, 
         "filename": "ff5_unknown", 
-        "title": "Unknown Lands", 
+        "title": "unknown Lands", 
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2.exe", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2.exe", 
         "duration": 124
     }, 
     {
@@ -266,7 +266,7 @@
         "game": "Ys IV: The Dawn of Ys", 
         "composer": "Masaru Nakajima", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 179
     }, 
     {

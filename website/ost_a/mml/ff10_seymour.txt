@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy X
 #COMPOSER Nobuo Uematsu
 #ARRANGED Jackimus
-#TRANSCRIPTION N/A
+#TRANSCRIPTION Jackimus
 
 #WAVE 0x20 0x0D ## strings (FF6)
 #WAVE 0x21 0x25 ## pipe organ (FF6)

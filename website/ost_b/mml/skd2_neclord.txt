@@ -2,7 +2,7 @@
 #ALBUM Suikoden II
 #COMPOSER Miki Higashino, Keiko Fukami
 #ARRANGED Jackimus
-#TRANSCRIPTION N/A
+#TRANSCRIPTION Jackimus
 
 #WAVE 0x20 0x0B ## organ (FF6)
 #WAVE 0x21 0x25 ## pipe organ (FF6)

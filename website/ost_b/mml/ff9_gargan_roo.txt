@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy IX
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION VGMTrans
 
 #WAVE 0x20 0x04 ## sitar (FF6)
 #WAVE 0x21 0x19 ## pizzo string (FF6)

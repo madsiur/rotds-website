@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy III
 #COMPOSER Nobuo Uematsu
 #ARRANGED Tsushiy
-#TRANSCRIPTION N/A
+#TRANSCRIPTION unknown
 
 #WAVE 0x20 0x48 ## trumpet (RS3)
 #WAVE 0x21 0x0D ## strings (FF6)

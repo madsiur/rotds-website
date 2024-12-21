@@ -2,7 +2,7 @@
 #ALBUM Chopin
 #COMPOSER N/A
 #ARRANGED Gi Nattak
-#TRANSCRIPTION Unknown
+#TRANSCRIPTION unknown
 
 #WAVE 0x20 0xA6 ## piano (FM)
 #WAVE 0x21 0x68 ## grand piano (CT)

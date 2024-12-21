@@ -2,7 +2,7 @@
 #ALBUM Chrono Cross
 #COMPOSER Yasunori Mitsuda
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION VGMTrans
 
 #WAVE 0x20 0xD7 ## pizzo (SD3)
 #WAVE 0x21 0x53 ## synth strings (RS3)

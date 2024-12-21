@@ -13,16 +13,16 @@
 0D: bof2_hero; What It Takes To Be A Hero; Breath of Fire II; Yuko Takehara; Gi Nattak; Jonathan Bennett
 0E: ys5_lake; Misty Lake; Ys V; Naoki Kaneda; Gi Nattak; Xenu
 0F: ff7_cry; You Can Hear the Cry of the Planet; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; Pesmerga
-10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus; N/A
+10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus; Jackimus
 11: mtd_kraid; Kraid's Lair (Rock Remix); Metroid; Hirokazu Tanaka; Gi Nattak; Tracktion
-12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling; N/A
+12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling; VGMTrans
 13: tcss_song; Song #1; T&C Skate Session; Tsukasa Masuko; Gi Nattak; Kain Xiorcal
 14: rs_schiele; Battle With Schiele; Romancing Saga; Kenji Ito; Gi Nattak; SaGaUpLoader
 15: drkn_character; Character Creation; Drakkhen; Hiroyuki Masuno; Gi Nattak; FirahFabe
 16: totr_darkness; Edge of Darkness; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; Robert Hansson
 17: ao2_forest; Land of Frozen Forest; Albert Odyssey 2; Naoki Kodaka; Gi Nattak; Marine
 18: z4_dungeon; Dungeon; Zelda IV (GBC); K. Totaka, M. Hamano, K. Ishikawa, K. Kondo; Gi Nattak; Jay Reichard
-19: xnb_gaur; Gaur Plains; Xenoblade; ACE+; Jackimus; N/A
+19: xnb_gaur; Gaur Plains; Xenoblade; ACE+; Jackimus; Jackimus
 1A: lal_megalomania; Megalomania; Live a Live; Yoko Shimomura; Gi Nattak; SaGaUpLoader
 1B: lf_island; Island in the Void; Lufia; Yasunori Shiono; Gi Nattak; SinclairC
 1C: feg_army; Army of Grannvale 2; Fire Emblem: Genealogy of the Holy War; Yuka Tsujiyoko; Gi Nattak; Cross Bone
@@ -63,74 +63,74 @@
 42: ff7_day; On That Day 5 Years Ago; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; E. Khalo
 43: ff_shop; Shop Theme; Final Fantasy I; Nobuo Uematsu; Gi Nattak; VGMusic
 44: ff8_plank; Only A Plank Between One And Perdition; Final Fantasy VIII; Nobuo Uematsu; Gi Nattak; lopiko
-45: lal_psycho; Psycho Killing; Live A Live; Yoko Shimomura; emberling; N/A
+45: lal_psycho; Psycho Killing; Live A Live; Yoko Shimomura; emberling; mfvitools
 46: sd3_medicine; Strange Medicine; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak; mfvitools
-47: ff5_ronka; Machina Ronka; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-48: bld_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus; N/A
+47: ff5_ronka; Machina Ronka; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+48: bld_toronto; Town of Toronto; Brainlord; Masanao Akahori; Jackimus; Jackimus
 49: ffmq_doom; Doom Castle; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Gi Nattak; Franky Chan
-4B: xnb_mechonis; Mechonis Field; Xenoblade; ACE+; Jackimus; N/A
+4B: xnb_mechonis; Mechonis Field; Xenoblade; ACE+; Jackimus; Jackimus
 4C: totr_earth; Earth Bound; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; AlphaDraconis
 4D: ct_tyrano; Tyrano Lair; Chrono Trigger Beta; Yasunori Mitsuda; Gi Nattak; SPC injection
 4E: kaw_teamwork; Teamwork; King Aurther's World; Justin Scharvona; Gi Nattak; JILost
 4F: trnm_underworld; Underworld; Terranigma; Masanori Hikichi; Gi Nattak; Gigasoft
-50: ff10_seymour; Fight With Seymour; Final Fantasy X; Nobuo Uematsu; Jackimus; N/A
+50: ff10_seymour; Fight With Seymour; Final Fantasy X; Nobuo Uematsu; Jackimus; Jackimus
 51: cstvn_sotn_painting; Lost Painting; Castlevania SOTN; Michiru Yamane; Gi Nattak; NE2ndNOW
 52: cfh_chocobo; Chocobo From Hell; Chocobo From Hell; Andrew Thompson; Gi Nattak; Andrew Thompson
 53: vp_nostalgia; Nostalgia Into Hope; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; Ed76638
 54: ct_mountain; Singing Mountain; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; Tiffany
 55: z3_world; Dark World Dungeon; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Haakon Marthinsen
-56: som_ghost; Rose and Ghost; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5>FF6 MCS2
+56: som_ghost; Rose and Ghost; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5→FF6 MCS2
 57: ff_town; Town; Final Fantasy I; Nobuo Uematsu; Gi Nattak; VGMusic
 58: rs_minstrel; Minstrel's Song; Romancing Saga Minstrel Song; Kenji Ito; Gi Nattak; SaGaUpLoader
 59: swom_decision; Time of Decision; Sword of Mana; Kenji Ito; Gi Nattak; Black_Wing
 5A: sm64_lullaby; Piranha Plant Lullaby; Super Mario 64; Koji Kondo; Gi Nattak; Jarel Jones
 5B: som_memories; Kind Memories; Secret of Mana; Hiroki Kikuta; Gi Nattak; flamingspinach
 5C: evo_ocean; Ocean of Origin; E.V.O. Search for Eden; Koichi Sugiyama; Gi Nattak; Alluro95
-5D: sgf_trick; Trick; Saga Frontier; Kenji Ito; Tsushiy; N/A
+5D: sgf_trick; Trick; Saga Frontier; Kenji Ito; Tsushiy; unknown
 5E: ct_dome; Unused Keeper's Dome; Chrono Trigger Beta; Yasunori Mitsuda; Gi Nattak; SPC injection
 5F: so_should; What Should Be; Star Ocean; Motoi Sakuraba; Gi Nattak; Rune Walsh
-60: som_happening; A Curious Happening; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5>FF6 MCS2
+60: som_happening; A Curious Happening; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5→FF6 MCS2
 61: sd3_machine; Faith Total Machine; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak; mfvitools
 62: dq2_requiem; Requiem; Dragon Quest II; Koichi Sugiyama; Gi Nattak; Jay Reichard
 63: pkm_gym; Gym Battle; Pokemon red/blue/yellow; Junichi Masuda; Gi Nattak; Machiavel
 64: ys_step; First Step Towards Wars; Ys; Ryo Yonemitsu; Gi Nattak; Joo *Johnnyz* Buaes
 65: top_resurrection; Resurrection; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; Cacau
 66: mtlmx_forget; The One Who Cannot Forget; Metal Max 2; Satoshi Kadokura; Gi Nattak; GO
-67: doom_halls; Dark Halls; Doom; Bobby Prince; Gi Nattak; Unknown
+67: doom_halls; Dark Halls; Doom; Bobby Prince; Gi Nattak; gamerip
 68: bfm_plan; Terrible Plan of the Vambees; Brave Fencer Musashi; Tsuyoshi Sekito; Gi Nattak; Degeon
 69: cc_garden; Garden of the Gods; Chrono Cross; Yasunori Mitsuda; Gi Nattak; Freddie
 6A: mmx_boss; Boss Appears; Mega Man X; Alph Lyla group; Gi Nattak; Jarel Jones
 6B: tc_ship; Salvage Ship; Treasure Conflix; Junya Nakano; Gi Nattak; SPC injection
 6D: vp_world; Rise Above the World; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; Chief Ug
 6E: smtd_norfair; Lower Norfair; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; Ryan L.
-6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
-70: ff9_eiko; Eiko's Theme; Final Fantasy IX; Nobuo Uematsu; Jackimus; N/A
-71: ffmq_battle; Battle Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; N/A
+6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
+70: ff9_eiko; Eiko's Theme; Final Fantasy IX; Nobuo Uematsu; Jackimus; Jackimus
+71: ffmq_battle; Battle Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; Jackimus
 72: so3_moon; Reflected Moon; Star Ocean 3; Motoi Sakuraba; Gi Nattak; Ed76638
 73: skd2_chase; The Chase; Suikoden II; Miki Higashino, Keiko Fukami; Gi Nattak; Insane Apu
 74: dkc2_bop; Hot Head Bop; Donkey Kong Country 2; David Wise; Gi Nattak; Genius_41
 75: lf2_sorrow; Sorrow of Parting; Lufia II; Yasunori Shiono; Gi Nattak; Daniel Marjenburgh
-76: xnb_names; You Will Know Our Names; Xenoblade; ACE+; Jackimus; N/A
-77: lf2_battle; Battle Theme; Lufia II; Yasunori Shiono; Jackimus; N/A
-78: ff5_earth; Cursed Earth; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+76: xnb_names; You Will Know Our Names; Xenoblade; ACE+; Jackimus; Jackimus
+77: lf2_battle; Battle Theme; Lufia II; Yasunori Shiono; Jackimus; Jackimus
+78: ff5_earth; Cursed Earth; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 79: ff4_town; Welcome to Our Town; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; kaminoken
-7A: sgf_battle5; Battle #5; Saga Frontier; Kenji Ito; Tsushiy; N/A
-7B: ff5_bridge; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-7C: xng_emperor; Grahf Emperor of Darkness; Xenogears; Yasunori Mitsuda; Tsushiy; N/A
-7D: ff5_tenderness; Tenderness in the Air; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+7A: sgf_battle5; Battle #5; Saga Frontier; Kenji Ito; Tsushiy; unknown
+7B: ff5_bridge; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+7C: xng_emperor; Grahf Emperor of Darkness; Xenogears; Yasunori Mitsuda; Tsushiy; unknown
+7D: ff5_tenderness; Tenderness in the Air; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 7E: smrpg_boss; Fight Against an Armed Boss; Super Mario RPG; Yoko Shimomura; Gi Nattak; mfvitools
 7F: btm_ruins; Laboratory Ruins; Batman: The Video Game; Naoki Kodaka; Gi Nattak; Alejandro Hernandez
-80: erp_countdown; Final Countdown; Europe; N/A; Gi Nattak; Unknown
+80: erp_countdown; Final Countdown; Europe; N/A; Gi Nattak; unknown
 81: ar2_palace; Ice Palace; ActRaiser 2; Yuzo Koshiro; Gi Nattak; D. Harasymovich
 82: xng_bonds; Bonds of Sea and Fire; Xenogears; Yasunori Mitsuda; Gi Nattak; Dermot Mac Flannchaidh
 83: ff6_ww3; The Wedding Waltz #3; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 84: ys_chambers; Darm Tower Upper Chambers; Ys; Ryo Yonemitsu; Gi Nattak; Willow
-85: ff5_exdeath; Neo Exdeath; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-86: wa_zed; Zed's Theme; Wild Arms; Michiko Naruke; Gi Nattak, emberling; Valius
+85: ff5_exdeath; Neo Exdeath; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+86: wa_zed; Zed's Theme; Wild Arms; Michiko Naruke; Gi Nattak, emberling; Valius, emberling
 87: ff2_kashuon; Kashuon Castle (Battle Remix); Final Fantasy II; Nobuo Uematsu; Gi Nattak; squirtlewill2001
-88: udt_megalovania; Megalovania; Undertale; Toby Fox; Jackimus; N/A
+88: udt_megalovania; Megalovania; Undertale; Toby Fox; Jackimus; Jackimus
 89: wk_determination; Determination; William Kage Music; William Kage; Gi Nattak; William Kage
-8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus; N/A
+8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus; Jackimus
 8B: fft_battle; Unavoidable Battle; Final Fantasy Tactics; Masaharu Iwata; Gi Nattak; Insane Apu
 8C: zll_windfish; Balad of the Windfish; The Legend of Zelda: Link's Awakening; Kazumi Totaka, Minako Hamano, Kozue Ishikawa; Gi Nattak; The Sound Defense
 8D: etb__business; Pokey Means Business; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak; Jay Reichard
@@ -138,9 +138,9 @@
 8F: fft_ramza; Ramza's Theme; Final Fantasy Tactics; Hitoshi Sakimoto; Gi Nattak; Kyung Hoon Kang
 90: drkn_night; Earth Night; Drakkhen; Hiroyuki Masuno; Gi Nattak; Daniel Marjenburgh
 91: ff6_overture_1; Overture 1; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
-92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus; N/A
+92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus; Jackimus
 93: lf_evil; Wave of Evil; Lufia; Yasunori Shiono; Gi Nattak; SinclairC
-94: sf2_guile; Guile's Theme; Street Fighter II; Yoko Shimomura; Gi Nattak; N/A
+94: sf2_guile; Guile's Theme; Street Fighter II; Yoko Shimomura; Gi Nattak; Moccy
 95: ff6_aria; Aria di Mezzo Carattere; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 96: dms_allant; Old King Allant; Demon's Souls; Shunsuke Kida; Gi Nattak; Wyatt Croucher
 97: 7th_saizer; Valsu Saizer; 7th Saga; Norihiko Yamanuki; Gi Nattak; JILost
@@ -152,12 +152,12 @@
 9D: ff4_boss; Boss Theme; Final Fantasy IV; Nobuo Uematsu; MetroidQuest; N/A
 9E: rs_city; Crystal City; Romancing Saga; Kenji Ito; Gi Nattak; Marine
 9F: dq7_days; Days of Sadness; Dragon Quest VII; Koichi Sugiyama; Gi Nattak; Chronoboricua
-A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
+A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
 A1: skd_reminiscence; Reminiscence Ensemble Version; Suikoden II; Miki Higashino, Keiko Fukami; Gi Nattak; Daniel Marjenburgh
 A2: ff6_overture_2; Overture 2; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 A3: sm3_airships; Airships; Super Mario 3; Koji Kondo; Gi Nattak; Isaiah K.
-A4: sw_cantina; Cantina; Star Wars; John Williams; Gi Nattak; Unknown
-A5: ff8_machine_gun; The Man With The Machine Gun; Final Fantasy VIII; Nobuo Uematsu; Jackimus; N/A
+A4: sw_cantina; Cantina; Star Wars; John Williams; Gi Nattak; unknown
+A5: ff8_machine_gun; The Man With The Machine Gun; Final Fantasy VIII; Nobuo Uematsu; Jackimus; Jackimus
 A6: iog_dream; Will's Dream; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak; Jeff Daily
 A7: bl_campbell; Green Land Campbell; Bahamut Lagoon; Noriko Matsueda; Gi Nattak; mfvitools
 A8: smrpg_mallow; Mallow Finds Out He Is Not A Tadpole; Super Mario RPG; Yoko Shimomura; Gi Nattak; mfvitools
@@ -172,55 +172,55 @@ B2: ffx_yuna; Yuna's Decision; Final Fantasy X; Nobuo Uematsu; Gi Nattak; Jugon
 B3: udt_bonetrousle; Bonetrousle; Undertale; Toby Fox; Gi Nattak; Lu9
 B4: shfc_sad; Sad Theme; Shining Force; Motoaki Takenouchi; Gi Nattak; Johnnyz
 B5: smrpg_sewers; Kero Sewers; Super Mario RPG; Yoko Shimomura; Gi Nattak; mfvitools
-B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; Unknown
+B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; unknown
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak; Andrew Thompson
 BC: pq_lullaby; Godom Lullaby; Paladin's Quest; Kohei Tanaka; Gi Nattak; Pteryx
-BD: som_oracle; Oracle; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5>FF6 MCS2
-BE: som_dance; Meridian Dance; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5>FF6 MCS2
-BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy; N/A
-C0: ff5_decisive; The Decisive Battle; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+BD: som_oracle; Oracle; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5→FF6 MCS2
+BE: som_dance; Meridian Dance; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5→FF6 MCS2
+BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
+C0: ff5_decisive; The Decisive Battle; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 C1: rsms_prelude; Prelude to Battle; Romancing Saga Minstrel Song; Kenji Ito; Gi Nattak; Hira
 C2: rs2_last; Last Battle; Romancing Saga 2; Kenji Ito; Gi Nattak; RMSephy
 C3: ct_battle_2; Unused Battle 2; Chrono Trigger; Yasunori Mitsuda; MetroidQuest; SPC injection
 C4: alundra_dust; Dust to Dust; Alundra; Kohei Tanaka; Gi Nattak; CronosGeo
-C5: ff5_boss; Boss Theme; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+C5: ff5_boss; Boss Theme; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 C6: swom_victory; Believe in Victory; Sword of Mana; Kenji Ito; Gi Nattak; Black_Wing
 C7: q2_rage; Rage; Quake II; Sascha Dikiciyan; Gi Nattak; Jay Reichard
-C8: ct_boss2; Boss Battle 2; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; Unknown
+C8: ct_boss2; Boss Battle 2; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; unknown
 C9: kh_forze; Forze Del Male; Kingdom Hearts; Yoko Shimomura; Gi Nattak; Marlin Exton
-CA: ff7_jenova; J-E-N-O-V-A; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
-CB: ff9_boss; Boss Battle; Final Fantasy IX; Nobuo Uematsu; Jackimus; N/A
+CA: ff7_jenova; J-E-N-O-V-A; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
+CB: ff9_boss; Boss Battle; Final Fantasy IX; Nobuo Uematsu; Jackimus; Jackimus
 CC: iog_adrift; Adrift; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak; Joel Robinson
 CD: sd3_wolf; Left Handed Wolf; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak; mfvitools
 CE: ej2_lorenzo; Lorenzo's Soil; Earthworm Jim 2; Tommy Tallarico; Gi Nattak; Sivak Drac
 CF: z3_dark_world; Dark World; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Jorge D. Fuentes
-D0: ffmq_boss; Boss Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; N/A
-D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; N/A
+D0: ffmq_boss; Boss Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; Jackimus
+D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; Jackimus
 D2: cc_emotions; Singing Emotions; Chrono Cross; Yasunori Mitsuda; Gi Nattak; aizel
 D3: vp_leaf; Turn Over a New Leaf; Valkyrie Profile; Motoi Sakuraba; Gi Nattak; Ed76638
-D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; N/A
-D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; N/A
-D6: gs2_battle; Felix Battle Theme; Golden Sun 2; Motoi Sakuraba; Jackimus; N/A
+D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; Jackimus
+D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; Jackimus
+D6: gs2_battle; Felix Battle Theme; Golden Sun 2; Motoi Sakuraba; Jackimus; Jackimus
 D7: fz_field; Fire Field (Metal Remix); F-Zero; Yumiko Kanki, Naoto Ishida; Gi Nattak; Jay Reichard
 D8: ffl2_aspiration; Aspiration; Final Fantasy Legend II; Kenji Ito; Gi Nattak; Steve Ragnone
 D9: top_village; Ary Village; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; Dr. Fruitcake
 DA: evo_boss; Boss Theme; E.V.O. Search for Eden; Koichi Sugiyama; Gi Nattak; NeoVelocity
-DB: som_danger; Danger; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5>FF6 MCS2
+DB: som_danger; Danger; Secret of Mana; Hiroki Kikuta; Gi Nattak; FF5→FF6 MCS2
 DC: z3_village; Kakariko Village; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Thomas Rungeard
-DD: smrpg_smithy; Fight Against Smithy; Super Mario RPG; Yoko Shimomura; Jackimus; N/A
-DE: ff7_costa; Costa Del Sol; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
-DF: smtd_boss; Boss Theme; Super Metroid/Prime; Minako Hamano, Kenji Yamamoto; Jackimus; N/A
+DD: smrpg_smithy; Fight Against Smithy; Super Mario RPG; Yoko Shimomura; Jackimus; Jackimus
+DE: ff7_costa; Costa Del Sol; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
+DF: smtd_boss; Boss Theme; Super Metroid/Prime; Minako Hamano, Kenji Yamamoto; Jackimus; Jackimus
 E0: ff9_final; The Final Battle; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; Eli Dirkx
 E1: ff11_recollection; Recollection; Final Fantasy XI; Nobuo Uematsu; Gi Nattak; Kago
 E2: ff6_ending; Ending Song 2; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
-E3: ff5_hurry; Hurry! Hurry!; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-E4: ff5_book; Sealed Book; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-E5: pg_carol_anne; Carol Anne's Theme; Poltergheist; Jerry Goldsmith; Gi Nattak; Unknown
+E3: ff5_hurry; Hurry! Hurry!; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+E4: ff5_book; Sealed Book; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+E5: pg_carol_anne; Carol Anne's Theme; Poltergheist; Jerry Goldsmith; Gi Nattak; unknown
 E6: ff4_paladin; The Paladin; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; mfvitools
 E7: rtsd_overworld; Overworld; RPG Tsukuru Super Dante; Shigeharu Isoda, Mitsuhiro Arisaka; Gi Nattak; darkgreen_orange
 E8: lf_war; Spoils of War; Lufia; Yasunori Shiono; Gi Nattak; SinclairC
-E9: ff7_god; Birth of a God; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
-EA: totr_chaser; Spirit Chaser; Treasure of the Rudras; Ryuji Sasai; Gi Nattak, emberling; Robert Hansson
+E9: ff7_god; Birth of a God; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
+EA: totr_chaser; Spirit Chaser; Treasure of the Rudras; Ryuji Sasai; Gi Nattak, emberling; Robert Hansson, spc2it
 EB: swom_pain; Unrelenting Pain; Sword of Mana; Kenji Ito; Gi Nattak; Black_Wing
 EC: dbz_battle; Battle Theme #7; Dragon Ball Z Budokai; Kenji Yamamoto; Gi Nattak; Jay Reichard
 ED: fnaf_travel; 8 Bit Travel; Five Nights at Freddys; Leon Riskin; Gi Nattak; vomitsprinkler
@@ -230,89 +230,89 @@ F0: tc_title; Title; Treasure Conflix; Junya Nakano; Gi Nattak; SPC injection
 F1: wa_win; Win!; Wild Arms; Michiko Naruke; Gi Nattak; SinclairC
 F2: lf2_island; Island in the Void; Lufia II; Yasunori Shiono; Gi Nattak; SinclairC
 F3: xng_awakening; Awakening; Xenogears; Yasunori Mitsuda; Gi Nattak; FF-Xeno
-F4: ff8_force; Force Your Way; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
+F4: ff8_force; Force Your Way; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
 F5: rs_tears; Heartfelt Tears; Romancing Saga; Kenji Ito; Gi Nattak; SaGaUpLoader
 F6: ebrk_berserker; Berserker; Energy Breaker; Yasunori Shiono; Gi Nattak; Willow
-F7: emnm_influence; Under the Influence; Eminem; Dr. Dre; Gi Nattak; Unknown
+F7: emnm_influence; Under the Influence; Eminem; Dr. Dre; Gi Nattak; unknown
 F8: arcana_armageddon; Second Armageddon; Arcana; Jun Ishikawa, Hirokazu Ando; Gi Nattak; Steve Ragnone
 F9: rs3_devils; Four Noble Devils; Romancing Saga 3; Kenji Ito; Gi Nattak; SPC injection
-FA: ff7_flowers; Flowers Blooming in the Church; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; OST midi
+FA: ff7_flowers; Flowers Blooming in the Church; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; gamerip (PC)
 FB: top_night; Bright Moonlit Night; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; Talon
 FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak; Jeff Daily
 FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan Carriere
 
 [ost_b.smc]
-01: bof2_counter; Cross Counter; Breath of Fire II; Yuko Takehara; emberling; N/A
-02: ff12_power; Lust for Power; Final Fantasy XII; Hayato Matsuo; emberling; N/A
-03: top_curtain; Raising a Curtain; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; N/A
-05: ffmq_shrine; Shrine of Light; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; N/A
+01: bof2_counter; Cross Counter; Breath of Fire II; Yuko Takehara; emberling; VGMTrans
+02: ff12_power; Lust for Power; Final Fantasy XII; Hayato Matsuo; emberling; VGMTrans
+03: top_curtain; Raising a Curtain; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; top2mid
+05: ffmq_shrine; Shrine of Light; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; FF5→FF6 MCS2
 06: ebrk_bells; The Prayer Bells do not Toll; Energy Breaker; Yasunori Shiono; Gi Nattak; Robert Hansson
 07: ps2_mystery; Mystery; Phantasy Star II; Tokuhiko Uwabo; Gi Nattak; Rune Walsh
-08: ff9_gargan_roo; Gargan Roo; Final Fantasy IX; Nobuo Uematsu; emberling; N/A
+08: ff9_gargan_roo; Gargan Roo; Final Fantasy IX; Nobuo Uematsu; emberling; VGMTrans
 09: ct_chest; Sealed Chest; Chrono Trigger; Yasunori Mitsuda; Gi Nattak; SPC injection
 0A: fe_doors; Doors of Destiny; Fire Emblem: Genealogy of the Holy War; Yuka Tsujiyoko; Gi Nattak; Kenji
-0B: ff7_town; Mining Town; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
+0B: ff7_town; Mining Town; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
 0C: totr_city; Underwater City; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; Robert Hansson
 0D: tod_fangs; Bared Fangs; Tales of Destiny; Motoi Sakuraba; Gi Nattak; MaliceX
 0E: lal_speech; Uranus' Speech; Live A Live; Yoko Shimomura; Gi Nattak; Robert Hansson
 0F: swon_chain; Chain of Fate; Sword of Mana; Kenji Ito; Gi Nattak; Black_Wing
-10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus; N/A
-11: wcr2_orc1; Orc 1; Warcraft II; Glenn Stafford; emberling; N/A
-12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling; N/A
-13: crstl_fields; Wild Fields; Crystalis; Yoko Osaka; emberling; N/A
+10: potc_pirate; He's a Pirate!; Pirate's of the Caribbean; Klaus Badelt, Hans Zimmer; Jackimus; Jackimus
+11: wcr2_orc1; Orc 1; Warcraft II; Glenn Stafford; emberling; gamerip
+12: ff4_calcobrena; Dancing Calcobrena; Final Fantasy IV; Nobuo Uematsu; emberling; VGMTrans
+13: crstl_fields; Wild Fields; Crystalis; Yoko Osaka; emberling; nsfimport
 14: rs_coup; Coup de Grace; Romancing Saga; Kenji Ito; Gi Nattak; GSAE
-15: ffmq_rock; Rock Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; N/A
+15: ffmq_rock; Rock Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; FF5→FF6 MCS2
 16: fmgh_nature; Nature; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
-17: sd3_winter; Another Winter; Seiken Densetsu 3; Hiroki Kikuta; emberling; N/A
+17: sd3_winter; Another Winter; Seiken Densetsu 3; Hiroki Kikuta; emberling; VGMTrans
 18: sd3_paths; Few Paths Forbidden; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak; mfvitools
-19: xnb_gaur; Gaur Plains; Xenoblade; ACE+; Jackimus; N/A
+19: xnb_gaur; Gaur Plains; Xenoblade; ACE+; Jackimus; Jackimus
 1A: swon_courage; Touched by Courage and Pride; Sword of Mana; Kenji Ito; Gi Nattak; Black_Wing
 1B: fmgh_silencer; Silencer; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
 1C: bl_matelite; Matelite's Theme; Bahamut Lagoon; Noriko Matsueda; Gi Nattak; Japanese MIDI
 1D: rs_village; Deserted Village; Romancing Saga; Kenji Ito; Gi Nattak; Marine
-1F: ff5_exdeath; The Evil Lord Exdeath; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+1F: ff5_exdeath; The Evil Lord Exdeath; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 20: smw2_castle; Castle; Super Mario World 2: Yoshi's Island; Koji Kondo; Gi Nattak; Gigasoft
-21: ff4_illus_world; Illusionary World; Final Fantasy IV; Nobuo Uematsu; Tsushiy; N/A
-22: ot_sunshade; Sunshade City; Octopath Traveler; Yasunori Nishiki; emberling; N/A
+21: ff4_illus_world; Illusionary World; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
+22: ot_sunshade; Sunshade City; Octopath Traveler; Yasunori Nishiki; emberling; emberling
 23: rng_cathedral; Cursed Cathedral; RednGreen; RednGreen Music; Gi Nattak; ShinkoNetCavy
 24: rs3_battle; The Battle; Romancing Saga 3; Kenji Ito; Gi Nattak; Daniel Marjenburgh
 25: swom_battlefield; Endless Battlefield; Sword of Mana; Kenji Ito; Gi Nattak; Matmax14
-27: smtd_crateria; Crateria; Super Metroid; Minako Hamano, Kenji Yamamoto; emberling; N/A
-28: xnbc2_tantal; Kingdom Of Tantal (Day); Xenoblade Chronicles 2; ACE; emberling; N/A
-29: cc_dragon; Ancient Dragon's Stronghold; Chrono Cross; Yasunori Mitsuda; emberling; N/A
+27: smtd_crateria; Crateria; Super Metroid; Minako Hamano, Kenji Yamamoto; emberling; VGMTrans
+28: xnbc2_tantal; Kingdom Of Tantal (Day); Xenoblade Chronicles 2; ACE; emberling; emberling
+29: cc_dragon; Ancient Dragon's Stronghold; Chrono Cross; Yasunori Mitsuda; emberling; VGMTrans
 2A: swom_village; Village; Sword of Mana; Kenji Ito; Gi Nattak; Zurri
-2B: sd3_counterpoint; Weird Counterpoint; Seiken Densetsu 3; Hiroki Kikuta; emberling; N/A
+2B: sd3_counterpoint; Weird Counterpoint; Seiken Densetsu 3; Hiroki Kikuta; emberling; VGMTrans
 2C: fe_truth; Truth, Despair, and Hope; Fire Emblem: The Sacred Stones; Yoshihiko Kitamura, Saki Haruyama, Yoshito Hirano; Gi Nattak; Michael Garnett
 2D: bof3_farm; The Farm; Breath of Fire III; Yoshino Aoki, Akari Kaida; Gi Nattak; Louie Devera
 2E: rs2_kujinshi; Battle With Kujinshi; Romancing Saga 2; Kenji Ito; Gi Nattak; yazarc
-2F: ffmq_victory; Victory Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; N/A
-30: ff10_path; Path of Repentance; Final Fantasy X; Nobuo Uematsu; emberling; N/A
+2F: ffmq_victory; Victory Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; FF5→FF6 MCS2
+30: ff10_path; Path of Repentance; Final Fantasy X; Nobuo Uematsu; emberling; VGMTrans
 31: eb_snowman; Snowman; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak; Chibi Vegito
-32: ffx_battle; Battle; Final Fantasy X; Nobuo Uematsu; emberling; N/A
+32: ffx_battle; Battle; Final Fantasy X; Nobuo Uematsu; emberling; VGMTrans
 33: totr_battle; Battle for the Fields; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; Cryogen Glacien
 34: dkcl2_garden; Garden of Memories; Dark Cloud 2; Tomohito Nishiura; Cecil188; N/A
-35: ffmq_gale; Mount Gale; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; N/A
-36: som_intruder; Holy Intruder; Secret of Mana; Hiroki Kikuta; emberling; N/A
+35: ffmq_gale; Mount Gale; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; FF5→FF6 MCS2
+36: som_intruder; Holy Intruder; Secret of Mana; Hiroki Kikuta; emberling; FF5→FF6 MCS2
 37: rs3_katrina; Katrina's Theme; Romancing Saga 3; Kenji Ito; Gi Nattak; SPC injection
-38: ff4_night; Good Night; Final Fantasy IV; Nobuo Uematsu; Tsushiy; N/A
-39: cc_arni; Arni Village; Chrono Cross; Yasunori Mitsuda; Gi Nattak, emberling; Wilbert Roget, II
-3B: sgf_battle3; Battle #3; Saga Frontier; Kenji Ito; Tsushiy; N/A
+38: ff4_night; Good Night; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
+39: cc_arni; Arni Village; Chrono Cross; Yasunori Mitsuda; Gi Nattak, emberling; Wilbert Roget II, VGMTrans
+3B: sgf_battle3; Battle #3; Saga Frontier; Kenji Ito; Tsushiy; unknown
 3C: lf2_mountain; Towering Mountain; Lufia II; Yasunori Shiono; Gi Nattak, emberling; SinclairC
 3D: so2_stream; Pure a Stream; Star Ocean 2; Motoi Sakuraba; Gi Nattak; Christopher Ng
-3E: chopin_march; Funeral March; Chopin; N/A; Gi Nattak; Unknown
+3E: chopin_march; Funeral March; Chopin; N/A; Gi Nattak; unknown
 3F: ml_world; World 4; Mario Land; Hirokazu Tanaka; Gi Nattak; Jonathan Shen
-40: cc_pyre; Mount Pyre; Chrono Cross; Yasunori Mitsuda; emberling; N/A
+40: cc_pyre; Mount Pyre; Chrono Cross; Yasunori Mitsuda; emberling; VGMTrans
 41: rd_promise; Far Promise ~ Dream Shore; Radical Dreamers; Yasunori Mitsuda; Gi Nattak; SPC injection
-42: ff8_law; Martial Law; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
+42: ff8_law; Martial Law; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
 43: bof2_dance; Clumsy Dance; Breath of Fire II; Yuko Takehara; Gi Nattak; VGMTrans
 44: ej_tanjerines; Anything But Tangerines; Earthworm Jim; Tommy Tallarico; Gi Nattak; Chris Heneghan
-45: totr_flame; Flame And Arrow; Treasure of the Rudras; Ryuji Sasai; emberling; N/A
+45: totr_flame; Flame And Arrow; Treasure of the Rudras; Ryuji Sasai; emberling; spc2it
 46: fm_war; The Evils of War; Front Mission; Yoko Shimomura; Gi Nattak; SPC injection
 47: fmgh_message; Message of Genoce; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
 48: ff7_ahead; Ahead on Our Way; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; FF7 PC MIDI
-49: ff8_lion; Maybe I'm a Lion; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
-4B: ff14_azys; Azys Lla; Final Fantasy XIV; Masayoshi Soken; emberling; N/A
-4C: ff5_light; Searching the Light; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+49: ff8_lion; Maybe I'm a Lion; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
+4B: ff14_azys; Azys Lla; Final Fantasy XIV; Masayoshi Soken; emberling; emberling
+4C: ff5_light; Searching the Light; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 4D: gs_lighthouse; Venus Lighthouse; Golden Sun; Motoi Sakuraba; Gi Nattak; Justus Johnston
 4E: kaw_havoc; Havoc; King Arthur's World; Justin Scharvona; Gi Nattak; Joe Schwebke
 4F: cc_sea; Dead Sea; Chrono Cross; Yasunori Mitsuda; Jackimus, Gi Nattak; Jackimus
@@ -321,47 +321,47 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 52: jts_headquaters; Headquarters; Journey to Silius; Naoki Kodaka; Gi Nattak; tdkim
 53: so_time; Calm Time; Star Ocean; Motoi Sakuraba; Gi Nattak; top2midi
 54: ff10_zanarkan; To Zanarkand; Final Fantasy X; Nobuo Uematsu; Gi Nattak; David Moore
-55: ff4_darkness; Into the Darkness; Final Fantasy IV; Nobuo Uematsu; Tsushiy; N/A
-56: ff4hol_vulpes; Vulpes (day); Final Fantasy: The 4 Heroes of Light; Naoshi Mizuta; Tsushiy; N/A
+55: ff4_darkness; Into the Darkness; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
+56: ff4hol_vulpes; Vulpes (day); Final Fantasy: The 4 Heroes of Light; Naoshi Mizuta; Tsushiy; unknown
 57: z3_shop; Shop; The Legend of Zelda: Ocarina of Time; Koji Kondo; Gi Nattak; Princess Peach Toadstool
 58: trnm_forest; Evergreen Forest; Terranigma; Masanori Hikichi; Gi Nattak; Gigasoft
 59: ct_will; Those Without the Will to Live; Chrono Trigger; Uematsu; Gi Nattak; SPC injection
-5A: ff5_box; Music Box; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
-5B: ff9_sorrow; Unforgettable Sorrow; Final Fantasy IX; Nobuo Uematsu; Tsushiy; N/A
+5A: ff5_box; Music Box; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
+5B: ff9_sorrow; Unforgettable Sorrow; Final Fantasy IX; Nobuo Uematsu; Tsushiy; unknown
 5C: bof2_beauty; Sleeping Beauty; Breath of Fire II; Yuko Takehara; Gi Nattak; Sephiroth3
-5D: ff8_witches; Succession of Witches; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
+5D: ff8_witches; Succession of Witches; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
 5E: ff9_world; Crystal World; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; Sephiroth3
 5F: snc_sonic; Sonic.exe; Kyu S. Music; Kyu S.; Gi Nattak; Kyu S.
 60: ff3_tozas; Cute Little Tozas; Final Fantasy III; Nobuo Uematsu; Gi Nattak; VGMusic
-61: xng_giant; Steel Giant; Xenogears; Yasunori Mitsuda; emberling; N/A
-62: iog_whispers; Ominous Whispers; Illusion of Gaia; Yasuhiro Kawasaki; emberling; N/A
+61: xng_giant; Steel Giant; Xenogears; Yasunori Mitsuda; emberling; VGMTrans
+62: iog_whispers; Ominous Whispers; Illusion of Gaia; Yasuhiro Kawasaki; emberling; VGMTrans
 63: pkm_battle; Trainer Battle; Pokemon red/blue/yellow; Junichi Masuda; Gi Nattak; Jay Reichard
-64: ys3_seal; Seal of Time; Ys III; Mieko Ishikawa; emberling; N/A
-65: som_star; The Dark Star; Secret of Mana; Hiroki Kikuta; emberling; N/A
+64: ys3_seal; Seal of Time; Ys III; Mieko Ishikawa; emberling; VGMTrans
+65: som_star; The Dark Star; Secret of Mana; Hiroki Kikuta; emberling; mfvitools
 66: rs3_palace; Underwater Palace; Romancing Saga 3; Kenji Ito; Gi Nattak; SPC injection
-67: dm2_doom; Doom; Doom II; Bobby Prince; emberling; N/A
-68: ff7_snow; Buried in the Snow; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
+67: dm2_doom; Doom; Doom II; Bobby Prince; emberling; gamerip
+68: ff7_snow; Buried in the Snow; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
 69: rd_flame; Frozen Flame; Radical Dreamers; Yasunori Mitsuda; Gi Nattak; SPC injection
 6A: smtd_incoming; Hostiles Incoming; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; Erik
 6B: khb_place; Enter the Place; Koi Ha Balance; Kenji Ito; Gi Nattak; SPC injection
-6D: top_overworld; Overworld Theme 3; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; N/A
-6E: gs_ruins; Tunnel Ruins; Golden Sun; Motoi Sakuraba; emberling; N/A
-6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
-70: ff9_eiko; Eiko's Theme; Final Fantasy IX; Nobuo Uematsu; Jackimus; N/A
+6D: top_overworld; Overworld Theme 3; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; top2mid
+6E: gs_ruins; Tunnel Ruins; Golden Sun; Motoi Sakuraba; emberling; ba_mus_riper
+6F: ff7_fight; Those Who Fight; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
+70: ff9_eiko; Eiko's Theme; Final Fantasy IX; Nobuo Uematsu; Jackimus; Jackimus
 71: lal_knock; Knock You Down!; Live A Live; Yoko Shimomura; Gi Nattak; SaGaUpLoader
-72: eldr_madeline; Madeline's Theme; Electric Dreams; Giorgio Moroder; Gi Nattak; Unknown
-73: top_spirit; Fighting of the Spirit; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; N/A
+72: eldr_madeline; Madeline's Theme; Electric Dreams; Giorgio Moroder; Gi Nattak; unknown
+73: top_spirit; Fighting of the Spirit; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; top2mid
 74: kh_wish; A Very Small Wish; Kingdom Hearts; Yoko Shimomura; Gi Nattak; Mitch Vega
-75: top_mint; Mint's Theme; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; N/A
-76: xnb_names; You Will Know Our Names; Xenoblade; ACE+; Jackimus; N/A
+75: top_mint; Mint's Theme; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; emberling; top2mid
+76: xnb_names; You Will Know Our Names; Xenoblade; ACE+; Jackimus; Jackimus
 77: bof_battling; Battling; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak; Jorge D. Fuentes
-78: cc_marshes; Hydra Marshes; Chrono Cross; Yasunori Mitsuda; emberling; N/A
-79: ff4_troian; Troian Beauty; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; Unknown
-7A: sgf_battle2; Battle #2; Saga Frontier; Kenji Ito; Tsushiy; N/A
-7B: ff5_clash; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+78: cc_marshes; Hydra Marshes; Chrono Cross; Yasunori Mitsuda; emberling; VGMTrans
+79: ff4_troian; Troian Beauty; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; unknown
+7A: sgf_battle2; Battle #2; Saga Frontier; Kenji Ito; Tsushiy; unknown
+7B: ff5_clash; Clash on the Big Bridge; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 7C: bl_gudruff; Gudruff's Theme; Bahamut Lagoon; Noriko Matsueda; Gi Nattak; mfvitools
 7D: xng_clouds; The Sky Clouds and You; Xenogears; Yasunori Mitsuda; Gi Nattak; J.J.
-7E: sf2_ken; Ken's Theme; Street Fighter II; Yoko Shimomura; emberling; N/A
+7E: sf2_ken; Ken's Theme; Street Fighter II; Yoko Shimomura; emberling; VGMTrans
 7F: mm9_flash; Flash in the Dark; Megaman 9; Ryo Kawakami; Gi Nattak; Jay Reichard
 80: es3_morrowind; Morrowind Theme; Elder Scrolls III; Jeremy Soule; Gi Nattak; Ilya Gordon
 81: ar2_palace; Ice Palace; ActRaiser 2; Yuzo Koshiro; Gi Nattak; D. Harasymovich
@@ -370,20 +370,20 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 84: cstvn3_aquarious; Aquarius; Castlevania 3; Konami Kukeiha Club; Gi Nattak; Jorge D. Fuentes
 85: ff4_zeromus; Zeromus; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; Kaminoken
 86: kss_race; Gourmet Race; Kirby Super Star; Jun Ishikawa; Gi Nattak; Xky Rauh
-87: lo_barrel; The Gun Barrel of Battle; Lost Odyssey; Nobuo Uematsu; emberling; N/A
+87: lo_barrel; The Gun Barrel of Battle; Lost Odyssey; Nobuo Uematsu; emberling; emberling
 88: top_decisive; Decisive; Tales of Phantasia;  Motoi Sakuraba, Shinji Tamura; Gi Nattak; Erwill
-89: so2_operation; Rescue Operation; Star Ocean 2; Motoi Sakuraba; emberling; N/A
-8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus; N/A
-8B: xng_knight; Red Knight; Xenogears; Yasunori Mitsuda; emberling; N/A
-8C: dq3_world; Unknown World; Dragon Quest III; Koichi Sugiyama; Gi Nattak; Jay Reichard
-8D: lf2_battle_2; Battle 2; Lufia II; Yasunori Shiono; Tsushiy; N/A
+89: so2_operation; Rescue Operation; Star Ocean 2; Motoi Sakuraba; emberling; VGMTrans
+8A: avgn_fuckballs; Future Fuckballs 2010; Angry Video Game Nerd Adventures; FreakZone Games; Jackimus; Jackimus
+8B: xng_knight; Red Knight; Xenogears; Yasunori Mitsuda; emberling; VGMTrans
+8C: dq3_world; unknown World; Dragon Quest III; Koichi Sugiyama; Gi Nattak; Jay Reichard
+8D: lf2_battle_2; Battle 2; Lufia II; Yasunori Shiono; Tsushiy; unknown
 8E: smtd_brain; Mother Brain; Super Metroid; Minako Hamano, Kenji Yamamoto; Gi Nattak; Erik
 8F: ias_redemption; Path of Redemption; I Am Setsuna; Tomoki Miyoshi; Gi Nattak; Josephina
 90: udt_waters; Quiet Waters; Undertale; Toby Fox; Gi Nattak; Ulrik Ruud Rostrup
 91: ff6_overture_1; Overture 1; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
-92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus; N/A
+92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus; Jackimus
 93: fmgh_sentinal; Sentinal; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
-94: xng_flight; Flight; Xenogears; Yasunori Mitsuda; emberling; N/A
+94: xng_flight; Flight; Xenogears; Yasunori Mitsuda; emberling; VGMTrans
 95: ff6_aria; Aria di Mezzo Carattere; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 96: ab_closed; Closed In Upon Me; Altered Beast; Kazuhiko Nagai; Gi Nattak; Johnnyz
 97: bof2_god; Please, God; Breath of Fire II; Yuko Takehara; Gi Nattak; Sephiroth3
@@ -395,64 +395,64 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 9D: ff4_boss; Boss Theme; Final Fantasy IV; Nobuo Uematsu; MetroidQuest; N/A
 9E: totr_village; Holiday in the Village; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; mfvitools
 9F: ln2_memories; Somber Memories; Lunar 2; Noriyuki Iwadare; Gi Nattak; Timothy Peters
-A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
+A0: ff7_fight_further; Those Who Fight Further; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
 A1: bof_alan; Alan and Cerl; Breath of Fire; Y. Fujita, M. Yamaguchi, M. Fuji, Y. Shimomura, T. Nishimura; Gi Nattak; Jorge D. Fuentes
 A2: ff6_overture_2; Overture 2; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 A3: sn_act_1; Flying Battery Zone Act 1; Sonic & Knuckles; Howard Drossin; Gi Nattak; Mike Newman
 A4: dt_bone; Skull Bone 1; Dynami Tracer; Nobuo Uematsu; Gi Nattak; SPC injection
-A5: ff8_machine_gun; The Man With The Machine Gun; Final Fantasy VIII; Nobuo Uematsu; Jackimus; N/A
+A5: ff8_machine_gun; The Man With The Machine Gun; Final Fantasy VIII; Nobuo Uematsu; Jackimus; Jackimus
 A6: evrqst_kelethin; Kelethin; Everquest; Jay Barbeau; Gi Nattak; Randall Laws
-A7: ff9_hills; Crossing Those Hills; Final Fantasy IX; Nobuo Uematsu; emberling; N/A
+A7: ff9_hills; Crossing Those Hills; Final Fantasy IX; Nobuo Uematsu; emberling; VGMTrans
 A8: dc2_brinks; Palm Brinks; Dark Cloud 2; Tomohito Nishiura; Gi Nattak; Sevon
 A9: lf2_watchtowers; Watchtowers of the Seal; Lufia II; Yasunori Shiono; Gi Nattak; SinclairC
 AA: som_whisper; Whisper And Mantra; Secret of Mana; Hiroki Kikuta; Gi Nattak; mfvitools
-AB: eo3_waves; The End of the Raging Waves; Etrian Odyssey III; Yuzo Koshiro; emberling; N/A
-AC: xnbc2_morardain; Mor Ardain; Xenoblade Chronicles 2; ACE; emberling; N/A
-AF: sd3_sacrifice; Sacrifice; Seiken Densetsu 3; Hiroki Kikuta; emberling; N/A
+AB: eo3_waves; The End of the Raging Waves; Etrian Odyssey III; Yuzo Koshiro; emberling; VGMTrans
+AC: xnbc2_morardain; Mor Ardain; Xenoblade Chronicles 2; ACE; emberling; emberling
+AF: sd3_sacrifice; Sacrifice; Seiken Densetsu 3; Hiroki Kikuta; emberling; VGMTrans
 B0: fzc_big_blue; Big Blue; F-Zero Climax; Kenji Hikita; Gi Nattak; Jay Reichard
-B1: rs3_last_battle; The Last Battle; Romancing SaGa 3; Kenji Ito; Tsushiy; N/A
+B1: rs3_last_battle; The Last Battle; Romancing SaGa 3; Kenji Ito; Tsushiy; unknown
 B2: rd_girl; Star Stealing Girl; Radical Dreamers; Yasunori Mitsuda; Gi Nattak; SPC injection
 B3: smrpg_booster; And My Name's Booster; Super Mario RPG; Yoko Shimomura; Gi Nattak; mfvitools
 B4: dsg_moon; Red Moon; Disgaea; Tenpei Sato; Gi Nattak; Phoenix of Chaos
-B5: cc_child; Lost Child of Time; Chrono Cross; Yasunori Mitsuda; emberling; N/A
+B5: cc_child; Lost Child of Time; Chrono Cross; Yasunori Mitsuda; emberling; VGMTrans
 B6: ff4_world; Somewhere in the World; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; VGMusic
 BB: ff3_cloud; Cloud of Darkness; Final Fantasy III; Nobuo Uematsu; Gi Nattak; Andrew Thompson
 BC: totr_mines; The Quest For Rudra's Mines; Treasure of the Rudras; Ryuji Sasai; Gi Nattak; mfvitools
 BD: sd3_mana; Secret of Mana; Seiken Densetsu 3; Hiroki Kikuta; Gi Nattak; mfvitools
-BE: ct_theme; Main Theme; Chrono Trigger; Yasunori Mitsuda; emberling; N/A
-BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy; N/A
-C0: ff5_decisive; The Decisive Battle; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+BE: ct_theme; Main Theme; Chrono Trigger; Yasunori Mitsuda; emberling; mfvitools
+BF: ff4_dreadful; Dreadful Battle; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
+C0: ff5_decisive; The Decisive Battle; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 C1: rsms_justice; Believing My Justice; Romancing Saga Minstrel Song; Kenji Ito; Gi Nattak; Hira
-C2: ct_magus; Battle With Magus; Chrono Trigger; Yasunori Mitsuda; Tsushiy; N/A
-C3: ct_battle_1; Battle 1; Chrono Trigger; Yasunori Mitsuda; emberling; N/A
-C4: sd3_sea; Innocent Sea; Seiken Densetsu 3; Hiroki Kikuta; emberling; N/A
-C5: ff1_boss; Boss Battle B; Final Fantasy I; Nobuo Uematsu; Tsushiy; N/A
-C6: ff3_battle_2; Battle 2; Final Fantasy III; Nobuo Uematsu; Tsushiy; N/A
+C2: ct_magus; Battle With Magus; Chrono Trigger; Yasunori Mitsuda; Tsushiy; unknown
+C3: ct_battle_1; Battle 1; Chrono Trigger; Yasunori Mitsuda; emberling; mfvitools
+C4: sd3_sea; Innocent Sea; Seiken Densetsu 3; Hiroki Kikuta; emberling; VGMTrans
+C5: ff1_boss; Boss Battle B; Final Fantasy I; Nobuo Uematsu; Tsushiy; unknown
+C6: ff3_battle_2; Battle 2; Final Fantasy III; Nobuo Uematsu; Tsushiy; unknown
 C7: fm_logic; Destructive Logic; Front Mission; Yoko Shimomura; Gi Nattak; SPC injection
-C8: ct_revolution; World Revolution; Chrono Trigger; Yasunori Mitsuda; emberling; N/A
+C8: ct_revolution; World Revolution; Chrono Trigger; Yasunori Mitsuda; emberling; mfvitools
 C9: lal_illusion; Illusion; Live A Live; Yoko Shimomura; Gi Nattak; mfvitools
-CA: ff7_jenova; J-E-N-O-V-A; Final Fantasy VII; Nobuo Uematsu; Jackimus; N/A
-CB: ff9_boss; Boss Battle; Final Fantasy IX; Nobuo Uematsu; Jackimus; N/A
-CC: ffa_overworld; Overworld; Final Fantasy Adventure; Kenji Ito; JCE3000GT; N/A
-CD: ff7_hurry; Hurry!; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
+CA: ff7_jenova; J-E-N-O-V-A; Final Fantasy VII; Nobuo Uematsu; Jackimus; Jackimus
+CB: ff9_boss; Boss Battle; Final Fantasy IX; Nobuo Uematsu; Jackimus; Jackimus
+CC: ffa_overworld; Overworld; Final Fantasy Adventure; Kenji Ito; JCE3000GT; JCE3000GT
+CD: ff7_hurry; Hurry!; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
 CE: dkc2_blast; Bramble Blast; Donkey Kong Country 2; David Wise; Gi Nattak; Mayika
 CF: z3_dark_world; Dark World; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Jorge D. Fuentes
-D0: ffmq_boss; Boss Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; N/A
-D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; N/A
+D0: ffmq_boss; Boss Theme; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; Jackimus
+D1: ffmq_king; Dark King; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; Jackimus; Jackimus
 D2: ff5_lenna; Lenna's Theme; Final Fantasy V; Nobuo Uematsu; Gi Nattak; mfvitools
 D3: stp_argonians; Argonians; Startropics; Yoshio Hirai; Gi Nattak; XERO
-D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; N/A
-D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; N/A
+D4: skd2_neclord; Gothic Neclord; Suikoden II; Miki Higashino, Keiko Fukami; Jackimus; Jackimus
+D5: mmx_storm_mammoth; Storm Mammoth (Storm Eagle & Flame Mammoth mix/medley); Mega Man X; Alph Lyla group; Jackimus; Jackimus
 D6: gs2_battle; Isaac Battle Theme; Golden Sun 2; Motoi Sakuraba; Gi Nattak; Makayo_99994
-D7: ffmq_dome; Lava Dome; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; N/A
-D8: ff9_spirit; Spirit of the Hunt; Final Fantasy IX; Nobuo Uematsu; emberling; N/A
+D7: ffmq_dome; Lava Dome; Final Fantasy Mystic Quest; Ryuji Sasai, Yasuhiro Kawakami; emberling; FF5→FF6 MCS2
+D8: ff9_spirit; Spirit of the Hunt; Final Fantasy IX; Nobuo Uematsu; emberling; VGMTrans
 D9: swom_sun; Rising Sun; Sword of Mana; Kenji Ito; Gi Nattak; Zurri
 DA: lf_battle_2; Battle 2; Lufia; Yasunori Shiono; Gi Nattak; Sivak Drac
-DB: lom_pain; Pain in the Universe; Legend of Mana; Yoko Shimomura; emberling; N/A
+DB: lom_pain; Pain of the Universe; Legend of Mana; Yoko Shimomura; emberling; VGMTrans
 DC: z3_village; Kakariko Village; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Thomas Rungeard
-DD: smrpg_smithy; Fight Against Smithy; Super Mario RPG; Yoko Shimomura; Jackimus; N/A
+DD: smrpg_smithy; Fight Against Smithy; Super Mario RPG; Yoko Shimomura; Jackimus; Jackimus
 DE: dkc2_interlude; Forest Interlude Remix; Donkey Kong Country 2; David Wise; Gi Nattak; Jay Reichard
-DF: smtd_boss; Boss Theme; Super Metroid/Prime; Minako Hamano, Kenji Yamamoto; Jackimus; N/A
+DF: smtd_boss; Boss Theme; Super Metroid/Prime; Minako Hamano, Kenji Yamamoto; Jackimus; Jackimus
 E0: ff9_final; The Final Battle; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; Eli Dirkx
 E1: nes_atreyu; Atreyu's Quest; Neverending Story; Klaus Doldinger; Gi Nattak; Gerald Menzel
 E2: ff6_ending; Ending Song 2; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
@@ -462,24 +462,24 @@ E5: sm64_castle; Peach's Castle; Super Mario 64; Koji Kondo; Gi Nattak; Dr. Frui
 E6: ff4_paladin; The Paladin; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; mfvitools
 E7: ms_footstep; My Footstep On This World; Metal Saga; Satoshi Kadokura; Gi Nattak; Japanese MIDI
 E8: lal_cry; Cry-A-Live; Live A Live; Yoko Shimomura; Gi Nattak; mfvitools
-E9: ff7_god; Birth of a God; Final Fantasy VII; Nobuo Uematsu; emberling; N/A
-EA: lf_battle_3; Battle 3; Lufia; Yasunori Shiono; emberling; N/A
+E9: ff7_god; Birth of a God; Final Fantasy VII; Nobuo Uematsu; emberling; gamerip (PC)
+EA: lf_battle_3; Battle 3; Lufia; Yasunori Shiono; emberling; spc2it
 EB: top_absentminded; Be Absentminded; Tales of Phantasia; Motoi Sakuraba, Shinji Tamura; Gi Nattak; Setzer-
-EC: rs3_castle; Gen's Castle Battle; Romancing Saga 3; Kenji Ito; Tsushiy; N/A
+EC: rs3_castle; Gen's Castle Battle; Romancing Saga 3; Kenji Ito; Tsushiy; unknown
 ED: ff9_alone; You're Not Alone!; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; Jeffrey Copperthite
 EE: ff6_maria; Draco and Maria Singing; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
 EF: grnds_tenderness; Lots of Tenderness; Grounseed; Ryu Umemoto, Ryuu Takami; Gi Nattak; MaliceX
-F0: sd3_fly; Can You Fly, Sister?; Seiken Densetsu 3; Hiroki Kikuta; emberling; N/A
-F1: so2_mind; Strike Your Mind; Star Ocean 2; Motoi Sakuraba; emberling; N/A
+F0: sd3_fly; Can You Fly, Sister?; Seiken Densetsu 3; Hiroki Kikuta; emberling; VGMTrans
+F1: so2_mind; Strike Your Mind; Star Ocean 2; Motoi Sakuraba; emberling; VGMTrans
 F2: z3_castle; Majestic Castle; The Legend of Zelda: A Link to the Past; Koji Kondo; Gi Nattak; Haakon Marthinsen
 F3: iog_boss; Boss Battle; Illusion of Gaia; Yasuhiro Kawasaki; Gi Nattak; Tarq
-F4: ff8_force; Force Your Way; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
-F5: xng_tears; Tears of the Stars Hearts of the People; Xenogears; Yasunori Mitsuda; emberling; N/A
-F6: ff8_afraid; Don't Be Afraid; Final Fantasy VIII; Nobuo Uematsu; emberling; N/A
-F7: ct_burn; Burn! Bobonga!; Chrono Trigger; Uematsu; emberling; N/A
-F8: ob_war; Guerilla War; Ogre Battle; Masaharu Iwata, Hitoshi Sakimoto; emberling; N/A
+F4: ff8_force; Force Your Way; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
+F5: xng_tears; Tears of the Stars Hearts of the People; Xenogears; Yasunori Mitsuda; emberling; VGMTrans
+F6: ff8_afraid; Don't Be Afraid; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
+F7: ct_burn; Burn! Bobonga!; Chrono Trigger; Uematsu; emberling; mfvitools
+F8: ob_war; Guerilla War; Ogre Battle; Masaharu Iwata, Hitoshi Sakimoto; emberling; nsfimport
 F9: rs3_devils; Four Noble Devils 2; Romancing Saga 3; Kenji Ito; Gi Nattak; SPC injection
-FA: ff7_aerith; Aerith's Theme; Final Fantasy VII; Nobuo Uematsu; Tsushiy; N/A
+FA: ff7_aerith; Aerith's Theme; Final Fantasy VII; Nobuo Uematsu; Tsushiy; unknown
 FB: aglq_love; When You Confess Love; Angelique; Chinatsu Kuzuu; Gi Nattak; Queenie Z
 FD: iog_womb; In the Earthen Womb; Illusion of Gaia; Yasuhiro Kawasaki; emberling; Jeff Daily
 FE: eb_hihihi; Hi Hi Hi; Earthbound; Keiichi Suzuki, Hirokazu Tanaka; Gi Nattak; Xky Rauh
@@ -519,14 +519,14 @@ FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A; N/A
 4B: ff4_giant; Within the Giant; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; VGMusic
 4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak; SinclairC
 4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak; UltimaOmega
-4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2.exe
+4F: ff5_unknown; unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2.exe
 6D: snca_xzone; X-Zone; Sonic Advance 1; Tatsuyuki Maeda, Yutaka Minobe; Gi Nattak; Jay Reichard
 6E: ff7_judgement; Judgement Day; Final Fantasy VII; Nobuo Uematsu; Gi Nattak;  FF7 PC MIDI
 71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak; Matt Tropiano
 73: mm7_street; Ruined Street; Mega Man 7; Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa; Gi Nattak; Moccy
 74: ff1_matoya; Matoya's Cave; Final Fantasy I; Nobuo Uematsu; Gi Nattak; VGMusic
 7F: mm9_robots; We're the Robots; Mega Man 9; Ryo Kawakami; Gi Nattak; Alan Ramirez
-80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak; Unknown
+80: ys4_ordeal; A Great Ordeal; Ys IV: The Dawn of Ys; Masaru Nakajima; Gi Nattak; unknown
 84: ms_drokmar; At Drokmar's Gate; Magic Sword; Manami Matsumae; Gi Nattak; Willow
 87: rpgmvxa_battle4; Battle 4; RPG Maker VX Ace; Joel Steudler; Gi Nattak; TsukiStuffs
 96: rag_theme; Main Theme; Ragnarok Online; SoundTeMP; Gi Nattak; noshift
@@ -544,7 +544,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak; VGMTrans
 06: z2_overworld; Overworld; Zelda II; Akito Nakatsuka; Gi Nattak; JILost
 24: ff1_battle; Battle Scene; Final Fantasy I; Nobuo Uematsu; Gi Nattak; VGMusic
 28: srtype_fish; Wet as a Fish; Super R-Type; Yasuhiro Kawakami; Gi Nattak; The Jade Emperor
-33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5>FF6 MCS2
+33: ff5_battle; Battle 1; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 4C: rambo_stage; Stage Select; Rambo; Tohru Hasabe, Minky Motoyama; Gi Nattak; tdkim
 4F: ff3_dark; Dark World; Final Fantasy III; Nobuo Uematsu; Gi Nattak; Cryogen Glacien
 87: fft_plain; Run Past Through the Plain; Final Fantasy Tactics; Hitoshi Sakimoto, Masaharu Iwata; Gi Nattak; D. Harasymovich
@@ -606,7 +606,7 @@ F6: mmx_spark; Spark Mandrill; Mega Man X; Alph Lyla group; Gi Nattak; VGMTrans
 32: acoustic guitar; FF6; Final Fantasy VI
 33: bagpipe; FF6; Final Fantasy VI
 34: strings; TOTR; Treasure of the Rudras
-35: melodic tom; UNK; Unknown
+35: melodic tom; UNK; unknown
 36: sawtooth; NW; Ninja Warriors
 37: tambourine; FF6; Final Fantasy VI
 38: tenor male voice; FF6; Final Fantasy VI

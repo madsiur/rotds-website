@@ -2,7 +2,7 @@
 #ALBUM Doom II
 #COMPOSER Bobby Prince
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION gamerip
 
 #WAVE 0x20 0xC2 ## strings (CV4)
 #WAVE 0x21 0x83 ## chorus (SOM)

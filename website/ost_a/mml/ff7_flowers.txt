@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy VII
 #COMPOSER Nobuo Uematsu
 #ARRANGED Gi Nattak
-#TRANSCRIPTION OST midi
+#TRANSCRIPTION gamerip (PC)
 
 #WAVE 0x20 0x5E ## flute (FF6)
 #WAVE 0x21 0x0A ## oboe (FF6)

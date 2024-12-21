@@ -146,7 +146,7 @@
         "game": "Pirate's of the Caribbean", 
         "composer": "Klaus Badelt, Hans Zimmer", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 131
     }, 
     {
@@ -166,7 +166,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "emberling", 
-        "transcription": "N/A", 
+        "transcription": "VGMTrans", 
         "duration": 159
     }, 
     {
@@ -236,7 +236,7 @@
         "game": "Xenoblade", 
         "composer": "ACE+", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 467
     }, 
     {
@@ -646,7 +646,7 @@
         "game": "Live A Live", 
         "composer": "Yoko Shimomura", 
         "arranger": "emberling", 
-        "transcription": "N/A", 
+        "transcription": "mfvitools", 
         "duration": 71
     }, 
     {
@@ -666,7 +666,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 455
     }, 
     {
@@ -676,7 +676,7 @@
         "game": "Brainlord", 
         "composer": "Masanao Akahori", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 182
     }, 
     {
@@ -696,7 +696,7 @@
         "game": "Xenoblade", 
         "composer": "ACE+", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 344
     }, 
     {
@@ -746,7 +746,7 @@
         "game": "Final Fantasy X", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 466
     }, 
     {
@@ -806,7 +806,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 141
     }, 
     {
@@ -876,7 +876,7 @@
         "game": "Saga Frontier", 
         "composer": "Kenji Ito", 
         "arranger": "Tsushiy", 
-        "transcription": "N/A", 
+        "transcription": "unknown", 
         "duration": 121
     }, 
     {
@@ -906,7 +906,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 101
     }, 
     {
@@ -976,7 +976,7 @@
         "game": "Doom", 
         "composer": "Bobby Prince", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "gamerip", 
         "duration": 360
     }, 
     {
@@ -1046,7 +1046,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 134
     }, 
     {
@@ -1056,7 +1056,7 @@
         "game": "Final Fantasy IX", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 360
     }, 
     {
@@ -1066,7 +1066,7 @@
         "game": "Final Fantasy Mystic Quest", 
         "composer": "Ryuji Sasai, Yasuhiro Kawakami", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 127
     }, 
     {
@@ -1116,7 +1116,7 @@
         "game": "Xenoblade", 
         "composer": "ACE+", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 262
     }, 
     {
@@ -1126,7 +1126,7 @@
         "game": "Lufia II", 
         "composer": "Yasunori Shiono", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 86
     }, 
     {
@@ -1136,7 +1136,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 100
     }, 
     {
@@ -1156,7 +1156,7 @@
         "game": "Saga Frontier", 
         "composer": "Kenji Ito", 
         "arranger": "Tsushiy", 
-        "transcription": "N/A", 
+        "transcription": "unknown", 
         "duration": 152
     }, 
     {
@@ -1166,7 +1166,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 137
     }, 
     {
@@ -1176,7 +1176,7 @@
         "game": "Xenogears", 
         "composer": "Yasunori Mitsuda", 
         "arranger": "Tsushiy", 
-        "transcription": "N/A", 
+        "transcription": "unknown", 
         "duration": 217
     }, 
     {
@@ -1186,7 +1186,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 142
     }, 
     {
@@ -1216,7 +1216,7 @@
         "game": "Europe", 
         "composer": "N/A", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 244
     }, 
     {
@@ -1266,7 +1266,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 360
     }, 
     {
@@ -1276,7 +1276,7 @@
         "game": "Wild Arms", 
         "composer": "Michiko Naruke", 
         "arranger": "Gi Nattak, emberling", 
-        "transcription": "Valius", 
+        "transcription": "Valius, emberling", 
         "duration": 80
     }, 
     {
@@ -1296,7 +1296,7 @@
         "game": "Undertale", 
         "composer": "Toby Fox", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 312
     }, 
     {
@@ -1316,7 +1316,7 @@
         "game": "Angry Video Game Nerd Adventures", 
         "composer": "FreakZone Games", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 328
     }, 
     {
@@ -1396,7 +1396,7 @@
         "game": "Seiken Densetsu 3", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 180
     }, 
     {
@@ -1416,7 +1416,7 @@
         "game": "Street Fighter II", 
         "composer": "Yoko Shimomura", 
         "arranger": "Gi Nattak", 
-        "transcription": "N/A", 
+        "transcription": "Moccy", 
         "duration": 128
     }, 
     {
@@ -1536,7 +1536,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 207
     }, 
     {
@@ -1576,7 +1576,7 @@
         "game": "Star Wars", 
         "composer": "John Williams", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 64
     }, 
     {
@@ -1586,7 +1586,7 @@
         "game": "Final Fantasy VIII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 168
     }, 
     {
@@ -1736,7 +1736,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 47
     }, 
     {
@@ -1766,7 +1766,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 171
     }, 
     {
@@ -1776,7 +1776,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 210
     }, 
     {
@@ -1786,7 +1786,7 @@
         "game": "Final Fantasy IV", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Tsushiy", 
-        "transcription": "N/A", 
+        "transcription": "unknown", 
         "duration": 177
     }, 
     {
@@ -1796,7 +1796,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 244
     }, 
     {
@@ -1846,7 +1846,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 135
     }, 
     {
@@ -1876,7 +1876,7 @@
         "game": "Chrono Trigger", 
         "composer": "Yasunori Mitsuda", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 180
     }, 
     {
@@ -1896,7 +1896,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 133
     }, 
     {
@@ -1906,7 +1906,7 @@
         "game": "Final Fantasy IX", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 231
     }, 
     {
@@ -1956,7 +1956,7 @@
         "game": "Final Fantasy Mystic Quest", 
         "composer": "Ryuji Sasai, Yasuhiro Kawakami", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 98
     }, 
     {
@@ -1966,7 +1966,7 @@
         "game": "Final Fantasy Mystic Quest", 
         "composer": "Ryuji Sasai, Yasuhiro Kawakami", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 119
     }, 
     {
@@ -1996,7 +1996,7 @@
         "game": "Suikoden II", 
         "composer": "Miki Higashino, Keiko Fukami", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 226
     }, 
     {
@@ -2006,7 +2006,7 @@
         "game": "Mega Man X", 
         "composer": "Alph Lyla group", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 214
     }, 
     {
@@ -2016,7 +2016,7 @@
         "game": "Golden Sun 2", 
         "composer": "Motoi Sakuraba", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 102
     }, 
     {
@@ -2066,7 +2066,7 @@
         "game": "Secret of Mana", 
         "composer": "Hiroki Kikuta", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 235
     }, 
     {
@@ -2086,7 +2086,7 @@
         "game": "Super Mario RPG", 
         "composer": "Yoko Shimomura", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 100
     }, 
     {
@@ -2096,7 +2096,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "emberling", 
-        "transcription": "N/A", 
+        "transcription": "gamerip (PC)", 
         "duration": 133
     }, 
     {
@@ -2106,7 +2106,7 @@
         "game": "Super Metroid/Prime", 
         "composer": "Minako Hamano, Kenji Yamamoto", 
         "arranger": "Jackimus", 
-        "transcription": "N/A", 
+        "transcription": "Jackimus", 
         "duration": 126
     }, 
     {
@@ -2146,7 +2146,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 48
     }, 
     {
@@ -2156,7 +2156,7 @@
         "game": "Final Fantasy V", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "FF5>FF6 MCS2", 
+        "transcription": "FF5\u00e2\u2020\u2019FF6 MCS2", 
         "duration": 81
     }, 
     {
@@ -2166,7 +2166,7 @@
         "game": "Poltergheist", 
         "composer": "Jerry Goldsmith", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 128
     }, 
     {
@@ -2206,7 +2206,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "emberling", 
-        "transcription": "N/A", 
+        "transcription": "gamerip (PC)", 
         "duration": 236
     }, 
     {
@@ -2216,7 +2216,7 @@
         "game": "Treasure of the Rudras", 
         "composer": "Ryuji Sasai", 
         "arranger": "Gi Nattak, emberling", 
-        "transcription": "Robert Hansson", 
+        "transcription": "Robert Hansson, spc2it", 
         "duration": 109
     }, 
     {
@@ -2316,7 +2316,7 @@
         "game": "Final Fantasy VIII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "emberling", 
-        "transcription": "N/A", 
+        "transcription": "VGMTrans", 
         "duration": 226
     }, 
     {
@@ -2346,7 +2346,7 @@
         "game": "Eminem", 
         "composer": "Dr. Dre", 
         "arranger": "Gi Nattak", 
-        "transcription": "Unknown", 
+        "transcription": "unknown", 
         "duration": 316
     }, 
     {
@@ -2376,7 +2376,7 @@
         "game": "Final Fantasy VII", 
         "composer": "Nobuo Uematsu", 
         "arranger": "Gi Nattak", 
-        "transcription": "OST midi", 
+        "transcription": "gamerip (PC)", 
         "duration": 296
     }, 
     {

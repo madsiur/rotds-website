@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy VIII
 #COMPOSER Nobuo Uematsu
 #ARRANGED Jackimus
-#TRANSCRIPTION N/A
+#TRANSCRIPTION Jackimus
 
 #WAVE 0x20 0x5F ## hard snare (FF6)
 #WAVE 0x21 0x0F ## closed hi-hat (FF6)

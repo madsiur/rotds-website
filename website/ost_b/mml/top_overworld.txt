@@ -2,7 +2,7 @@
 #ALBUM Tales of Phantasia
 #COMPOSER Motoi Sakuraba, Shinji Tamura
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION top2mid
 
 #WAVE 0x20 0x0E ## trumpet (FF6)
 #WAVE 0x21 0x0B ## organ (FF6)

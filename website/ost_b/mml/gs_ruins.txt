@@ -2,7 +2,7 @@
 #ALBUM Golden Sun
 #COMPOSER Motoi Sakuraba
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION ba_mus_riper
 
 #WAVE 0x20 0x34 ## strings (TOTR)
 #WAVE 0x21 0xA7 ## choir (GH)

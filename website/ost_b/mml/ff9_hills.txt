@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy IX
 #COMPOSER Nobuo Uematsu
 #ARRANGED emberling
-#TRANSCRIPTION N/A
+#TRANSCRIPTION VGMTrans
 
 #WAVE 0x20 0x63 ## bottle blow (FF6)
 #WAVE 0x21 0x03 ## wind flute (FF6)

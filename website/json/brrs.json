@@ -627,7 +627,7 @@
         "id": 53, 
         "name": "melodic tom", 
         "gameShort": "UNK", 
-        "gameLong": "Unknown", 
+        "gameLong": "unknown", 
         "loop": 0, 
         "env": 65521, 
         "pitch": 0, 

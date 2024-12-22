@@ -2,7 +2,7 @@
 #ALBUM Final Fantasy Mystic Quest
 #COMPOSER Ryuji Sasai, Yasuhiro Kawakami
 #ARRANGED emberling
-#TRANSCRIPTION FF5â†’FF6 MCS2
+#TRANSCRIPTION FF5→FF6 MCS2
 
 #WAVE 0x21 0xA0 ## snare (SD3)
 #WAVE 0x24 0x16 ## timpani (FF6)

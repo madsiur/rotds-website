@@ -36,7 +36,7 @@ def mass_extract(filename, cons=helpers.get_constants()):
 
     file_path = os.path.join(music_dir, filename)
     config = configparser.ConfigParser()
-    config.read(file_path)
+    config.read(file_path, encoding="utf-8")
 
     helpers.remove_directory(brr_dir)
     os.makedirs(brr_dir)

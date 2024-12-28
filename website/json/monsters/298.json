@@ -17,7 +17,7 @@
             "mp": 38000, 
             "gil": 0, 
             "exp": 0, 
-            "level": 78, 
+            "level": 80, 
             "immunity": [
                 "Blind", 
                 "Zombie", 
@@ -74,7 +74,7 @@
             "mp": 38000, 
             "gil": 0, 
             "exp": 0, 
-            "level": 79, 
+            "level": 81, 
             "immunity": [
                 "Blind", 
                 "Zombie", 
@@ -131,7 +131,7 @@
             "mp": 38000, 
             "gil": 0, 
             "exp": 0, 
-            "level": 80, 
+            "level": 82, 
             "immunity": [
                 "Blind", 
                 "Zombie", 
@@ -188,7 +188,7 @@
             "mp": 38000, 
             "gil": 0, 
             "exp": 0, 
-            "level": 83, 
+            "level": 85, 
             "immunity": [
                 "Blind", 
                 "Zombie", 

@@ -17,7 +17,7 @@
             "mp": 18900, 
             "gil": 0, 
             "exp": 0, 
-            "level": 73, 
+            "level": 75, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
@@ -77,7 +77,7 @@
             "mp": 18900, 
             "gil": 0, 
             "exp": 0, 
-            "level": 74, 
+            "level": 76, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
@@ -138,7 +138,7 @@
             "mp": 23900, 
             "gil": 0, 
             "exp": 0, 
-            "level": 75, 
+            "level": 77, 
             "immunity": [
                 "Zombie", 
                 "Poison", 
@@ -199,7 +199,7 @@
             "mp": 23900, 
             "gil": 0, 
             "exp": 0, 
-            "level": 78, 
+            "level": 80, 
             "immunity": [
                 "Zombie", 
                 "Poison", 

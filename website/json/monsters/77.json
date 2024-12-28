@@ -127,8 +127,8 @@
             "name": "Attack"
         }, 
         "spirit_b": {
-            "id": 162, 
-            "name": "Self-Destruct"
+            "id": 43, 
+            "name": "Scan"
         }
     }, 
     "inverses": {

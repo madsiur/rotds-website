@@ -1,0 +1,148 @@
+#TITLE Lost Painting
+#ALBUM Castlevania SOTN
+#COMPOSER Michiru Yamane
+#ARRANGED Gi Nattak
+#TRANSCRIPTION WuTaNgZ
+
+#WAVE 0x20 0x9D ## halo (FM)
+#WAVE 0x21 0x0D ## strings (FF6)
+#WAVE 0x22 0x19 ## pizzo string (FF6)
+#WAVE 0x23 0x2C ## contrabass (FF6)
+#WAVE 0x24 0x22 ## kick drum (FF6)
+#WAVE 0x25 0x14 ## snare (FF6)
+#WAVE 0x26 0x37 ## tambourine (FF6)
+#WAVE 0x27 0x3E ## xylophone (FF6)
+#WAVE 0x28 0x18 ## acoustic bass (FF6)
+
+{1}
+l16%v50%b0,80%f0,0%e1t114v100p64|0o5%r12<f+4e8f+8c+2  r4>b4a8b4^8  
+g+2e2  f+1  r1  v10|1>v192,100f+1  
+v192,0^1   $1 |0%r10v104r4o5t118f+4o6c+2  ^4>b8<c+8>a4g+4  f+4g+8a8g+4e4  
+f+1  r4f+4o6c+2  ^4>b8<c+8>a4g+4  f+4g+8a8g+4e4  
+f+1  <c+4>b2a8b8  <c+4>g+4g+4c+4  <c+4>b2a8b8  
+<c+4e4d4c+4  v80f+2^4g+8a8  g+4e4e4c+4  f+2^4g+8a8  
+<c+4>g+4g+4c+4  <c+4>b8<c+8>a2  r4b4g+2  v60a4b8a8g+2  
+r1  ^4v104>f+4o6c+2  ^4>b8<c+8>a4g+4  f+4g+8a8g+4e4  
+f+1  <c+4^8>b8<c+4e2  d+2>b8f+8<c+4  ^8>b8<c+4e4d+8e8  
+f+2f+8g+8a4  g+8a8g+8e8c+4f+4  e8f+8e8c+8>a4b8a8  b4^8g8a8b8<c+8>b8  
+<c+2^4c+4  ^8>b8<c+4e2  d+2>b8f+8<c+4  ^8>b8<c+4e4d+8e8  
+f+2f+8g+8a4  g+8a8b8g+8e4t108f+4  g+8a8g+8e8>b4t103a4  g+8f+8g+8e8c+4t98f+2  
+^4r4
+;1
+
+l16
+{2}
+l16%e1v80p54|1%a8%r6o3f+4e4  c+2d1  c+2c+2  v10>v240,120f+1  
+^1  ^1  v240,0^1   $2 v100o3f+2e2  
+d2c+2  >b2<c+2  f+2f+2  f+2e2  
+d2c+2  >b2<c+2  f+2f+2  d2^4e8d8  
+c+2^4>b8<c+8  d2^4e8d8  c+2g+4e4  f+2e2  
+c+2>g+4<c+4  f+2e2  c+2>g+4<g+4  d1  
+c+1  %yar8^brarg+r4^8^  c+r8^g+r8^c+r4^8^  %a8%r6f+2e2  
+d2c+2  >b2<c+2  f+2f+2  f+1  
+f+1  f+1  b1  <d2c+2  
+>b2a2  g1  c+1  f+1  
+f+1  f+1  b1  <d2c+2  
+>b2<c+2  d2c+2  >f+8r8c+8r8>f+8r8r4  
+;2
+
+l16
+{3}
+l16%e1v80p64|1o5%a8%r6a4g+4f+2  
+d1  g+2e2  v144,100f+1  r1  
+v10<v192,100a1  v192,0^1   $3 v80o5a2g+2  f+2e2  
+d2e2  c+2c+2  a2g+2  f+2e2  
+d2e2  c+2c+2  f+1  g+1  
+f+1  g+1  o7v20%r10f+2^8^rg+8a8  g+4e4e4c+4  
+f+2^8^rg+8a8  <c+4>g+4g+4c+4  <c+4>b8<c+8>a2  r4b4g+2  
+r1  ^1  o5v80%r4a2g+2  f+2e2  
+d2e2  c+2c+2  o7v20%r10c+4^8>b8<c+4e2  d+2>b8f+8<c+4  
+^8>b8<c+4e4d+8e8  f+2f+8g+8a4  g+8a8g+8e8c+4f+4  e8f+8e8c+8>a4b8a8  
+b4^8g8a8b8<c+8>b8  <c+2^4c+4  ^8>b8<c+4e2  d+2>b8f+8<c+4  
+^8>b8<c+4e4d+8e8  f+2f+8g+8a4  g+8a8b8g+8e4f+4  g+8a8g+8e8>b4a4  
+g+8f+8g+8e8c+4f+2  ^4r4
+;3
+
+l16
+{4}
+l16%e1v80p74|1o5%a8%r6f+4e4  
+c+2>a1  <c+2c+2  v144,80c+1  r1  
+v10v192,80<c1  v192,0c+1   $4 v80o5f+2e2  d2c+2  
+>b2<c+2  >g+2f+2  <f+2e2  d2c+2  
+>b2<c+2  >g+2f+2  <d1  e1  
+d1  e1  r2a2  %y<c+4>b4b4g+4  
+f+4^8r8%a8%r6<c+2  >b2g+2  a1  g+1  
+r1  ^1  f+2e2  d2c+2  
+>b2<c+2  >f+2f+2  %yv70%l1f+g+af+a<c+f+c+f+g+af+a<c+f+a  %l0e4d+2^8r8  
+o4%l1f+g+af+a<c+f+c+f+g+af+a<c+f+a  %l0d+8e8f+2o5b4  %l1def+df+a<df+%l0e8c+8o5g+4  
+%l1>b<c+d>b<df+a<d>%l0e8<e8c+4  o4%l1g<dgdf+ga<c+>g<dgf+f+ga<c+  
+%l0o4%l1c+g+<c+>g+<c+d+fg+c+g+<c+>g+<c+d+fg+  o4f+g+af+a<c+f+c+f+g+af+a<c+f+a  
+%l0e4d+2^8r8  o4%l1f+g+af+a<c+f+c+f+g+af+a<c+f+a  %l0v100%a8%r6d+8e8f+2>b4  
+<d2e8c+8>g+4  b2<c+4>g+4  >a2g+2  f+2^4r4  
+
+;4
+
+l16
+{5}
+l16%e1v120p64|8r2^4o5c+4  d4r2d4  t113c+4r4t112c+4r4  
+o6|7v40t111[3>f+<f+c+<c+>c<co5a<a>b<b>g+<g+>a+<a+>g<g  ]>f+<f+c+<c+>c<co5a<a>b<b>g+<g+>t103a+<a+>g<g  
+ $5 t118|2o5v50p0,192,127>f+8<c+8f+8c+8>e8<c+8f+8c+8  o4d8a8<d8>a8c+8a8<c+8e8  
+o3b8<g+8o5d8>g+8c+8g+8<c+8>g+8  f+8o5c+8f+8c+8>f+8c+8f+8g+8  f+8<c+8f+8c+8>e8<c+8f+8c+8  
+o4d8a8<d8>a8c+8a8<c+8e8  o3b8<g+8o5d8>g+8c+8g+8<c+8>g+8  f+8o5c+8f+8c+8>f+8a8<c+8f+8  
+>d8f+8a8<c+8e8c+8>a8f+8  c+8e8g+8<c+8e8c+8>g+8e8  d8f+8a8<c+8e8c+8>a8f+8  
+c+8e8g+8<c+8e8c+8>g+8e8  f+8<c+8f+8c+8>e8<c+8f+8c+8  >c+8<c+8g+8c+8o3g+8o5c+8g+8c+8  
+>f+8<c+8f+8c+8>e8<c+8f+8c+8  >c+8<c+8g+8c+8o3g+8o5c+8g+8c+8  >d8f+8a8<c+8e8c+8>a8d8  
+c+8e8g+8<c+8e8c+8>g+8c+8  pv110p64>a4b8a8g+2  c+4g+4c+4r4  v50p0,192,127<f+8<c+8f+8c+8>e8<c+8f+8c+8  
+o4d8a8<d8>a8c+8a8<c+8e8  o3b8<g+8o5d8>g+8c+8g+8<c+8>g+8  pv110p64f+4c+4>f+4r4  
+v50p0,192,127f+8<c+8f+8c+8c+8f+8a8<c+8  o3a8<e8a8e8f+8a8<c+8f+8  
+o3f+8<c+8f+8c+8c+8f+8a8<c+8  o3b8<f+8b8f+8b8<d+8f+8g+8  >d8a8<d8g+8>c+8g+8<c+8g+8  
+o3b8<f+8b8<f+8o3a8<e8a8<e8  o3g8<d8g8d8g8<d8g8d8  >c+8g+8<c+8>g+8g+8<c+8g+8c+8  
+o3f+8<c+8f+8c+8c+8f+8a8<c+8  o3a8<e8a8e8f+8a8<c+8f+8  o3f+8<c+8f+8c+8c+8f+8a8<c+8  
+o3b8<f+8b8f+8b8<d+8f+8g+8  o4d8a8<d8f+8>c+8g+8<c+8f+8  o3b8<f+8b8<f+8>c+8g+8<c+8f+8  
+o4d8a8<d8f+8>c+8a8<c+8f+8  pv110p64>f+4c+4>f+4r4  
+;5
+
+l16
+{6}
+l16%e1v80p64|3o5%r4f+4e4c+2  
+d1  c+2c+2  >f+1  ^1  
+^1  ^1   $6 o5f+2e2  d2c+2  
+>b2<c+2  f+2f+2  f+2e2  d2c+2  
+>b2<c+2  f+2f+2  d2^4e8d8  c+2^4>b8<c+8  
+d2^4e8d8  c+2g+4e4  f+2e2  c+2>g+4<c+4  
+f+2e2  c+2>g+4<g+4  d1  c+1  
+t108|7v60a4b8a8g+2  c+4g+4<c+2  >t118|3v80f+2e2  d2c+2  
+>b2<c+2  f+2f+2  f+1  f+1  
+f+1  b1  <d2c+2  >b2a2  
+g1  c+1  f+1  f+1  
+f+1  b1  <d2c+2  >b2<c+2  
+d2c+2  >f+8r8c+8r8>f+8r8r4  
+;6
+
+l16
+{7}
+l16%e1p64r1  ^1  
+^1  v120p64|8o4f+4r1  ^1  ^1  
+^2^4 $7 o5[2[3v100|4c2  |5c+2]|4c2  |5v120c+8v100c+4^8][8|4c2  |5c+2]|4c2  
+o6|6v50b1  ^1  ^1  ^2v100|4c2  
+|5c+2|4c2  |5v120c+8v100c+4^8|4c2  |5c+2|4c2  |5c+1  
+r1  ^1  ^1  ^1  
+^1  ^1  ^1  ^2[7|4c2  
+|5c+2]c2  ^4r4
+;7
+
+l16
+{8}
+l16%e1p64|6o5v60r1  b2r1  
+^1  ^1  ^1  ^1  
+^1   $8 |6v60[3b2r1  ^2]b2  [6r1  
+]|1%a8%r6v50a4g+4g+4e4  c+4^8r8a2  g+2e2  f+1  
+e1  r1  ^1  ^1  
+^1  ^1  ^1  ^1  
+^2|6v60b2  r1  ^2b2  r1  
+^1  ^1  ^1  ^1  
+^2b2  r1  ^2b2  |1%a8%r6v50a2b8g+8e4  
+f+2g+4e4  r1  ^1  ^2
+;8
+
+l16

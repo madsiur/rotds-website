@@ -8,7 +8,7 @@
 #WAVE 0x21 0x3B ## pipe organ 2 (FF6)
 
 {1}
-l16%v50%e1%b0,70%f0,0 $1 t34v50p96|0o5<c+d>bg+a8e8<e8^dc+4  
+l16%v50%e1%b0,100%f0,0 $1 t34v50p96|0o5<c+d>bg+a8e8<e8^dc+4  
 a8^g+f+8a8g+8f+8e4  f+edc+d8^dedc+>b<c+8>a8  <dc+>bag+8a<dt33c+8>b8a4  
 
 ;1

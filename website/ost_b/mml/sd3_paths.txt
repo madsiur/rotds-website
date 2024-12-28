@@ -13,7 +13,7 @@
 #WAVE 0x2E 0x21 ## hard snare (SOM)
 
 {1}
-l16t77%v50 $1 [5v67|Dp64o5aar8|Ea8.|Dar8ar|Ea4  ]|Daar8|Ea8.|Dar8ar|Ea8|Dar  
+l16t77%v50 $1 [5v100|Dp64o5aar8|Ea8.|Dar8ar|Ea4  ]|Daar8|Ea8.|Dar8ar|Ea8|Dar  
 ar2^4|Ea8.  |Daar8|Ea8.|Dar8ar|Ea|Dara  [5|Dp64o5aar8|Ea8.|Dar8ar|Ea4  
 ]|Daar8|Ea8.|Dar8ar|Ea8|Dar  ar2^4|Ea8.  |Daar8|Ea8.|Dar8ar|Ea4  
 |Daar8|Ea8.|Daraar|Ea8|Da8  [8|Dp64o5aar8|Ea8.|Dar8ar|Ea4  ][4|Dp64o5aar]ar8.[4aar]ar|Ea8[4|Dp64o5aa  

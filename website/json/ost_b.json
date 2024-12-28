@@ -641,13 +641,13 @@
     }, 
     {
         "id": 69, 
-        "filename": "totr_flame", 
-        "title": "Flame And Arrow", 
-        "game": "Treasure of the Rudras", 
-        "composer": "Ryuji Sasai", 
-        "arranger": "emberling", 
-        "transcription": "spc2it", 
-        "duration": 59
+        "filename": "ys2_drive", 
+        "title": "Over Drive", 
+        "game": "Ys II", 
+        "composer": "Yuzo Koshiro", 
+        "arranger": "Gi Nattak", 
+        "transcription": "Mocgames998", 
+        "duration": 74
     }, 
     {
         "id": 70, 
@@ -781,7 +781,7 @@
     }, 
     {
         "id": 84, 
-        "filename": "ff10_zanarkan", 
+        "filename": "ff10_zanarkand", 
         "title": "To Zanarkand", 
         "game": "Final Fantasy X", 
         "composer": "Nobuo Uematsu", 
@@ -871,13 +871,13 @@
     }, 
     {
         "id": 93, 
-        "filename": "ff8_witches", 
-        "title": "Succession of Witches", 
-        "game": "Final Fantasy VIII", 
-        "composer": "Nobuo Uematsu", 
-        "arranger": "emberling", 
-        "transcription": "VGMTrans", 
-        "duration": 197
+        "filename": "cstvn_sotn_painting", 
+        "title": "Lost Painting", 
+        "game": "Castlevania SOTN", 
+        "composer": "Michiru Yamane", 
+        "arranger": "Gi Nattak", 
+        "transcription": "WuTaNgZ", 
+        "duration": 181
     }, 
     {
         "id": 94, 
@@ -1391,13 +1391,13 @@
     }, 
     {
         "id": 146, 
-        "filename": "sd3_fission", 
-        "title": "Nuclear Fission", 
-        "game": "Seiken Densetsu 3", 
-        "composer": "Hiroki Kikuta", 
-        "arranger": "Jackimus", 
-        "transcription": "Jackimus", 
-        "duration": 180
+        "filename": "sf_blue", 
+        "title": "Last Battle ~ Blue", 
+        "game": "Saga Frontier", 
+        "composer": "Kenji Ito", 
+        "arranger": "Gi Nattak", 
+        "transcription": "Masterlink", 
+        "duration": 222
     }, 
     {
         "id": 147, 

@@ -13,7 +13,7 @@
 #WAVE 0x26 0x0B ## organ (FF6)
 
 {1}
-l16t216%v32%e1%b0,70%f0,0v80p60|0o6m12,24,201r2^4<a4  r8g2^r8^f+4  
+l16t216%v40%e1%b0,70%f0,0v80p60|0o6m12,24,201r2^4<a4  r8g2^r8^f+4  
 r8f+rf+rf+rf2  ^r2^e4r8  d+2^r8^d8^r  v100%l1d32d32rdrdrdrc+4r8c+4  
 r2a4r8g2  ^r8^f+4r8f+rf+rf+r  f2^r2  ^e4r8d+2^  
 r8^d8^rd32d32rdrdrdrc+4  r8c+4r2 $1 f8  >a+8<d+8d2^r>a+8  <c8>f8d+8d2^4  

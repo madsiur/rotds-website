@@ -16,7 +16,7 @@
 #WAVE 0x29 0x76 ## sax (CT)
 
 {1}
-l16t150%v25%e1%b0,70%f0,0 $1 v100p64|0o6%y1%s6%r9r8a1  ^2gecec>a<%l1de8  
+l16t150%v25%e1%b0,70%f0,0r4 $1 v100p64|0o6%y1%s6%r9r8a1  ^2gecec>a<%l1de8  
 %l0>a4^r1  <dedega<c>a1  ^2^8^gecec  >a<%l1de8%l0>a4^r2  
 egegaga<cdedcafec  <|1v60o6e2r4ear8  e2r8drcr>br  <c2r1  
 ^2e2  r4ear8e2  r8drcr>br<c2  r1  
@@ -27,7 +27,7 @@ ede2^4^8  mr1
 
 l16
 {2}
-l16%e1 $2 p54[3o5|2v50a4g4e6d6c6  r8c8drerd4c4  
+l16%e1r4 $2 p54[3o5|2v50a4g4e6d6  c6r8c8drerd4c4  
 <|3v70er<e4r8>fr<f4r8  >f+r<f+4r8>fr<f4r8  ]>|2v50>a4g4e6d6c6  r8c8drerd4c4  
 <|3v70er<e4r8>fr<f4r8  >f+r<f+4r8>fr<f4r4  >|2v50>[2c8r4^8cr>b<cr4  
 >b8r4^8brabr4  b8r4^8<cr>b<cr4  e4eer8eee8er8^  ]e8ererer4^8^
@@ -35,40 +35,40 @@ l16%e1 $2 p54[3o5|2v50a4g4e6d6c6  r8c8drerd4c4
 
 l16
 {3}
-l16%e1 $3 p74o5|2v50e4  
-e4c6>b6a6r8a8  br<cr>b4a4<[3|3v70<cr<c4  r8>cr<c4r8>cr<c4  r8>cr<c4r8o5|2v50e4e4  
-c6>b6a6r8a8br<cr  >b4a4<]|3v70<cr<c4r8  >cr<c4r8>cr<c4r8  >cr<c4r4|2v50o4a8r4  
-^8argar4g8r4  ^8grfgr4g+8r4  ^8argar4<c4cc  r8ccc8cr8^>a8r4  
-^8argar4g8r4  ^8grfgr4g+8r4  ^8argar4<c4cc  r8ccc8cr8^c8crcr  
-cr4^8^
+l16%e1r4  
+ $3 p74o5|2v50e4e4c6>b6a6  r8a8br<cr>b4a4  <[3|3v70<cr<c4r8>cr<c4r8  
+>cr<c4r8>cr<c4r8  o5|2v50e4e4c6>b6a6  r8a8br<cr>b4a4  <]|3v70<cr<c4r8>cr<c4r8  
+>cr<c4r8>cr<c4r4  |2v50o4a8r4^8argar4  g8r4^8grfgr4  g+8r4^8argar4  
+<c4ccr8ccc8cr8^  >a8r4^8argar4  g8r4^8grfgr4  g+8r4^8argar4  
+<c4ccr8ccc8cr8^  c8crcrcr4^8^
 ;3
 
 l16
 {4}
-l16%e0 $4 v100p64|4o5a8<ga>a8aa  g8<fg>g8ggf8<ef>f8ff  
-g8<fg>g8gga8<gae>aaa  a8aaa8aa[3a<efga>aaa  <ga>a8<ef>a8a8<ga>a8aa  
-g8<fg>g8ggf8<ef>f8ff  g8<fg>g8gga8<gae>aaa  a8aaa8aa]a<efga>aaa  
-<ga>a8<ef>a8f<f8f>f<f8f  >f8<f8>f8<f8>g<g8g>g<g8g  >g8<g8>g8<g8>g+<g+8g+>g+<g+8g+  
->g+8<g+8>g+8<g+8>a<a8a>a<a8a  >g+8<g+8>g8<g8>f<f8f>f<f8f  >f8<f8>f8<f8>g<g8g>g<g8g  
->g8<g8>g8<g8>g+<g+8g+>g+<g+8g+  >g+8<g+8>g+8<g+8>a<a8a>a<a8a  >a8<a8>a8<a8>a8<aa>a8<aa  
-agaec>aaa
+l16%e0v100p64|4o6de  >aa $4 a8<ga>a8aag8<fg>g8  
+ggf8<ef>f8ffg8<fg>g8  gga8<gae>aaaa8aaa8  aa[3a<efga>aaa<ga>a8<ef  
+>a8a8<ga>a8aag8<fg>g8  ggf8<ef>f8ffg8<fg>g8  gga8<gae>aaaa8aaa8  
+aa]a<efga>aaa<ga>a8<ef  >a8f<f8f>f<f8f>f8<f8>f8  <f8>g<g8g>g<g8g>g8<g8>g8  
+<g8>g+<g+8g+>g+<g+8g+>g+8<g+8>g+8  <g+8>a<a8a>a<a8a>g+8<g+8>g8  
+<g8>f<f8f>f<f8f>f8<f8>f8  <f8>g<g8g>g<g8g>g8<g8>g8  <g8>g+<g+8g+>g+<g+8g+>g+8<g+8>g+8  
+<g+8>a<a8a>a<a8a>a8<a8>a8  <a8>a8<aa>a8<aaagaec>a  aa
 ;4
 
 l16
 {5}
-l16 $5 v110p64o6[24%e0|5c4%e1|6d4  %e0|5c4%e1|6d4]%e0|5c8%e1|6v80d8v100d8v120d8  
-v100d8r4^8
+l16r4 $5 v110p64o6[24%e0|5c4%e1|6d4%e0|5c4  
+%e1|6d4]%e0|5c8%e1|6v80d8v100d8v120d8v100d8r4  ^8
 ;5
 
 l16
 {6}
-l16%e1 $6 v50p64|7o5[24f+rf+f+f+rf+f+  f+rf+f+f+rf+f+]r1  
-
+l16%e1r4 $6 v50p64|7o5[24f+rf+f+f+rf+f+f+r  
+f+f+f+rf+f+]r1  
 ;6
 
 l16
 {7}
-l16%e1 $7 v60p64|8o5[16r1  ]r8[3d+r8^d+d+r8d+r8^d+d+  
+l16%e1r4 $7 v60p64|8o5[16r1  ]r8[3d+r8^d+d+r8d+r8^d+d+  
 r8d+r8^d+d+r8d+d+r8d+r8  ^]d+r8^d+d+r8d+r8^d+d+r8  d+r8^d+d+r8d+d+r8d+r1  
 ^
 ;7

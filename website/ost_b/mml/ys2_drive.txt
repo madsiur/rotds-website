@@ -1,0 +1,97 @@
+#TITLE Over Drive
+#ALBUM Ys II
+#COMPOSER Yuzo Koshiro
+#ARRANGED Gi Nattak
+#TRANSCRIPTION Mocgames998
+
+#WAVE 0x20 0x02 ## electric bass (FF6)
+#WAVE 0x21 0x36 ## sawtooth (NW)
+#WAVE 0x22 0x0D ## strings (FF6)
+#WAVE 0x23 0x1E ## distortion guitar (FF6)
+#WAVE 0x24 0xC1 ## e.guitar synth (EB)
+#WAVE 0x25 0x22 ## kick drum (FF6)
+#WAVE 0x26 0x56 ## snare drum 2 (RS3)
+#WAVE 0x27 0x11 ## open hi-hat (FF6)
+#WAVE 0x28 0x35 ## melodic tom (UNK)
+#WAVE 0x29 0x12 ## cymbal (FF6)
+
+{1}
+l16t156%v20%b0,70%f0,0%x240%e0 $1 v100p64|0o6[2e8e8e8e8e8e8e8e8  
+e8e8e8e8d8d8g8g8  ][2c8c8c8c8c8c8c8c8  ]b>bbb<b>bbb<b>bbb<b>bbb  
+<b>bbb<b>bbb<b2  c<c8>d<d8>e<e2^  >a8a8b8b8<c8c8d8d8  >c<c8>d<d8>e<e2^  
+>a8a8b8b8<c8c8d8d8  >[2c8c8c8c8c8c8c8c8  ]b>bbb<b>bbb<b>bbb<b>bbb  
+<b>bbb<b>bbb<b2  v120[4e8e8e8e8f8f8f8f8  e8e8e8e8g8g8f+8f8  ]
+;1
+
+l16
+{2}
+l16%e1 $2 v127p64|1o5m12,18,239>[4egf+gagf+gegf+gagf+g  
+]ef+gagf+ef+gagf+ef+ga  gf+ef+gab<cc+dd+eff+gf+  b<c>bab<c>bab<c>bab<c>ba  
+b<c>bab<c>bab2  c8^d8^e2^8  >a<eae>b<f+bf+cg<c>gda<d>a  c8^d8^e2^8  
+>a<eae>b<f+bf+cg<c>gda<d>a  cded8ef+e8f+gf+8gag8  aba8b<c>b8<cdc8def+g  
+f+>b<f+d+>b<gf+>b<f+d+>b<gf+>b<f+d+  >b<gf+>b<f+d+>b<gf+>b<f+d+>b<gf+v110[4>e  
+f+gab4fgab<c4]v100[2e  f+gab4fgab<c4>e  f+gab4fgab<c4v80]
+;2
+
+l16
+{3}
+l16%e1 $3 v120p64|2o5%r4b1  
+^2a4<d4  >b1  ^2a4f+4  g8^a8^b8f+8^g8^a8  
+d8^c8^>b8a8^<d8^>b1  ^2^8r2  <[2%l1g8^a8^%l0b2^4  
+r2^4^8]g1  ^1  f+1  ^1  
+v127o4[2>b2<c2  >b2<d4c+8c8  ][2b2<c2  >b2<d4c+8c8  
+]
+;3
+
+l16
+{4}
+l16%e1 $4 v100p64|3o5[2eeee8eeeeeee8eee  eeee8eeed8^d8^d8  
+][2cccccccccccccccc  ]bbbbbbbbbbb>b<bbaa+  bbbbbbbbb4|4v70<m80,-10a4  
+|3v100c8^d8^e4^8>g8g+8  >aaaabbbb<ccccdddd  <c8^d8^e4^8>g8g+8  >aaaabbbb<ccccdddd  
+[2cccccccccccccccc  ]bbbbbbbbbbb>b<bbaa+  bbbbbbbbb2  [4erere8e8frfrf8f8  
+erere8e8gg8f+f+8ff  ]
+;4
+
+l16
+{5}
+l16%e0 $5 v120p64o5[3|5c8|6d8|5c8|6d8|5c8|6d8|5c8|6d8  
+]|5c8|6d8|5c8|6d8|5c8|6d8dddd  [3|5c8|6d8|5c8|6d8|5c8|6d8|5c8|6d8  
+]|6d|5ccc|6d|5ccc|6%g1dddddddd  %g0[2|5c^8c^8|6d4^8^4  |5cc|6d|5ccc|6d|5ccc|6d|5ccc|6d|5c  
+][3|5c8|6d8|5c8|6d8|5c8|6d8|5c8|6d8  ]d|5ccc|6d|5ccc|6dddd|5c4  
+c4|6d2d2  d2d8^d4^  d2d2  d4d|5c|6d|5c|6d|5c|6d|5c[3cc|6d|5c  
+cc|6d|5ccc|6d|5ccc|6d|5c]cc|6d8  |5c8|6%g1dddddddddd%g0
+;5
+
+l16
+{6}
+l16%e1 $6 v60p64|7o5r8a+8  
+a+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8|8v80p94bv90p74a8a8p54gv80p34f4|7v60p64a+8  
+a+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8|8v100v80p94bv90p74ap54gp74ap54gv80p34f8^r8|7v60p64a+8  
+a+8a+8a+8a+8a+8a+8a+8a+8  a+8a+8a+8a+8a+8a+1  ^8|8[2r1  ^v90p74av80p34grv90p74av80p34gr4^8v80p94bv90p74ap54gv80p34f  
+]r1  ^8|7v60p64a+8a+8a+8a+8a+8a+8a+8  a+8a+8a+8a+8a+8a+8a+8a+1  
+^8r1  ^|8[3v100p64<c>v80p94bp34gr4^v100p64<c>v80p94bp34gr4  ^]v100p64<c>v80p94bp34gr2^4  
+^8|7v60p64[3a+8a+8a+8a+8a+8a+8a+8  a+8]r2^4^8  
+;6
+
+l16
+{7}
+l16%e1 $7 v120p64|9o5%r16[3c+1  
+r1  ]c+4c+4c+4c+4  v100p44a8p84g8p44a8p84g8v120p64c+4v100p44a4  
+p84e4^8v120p64c+2^8  [2v100p84g8g8g8g8g8g8g8g8  p44a1  ]r1  
+v120p64c+4c+4c+4c+4  v100p44a8p84g8p44a8p84g8v120p64c+4v100p44a4  
+[4v120p64c+4v100p84e4v120p64c+4v100p84e4  ]p44a8r1  ^2^4^8v120p64c+8  
+r1  v100p84e4p44a2^8
+;7
+
+l16
+{8}
+l16%e1 $8 v110p64|2o5%r4r1  ^1  
+^1  ^1  ^1  ^1  
+^1  ^1  >c4^8<e2^4  r2^4^8>c4  
+^8<e2^4r1  ^2^4^8c1  r1  
+>b1  r4>|5o5%e0v120c4cr8^c4  cr8^c4cr8^c8cr  cr8^c4cr8^c4  
+cr8^c4^r4^8^  o3|2%r4%e1v127b2<c2  >b2<d4c+8c8  >b2<c2  
+>b2r2  
+;8
+
+l16

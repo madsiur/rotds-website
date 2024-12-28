@@ -20,7 +20,7 @@
         "env": 65518, 
         "pitch": 43328, 
         "size": 1159, 
-        "occ": 132, 
+        "occ": 133, 
         "filename": "FF6_electric_bass"
     }, 
     {
@@ -92,7 +92,7 @@
         "env": 65504, 
         "pitch": 64928, 
         "size": 2131, 
-        "occ": 67, 
+        "occ": 66, 
         "filename": "FF6_french_horn"
     }, 
     {
@@ -116,7 +116,7 @@
         "env": 65504, 
         "pitch": 43286, 
         "size": 1519, 
-        "occ": 61, 
+        "occ": 60, 
         "filename": "FF6_oboe"
     }, 
     {
@@ -164,7 +164,7 @@
         "env": 65504, 
         "pitch": 43264, 
         "size": 1078, 
-        "occ": 108, 
+        "occ": 109, 
         "filename": "FF6_trumpet"
     }, 
     {
@@ -176,7 +176,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 727, 
-        "occ": 97, 
+        "occ": 96, 
         "filename": "FF6_closed_hi_hat"
     }, 
     {
@@ -200,7 +200,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 4831, 
-        "occ": 89, 
+        "occ": 90, 
         "filename": "FF6_open_hi_hat"
     }, 
     {
@@ -212,7 +212,7 @@
         "env": 65518, 
         "pitch": 0, 
         "size": 4291, 
-        "occ": 206, 
+        "occ": 207, 
         "filename": "FF6_cymbal"
     }, 
     {
@@ -220,10 +220,10 @@
         "name": "synth strings", 
         "gameShort": "FF4", 
         "gameLong": "Final Fantasy IV", 
-        "loop": 0, 
+        "loop": 6912, 
         "env": 65504, 
-        "pitch": 0, 
-        "size": 6055, 
+        "pitch": 256, 
+        "size": 6046, 
         "occ": 10, 
         "filename": "FF4_synth_strings"
     }, 
@@ -236,7 +236,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 2248, 
-        "occ": 128, 
+        "occ": 130, 
         "filename": "FF6_snare"
     }, 
     {
@@ -260,7 +260,7 @@
         "env": 65504, 
         "pitch": 63744, 
         "size": 3598, 
-        "occ": 100, 
+        "occ": 101, 
         "filename": "FF6_timpani"
     }, 
     {
@@ -272,7 +272,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 6748, 
-        "occ": 31, 
+        "occ": 29, 
         "filename": "FF6_conga"
     }, 
     {
@@ -284,7 +284,7 @@
         "env": 65516, 
         "pitch": 46928, 
         "size": 1771, 
-        "occ": 37, 
+        "occ": 38, 
         "filename": "FF6_acoustic_bass"
     }, 
     {
@@ -296,7 +296,7 @@
         "env": 65525, 
         "pitch": 28672, 
         "size": 1600, 
-        "occ": 23, 
+        "occ": 24, 
         "filename": "FF6_pizzo_string"
     }, 
     {
@@ -320,7 +320,7 @@
         "env": 65520, 
         "pitch": 43328, 
         "size": 952, 
-        "occ": 147, 
+        "occ": 148, 
         "filename": "FF6_harp"
     }, 
     {
@@ -332,7 +332,7 @@
         "env": 65504, 
         "pitch": 64928, 
         "size": 1312, 
-        "occ": 128, 
+        "occ": 126, 
         "filename": "FF6_bass"
     }, 
     {
@@ -368,7 +368,7 @@
         "env": 65504, 
         "pitch": 47615, 
         "size": 1249, 
-        "occ": 26, 
+        "occ": 25, 
         "filename": "FF6_ocarina"
     }, 
     {
@@ -392,7 +392,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 4498, 
-        "occ": 41, 
+        "occ": 40, 
         "filename": "SOM_hard_snare"
     }, 
     {
@@ -428,7 +428,7 @@
         "env": 65514, 
         "pitch": 34816, 
         "size": 5443, 
-        "occ": 38, 
+        "occ": 37, 
         "filename": "FF6_tubular_bell"
     }, 
     {
@@ -524,7 +524,7 @@
         "env": 65504, 
         "pitch": 50432, 
         "size": 4426, 
-        "occ": 31, 
+        "occ": 32, 
         "filename": "FF6_contrabass"
     }, 
     {
@@ -560,7 +560,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 2185, 
-        "occ": 64, 
+        "occ": 63, 
         "filename": "FF6_shaker"
     }, 
     {
@@ -584,7 +584,7 @@
         "env": 65517, 
         "pitch": 0, 
         "size": 4363, 
-        "occ": 11, 
+        "occ": 10, 
         "filename": "FF6_bright_piano"
     }, 
     {
@@ -632,7 +632,7 @@
         "env": 65521, 
         "pitch": 0, 
         "size": 2509, 
-        "occ": 68, 
+        "occ": 69, 
         "filename": "UNK_melodic_tom"
     }, 
     {
@@ -644,7 +644,7 @@
         "env": 65504, 
         "pitch": 43360, 
         "size": 2203, 
-        "occ": 21, 
+        "occ": 22, 
         "filename": "NW_sawtooth"
     }, 
     {
@@ -656,7 +656,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 5623, 
-        "occ": 12, 
+        "occ": 13, 
         "filename": "FF6_tambourine"
     }, 
     {
@@ -692,7 +692,7 @@
         "env": 65504, 
         "pitch": 10724, 
         "size": 3094, 
-        "occ": 9, 
+        "occ": 7, 
         "filename": "FF6_female_voice"
     }, 
     {
@@ -740,7 +740,7 @@
         "env": 65516, 
         "pitch": 43360, 
         "size": 1753, 
-        "occ": 37, 
+        "occ": 36, 
         "filename": "FF6_xylophone"
     }, 
     {
@@ -764,7 +764,7 @@
         "env": 65518, 
         "pitch": 54144, 
         "size": 2365, 
-        "occ": 27, 
+        "occ": 28, 
         "filename": "RS3_slap_bass"
     }, 
     {
@@ -1028,7 +1028,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 2806, 
-        "occ": 49, 
+        "occ": 50, 
         "filename": "RS3_snare_drum_2"
     }, 
     {
@@ -1124,7 +1124,7 @@
         "env": 65504, 
         "pitch": 57688, 
         "size": 1105, 
-        "occ": 88, 
+        "occ": 87, 
         "filename": "FF6_flute"
     }, 
     {
@@ -1136,7 +1136,7 @@
         "env": 65504, 
         "pitch": 0, 
         "size": 4498, 
-        "occ": 50, 
+        "occ": 49, 
         "filename": "FF6_hard_snare"
     }, 
     {
@@ -1736,7 +1736,7 @@
         "env": 36754, 
         "pitch": 64146, 
         "size": 4444, 
-        "occ": 1, 
+        "occ": 2, 
         "filename": "TOTR_timpani"
     }, 
     {
@@ -1844,7 +1844,7 @@
         "env": 65504, 
         "pitch": 52224, 
         "size": 4714, 
-        "occ": 10, 
+        "occ": 11, 
         "filename": "GH_overdrive_guitar"
     }, 
     {
@@ -1880,7 +1880,7 @@
         "env": 65504, 
         "pitch": 65520, 
         "size": 5290, 
-        "occ": 5, 
+        "occ": 7, 
         "filename": "FM_halo"
     }, 
     {
@@ -2312,7 +2312,7 @@
         "env": 65504, 
         "pitch": 43113, 
         "size": 619, 
-        "occ": 7, 
+        "occ": 8, 
         "filename": "EB_e_guitar_synth"
     }, 
     {
@@ -2456,7 +2456,7 @@
         "env": 65520, 
         "pitch": 49152, 
         "size": 2446, 
-        "occ": 5, 
+        "occ": 6, 
         "filename": "FF5_crash"
     }, 
     {

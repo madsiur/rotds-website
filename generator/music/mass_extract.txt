@@ -306,7 +306,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 42: ff8_law; Martial Law; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
 43: bof2_dance; Clumsy Dance; Breath of Fire II; Yuko Takehara; Gi Nattak; VGMTrans
 44: ej_tanjerines; Anything But Tangerines; Earthworm Jim; Tommy Tallarico; Gi Nattak; Chris Heneghan
-45: totr_flame; Flame And Arrow; Treasure of the Rudras; Ryuji Sasai; emberling; spc2it
+45: ys2_drive; Over Drive; Ys II; Yuzo Koshiro; Gi Nattak; Mocgames998
 46: fm_war; The Evils of War; Front Mission; Yoko Shimomura; Gi Nattak; SPC injection
 47: fmgh_message; Message of Genoce; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
 48: ff7_ahead; Ahead on Our Way; Final Fantasy VII; Nobuo Uematsu; Gi Nattak; FF7 PC MIDI
@@ -320,7 +320,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 51: trnm_sealed; Sealed; Terranigma; Masanori Hikichi; Gi Nattak; Chuck Dodgers
 52: jts_headquaters; Headquarters; Journey to Silius; Naoki Kodaka; Gi Nattak; tdkim
 53: so_time; Calm Time; Star Ocean; Motoi Sakuraba; Gi Nattak; top2midi
-54: ff10_zanarkan; To Zanarkand; Final Fantasy X; Nobuo Uematsu; Gi Nattak; David Moore
+54: ff10_zanarkand; To Zanarkand; Final Fantasy X; Nobuo Uematsu; Gi Nattak; David Moore
 55: ff4_darkness; Into the Darkness; Final Fantasy IV; Nobuo Uematsu; Tsushiy; unknown
 56: ff4hol_vulpes; Vulpes (day); Final Fantasy: The 4 Heroes of Light; Naoshi Mizuta; Tsushiy; unknown
 57: z3_shop; Shop; The Legend of Zelda: Ocarina of Time; Koji Kondo; Gi Nattak; Princess Peach Toadstool
@@ -329,7 +329,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 5A: ff5_box; Music Box; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2
 5B: ff9_sorrow; Unforgettable Sorrow; Final Fantasy IX; Nobuo Uematsu; Tsushiy; unknown
 5C: bof2_beauty; Sleeping Beauty; Breath of Fire II; Yuko Takehara; Gi Nattak; Sephiroth3
-5D: ff8_witches; Succession of Witches; Final Fantasy VIII; Nobuo Uematsu; emberling; VGMTrans
+5D: cstvn_sotn_painting; Lost Painting; Castlevania SOTN; Michiru Yamane; Gi Nattak; WuTaNgZ
 5E: ff9_world; Crystal World; Final Fantasy IX; Nobuo Uematsu; Gi Nattak; Sephiroth3
 5F: snc_sonic; Sonic.exe; Kyu S. Music; Kyu S.; Gi Nattak; Kyu S.
 60: ff3_tozas; Cute Little Tozas; Final Fantasy III; Nobuo Uematsu; Gi Nattak; VGMusic
@@ -381,7 +381,7 @@ FE: kq6_bookworm; The Bookworm; King's Quest VI; Chris Braymen; Gi Nattak; Susan
 8F: ias_redemption; Path of Redemption; I Am Setsuna; Tomoki Miyoshi; Gi Nattak; Josephina
 90: udt_waters; Quiet Waters; Undertale; Toby Fox; Gi Nattak; Ulrik Ruud Rostrup
 91: ff6_overture_1; Overture 1; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
-92: sd3_fission; Nuclear Fission; Seiken Densetsu 3; Hiroki Kikuta; Jackimus; Jackimus
+92: sf_blue; Last Battle ~ Blue; Saga Frontier; Kenji Ito; Gi Nattak; Masterlink
 93: fmgh_sentinal; Sentinal; Front Mission: Gun Hazard; N. Uematsu, Y. Mitsuda, J. Nakano, M. Hamauzu; Gi Nattak; SPC injection
 94: xng_flight; Flight; Xenogears; Yasunori Mitsuda; emberling; VGMTrans
 95: ff6_aria; Aria di Mezzo Carattere; Final Fantasy VI; Nobuo Uematsu; N/A; N/A
@@ -519,7 +519,7 @@ FC: rs3_alarm; Alarm; Romancing Saga 3; Minoru Akao; N/A; N/A
 4B: ff4_giant; Within the Giant; Final Fantasy IV; Nobuo Uematsu; Gi Nattak; VGMusic
 4C: lf_earth; The Earth; Lufia; Yasunori Shiono; Gi Nattak; SinclairC
 4D: mm2_wily1; Wily Stage 1; Mega Man 2; Takashi Tateishi; Gi Nattak; UltimaOmega
-4F: ff5_unknown; unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2.exe
+4F: ff5_unknown; Unknown Lands; Final Fantasy V; Nobuo Uematsu; Gi Nattak; FF5→FF6 MCS2.exe
 6D: snca_xzone; X-Zone; Sonic Advance 1; Tatsuyuki Maeda, Yutaka Minobe; Gi Nattak; Jay Reichard
 6E: ff7_judgement; Judgement Day; Final Fantasy VII; Nobuo Uematsu; Gi Nattak;  FF7 PC MIDI
 71: mm10_memory; Abandoned Memory; Mega Man 10; Ippo Yamada, Ryo Kawakami, Hiroki Isogai, and Yu Shimoda; Gi Nattak; Matt Tropiano

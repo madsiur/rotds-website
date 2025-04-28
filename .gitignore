@@ -3,6 +3,7 @@
 *.sfc
 __pycache__
 .vs
+.devcontainer
 bin
 obj
 packages

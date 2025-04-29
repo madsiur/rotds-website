@@ -1,6 +1,7 @@
 const Session = Object.freeze({
     DIFFICULTY: "monster_difficulty",
     GALLERY_PAGE: "monster_gallery_page",
+    MAP_DISPLAYED: "map"
 });
 
 const Style = Object.freeze({
@@ -13,6 +14,11 @@ const Difficulty = Object.freeze({
     HARD: "hard",
     EXTREME: "extreme",
     INSANE: "insane"
+});
+
+const Maps = Object.freeze({
+    WOB: "wob",
+    WOR: "wor"
 });
 
 const MonstersPage = Object.freeze([

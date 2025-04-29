@@ -11,6 +11,7 @@ class Constants:
     _GUIDE_MEDIA_DIR = "guidemedia"
     _ITEM_MEDIA_DIR = "itemsmedia"
     _ITEM_DETAIL_DIR = "itemdetails"
+    _MAPS_IMG_DIR = "maps"
     _MEDIA_DIR = "media"
     _ROMDATA_DIR = "romdata"
     _NPC_DIR = "npcs"
@@ -67,6 +68,13 @@ class Constants:
         "super nintendo",
         "squaresoft",
         "square-enix"
+    ]
+
+    _MAPS_KEYWORDS = [
+        "map",
+        "world map",
+        "world of balance",
+        "world of ruins"
     ]
     
     _MUSIC_KEYWORDS = [
@@ -330,6 +338,10 @@ class Constants:
         return self._ITEM_DETAIL_DIR
     
     @property
+    def MAPS_IMG_DIR(self):
+        return self._MAPS_IMG_DIR
+    
+    @property
     def MONS_DETAIL_DIR(self):
         return self._MONS_DETAIL_DIR
     
@@ -400,6 +412,10 @@ class Constants:
     @property
     def COMMON_KEYWORDS(self):
         return ", ".join(self._COMMON_KEYWORDS)
+    
+    @property
+    def MAPS_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._MAPS_KEYWORDS)
     
     @property
     def MUSIC_KEYWORDS(self):

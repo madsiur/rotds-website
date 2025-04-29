@@ -32,7 +32,7 @@ function setClicksDiff(diff) {
     $("#btns-diff > button").each(function () {
         var current_button = $(this);
         var child_diff = current_button.attr("data-diff");
-        current_button.click(function(){
+        current_button.off('click').on('click', function(){
             log("diff = " + $(this).attr("data-diff"));
             sessionStorage.setItem(Session.DIFFICULTY, $(this).attr("data-diff"));
             applyTemplateSetClicks();

@@ -1,0 +1,22 @@
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="mx-3 mt-3">
+                <div id="btns-maps" class="d-flex justify-content-center mb-3">
+                    <button data-map="wob" type="button" class="btn btn-dark me-1">World of Balance</button>
+                    <button data-map="wor" type="button" class="btn btn-dark ms-1">World of Ruins</button>
+                </div>
+                <div id="page-gallery" class="d-flex justify-content-center">
+                    <img id="wob" src="maps/wob.png" class="img-fluid" alt="World of Balance map" />
+                    <img id="wor" src="maps/wor.png" class="img-fluid" alt="World of Ruins map" />
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'publicscripts.html' %}
+        {% include 'scripts.html' %}
+        <script src="js/maps.js"></script>
+        {% include 'monsterspage.html' %}
+    </body>
+</html>

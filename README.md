@@ -34,6 +34,7 @@ The following people contributed to the romhack assets hosted or on portions of 
 * JCE3000GT
 * MetroidQuest
 * Cecil188
+* Lockirby
 
 
 

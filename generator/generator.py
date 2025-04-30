@@ -43,7 +43,7 @@ if __name__ == '__main__':
     #helpers.remove_directory(common_dir)
     #os.makedirs(common_dir)
 
-    """helpers.remove_directory(json_dir)
+    helpers.remove_directory(json_dir)
     os.makedirs(json_dir)
     os.makedirs(monster_json_dir)
 
@@ -121,9 +121,9 @@ if __name__ == '__main__':
 
     guide.validate_guide_parts(guide_template_dir)
     guide_data = guide.write_gallery(guide_dir, website_dir, templates_dir)
-    guide.write_pages(guide_data, website_dir, templates_dir)"""
+    guide.write_pages(guide_data, website_dir, templates_dir)
 
     npcs.write_page(npc_dir, website_dir, templates_dir)
-    """home.write_page(website_dir, templates_dir)
+    home.write_page(website_dir, templates_dir)
     credits.write_page(website_dir, templates_dir)
-    maps.write_page(website_dir, templates_dir)"""
+    maps.write_page(website_dir, templates_dir)

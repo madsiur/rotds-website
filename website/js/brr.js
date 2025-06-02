@@ -1,37 +1,37 @@
-let brrs = await fetchJson("json/brrs.json");
+function populateRows(brrs) {
+    const $tbody = $("#brr-entries");
+    $tbody.empty();
 
-$(document).ready(function() {
-    listSampleTable();
-
-    $('#sortTbl').DataTable({
-        "order": [[1, 'asc']],
-        "columnDefs": [
-            { orderable: false, targets: 5 },
-            { orderable: false, targets: 6 },
-            { orderable: false, targets: 7 },
-            { orderable: false, targets: 8 }
-        ],
-        "paging": false,
-        "searching": false,
-        "info": false
-    });
-});
-
-function listSampleTable() {
-    var table = $('#ostTbl');
-
-    $.each(brrs, function(key,value) {
-        var tr = $('<tr></tr>');
-
-        tr.append($('<td></td>').text(value.id));
-        tr.append($('<td></td>').text(value.gameLong));
-        tr.append($('<td></td>').text(value.name));
-        tr.append($('<td></td>').text(value.occ.toString()));
-        tr.append($('<td></td>').text(toHexString(value.size, 4)));
-        tr.append($('<td></td>').text(toHexString(value.loop, 4)));
-        tr.append($('<td></td>').text(toHexString(value.env, 4)));
-        tr.append($('<td></td>').text(toHexString(value.pitch, 4)));
-        tr.append($('<td><a class="link-primary" href="brr/' + value.filename + '.brr">brr</a></td>'));
-        table.append(tr);
+    $.each(brrs, function (_, brr) {
+        const $tr = $("<tr>");
+        $tr.html(`
+            <td class="text-center col-narrow hide-xs">${brr.id}</td>
+            <td class="col-game">${brr.gameLong}</td>
+            <td class="col-title">${brr.name}</td>
+            <td class="text-center col-narrow" data-value="${brr.occ}">${brr.occ}</td>
+            <td class="text-center hide-md" data-value="${brr.size}">${toHexString(brr.size, 4)}</td>
+            <td class="text-center hide-md" data-value="${brr.loop}">${toHexString(brr.loop, 4)}</td>
+            <td class="text-center hide-md" data-value="${brr.env}">${toHexString(brr.env, 4)}</td>
+            <td class="text-center hide-md" data-value="${brr.pitch}">${toHexString(brr.pitch, 4)}</td>
+            <td class="text-center hide-sm"><a class="link-primary" href="brr/${brr.filename}.brr">brr</a></td>
+        `);
+        $tbody.append($tr);
     });
 }
+
+function populateBrrTable() {
+    $.getJSON(`json/brrs.json`, function (brrs) {
+        populateRows(brrs);
+    }).fail(function (jqXHR, textStatus, errorThrown) {
+        console.error(`Failed to load ${ostName} songs:`, textStatus, errorThrown);
+    });
+}
+
+function loadBrrs() {
+    populateBrrTable();
+    resetSorting();
+}
+
+$(document).ready(function () {
+    loadBrrs();
+});

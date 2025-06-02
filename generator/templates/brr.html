@@ -2,31 +2,30 @@
     <body class="page-color d-flex flex-column h-100">
         {% include 'menu.html' %}
         <main class="flex-grow-1">
-            <div class="d-flex justify-content-center mt-2">
-                <h3>BRR Samples</h3>
+            <div class="mx-3 my-3">
+                <div class="d-flex flex-column">
+                    <h3 class="align-self-center">{{ title }}</h3>
+                </div>    
+                <table id="brr-table" class="table table-primary table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th class="text-center col-narrow hide-xs" data-sort="id" data-type="number" scope="col">ID <span class="sort-icon">↕</span></th>
+                            <th class="col-game" data-sort="game" data-type="string" scope="col">Game <span class="sort-icon">↕</span></th>
+                            <th class="col-title" data-sort="title" data-type="string" scope="col">Name <span class="sort-icon">↕</span></th>
+                            <th class="text-center col-narrow" data-sort="occurences" data-type="number" scope="col">Occurences <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md" data-sort="size" data-type="number" scope="col">Size <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md" data-sort="loop" data-type="number" scope="col">Loop <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md" data-sort="envelope" data-type="number" scope="col">Envelope <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md" data-sort="pitch" data-type="number" scope="col">Pitch <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-sm" scope="col">BRR</th>
+                        </tr>
+                    </thead>
+                    <tbody id="brr-entries"></tbody>
+                </table>
             </div>
-            <table id="sortTbl" class="table table-primary table-striped">
-                <thead class="table-dark">
-                    <tr>
-                        <th scope="col">ID</th>
-                        <th scope="col">Game</th>
-                        <th scope="col">Name</th>
-                        <th scope="col">Occurences</th>
-                        <th scope="col">Size</th>
-                        <th scope="col">Loop</th>
-                        <th scope="col">Env.</th>
-                        <th scope="col">Pitch</th>
-                        <th scope="col">BRR</th>
-                    </tr>
-                </thead>
-                <tbody id="ostTbl"></tbody>
-            </table>
         </main>
         {% include 'footer.html' %}
-        {% include 'publicscripts.html' %}
-        <script src="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.js"></script>
         {% include 'scripts.html' %}
-        <script type="module" src="js/brr.js"></script>
         {% include 'monsterspage.html' %}
     </body>
 </html>

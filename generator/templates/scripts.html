@@ -1,3 +1,14 @@
+<script src="{{ levels }}js/jquery-3.7.1.min.js"></script>
+<script src="{{ levels }}js/bootstrap-5.3.6.bundle.min.js"></script>
 <script src="{{ levels }}js/debug.js"></script>
 <script src="{{ levels }}js/enums.js"></script>
 <script src="{{ levels }}js/utils.js"></script>
+{%- if is_ost -%}
+    <script src="{{ levels }}js/tablesort.js"></script>
+    <script src="{{ levels }}js/ost.js"></script>
+    <script src="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc.js"></script>
+{%- endif -%}
+{%- if is_brr -%}
+    <script src="{{ levels }}js/tablesort.js"></script>
+    <script src="{{ levels }}js/brr.js"></script>
+{%- endif -%}

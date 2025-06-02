@@ -10,6 +10,7 @@ from text.characters.characters import CharacterList
 import text.guide.guide as guide
 import common.helpers as helpers
 import music.music as music
+import music.brr as brr
 import misc.npcs as npcs
 import misc.home as home
 import misc.credits as credits
@@ -60,12 +61,10 @@ if __name__ == '__main__':
     os.makedirs(item_media_dir)
 
     roms, brrs = mass_extract.mass_extract('mass_extract.txt')
-    music.generate_music_json(roms, brrs, json_dir)
-    music.write_pages("ost-a", "osta", "Soundtrack A", website_dir, templates_dir)
-    music.write_pages("ost-b", "ostb", "Soundtrack B", website_dir, templates_dir)
-    music.write_pages("optional-songs", "optional", "Optional Songs", website_dir, templates_dir)
-    music.write_pages("sfx", "sfx", "Sound Effects", website_dir, templates_dir)
-    music.write_brr_page(website_dir, templates_dir)
+    music.generate_json(roms, json_dir)
+    music.write_page(website_dir, templates_dir)
+    brr.generate_json(brrs, json_dir)
+    brr.write_page(website_dir, templates_dir)
 
     path = os.path.join(roms_dir, "rom.smc")
     data_rom = helpers.read_bin_file(path)

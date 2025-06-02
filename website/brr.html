@@ -5,7 +5,7 @@
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="return of the dark sorcerer, rotds, ffvi rotds, ff6 rotds, ff6 hack, ffvi hack, ff6 romhack, ffvi romhack, ff6 rom hack, ffvi rom hack, ff6 mod, ffvi mod, ff6 hacking, ffvi hacking, ff6 modding, ffvi modding, romhack, mod, romhacking, modding, snes, super nintendo, squaresoft, square-enix, music, soundtrack, ost, original soundtrack, music list, soundtrack list, ost list, original soundtrack list, music tracks, brr, spc, spc songs, brr samples, instrument samples, music samples, spc 700, spc-700" name="keywords"/>
         <meta content="BRR samples page of the Return of the Dark Sorcerer official website." name="description"/>
-        <meta content="RotDS - BRR Samples" name="pagename"/>
+        <meta content="RotDS - BRR samples" name="pagename"/>
         <meta content="EN" name="language"/>
         <meta content="madsiur" name="author"/>
         <meta content="https://www.rotds.com/brr.html" name="url"/>
@@ -13,7 +13,7 @@
         <meta content="General" name="rating"/>
         <meta content="Worldwide" name="coverage"/>
         <meta content="Global" name="distribution"/>
-        <meta content="RotDS - BRR Samples" name="og:title"/>
+        <meta content="RotDS - BRR samples" name="og:title"/>
         <meta content="https://www.rotds.com/media/music.png" name="og:image"/>
         <meta content="image/png" property="og:image:type"/>
         <meta content="256" property="og:image:width"/>
@@ -24,14 +24,15 @@
         <meta content="website" name="og:type"/>
         <meta content="https://www.rotds.com/brr.html" name="og:url"/>
         <title>
-            RotDS - BRR Samples
+            RotDS - BRR samples
         </title>
-        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" rel="stylesheet"/>
+        <link href="css/bootstrap-5.3.6.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
-        <link href="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.css" rel="stylesheet"/>
+        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="css/ost.css" rel="stylesheet" type="text/css"/>
     </head>
     <body class="page-color d-flex flex-column h-100">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar custom-collapse navbar-dark bg-dark">
             <div class="container-fluid">
                 <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
                     <span class="navbar-toggler-icon">
@@ -43,23 +44,8 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="ost-a.html">
-                                OST A
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="ost-b.html">
-                                OST B
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="optional-songs.html">
-                                Optional Songs
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="sfx.html">
-                                SFX
+                            <a class="nav-link" href="soundtrack.html">
+                                Soundtrack
                             </a>
                         </li>
                         <li class="nav-item">
@@ -107,59 +93,83 @@
             </div>
         </nav>
         <main class="flex-grow-1">
-            <div class="d-flex justify-content-center mt-2">
-                <h3>
-                    BRR Samples
-                </h3>
+            <div class="mx-3 my-3">
+                <div class="d-flex flex-column">
+                    <h3 class="align-self-center">
+                        BRR samples
+                    </h3>
+                </div>
+                <table class="table table-primary table-striped" id="brr-table">
+                    <thead class="table-dark">
+                        <tr>
+                            <th class="text-center col-narrow hide-xs" data-sort="id" data-type="number" scope="col">
+                                ID
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="col-game" data-sort="game" data-type="string" scope="col">
+                                Game
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="col-title" data-sort="title" data-type="string" scope="col">
+                                Name
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center col-narrow" data-sort="occurences" data-type="number" scope="col">
+                                Occurences
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center hide-md" data-sort="size" data-type="number" scope="col">
+                                Size
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center hide-md" data-sort="loop" data-type="number" scope="col">
+                                Loop
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center hide-md" data-sort="envelope" data-type="number" scope="col">
+                                Envelope
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center hide-md" data-sort="pitch" data-type="number" scope="col">
+                                Pitch
+                                <span class="sort-icon">
+                                    ↕
+                                </span>
+                            </th>
+                            <th class="text-center hide-sm" scope="col">
+                                BRR
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="brr-entries">
+                    </tbody>
+                </table>
             </div>
-            <table class="table table-primary table-striped" id="sortTbl">
-                <thead class="table-dark">
-                    <tr>
-                        <th scope="col">
-                            ID
-                        </th>
-                        <th scope="col">
-                            Game
-                        </th>
-                        <th scope="col">
-                            Name
-                        </th>
-                        <th scope="col">
-                            Occurences
-                        </th>
-                        <th scope="col">
-                            Size
-                        </th>
-                        <th scope="col">
-                            Loop
-                        </th>
-                        <th scope="col">
-                            Env.
-                        </th>
-                        <th scope="col">
-                            Pitch
-                        </th>
-                        <th scope="col">
-                            BRR
-                        </th>
-                    </tr>
-                </thead>
-                <tbody id="ostTbl">
-                </tbody>
-            </table>
         </main>
         <footer class="footer mt-auto bg-dark text-white text-center py-1">
             <div class="container">
                 <div>
-                    2024 Return of the Dark Sorcerer. Website by madsiur.
+                    2025 Return of the Dark Sorcerer. Website by madsiur.
                 </div>
             </div>
         </footer>
-        <script crossorigin="anonymous" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js">
+        <script src="js/jquery-3.7.1.min.js">
         </script>
-        <script crossorigin="anonymous" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js">
-        </script>
-        <script src="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.js">
+        <script src="js/bootstrap-5.3.6.bundle.min.js">
         </script>
         <script src="js/debug.js">
         </script>
@@ -167,7 +177,9 @@
         </script>
         <script src="js/utils.js">
         </script>
-        <script src="js/brr.js" type="module">
+        <script src="js/tablesort.js">
+        </script>
+        <script src="js/brr.js">
         </script>
         <script>
             initSessionVar("monster_gallery_page", 1);

@@ -5,9 +5,9 @@ __pycache__
 *.smc
 *.sfc
 bin
-download/
 obj
 packages
+website/archive/*
 website/css/bootstrap*
 website/js/bootstrap*
 website/js/jquery*

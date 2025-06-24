@@ -15,6 +15,7 @@ import misc.npcs as npcs
 import misc.home as home
 import misc.credits as credits
 import misc.maps as maps
+import misc.archive as archive
 import fonts.fonts as fonts
 
 if __name__ == '__main__':
@@ -27,6 +28,7 @@ if __name__ == '__main__':
     guide_template_dir = os.path.join(templates_dir, cons.GUIDE_DIR)
     text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
     font_dir = os.path.join(generator_dir, cons.FONT_DIR)
+    misc_dir = os.path.join(generator_dir, cons.MISC_DIR)
     romdata_dir = os.path.join(generator_dir, cons.ROMDATA_DIR)
     characters_dir = os.path.join(text_dir, cons.CHAR_DIR)
     guide_dir = os.path.join(text_dir, cons.GUIDE_DIR)
@@ -44,7 +46,7 @@ if __name__ == '__main__':
     #helpers.remove_directory(common_dir)
     #os.makedirs(common_dir)
 
-    helpers.remove_directory(json_dir)
+    """helpers.remove_directory(json_dir)
     os.makedirs(json_dir)
     os.makedirs(monster_json_dir)
 
@@ -125,4 +127,5 @@ if __name__ == '__main__':
     npcs.write_page(npc_dir, website_dir, templates_dir)
     home.write_page(website_dir, templates_dir)
     credits.write_page(website_dir, templates_dir)
-    maps.write_page(website_dir, templates_dir)
+    maps.write_page(website_dir, templates_dir)"""
+    archive.write_page(misc_dir, website_dir, templates_dir)

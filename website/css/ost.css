@@ -1,0 +1,98 @@
+table {
+  table-layout: auto;
+  width: 100%;
+}
+
+.table th {
+    font-weight: normal;
+}
+
+.col-narrow {
+  white-space: nowrap;
+  width: 1%;
+}
+
+.play-img {
+    width: 20px;
+    height: 20px;
+    fill: #212529
+}
+
+.play-button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    display: block;
+    margin: auto;
+}
+
+.col-composer {
+    max-width: 300px;
+}
+
+.col-arranged {
+    min-width: 130px;
+}
+
+@media (max-width: 1300px) {
+
+  .col-title {
+    max-width: 250px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .col-game {
+    max-width: 250px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .col-composer {
+    max-width: 250px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
+
+@media (max-width: 1000px) {
+  .hide-md {
+    display: none;
+  }
+
+  .col-title {
+    max-width: 150px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .col-game {
+    max-width: 150px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .col-composer {
+    max-width: 200px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
+
+@media (max-width: 768px) {
+  .hide-sm {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .hide-xs {
+    display: none;
+  }
+}

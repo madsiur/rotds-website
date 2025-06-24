@@ -2,27 +2,39 @@
     <body class="page-color d-flex flex-column h-100">
         {% include 'menu.html' %}
         <main class="flex-grow-1">
-            <div class="d-flex justify-content-center mt-2">
-                <h3>{{ title }}</h3>
+            <div class="mx-3 my-3">
+                <div class="d-flex flex-column">
+                    <h3 class="align-self-center">{{ title }}</h3>
+                </div>
+                <div class="d-flex my-3 justify-content-center">
+                    <div class="custom-select-wrapper position-relative w-auto">
+                        <div id="custom-select" class="custom-select-box bg-dark text-white px-3 py-2 border border-secondary"></div>
+                        <div id="custom-options" class="custom-options d-none position-absolute w-100">
+                            <div class="custom-option py-2 px-3" data-value="ost_a">Soundtrack A</div>
+                            <div class="custom-option py-2 px-3" data-value="ost_b">Soundtrack B</div>
+                            <div class="custom-option py-2 px-3" data-value="optional">Optional songs</div>
+                            <div class="custom-option py-2 px-3" data-value="sfx">SFX</div>
+                        </div>
+                    </div>
+                </div>        
+                <table id="song-table" class="table table-primary table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th class="text-center col-narrow" scope="col">Play</th>
+                            <th class="text-center col-narrow hide-xs" data-sort="id" data-type="number" scope="col">ID <span class="sort-icon">↕</span></th>
+                            <th class="col-game" data-sort="game" data-type="string" scope="col">Game <span class="sort-icon">↕</span></th>
+                            <th class="col-title" data-sort="title" data-type="string" scope="col">Title <span class="sort-icon">↕</span></th>
+                            <th class="text-center col-narrow hide-xs" data-sort="duration" data-type="seconds" scope="col">Duration <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md col-composer" data-sort="composer" data-type="string" scope="col">Composer <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md col-arranged" data-sort="arranged" data-type="string" scope="col">Arranged <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-md" data-sort="transcription" data-type="string" scope="col">Transcription <span class="sort-icon">↕</span></th>
+                            <th class="text-center hide-sm" scope="col">SPC</th>
+                            <th class="text-center hide-sm" scope="col">MML</th>
+                        </tr>
+                    </thead>
+                    <tbody id="song-entries"></tbody>
+                </table>
             </div>
-            <table id="sortTbl" class="table table-primary table-striped">
-                <thead class="table-dark">
-                    <tr>
-                        <th scope="col">Play</th>
-                        <th scope="col">ID</th>
-                        <th scope="col">Game</th>
-                        <th scope="col">Title</th>
-                        <th scope="col">Duration</th>
-                        <th scope="col">Composer</th>
-                        <th scope="col">Arranged</th>
-                        <th scope="col">Transcription</th>
-                        <th scope="col">SPC</th>
-                        <th scope="col">MML</th>
-                    </tr>
-                </thead>
-                <tbody id="ostTbl"></tbody>
-            </table>
-        
             <!-- begin smwcentral-spc-player code -->
             <!-- github.com/telinc1/smwcentral-spc-player -->
             <input type="checkbox" id="spc-player-toggle">
@@ -56,20 +68,7 @@
             <!-- end smwcentral-spc-player code -->
         </main>
         {% include 'footer.html' %}
-        <!-- function from emberling.github.io -->
-        <!-- https://github.com/emberling/emberling.github.io -->
-        <script>
-            function playSpcFile(name) {
-                SMWCentral.SPCPlayer.loadFromLink(document.getElementById(name));
-            }
-        </script>
-        <!-- end function from emberling.github.io -->
-        {% include 'publicscripts.html' %}
-        <script src="https://cdn.datatables.net/v/bs5/dt-1.13.2/datatables.min.js"></script>
-        <script src="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc.js"></script>
         {% include 'scripts.html' %}
-        <script src="js/ost.js"></script>
-        <script type="module" src="js/{{ js_file_name }}.js"></script>
         {% include 'monsterspage.html' %}
     </body>
 </html>

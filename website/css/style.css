@@ -1,7 +1,3 @@
-.page-color {
-    background-color: #acbfe0;
-}
-
 .text-justify {
     text-align: justify;
 }
@@ -31,28 +27,8 @@
     margin-bottom: 15px;
 }
 
-.play-img {
-    width: 20px;
-    height: 20px;
-    fill: #212529
-}
-
-.play-button {
-
-    background: transparent;
-    border: none !important;
-    font-size:0;
-    display: block;
-    margin: auto;
-}
-
 .mons-img-div {
     height: 150px;
-}
-
-.nav-container {
-    min-width: 360px;
-    width: 100%;
 }
 
 .page-div {
@@ -159,7 +135,7 @@ div#char-table div > div.row-a {
 }
 
 table#monster-table td.row-b,
-table#item-table td.row-a,
+table#item-table td.row-b,
 div#char-table div > div.row-b {
     background-color: #b4c4dd;
 }

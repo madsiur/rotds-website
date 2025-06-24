@@ -1,0 +1,98 @@
+/* Navbar */
+@media (max-width: 1120px) {
+    .custom-collapse .navbar-collapse {
+        display: none;
+    }
+
+    .custom-collapse .navbar-collapse.show {
+        display: block !important;
+    }
+
+    .custom-collapse .navbar-nav {
+        flex-direction: column;
+    }
+
+    .custom-collapse .navbar-toggler {
+        display: block;
+    }
+}
+
+@media (min-width: 1121px) {
+    .custom-collapse .container-fluid {
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+
+    .custom-collapse .navbar-collapse {
+        display: flex !important;
+        flex-grow: 1;
+        justify-content: flex-end;
+    }
+
+    .custom-collapse .navbar-nav {
+        flex-direction: row !important;
+    }
+
+    .custom-collapse .nav-item {
+        margin-left: 0.4rem;
+        margin-right: 0.4rem;
+    }
+
+    .custom-collapse .navbar-toggler {
+        display: none;
+    }
+}
+
+/* Select */
+
+.custom-select-wrapper {
+    min-width: 165px;
+}
+.custom-select-box {
+    cursor: pointer;
+    user-select: none;
+
+    /* Arrow */
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23ffffff' viewBox='0 0 16 16'%3E%3Cpath d='M1.5 5l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1rem;
+    padding-right: 2.5rem;
+}
+
+.custom-options {
+    border-left: 1px solid #4d5154;
+    border-right: 1px solid #a6b5cc;
+    z-index: 1000;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.custom-options div:nth-child(odd) {
+    background-color: #2c3034;
+    border-bottom: 1px solid #4d5154;
+    color: #ffffff;
+}
+
+.custom-options div:nth-child(even) {
+    background-color: #373b3e;
+    border-bottom: 1px solid #4d5154;
+    color: #ffffff;
+}
+
+.custom-options .custom-option {
+    cursor: pointer;
+    user-select: none;
+}
+
+.custom-options .custom-option:hover {
+    background-color: #323539;
+    color: #ffffff;
+}
+
+/* Page background */
+.page-color {
+    background-color: #acbfe0;
+}
+

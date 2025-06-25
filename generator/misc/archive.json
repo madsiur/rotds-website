@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "version": "Last Hope All Stars",
+    "name": "ffvi_last_hope",
+    "desc": "Last Hope All Stars"
+  },
+  {
+    "id": 2,
+    "version": "1.0",
+    "name": "ffvi_rotds_v1.0",
+    "desc": "RotDS v1.0"
+  },
+  {
+    "id": 3,
+    "version": "1.1",
+    "name": "ffvi_rotds_v1.1",
+    "desc": "RotDS v1.1"
+  },
+  {
+    "id": 4,
+    "version": "1.2",
+    "name": "ffvi_rotds_v1.2",
+    "desc": "RotDS v1.2"
+  },
+  {
+    "id": 5,
+    "version": "1.4",
+    "name": "ffvi_rotds_v1.4",
+    "desc": "RotDS v1.4"
+  },
+  {
+    "id": 6,
+    "version": "1.4.8",
+    "name": "ffvi_rotds_v1.4.8",
+    "desc": "RotDS v1.4.8"
+  },
+  {
+    "id": 7,
+    "version": "1.6",
+    "name": "ffvi_rotds_v1.6",
+    "desc": "RotDS v1.6"
+  },
+  {
+    "id": 8,
+    "version": "1.7.4",
+    "name": "ffvi_rotds_v1.7.4",
+    "desc": "RotDS v1.7.4"
+  },
+  {
+    "id": 9,
+    "version": "1.8.3",
+    "name": "ffvi_rotds_v1.8.3",
+    "desc": "RotDS v1.8.3"
+  },
+  {
+    "id": 10,
+    "version": "2.0.6",
+    "name": "ffvi_rotds_v2.0.6",
+    "desc": "RotDS v2.0.6"
+  },
+  {
+    "id": 11,
+    "version": "2.1",
+    "name": "ffvi_rotds_v2.1",
+    "desc": "RotDS v2.1"
+  },
+  {
+    "id": 12,
+    "version": "2.2",
+    "name": "ffvi_rotds_v2.2",
+    "desc": "RotDS v2.2"
+  },
+  {
+    "id": 13,
+    "version": "2.3",
+    "name": "ffvi_rotds_v2.3",
+    "desc": "RotDS v2.3"
+  },
+  {
+    "id": 14,
+    "version": "2.4",
+    "name": "ffvi_rotds_v2.4",
+    "desc": "RotDS v2.4"
+  },
+  {
+    "id": 15,
+    "version": "2.5",
+    "name": "ffvi_rotds_v2.5",
+    "desc": "RotDS v2.5"
+  },
+  {
+    "id": 16,
+    "version": "2.6.7",
+    "name": "ffvi_rotds_v2.6.7",
+    "desc": "RotDS v2.6.7"
+  },
+  {
+    "id": 17,
+    "version": "2.7.2",
+    "name": "ffvi_rotds_v2.7.2",
+    "desc": "RotDS v2.7.2"
+  },
+  {
+    "id": 18,
+    "version": "2.8",
+    "name": "ffvi_rotds_v2.8",
+    "desc": "RotDS v2.8"
+  },
+  {
+    "id": 19,
+    "version": "2.9.3",
+    "name": "ffvi_rotds_v2.9.3",
+    "desc": "RotDS v2.9.3"
+  },
+  {
+    "id": 20,
+    "version": "2.9.7",
+    "name": "ffvi_rotds_v2.9.7",
+    "desc": "RotDS v2.9.7"
+  },
+  {
+    "id": 21,
+    "version": "2.9.9",
+    "name": "ffvi_rotds_v2.9.9",
+    "desc": "RotDS v2.9.9"
+  }
+]

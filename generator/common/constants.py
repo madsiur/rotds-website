@@ -8,6 +8,7 @@ class Constants:
     _TEXT_DIR = "text"
     _FONT_DIR = "fonts"
     _GUIDE_DIR = "guide"
+    _MISC_DIR = "misc"
     _GUIDE_MEDIA_DIR = "guidemedia"
     _ITEM_MEDIA_DIR = "itemsmedia"
     _ITEM_DETAIL_DIR = "itemdetails"
@@ -312,6 +313,10 @@ class Constants:
     @property
     def GUIDE_DIR(self):
         return self._GUIDE_DIR
+    
+    @property
+    def MISC_DIR(self):
+        return self._MISC_DIR
     
     @property
     def MEDIA_DIR(self):

@@ -1,0 +1,25 @@
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center guide-container">
+                <div class="d-flex flex-column guide-div ps-4 pe-4 pb-4 my-4 border border-dark border-2">
+                    <div class="d-flex flex-column mt-3">
+                        <h3 class="align-self-center">Archive</h3>
+                    </div>
+                    <p>This is an archive of the previous versions of RotDS, beginning with 'Last Hope All Stars', released more than 15 years ago. All main patches have been renamed with 'h' (for FF3us v1.0 headered ROM) or 'nh' (for FF3uss v1.0 headerless ROM).</p>
+                    <p>These older versions are for people curious about the history of the mod. If you have never played Return of the Dark Sorcerer, we strongly encourage you to play first the latest version available on the home page.</p>
+                    <h5>Previous versions</h5>
+                    <ul class="list-style">
+                    {%- for file in files -%}
+                        <li><a href="archive/{{ file.name }}.zip" class="link-primary">{{ file.desc }}</a></li>
+                    {%- endfor -%}
+                    </ul>
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'scripts.html' %}
+        {% include 'monsterspage.html' %}
+    </body>
+</html>

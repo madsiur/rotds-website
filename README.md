@@ -1,7 +1,7 @@
 ## Return of the Dark Sorcerer website
 
 ### Description
-This repository contains RotDS 2.13 informations, assets and media files such as MML scripts, SPC songs, BRR samples, monster sprites and details, item details, character portraits, NPC portraits, strategy guide, character informations and world maps. This website and its generator are a work-in-progress, meaning new sections are added periodically, character and NPC field sprites being the next step.
+This repository contains RotDS 2.13 informations, assets and media files such as MML scripts, SPC songs, BRR samples, monster sprites and details, item details, character portraits, NPC portraits, strategy guide, character informations, world maps and an archive page. This website and its generator are a work-in-progress, meaning new sections are added periodically, character and NPC field sprites being the next step.
 
 ### Repository 
 The code in the `generator` folder, mostly Python code and the monster sprite extractor made in C#, is what is used to generate some javascript files as well as some assets like SPC files and monster sprites. The `website` folder is the static website (with a bit of Javascript) currently online.
@@ -22,7 +22,7 @@ The website is currently hosted at https://www.rotds.com.
     * [SMW Central SPC Player](https://github.com/telinc1/smwcentral-spc-player)
 
 ### Credits
-The following people contributed to the romhack assets hosted or on portions of the generator/website code, see `website/credits.html` for details.
+The following people contributed to the romhack assets hosted or on portions of the generator/website code, see the [credit page](https://www.rotds.com/credits.html) for details.
 
 * Gi Nattak
 * emberling

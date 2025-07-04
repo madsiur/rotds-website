@@ -13,7 +13,7 @@ def write_page(npcs_dir, website_dir, templates_dir, cons=helpers.get_constants(
     
     for i in range(0, len(files)):
         npc = {
-            "name": files[i].strip(".png").replace("_", " ").capitalize(),
+            "name": os.path.splitext(files[i])[0].replace("_", " ").title(),
             "img_name": files[i]
         }
         npcs.append(npc)

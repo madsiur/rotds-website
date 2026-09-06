@@ -8,6 +8,8 @@ bin
 obj
 packages
 website/archive/*
+website/sprites/*
 website/css/bootstrap*
 website/js/bootstrap*
 website/js/jquery*
+generator/sprites/full/*

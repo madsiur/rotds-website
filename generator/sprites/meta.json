@@ -1,0 +1,30 @@
+[
+    {
+        "sheetid": 0,
+        "palettes": [2],
+        "template": "full",
+        "category": "full",
+        "name": "Aurora"
+    },
+    {
+        "sheetid": 0,
+        "palettes": [2],
+        "template": "static_40",
+        "category": "object",
+        "name": "Aurora's Tent"
+    },
+    {
+        "sheetid": 1,
+        "palettes": [1],
+        "template": "full",
+        "category": "full",
+        "name": "Cloud"
+    },
+    {
+        "sheetid": 1,
+        "palettes": [1],
+        "template": "static_40",
+        "category": "object",
+        "name": "Cloud's Tent"
+    }
+]

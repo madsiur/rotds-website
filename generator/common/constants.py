@@ -7,6 +7,8 @@ class Constants:
     _MUSIC_DIR = "music"
     _TEXT_DIR = "text"
     _FONT_DIR = "fonts"
+    _SPRITE_DIR = "sprites"
+    _FULL_SPRITE_DIR = "full"
     _GUIDE_DIR = "guide"
     _MISC_DIR = "misc"
     _GUIDE_MEDIA_DIR = "guidemedia"
@@ -19,6 +21,11 @@ class Constants:
     _MONS_DETAIL_DIR = "monsterdetails"
     _MONS_IMG_DIR = "monsters"
     _MONS_JSON_DIR = "monsters"
+    _SPRITE_IMG_DIR = "sprites"
+    _FULL_SPRITE_IMG_DIR = "full"
+    _NPC_SPRITE_IMG_DIR = "npc"
+    _STATIC_SPRITE_IMG_DIR = "static"
+    _OBJECT_SPRITE_IMG_DIR = "object"
     _PORTRAITS_DIR = "portraits"
     _TEMPLATES_DIR = "templates"
     _MML_DIR = "mml"
@@ -118,6 +125,18 @@ class Constants:
         "monster sprites",
         "enemy sprites",
         "boss sprites"
+    ]
+
+    _SPRITE_KEYWORDS = [
+        "sprite", 
+        "spritesheet",
+        "character sprite",
+        "playable character sprite",
+        "sprite pose",
+        "graphics",
+        "npc",
+        "npcs",
+        "objects"
     ]
 
     _ESPER_KEYWORDS = [
@@ -264,6 +283,13 @@ class Constants:
     _ESPER_NAME_ADDR = 0x3162E6
     _ESPER_NAME_LENGTH = 12
     _ESPER_NUM = 27
+    
+    _SPRITE_PAL_ADDR = 0x268000
+    _SPRITE_PTR_OFFSET = 0x00D0F2
+    _SPRITE_BANK_PTR_OFFSET = 0x00D23C
+    _SPRITE_PAL_NUM = 10
+    _SPRITE_PAL_SIZE = 32
+    _SPRITE_NUM = 164
 
     _META_ADDR = 0x047F40
     _META_LENGTH = 4
@@ -280,7 +306,8 @@ class Constants:
         (0xFF, 0xFF, 0xFF), # White
     ]
 
-    TILE_LENGTH_2BPP = 16
+    _TILE_LENGTH_2BPP = 16
+    _TILE_LENGTH_4BPP = 32
 
     @property
     def WEBSITE_DIR(self):
@@ -309,6 +336,18 @@ class Constants:
     @property
     def FONT_DIR(self):
         return self._FONT_DIR
+
+    @property
+    def SPRITE_DIR(self):
+        return self._SPRITE_DIR
+
+    @property
+    def FULL_SPRITE_DIR(self):
+        return self._FULL_SPRITE_DIR
+
+    @property
+    def FULL_SPRITE_DIR(self):
+        return self._FULL_SPRITE_DIR
     
     @property
     def GUIDE_DIR(self):
@@ -357,6 +396,26 @@ class Constants:
     @property
     def MONS_JSON_DIR(self):
         return self._MONS_JSON_DIR
+
+    @property
+    def SPRITE_IMG_DIR(self):
+        return self._SPRITE_IMG_DIR
+
+    @property
+    def FULL_SPRITE_IMG_DIR(self):
+        return self._FULL_SPRITE_IMG_DIR
+
+    @property
+    def NPC_SPRITE_IMG_DIR(self):
+        return self._NPC_SPRITE_IMG_DIR
+
+    @property
+    def STATIC_SPRITE_IMG_DIR(self):
+        return self._STATIC_SPRITE_IMG_DIR
+
+    @property
+    def OBJECT_SPRITE_IMG_DIR(self):
+        return self._OBJECT_SPRITE_IMG_DIR
     
     @property
     def PORTRAITS_DIR(self):
@@ -429,6 +488,10 @@ class Constants:
     @property
     def MONSTER_KEYWORDS(self):
         return ", ".join(self._COMMON_KEYWORDS + self._MONSTER_KEYWORDS)
+
+    @property
+    def SPRITE_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._SPRITE_KEYWORDS)
     
     @property
     def ESPER_KEYWORDS(self):
@@ -625,7 +688,31 @@ class Constants:
     @property
     def ESPER_NUM(self):
         return self._ESPER_NUM
-    
+
+    @property
+    def SPRITE_PAL_ADDR(self):
+        return self._SPRITE_PAL_ADDR
+
+    @property
+    def SPRITE_PTR_OFFSET(self):
+        return self._SPRITE_PTR_OFFSET
+
+    @property
+    def SPRITE_BANK_PTR_OFFSET(self):
+        return self._SPRITE_BANK_PTR_OFFSET
+
+    @property
+    def SPRITE_NUM(self):
+        return self._SPRITE_NUM
+
+    @property
+    def SPRITE_PAL_NUM(self):
+        return self._SPRITE_PAL_NUM
+
+    @property
+    def SPRITE_PAL_SIZE(self):
+        return self._SPRITE_PAL_SIZE
+
     @property
     def META_ADDR(self):
         return self._META_ADDR
@@ -660,5 +747,9 @@ class Constants:
     
     @property
     def TILE_LENGTH_2BPP(self):
-        return self.TILE_LENGTH_2BPP
+        return self._TILE_LENGTH_2BPP
+
+    @property
+    def TILE_LENGTH_4BPP(self):
+        return self._TILE_LENGTH_4BPP
 

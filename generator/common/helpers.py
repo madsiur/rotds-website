@@ -92,6 +92,9 @@ def get_short(data, offset):
     short = short + data[offset]
     return short
 
+#def get_byte_array(data: bytearray, offset: int, size: int):
+#    toget = 
+
 def write_json(data, file_path):
     json_object = json.dumps(data, separators=(', ', ': '), indent=4)
     write_file(json_object, file_path)

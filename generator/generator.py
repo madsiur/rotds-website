@@ -7,6 +7,7 @@ from romdata.metamorph import MetamorphPackList
 from romdata.monsters import MonsterList
 from romdata.espers import EsperList
 from text.characters.characters import CharacterList
+from sprites.sprites import SpriteSheetList
 import text.guide.guide as guide
 import common.helpers as helpers
 import music.music as music
@@ -24,16 +25,23 @@ if __name__ == '__main__':
     root_dir = os.path.dirname(generator_dir)
     common_dir = os.path.join(root_dir, cons.COMMON_DIR)
     roms_dir = os.path.join(generator_dir, cons.ROMS_DIR)
-    templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
+    sprites_dir = os.path.join(generator_dir, cons.SPRITE_DIR)
+    full_sprite_dir = os.path.join(sprites_dir, cons.FULL_SPRITE_DIR)
+    """templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
     guide_template_dir = os.path.join(templates_dir, cons.GUIDE_DIR)
     text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
     font_dir = os.path.join(generator_dir, cons.FONT_DIR)
     misc_dir = os.path.join(generator_dir, cons.MISC_DIR)
     romdata_dir = os.path.join(generator_dir, cons.ROMDATA_DIR)
     characters_dir = os.path.join(text_dir, cons.CHAR_DIR)
-    guide_dir = os.path.join(text_dir, cons.GUIDE_DIR)
+    guide_dir = os.path.join(text_dir, cons.GUIDE_DIR)"""
     website_dir = os.path.join(root_dir, cons.WEBSITE_DIR)
-    mons_detail_dir = os.path.join(website_dir, cons.MONS_DETAIL_DIR)
+    website_sprite_dir = os.path.join(website_dir, cons.SPRITE_IMG_DIR)
+    website_full_sprite_dir = os.path.join(website_sprite_dir, cons.FULL_SPRITE_IMG_DIR)
+    website_npc_sprite_dir = os.path.join(website_sprite_dir, cons.NPC_SPRITE_IMG_DIR)
+    website_static_sprite_dir = os.path.join(website_sprite_dir, cons.STATIC_SPRITE_IMG_DIR)
+    website_object_sprite_dir = os.path.join(website_sprite_dir, cons.OBJECT_SPRITE_IMG_DIR)
+    """mons_detail_dir = os.path.join(website_dir, cons.MONS_DETAIL_DIR)
     item_detail_dir = os.path.join(website_dir, cons.ITEM_DETAIL_DIR)
     website_guide_dir = os.path.join(website_dir, cons.GUIDE_DIR)
     item_media_dir = os.path.join(website_dir, cons.ITEM_MEDIA_DIR)
@@ -41,12 +49,12 @@ if __name__ == '__main__':
     portrait_dir = os.path.join(website_characters_dir, cons.PORTRAITS_DIR)
     npc_dir = os.path.join(website_dir, cons.NPC_DIR)
     json_dir = os.path.join(website_dir, "json")
-    monster_json_dir = os.path.join(json_dir, cons.MONS_JSON_DIR)
+    monster_json_dir = os.path.join(json_dir, cons.MONS_JSON_DIR)"""
 
     #helpers.remove_directory(common_dir)
     #os.makedirs(common_dir)
 
-    helpers.remove_directory(json_dir)
+    """helpers.remove_directory(json_dir)
     os.makedirs(json_dir)
     os.makedirs(monster_json_dir)
 
@@ -66,13 +74,13 @@ if __name__ == '__main__':
     music.generate_json(roms, json_dir)
     music.write_page(website_dir, templates_dir)
     brr.generate_json(brrs, json_dir)
-    brr.write_page(website_dir, templates_dir)
+    brr.write_page(website_dir, templates_dir)"""
 
     path = os.path.join(roms_dir, "rom.smc")
     data_rom = helpers.read_bin_file(path)
     data_rom = helpers.remove_header(data_rom)
 
-    path = os.path.join(roms_dir, "font.smc")
+    """path = os.path.join(roms_dir, "font.smc")
     font_rom = helpers.read_bin_file(path)
     font_rom = helpers.remove_header(font_rom)
 
@@ -118,9 +126,28 @@ if __name__ == '__main__':
     monster_list.write_pages(website_dir, templates_dir)
 
     esper_list.create_list(data_rom, esper_names, monster_filenames)
-    esper_list.write_gallery(website_dir, templates_dir)
+    esper_list.write_gallery(website_dir, templates_dir)"""
 
-    guide.validate_guide_parts(guide_template_dir)
+    helpers.remove_directory(full_sprite_dir)
+    os.makedirs(full_sprite_dir)
+    helpers.remove_directory(website_sprite_dir)
+    os.makedirs(website_full_sprite_dir)
+    os.makedirs(website_npc_sprite_dir)
+    os.makedirs(website_static_sprite_dir)
+    os.makedirs(website_object_sprite_dir)
+
+    pose_file_path = os.path.join(sprites_dir, "poses.json")
+    meta_file_path = os.path.join(sprites_dir, "meta.json")
+    spritesheet_list = SpriteSheetList(data_rom, pose_file_path, meta_file_path)
+    spritesheet_list.create_spritesheet_list(data_rom)
+    #spritesheet_list.create_full_spritesheet_images(full_sprite_dir)
+    spritesheet_list.create_spritesheet_images(website_full_sprite_dir,
+                                               website_npc_sprite_dir,
+                                               website_static_sprite_dir,
+                                               website_object_sprite_dir)
+
+
+    """guide.validate_guide_parts(guide_template_dir)
     guide_data = guide.write_gallery(guide_dir, website_dir, templates_dir)
     guide.write_pages(guide_data, website_dir, templates_dir)
 
@@ -128,4 +155,4 @@ if __name__ == '__main__':
     home.write_page(website_dir, templates_dir)
     credits.write_page(website_dir, templates_dir)
     maps.write_page(website_dir, templates_dir)
-    archive.write_page(misc_dir, website_dir, templates_dir)
+    archive.write_page(misc_dir, website_dir, templates_dir)"""

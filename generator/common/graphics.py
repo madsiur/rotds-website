@@ -2,6 +2,7 @@ import sys
 import math
 from PIL import Image
 from sprites.snes_palette import Snes_Palette
+from common.image4bpp import Image4bpp
 
 def convert_2bpp_tile(tile_data):
     tile = [[0]*8 for _ in range(8)]
@@ -95,10 +96,7 @@ def create_sheets(filepath: str, tiles: list, palettes: list[Snes_Palette], pose
 def create_sheet(filepath: str, tiles: list, palette: Snes_Palette, poses: list):
     width = min(8, len(poses))
     height = math.ceil(len(poses) / 8)
-
-    output = Image.new("P", (width * 16, height * 24))
-    palette_flat = palette.to_flat_rgba()
-    output.putpalette(palette_flat, rawmode='RGBA')
+    output = Image4bpp((width * 16, height * 24), palette)
 
     pixels = bytearray(width * 16 * height * 24)
     for y in range(height):
@@ -113,7 +111,7 @@ def create_sheet(filepath: str, tiles: list, palette: Snes_Palette, poses: list)
                     pixels[row_start:row_start+8] = bytes(tile[y1*8:y1*8+8])
 
     output.putdata(pixels)
-    img_doubled = output.resize((output.width * 2, output.height * 2), resample=Image.Resampling.NEAREST)
+    img_doubled = output.resize((output.width * 2, output.height * 2), resample="nearest")
     filename = f"{filepath}.png"
     img_doubled.save(filename)
     print(f"Creating {filename}")

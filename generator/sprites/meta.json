@@ -1,30 +1,219 @@
 [
     {
-        "sheetid": 0,
+        "sheet_id": 0,
         "palettes": [2],
         "template": "full",
         "category": "full",
         "name": "Aurora"
     },
     {
-        "sheetid": 0,
+        "sheet_id": 0,
         "palettes": [2],
         "template": "static_40",
         "category": "object",
         "name": "Aurora's Tent"
     },
     {
-        "sheetid": 1,
+        "sheet_id": 1,
         "palettes": [1],
         "template": "full",
         "category": "full",
         "name": "Cloud"
     },
     {
-        "sheetid": 1,
+        "sheet_id": 1,
         "palettes": [1],
         "template": "static_40",
         "category": "object",
         "name": "Cloud's Tent"
+    },
+    {
+        "sheet_id": 2,
+        "palettes": [4],
+        "template": "full",
+        "category": "full",
+        "name": "Avalon"
+    },
+    {
+        "sheet_id": 3,
+        "palettes": [4],
+        "template": "full",
+        "category": "full",
+        "name": "Oboro"
+    },
+    {
+        "sheet_id": 3,
+        "palettes": [4],
+        "template": "static_40",
+        "category": "object",
+        "name": "Oboro's Tent"
+    },
+    {
+        "sheet_id": 4,
+        "palettes": [0],
+        "template": "full",
+        "category": "full",
+        "name": "Serin"
+    },
+    {
+        "sheet_id": 4,
+        "palettes": [0],
+        "template": "static_40",
+        "category": "object",
+        "name": "Serin's Tent"
+    },
+    {
+        "sheet_id": 5,
+        "palettes": [0],
+        "template": "full",
+        "category": "full",
+        "name": "Ronan"
+    },
+    {
+        "sheet_id": 5,
+        "palettes": [0],
+        "template": "static_40",
+        "category": "object",
+        "name": "Ronan's Tent"
+    },
+    {
+        "sheet_id": 6,
+        "palettes": [0],
+        "template": "full",
+        "category": "full",
+        "name": "Tifa"
+    },
+    {
+        "sheet_id": 6,
+        "palettes": [0],
+        "template": "static_40",
+        "category": "object",
+        "name": "Tifa's Tent"
+    },
+    {
+        "sheet_id": 7,
+        "palettes": [6],
+        "template": "full",
+        "category": "full",
+        "name": "Fusoya"
+    },
+    {
+        "sheet_id": 7,
+        "palettes": [6],
+        "template": "static_40",
+        "category": "object",
+        "name": "Fusoya's Tent"
+    },
+    {
+        "sheet_id": 8,
+        "palettes": [3],
+        "template": "full",
+        "category": "full",
+        "name": "Eiko"
+    },
+    {
+        "sheet_id": 8,
+        "palettes": [3],
+        "template": "static_40",
+        "category": "object",
+        "name": "Eiko's Tent"
+    },
+    {
+        "sheet_id": 9,
+        "palettes": [4],
+        "template": "full",
+        "category": "full",
+        "name": "Otis"
+    },
+    {
+        "sheet_id": 9,
+        "palettes": [4],
+        "template": "static_40",
+        "category": "object",
+        "name": "Otis's Tent"
+    },
+    {
+        "sheet_id": 10,
+        "palettes": [5],
+        "template": "full",
+        "category": "full",
+        "name": "Mog"
+    },
+    {
+        "sheet_id": 10,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "object",
+        "name": "Mog's Tent"
+    },
+    {
+        "sheet_id": 11,
+        "palettes": [3],
+        "template": "full",
+        "category": "full",
+        "name": "Ark"
+    },
+    {
+        "sheet_id": 11,
+        "palettes": [3],
+        "template": "static_40",
+        "category": "object",
+        "name": "Ark's Tent"
+    },
+    {
+        "sheet_id": 12,
+        "palettes": [5],
+        "template": "full",
+        "category": "full",
+        "name": "Golbez"
+    },
+    {
+        "sheet_id": 12,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "object",
+        "name": "Golbez's Tent"
+    },
+    {
+        "sheet_id": 13,
+        "palettes": [5],
+        "template": "full",
+        "category": "full",
+        "name": "Heartless"
+    },
+    {
+        "sheet_id": 13,
+        "palettes": [5],
+        "template": "static_39",
+        "category": "object",
+        "name": "Heartless's Crystal"
+    },
+    {
+        "sheet_id": 13,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "object",
+        "name": "Heartless's Tent"
+    },
+    {
+        "sheet_id": 14,
+        "palettes": [0, 1, 3, 4, 8],
+        "template": "full",
+        "category": "full",
+        "name": "Imperial Soldier"
+    },
+    {
+        "sheet_id": 14,
+        "palettes": [1],
+        "template": "static_40",
+        "category": "object",
+        "name": "Snowman"
+    },
+    {
+        "sheet_id": 15,
+        "palettes": [0],
+        "template": "full",
+        "category": "full",
+        "name": "Pig"
     }
 ]

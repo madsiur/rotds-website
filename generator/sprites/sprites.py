@@ -3,7 +3,6 @@ import common.graphics as graphics
 import os
 from sprites.snes_palette import Snes_Palette
 from common.constants import Constants
-from PIL import Image
 
 class SpriteSheet:
     def __init__(self, id: int, tiles: list):
@@ -47,7 +46,7 @@ class SpriteSheetList(list):
 
     def validate_meta(self):
         for entry in self.meta:
-            sheet_id = entry["sheetid"]
+            sheet_id = entry["sheet_id"]
             palettes = entry["palettes"]
             template = entry["template"]
             category = entry["category"]
@@ -102,28 +101,17 @@ class SpriteSheetList(list):
             filename = os.path.join(filepath, f"sprite_{id}")
             graphics.create_sheets(filename, self[id].tiles, self.palettes, poses)
 
-    def create_spritesheet_images(self, full_path: str, npc_path: str, static_path: str, object_path: str):
+    def create_spritesheet_images(self, sprite_dir: str):
         for entry in self.meta:
             poses = graphics.get_poses(self.json_poses[entry["template"]], self.poses)
-            tiles = self[entry["sheetid"]].tiles
+            tiles = self[entry["sheet_id"]].tiles
             pals = entry["palettes"]
             filename = entry["name"].replace(" ", "_")
             filename = filename.replace("'", "_").lower()
-            directory = ""
-            if entry["category"] == "full":
-                directory = full_path
-            elif entry["category"] == "npc":
-                directory = npc_path
-            elif entry["category"] == "static":
-                directory = static_path
-            elif entry["category"] == "object":
-                directory = object_path
+            directory = os.path.join(sprite_dir, entry["category"])
             filepath = os.path.join(directory, filename)
             if len(pals) == 1:
                 graphics.create_sheet(filepath, tiles, self.palettes[pals[0]], poses)
             elif len(pals) > 1:
-                new_pals = []
-                for pal_id in range(len(self.palettes)):
-                    if pal_id in pals:
-                        new_pals.append(self.palettes[pal_id])
+                new_pals = [self.palettes[i] for i in pals]
                 graphics.create_sheets(filepath, tiles, new_pals, poses)

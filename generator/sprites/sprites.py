@@ -45,6 +45,7 @@ class SpriteSheetList(list):
         return [self.json_poses[k] for k in sorted((k for k in self.json_poses if k.startswith("p")), key=lambda k: int(k[1:]))]
 
     def validate_meta(self):
+        seen_names = {}
         for entry in self.meta:
             sheet_id = entry["sheet_id"]
             palettes = entry["palettes"]
@@ -68,6 +69,9 @@ class SpriteSheetList(list):
                 raise SystemExit(f"Invalid sprite meta category ({category})")
             if not isinstance(name, str):
                 raise SystemExit(f"Invalid sprite meta name format({name})")
+            if name in seen_names:
+                raise SystemExit(f"Duplicate sprite meat name found({name})")
+            seen_names[name] = True
 
     def create_palettes(self, rom: bytearray):
         palettes = []

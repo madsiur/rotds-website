@@ -306,6 +306,167 @@
         "template": "npc_1",
         "category": "npc",
         "name": "Man"
+    },
+    {
+        "sheet_id": 25,
+        "palettes": [4],
+        "template": "npc_2",
+        "category": "npc",
+        "name": "Interceptor"
+    },
+    {
+        "sheet_id": 25,
+        "palettes": [4],
+        "template": "npc_3",
+        "category": "npc",
+        "name": "Blue Dog"
+    },
+    {
+        "sheet_id": 25,
+        "palettes": [0, 2],
+        "template": "static_30",
+        "category": "object",
+        "name": "Apple"
+    },
+    {
+        "sheet_id": 25,
+        "palettes": [4],
+        "template": "static_31",
+        "category": "object",
+        "name": "unknown_2"
+    },
+    {
+        "sheet_id": 25,
+        "palettes": [9],
+        "template": "static_40",
+        "category": "static",
+        "name": "Yoshi"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0, 4, 8],
+        "template": "npc_4",
+        "category": "npc",
+        "name": "unknown_3"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0, 8],
+        "template": "static_10",
+        "category": "static",
+        "name": "unknown_4"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [4],
+        "template": "static_11",
+        "category": "static",
+        "name": "unknown_5"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [2],
+        "template": "static_12",
+        "category": "static",
+        "name": "unknown_6"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [5],
+        "template": "static_17",
+        "category": "object",
+        "name": "unknown_7"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [5],
+        "template": "static_19",
+        "category": "object",
+        "name": "unknown_8"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0, 4],
+        "template": "static_25",
+        "category": "object",
+        "name": "unknown_9"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0, 2, 3, 4, 5, 8],
+        "template": "static_32",
+        "category": "object",
+        "name": "unknown_10"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [1],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_11"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0],
+        "template": "static_40",
+        "category": "static",
+        "name": "Shrek"
+    },
+    {
+        "sheet_id": 27,
+        "palettes": [1, 3, 4, 8, 9],
+        "template": "npc_1",
+        "category": "npc",
+        "name": "Scholar"
+    },
+    {
+        "sheet_id": 28,
+        "palettes": [1, 4, 8],
+        "template": "npc_5",
+        "category": "npc",
+        "name": "unknown_12"
+    },
+    {
+        "sheet_id": 28,
+        "palettes": [0, 1, 8],
+        "template": "npc_6",
+        "category": "npc",
+        "name": "unknown_13"
+    },
+    {
+        "sheet_id": 29,
+        "palettes": [4],
+        "template": "full_4",
+        "category": "full",
+        "name": "Arvis"
+    },
+    {
+        "sheet_id": 29,
+        "palettes": [0, 1, 8],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_14"
+    },
+    {
+        "sheet_id": 29,
+        "palettes": [0, 1, 2, 3, 4, 6, 8, 9],
+        "template": "static_40",
+        "category": "object",
+        "name": "Yoshi Egg"
+    },
+    {
+        "sheet_id": 30,
+        "palettes": [0, 1, 4, 8],
+        "template": "full",
+        "category": "full",
+        "name": "unknown_15"
+    },
+    {
+        "sheet_id": 30,
+        "palettes": [0, 4],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_tent"
     }
 
 ]

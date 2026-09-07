@@ -113,8 +113,9 @@ def create_sheet(filepath: str, tiles: list, palette: Snes_Palette, poses: list)
                     pixels[row_start:row_start+8] = bytes(tile[y1*8:y1*8+8])
 
     output.putdata(pixels)
+    img_doubled = output.resize((output.width * 2, output.height * 2), resample=Image.Resampling.NEAREST)
     filename = f"{filepath}.png"
-    output.save(filename)
+    img_doubled.save(filename)
     print(f"Creating {filename}")
 
 def get_new_tile(tile: list):

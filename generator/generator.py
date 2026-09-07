@@ -128,8 +128,8 @@ if __name__ == '__main__':
     esper_list.create_list(data_rom, esper_names, monster_filenames)
     esper_list.write_gallery(website_dir, templates_dir)"""
 
-    helpers.remove_directory(full_sprite_dir)
-    os.makedirs(full_sprite_dir)
+    #helpers.remove_directory(full_sprite_dir)
+    #os.makedirs(full_sprite_dir)
     helpers.remove_directory(website_sprite_dir)
     os.makedirs(website_full_sprite_dir)
     os.makedirs(website_npc_sprite_dir)
@@ -141,10 +141,7 @@ if __name__ == '__main__':
     spritesheet_list = SpriteSheetList(data_rom, pose_file_path, meta_file_path)
     spritesheet_list.create_spritesheet_list(data_rom)
     #spritesheet_list.create_full_spritesheet_images(full_sprite_dir)
-    spritesheet_list.create_spritesheet_images(website_full_sprite_dir,
-                                               website_npc_sprite_dir,
-                                               website_static_sprite_dir,
-                                               website_object_sprite_dir)
+    spritesheet_list.create_spritesheet_images(website_sprite_dir)
 
 
     """guide.validate_guide_parts(guide_template_dir)

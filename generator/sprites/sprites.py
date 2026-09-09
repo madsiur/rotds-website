@@ -105,7 +105,8 @@ class SpriteSheetList(list):
             filename = os.path.join(filepath, f"sprite_{id}")
             graphics.create_sheets(filename, self[id].tiles, self.palettes, poses)
 
-    def create_spritesheet_images(self, sprite_dir: str):
+    def create_spritesheet_images(self, sprite_dir: str, json_dir: str):
+        website_json = []
         for entry in self.meta:
             poses = graphics.get_poses(self.json_poses[entry["template"]], self.poses)
             tiles = self[entry["sheet_id"]].tiles
@@ -116,6 +117,38 @@ class SpriteSheetList(list):
             filepath = os.path.join(directory, filename)
             if len(pals) == 1:
                 graphics.create_sheet(filepath, tiles, self.palettes[pals[0]], poses)
+                website_json.append({
+                    "filename": f"{filename}.png",
+                    "name": entry["name"],
+                    "category": entry["category"]                
+                })
             elif len(pals) > 1:
                 new_pals = [self.palettes[i] for i in pals]
                 graphics.create_sheets(filepath, tiles, new_pals, poses)
+                for i in range(len(pals)):
+                    website_json.append({
+                        "filename": f"{filename}_{i + 1}.png",
+                        "name": entry["name"],
+                        "category": entry["category"]                
+                    })
+        helpers.write_json(website_json, os.path.join(json_dir, "sprites.json"))
+
+    def write_gallery(self, website_dir: str, templates_dir: str):
+        levels = ""
+
+        img_name = "sprites.png"
+        url = "sprites.html"
+        title = "Sprite Gallery"
+        meta_description = "Sprite Gallery{0}".format(self.cons.COMMON_DESC)
+        img_url = f"{self.cons.MEDIA_DIR}/{img_name}"
+        img_path = os.path.join(website_dir, self.cons.MEDIA_DIR, img_name)
+        meta_img_alt = "Aurora Spritesheet"
+        meta = helpers.get_meta_data(self.cons.ITEM_KEYWORDS, meta_description, title, url, img_url, img_path, meta_img_alt)
+
+        data = {
+            "levels": levels,
+            "meta": meta,
+            "is_sprites": True
+        }
+            
+        helpers.write_html(data, "sprites.html", website_dir, templates_dir, "sprites")

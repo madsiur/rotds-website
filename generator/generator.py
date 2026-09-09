@@ -144,7 +144,8 @@ if __name__ == '__main__':
     spritesheet_list = SpriteSheetList(data_rom, pose_file_path, meta_file_path)
     spritesheet_list.create_spritesheet_list(data_rom)
     #spritesheet_list.create_full_spritesheet_images(full_sprite_dir)
-    spritesheet_list.create_spritesheet_images(website_sprite_dir)
+    spritesheet_list.create_spritesheet_images(website_sprite_dir, json_dir)
+    spritesheet_list.write_gallery(website_dir, templates_dir)
 
 
     guide.validate_guide_parts(guide_template_dir)

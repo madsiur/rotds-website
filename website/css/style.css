@@ -31,6 +31,22 @@
     height: 150px;
 }
 
+.full-img-div {
+    height: 340px;
+}
+
+.npc-img-div {
+    height: 200px;
+}
+
+.static-img-div {
+    height: 100px;
+}
+
+.object-img-div {
+    height: 100px;
+}
+
 .page-div {
     min-width: 50%;
     width: 97%;
@@ -149,6 +165,7 @@ div#char-table div > div.row-special {
 
 
 div#btns-mons-gallery a.btn-dark,
+div#btns-sprites-gallery a.btn-dark,
 div#btns-prev-next a.btn-dark,
 div#btns-maps button.btn-dark,
 div#btns-diff button.btn-dark {
@@ -156,6 +173,7 @@ div#btns-diff button.btn-dark {
 }
 
 div#btns-mons-gallery a.btn-secondary,
+div#btns-sprites-gallery a.btn-secondary,
 div#btns-prev-next a.btn-secondary,
 div#btns-maps button.btn-secondary,
 div#btns-diff button.btn-secondary {

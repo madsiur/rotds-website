@@ -27,8 +27,8 @@ if __name__ == '__main__':
     roms_dir = os.path.join(generator_dir, cons.ROMS_DIR)
     sprites_dir = os.path.join(generator_dir, cons.SPRITE_DIR)
     full_sprite_dir = os.path.join(sprites_dir, cons.FULL_SPRITE_DIR)
-    """templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
-    guide_template_dir = os.path.join(templates_dir, cons.GUIDE_DIR)
+    templates_dir = os.path.join(generator_dir, cons.TEMPLATES_DIR)
+    """guide_template_dir = os.path.join(templates_dir, cons.GUIDE_DIR)
     text_dir = os.path.join(generator_dir, cons.TEXT_DIR)
     font_dir = os.path.join(generator_dir, cons.FONT_DIR)
     misc_dir = os.path.join(generator_dir, cons.MISC_DIR)
@@ -47,9 +47,9 @@ if __name__ == '__main__':
     item_media_dir = os.path.join(website_dir, cons.ITEM_MEDIA_DIR)
     website_characters_dir = os.path.join(website_dir, cons.CHAR_DIR)
     portrait_dir = os.path.join(website_characters_dir, cons.PORTRAITS_DIR)
-    npc_dir = os.path.join(website_dir, cons.NPC_DIR)
+    npc_dir = os.path.join(website_dir, cons.NPC_DIR)"""
     json_dir = os.path.join(website_dir, "json")
-    monster_json_dir = os.path.join(json_dir, cons.MONS_JSON_DIR)"""
+    """monster_json_dir = os.path.join(json_dir, cons.MONS_JSON_DIR)"""
 
     #helpers.remove_directory(common_dir)
     #os.makedirs(common_dir)
@@ -141,7 +141,8 @@ if __name__ == '__main__':
     spritesheet_list = SpriteSheetList(data_rom, pose_file_path, meta_file_path)
     spritesheet_list.create_spritesheet_list(data_rom)
     #spritesheet_list.create_full_spritesheet_images(full_sprite_dir)
-    spritesheet_list.create_spritesheet_images(website_sprite_dir)
+    spritesheet_list.create_spritesheet_images(website_sprite_dir, json_dir)
+    spritesheet_list.write_gallery(website_dir, templates_dir)
 
 
     """guide.validate_guide_parts(guide_template_dir)

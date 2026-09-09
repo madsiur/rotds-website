@@ -1,0 +1,937 @@
+[
+    {
+        "filename": "aurora.png", 
+        "name": "Aurora", 
+        "category": "full"
+    }, 
+    {
+        "filename": "aurora_s_tent.png", 
+        "name": "Aurora's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "cloud.png", 
+        "name": "Cloud", 
+        "category": "full"
+    }, 
+    {
+        "filename": "cloud_s_tent.png", 
+        "name": "Cloud's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "avalon.png", 
+        "name": "Avalon", 
+        "category": "full"
+    }, 
+    {
+        "filename": "oboro.png", 
+        "name": "Oboro", 
+        "category": "full"
+    }, 
+    {
+        "filename": "oboro_s_tent.png", 
+        "name": "Oboro's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin.png", 
+        "name": "Serin", 
+        "category": "full"
+    }, 
+    {
+        "filename": "serin_s_tent.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "ronan.png", 
+        "name": "Ronan", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ronan_s_tent.png", 
+        "name": "Ronan's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "tifa.png", 
+        "name": "Tifa", 
+        "category": "full"
+    }, 
+    {
+        "filename": "tifa_s_tent.png", 
+        "name": "Tifa's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya.png", 
+        "name": "Fusoya", 
+        "category": "full"
+    }, 
+    {
+        "filename": "fusoya_s_tent.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "eiko.png", 
+        "name": "Eiko", 
+        "category": "full"
+    }, 
+    {
+        "filename": "eiko_s_tent.png", 
+        "name": "Eiko's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "otis.png", 
+        "name": "Otis", 
+        "category": "full"
+    }, 
+    {
+        "filename": "otis_s_tent.png", 
+        "name": "Otis's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "mog.png", 
+        "name": "Mog", 
+        "category": "full"
+    }, 
+    {
+        "filename": "mog_s_tent.png", 
+        "name": "Mog's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "ark.png", 
+        "name": "Ark", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ark_s_tent.png", 
+        "name": "Ark's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "golbez.png", 
+        "name": "Golbez", 
+        "category": "full"
+    }, 
+    {
+        "filename": "golbez_s_tent.png", 
+        "name": "Golbez's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "heartless.png", 
+        "name": "Heartless", 
+        "category": "full"
+    }, 
+    {
+        "filename": "heartless_s_crystal.png", 
+        "name": "Heartless's Crystal", 
+        "category": "object"
+    }, 
+    {
+        "filename": "heartless_s_tent.png", 
+        "name": "Heartless's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "imperial_soldier_1.png", 
+        "name": "Imperial Soldier", 
+        "category": "full"
+    }, 
+    {
+        "filename": "imperial_soldier_2.png", 
+        "name": "Imperial Soldier", 
+        "category": "full"
+    }, 
+    {
+        "filename": "imperial_soldier_3.png", 
+        "name": "Imperial Soldier", 
+        "category": "full"
+    }, 
+    {
+        "filename": "imperial_soldier_4.png", 
+        "name": "Imperial Soldier", 
+        "category": "full"
+    }, 
+    {
+        "filename": "imperial_soldier_5.png", 
+        "name": "Imperial Soldier", 
+        "category": "full"
+    }, 
+    {
+        "filename": "snowman.png", 
+        "name": "Snowman", 
+        "category": "object"
+    }, 
+    {
+        "filename": "pig.png", 
+        "name": "Pig", 
+        "category": "full"
+    }, 
+    {
+        "filename": "general_leo.png", 
+        "name": "General Leo", 
+        "category": "full"
+    }, 
+    {
+        "filename": "astral.png", 
+        "name": "Astral", 
+        "category": "full"
+    }, 
+    {
+        "filename": "esper_aurora.png", 
+        "name": "Esper Aurora", 
+        "category": "full"
+    }, 
+    {
+        "filename": "merchant_1.png", 
+        "name": "Merchant", 
+        "category": "full"
+    }, 
+    {
+        "filename": "merchant_2.png", 
+        "name": "Merchant", 
+        "category": "full"
+    }, 
+    {
+        "filename": "merchant_3.png", 
+        "name": "Merchant", 
+        "category": "full"
+    }, 
+    {
+        "filename": "merchant_b.png", 
+        "name": "Merchant B", 
+        "category": "static"
+    }, 
+    {
+        "filename": "merchant_s_tent.png", 
+        "name": "Merchant's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "reaper.png", 
+        "name": "Reaper", 
+        "category": "full"
+    }, 
+    {
+        "filename": "reaper_s_tent.png", 
+        "name": "Reaper's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "kefka_1.png", 
+        "name": "Kefka", 
+        "category": "full"
+    }, 
+    {
+        "filename": "kefka_2.png", 
+        "name": "Kefka", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_1_1.png", 
+        "name": "unknown_1", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_1_2.png", 
+        "name": "unknown_1", 
+        "category": "static"
+    }, 
+    {
+        "filename": "gestahl_1.png", 
+        "name": "Gestahl", 
+        "category": "full"
+    }, 
+    {
+        "filename": "gestahl_2.png", 
+        "name": "Gestahl", 
+        "category": "full"
+    }, 
+    {
+        "filename": "old_man_1.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "old_man_2.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "old_man_3.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "old_man_4.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "old_man_5.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "old_man_6.png", 
+        "name": "Old Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_1.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_2.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_3.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_4.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_5.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_6.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_7.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "man_8.png", 
+        "name": "Man", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "interceptor.png", 
+        "name": "Interceptor", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "blue_dog.png", 
+        "name": "Blue Dog", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "apple_1.png", 
+        "name": "Apple", 
+        "category": "object"
+    }, 
+    {
+        "filename": "apple_2.png", 
+        "name": "Apple", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_2.png", 
+        "name": "unknown_2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi.png", 
+        "name": "Yoshi", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_3_1.png", 
+        "name": "unknown_3", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_3_2.png", 
+        "name": "unknown_3", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_3_3.png", 
+        "name": "unknown_3", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_4_1.png", 
+        "name": "unknown_4", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_4_2.png", 
+        "name": "unknown_4", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_5.png", 
+        "name": "unknown_5", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_6.png", 
+        "name": "unknown_6", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_7.png", 
+        "name": "unknown_7", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_8.png", 
+        "name": "unknown_8", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_9_1.png", 
+        "name": "unknown_9", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_9_2.png", 
+        "name": "unknown_9", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_1.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_2.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_3.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_4.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_5.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_10_6.png", 
+        "name": "unknown_10", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_11.png", 
+        "name": "unknown_11", 
+        "category": "static"
+    }, 
+    {
+        "filename": "shrek.png", 
+        "name": "Shrek", 
+        "category": "static"
+    }, 
+    {
+        "filename": "scholar_1.png", 
+        "name": "Scholar", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "scholar_2.png", 
+        "name": "Scholar", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "scholar_3.png", 
+        "name": "Scholar", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "scholar_4.png", 
+        "name": "Scholar", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "scholar_5.png", 
+        "name": "Scholar", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_12_1.png", 
+        "name": "unknown_12", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_12_2.png", 
+        "name": "unknown_12", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_12_3.png", 
+        "name": "unknown_12", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_13_1.png", 
+        "name": "unknown_13", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_13_2.png", 
+        "name": "unknown_13", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_13_3.png", 
+        "name": "unknown_13", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "arvis.png", 
+        "name": "Arvis", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_14_1.png", 
+        "name": "unknown_14", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_14_2.png", 
+        "name": "unknown_14", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_14_3.png", 
+        "name": "unknown_14", 
+        "category": "static"
+    }, 
+    {
+        "filename": "yoshi_egg_1.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_2.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_3.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_4.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_5.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_6.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_7.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_8.png", 
+        "name": "Yoshi Egg", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_15_1.png", 
+        "name": "unknown_15", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_15_2.png", 
+        "name": "unknown_15", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_15_3.png", 
+        "name": "unknown_15", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_15_4.png", 
+        "name": "unknown_15", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_tent_1.png", 
+        "name": "unknown_tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_tent_2.png", 
+        "name": "unknown_tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "ultros_1.png", 
+        "name": "Ultros", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ultros_2.png", 
+        "name": "Ultros", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_16_1.png", 
+        "name": "unknown_16", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_16_2.png", 
+        "name": "unknown_16", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_16_3.png", 
+        "name": "unknown_16", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "yoshi_egg_small_1.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_2.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_3.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_4.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_5.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_6.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_7.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "santa_1.png", 
+        "name": "Santa", 
+        "category": "static"
+    }, 
+    {
+        "filename": "santa_2.png", 
+        "name": "Santa", 
+        "category": "static"
+    }, 
+    {
+        "filename": "santa_3.png", 
+        "name": "Santa", 
+        "category": "static"
+    }, 
+    {
+        "filename": "ghost_1.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_2.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_3.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_4.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_5.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_6.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_7.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ghost_8.png", 
+        "name": "Ghost", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_17.png", 
+        "name": "unknown_17", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_18.png", 
+        "name": "unknown_18", 
+        "category": "object"
+    }, 
+    {
+        "filename": "dancer_1.png", 
+        "name": "Dancer", 
+        "category": "full"
+    }, 
+    {
+        "filename": "dancer_2.png", 
+        "name": "Dancer", 
+        "category": "full"
+    }, 
+    {
+        "filename": "dancer_3.png", 
+        "name": "Dancer", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_19_1.png", 
+        "name": "unknown_19", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_19_2.png", 
+        "name": "unknown_19", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_20.png", 
+        "name": "unknown_20", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_21_1.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_2.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_3.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_4.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_5.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_6.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_21_7.png", 
+        "name": "unknown_21", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_22_1.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_2.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_3.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_4.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_5.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_6.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_22_7.png", 
+        "name": "unknown_22", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_23_1.png", 
+        "name": "unknown_23", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_23_2.png", 
+        "name": "unknown_23", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_23_3.png", 
+        "name": "unknown_23", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_24_1.png", 
+        "name": "unknown_24", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_24_2.png", 
+        "name": "unknown_24", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_24_3.png", 
+        "name": "unknown_24", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_24_4.png", 
+        "name": "unknown_24", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_25_1.png", 
+        "name": "unknown_25", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_25_2.png", 
+        "name": "unknown_25", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_25_3.png", 
+        "name": "unknown_25", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_25_4.png", 
+        "name": "unknown_25", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_26_1.png", 
+        "name": "unknown_26", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_26_2.png", 
+        "name": "unknown_26", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_26_3.png", 
+        "name": "unknown_26", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_27_1.png", 
+        "name": "unknown_27", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_27_2.png", 
+        "name": "unknown_27", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_28_1.png", 
+        "name": "unknown_28", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_28_2.png", 
+        "name": "unknown_28", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_29.png", 
+        "name": "unknown_29", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_30_1.png", 
+        "name": "unknown_30", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_30_2.png", 
+        "name": "unknown_30", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_31_1.png", 
+        "name": "unknown_31", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_31_2.png", 
+        "name": "unknown_31", 
+        "category": "npc"
+    }
+]

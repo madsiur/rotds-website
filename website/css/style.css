@@ -165,7 +165,8 @@ div#char-table div > div.row-special {
 
 
 div#btns-mons-gallery a.btn-dark,
-div#btns-sprites-gallery a.btn-dark,
+div#btns-sprites-gallery-a a.btn-dark,
+div#btns-sprites-gallery-b a.btn-dark,
 div#btns-prev-next a.btn-dark,
 div#btns-maps button.btn-dark,
 div#btns-diff button.btn-dark {
@@ -173,7 +174,8 @@ div#btns-diff button.btn-dark {
 }
 
 div#btns-mons-gallery a.btn-secondary,
-div#btns-sprites-gallery a.btn-secondary,
+div#btns-sprites-gallery-a a.btn-secondary,
+div#btns-sprites-gallery-b a.btn-secondary,
 div#btns-prev-next a.btn-secondary,
 div#btns-maps button.btn-secondary,
 div#btns-diff button.btn-secondary {

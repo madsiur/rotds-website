@@ -6,9 +6,37 @@
                 <h3>Sprites</h3>
             </div>
             <div class="mx-3 mt-3">
-                {% include 'spritesbuttons.html' %}
+                <div id="btns-sprites-gallery" class="d-flex justify-content-center align-items-center my-3">
+                    <a type="button" href="#" class="btn btn-dark me-1 sprites-btns" data-nav="prev"> ← </a>
+                    <div class="d-flex my-3 justify-content-center">
+                        <div class="custom-select-wrapper position-relative w-auto">
+                            <div class="custom-select-box bg-dark text-white px-3 py-2 border border-secondary"></div>
+                            <div class="custom-options d-none position-absolute w-100">
+                                <div class="custom-option py-2 px-3" data-value="full_sheets">Full Sheets</div>
+                                <div class="custom-option py-2 px-3" data-value="npcs">NPCs</div>
+                                <div class="custom-option py-2 px-3" data-value="static_sprites">Static Sprites</div>
+                                <div class="custom-option py-2 px-3" data-value="objects">Objects</div>
+                            </div>
+                        </div>
+                    </div>
+                    <a type="button" href="#" class="btn btn-dark mx-1 sprites-btns" data-nav="next"> → </a>
+                </div>
                 <div id="sprite-page-gallery" class="d-flex justify-content-center flex-wrap"></div>
-                {% include 'spritesbuttons.html' %}
+                <div id="btns-sprites-gallery" class="d-flex justify-content-center align-items-center my-3">
+                    <a type="button" href="#" class="btn btn-dark me-1 sprites-btns" data-nav="prev"> ← </a>
+                    <div class="d-flex my-3 justify-content-center">
+                        <div class="custom-select-wrapper position-relative w-auto">
+                            <div class="custom-select-box bg-dark text-white px-3 py-2 border border-secondary"></div>
+                            <div class="custom-options d-none position-absolute w-100">
+                                <div class="custom-option py-2 px-3" data-value="full_sheets">Full Sheets</div>
+                                <div class="custom-option py-2 px-3" data-value="npcs">NPCs</div>
+                                <div class="custom-option py-2 px-3" data-value="static_sprites">Static Sprites</div>
+                                <div class="custom-option py-2 px-3" data-value="objects">Objects</div>
+                            </div>
+                        </div>
+                    </div>
+                    <a type="button" href="#" class="btn btn-dark mx-1 sprites-btns" data-nav="next"> → </a>
+                </div>
             </div>
         </main>
         {% include 'footer.html' %}

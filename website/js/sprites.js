@@ -55,6 +55,38 @@ function navigate(category, page) {
     renderPage(category, page);
 }
 
+// --- Custom dropdown logic ---
+function initCustomSelect() {
+    document.querySelectorAll('.custom-select-wrapper').forEach(wrapper => {
+        const selectBox = wrapper.querySelector('.custom-select-box');
+        const optionsPanel = wrapper.querySelector('.custom-options');
+
+        selectBox.addEventListener('click', e => {
+            e.stopPropagation();
+            // Close all OTHER dropdowns
+            document.querySelectorAll('.custom-options').forEach(p => {
+                if (p !== optionsPanel) p.classList.add('d-none');
+            });
+            optionsPanel.classList.toggle('d-none');
+        });
+
+        optionsPanel.querySelectorAll('.custom-option').forEach(opt => {
+            opt.addEventListener('click', e => {
+                e.preventDefault();
+                const cat = opt.dataset.value;
+                const { pages } = getState();
+                navigate(cat, pages[cat] || 1);
+                optionsPanel.classList.add('d-none');
+            });
+        });
+    });
+
+    // Close ALL dropdowns on outside click
+    document.addEventListener('click', () => {
+        document.querySelectorAll('.custom-options').forEach(p => p.classList.add('d-none'));
+    });
+}
+
 function renderPage(category, page) {
     const { sprites, total } = getSpritesForPage(category, page);
     const gallery = document.getElementById('sprite-page-gallery');
@@ -87,28 +119,18 @@ function renderPage(category, page) {
     document.querySelectorAll('[data-nav="next"]').forEach(b =>
         b.style.display = page >= totalPages ? 'none' : '');
 
-    document.querySelectorAll('[data-cat]').forEach(b => {
-        b.classList.toggle('btn-secondary', b.dataset.cat === category);
-        b.classList.toggle('btn-dark', b.dataset.cat !== category);
+    document.querySelectorAll('.custom-select-box').forEach(box => {
+        box.textContent = CATEGORY_NAMES[category];
     });
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
     await loadSpriteData();
+    initCustomSelect();
 
     const { category, pages } = getState();
     const startPage = pages[category] || 1;
     renderPage(category, startPage);
-
-    Object.keys(CATEGORY_MAP).forEach(cat => {
-        document.querySelectorAll(`[data-cat="${cat}"]`).forEach(btn => {
-            btn.addEventListener('click', e => {
-                e.preventDefault();
-                const { pages: p } = getState();
-                navigate(cat, p[cat] || 1);
-            });
-        });
-    });
 
     document.querySelectorAll('[data-nav="prev"]').forEach(btn => {
         btn.addEventListener('click', e => {
@@ -127,4 +149,20 @@ document.addEventListener('DOMContentLoaded', async () => {
             navigate(cat, page + 1);
         });
     });
+
+    const bottomOptions = document.querySelectorAll('[id="btns-sprites-gallery"]')[1]
+    .querySelector('.custom-options');
+    if (bottomOptions) {
+        bottomOptions.style.top = 'auto';
+        bottomOptions.style.bottom = '100%';
+}
+
+    const gallery = document.getElementById('sprite-page-gallery');
+    const bottomBtns = document.querySelectorAll('[id="btns-sprites-gallery"]')[1];
+
+    new ResizeObserver(() => {
+        if (bottomBtns) {
+            bottomBtns.classList.toggle('d-none', gallery.offsetHeight < 700);
+        }
+    }).observe(gallery);
 });

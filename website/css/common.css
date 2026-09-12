@@ -67,6 +67,13 @@
     z-index: 1000;
     max-height: 250px;
     overflow-y: auto;
+    top: 100%;
+    bottom: auto;
+}
+
+.custom-options.flip-up {
+    top: auto;
+    bottom: 100%;
 }
 
 .custom-options div:nth-child(odd) {

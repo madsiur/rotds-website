@@ -150,15 +150,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
 
-    const bottomOptions = document.querySelectorAll('[id="btns-sprites-gallery"]')[1]
-    .querySelector('.custom-options');
-    if (bottomOptions) {
-        bottomOptions.style.top = 'auto';
-        bottomOptions.style.bottom = '100%';
-}
-
     const gallery = document.getElementById('sprite-page-gallery');
-    const bottomBtns = document.querySelectorAll('[id="btns-sprites-gallery"]')[1];
+    const bottomBtns = document.getElementById('btns-sprites-gallery-b');
 
     new ResizeObserver(() => {
         if (bottomBtns) {

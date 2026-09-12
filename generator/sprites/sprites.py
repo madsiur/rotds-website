@@ -139,7 +139,7 @@ class SpriteSheetList(list):
         img_name = "sprites.png"
         url = "sprites.html"
         title = "Sprite Gallery"
-        meta_description = "Sprite Gallery{0}".format(self.cons.COMMON_DESC)
+        meta_description = "Sprite Gallery {0}".format(self.cons.COMMON_DESC)
         img_url = f"{self.cons.MEDIA_DIR}/{img_name}"
         img_path = os.path.join(website_dir, self.cons.MEDIA_DIR, img_name)
         meta_img_alt = "Aurora Spritesheet"

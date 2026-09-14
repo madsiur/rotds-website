@@ -1363,5 +1363,270 @@
         "filename": "pigeon.png", 
         "name": "Pigeon", 
         "category": "npc"
+    }, 
+    {
+        "filename": "aerith.png", 
+        "name": "Aerith", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_63_1.png", 
+        "name": "unknown_63", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_63_2.png", 
+        "name": "unknown_63", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_63_3.png", 
+        "name": "unknown_63", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_63_4.png", 
+        "name": "unknown_63", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_63_5.png", 
+        "name": "unknown_63", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_64.png", 
+        "name": "unknown_64", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_65_1.png", 
+        "name": "unknown_65", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_65_2.png", 
+        "name": "unknown_65", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_65_3.png", 
+        "name": "unknown_65", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_65_4.png", 
+        "name": "unknown_65", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_65_5.png", 
+        "name": "unknown_65", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_66.png", 
+        "name": "unknown_66", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_67_1.png", 
+        "name": "unknown_67", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_67_2.png", 
+        "name": "unknown_67", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_68_1.png", 
+        "name": "unknown_68", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_68_2.png", 
+        "name": "unknown_68", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_68_3.png", 
+        "name": "unknown_68", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_68_4.png", 
+        "name": "unknown_68", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_69_1.png", 
+        "name": "unknown_69", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_69_2.png", 
+        "name": "unknown_69", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_70.png", 
+        "name": "unknown_70", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_71_1.png", 
+        "name": "unknown_71", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_71_2.png", 
+        "name": "unknown_71", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_71_3.png", 
+        "name": "unknown_71", 
+        "category": "object"
+    }, 
+    {
+        "filename": "record.png", 
+        "name": "Record", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_72_1.png", 
+        "name": "unknown_72", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_72_2.png", 
+        "name": "unknown_72", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_73_1.png", 
+        "name": "unknown_73", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_73_2.png", 
+        "name": "unknown_73", 
+        "category": "object"
+    }, 
+    {
+        "filename": "treasure_chest_1.png", 
+        "name": "Treasure Chest", 
+        "category": "object"
+    }, 
+    {
+        "filename": "treasure_chest_2.png", 
+        "name": "Treasure Chest", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_74.png", 
+        "name": "unknown_74", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_75.png", 
+        "name": "unknown_75", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_76_1.png", 
+        "name": "unknown_76", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_76_2.png", 
+        "name": "unknown_76", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_77.png", 
+        "name": "unknown_77", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_78_1.png", 
+        "name": "unknown_78", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_78_2.png", 
+        "name": "unknown_78", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_79.png", 
+        "name": "unknown_79", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_80_1.png", 
+        "name": "unknown_80", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_80_2.png", 
+        "name": "unknown_80", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_81.png", 
+        "name": "unknown_81", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_82_1.png", 
+        "name": "unknown_82", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_82_2.png", 
+        "name": "unknown_82", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_82_3.png", 
+        "name": "unknown_82", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_82_4.png", 
+        "name": "unknown_82", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_83.png", 
+        "name": "unknown_83", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_84_1.png", 
+        "name": "unknown_84", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_84_2.png", 
+        "name": "unknown_84", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_85.png", 
+        "name": "unknown_85", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_86.png", 
+        "name": "unknown_86", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_87.png", 
+        "name": "unknown_87", 
+        "category": "object"
     }
 ]

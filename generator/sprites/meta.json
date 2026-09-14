@@ -845,5 +845,201 @@
         "template": "npc_1",
         "category": "npc",
         "name": "Pigeon"
+    },
+    {
+        "sheet_id": 41,
+        "palettes": [0],
+        "template": "full_4",
+        "category": "full",
+        "name": "Aerith"
+    },
+    {
+        "sheet_id": 41,
+        "palettes": [0, 1, 3, 8, 9],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_63"
+    },
+    {
+        "sheet_id": 41,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "static",
+        "name": "unknown_64"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [0, 1, 3, 4, 6],
+        "template": "npc_26",
+        "category": "npc",
+        "name": "unknown_65"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [4],
+        "template": "npc_8",
+        "category": "object",
+        "name": "unknown_66"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [1, 9],
+        "template": "npc_10",
+        "category": "object",
+        "name": "unknown_67"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [2, 4, 5, 8],
+        "template": "npc_11",
+        "category": "object",
+        "name": "unknown_68"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [0, 2],
+        "template": "static_19",
+        "category": "static",
+        "name": "unknown_69"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [0],
+        "template": "static_10",
+        "category": "object",
+        "name": "unknown_70"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [0, 2, 4],
+        "template": "static_11",
+        "category": "object",
+        "name": "unknown_71"
+    },
+    {
+        "sheet_id": 42,
+        "palettes": [5],
+        "template": "static_12",
+        "category": "object",
+        "name": "Record"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [0, 4],
+        "template": "npc_27",
+        "category": "npc",
+        "name": "unknown_72"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [3, 9],
+        "template": "npc_10",
+        "category": "object",
+        "name": "unknown_73"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [0, 4],
+        "template": "npc_11",
+        "category": "object",
+        "name": "Treasure Chest"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [3],
+        "template": "npc_17",
+        "category": "npc",
+        "name": "unknown_74"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [5],
+        "template": "static_10",
+        "category": "object",
+        "name": "unknown_75"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [6, 9],
+        "template": "static_11",
+        "category": "object",
+        "name": "unknown_76"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [5],
+        "template": "static_12",
+        "category": "object",
+        "name": "unknown_77"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [1, 6],
+        "template": "static_17",
+        "category": "object",
+        "name": "unknown_78"
+    },
+    {
+        "sheet_id": 43,
+        "palettes": [4],
+        "template": "static_19",
+        "category": "object",
+        "name": "unknown_79"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [0, 4],
+        "template": "npc_28",
+        "category": "npc",
+        "name": "unknown_80"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [0],
+        "template": "npc_8",
+        "category": "npc",
+        "name": "unknown_81"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [0, 2, 4, 8],
+        "template": "npc_10",
+        "category": "npc",
+        "name": "unknown_82"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [0],
+        "template": "npc_17",
+        "category": "npc",
+        "name": "unknown_83"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [6, 8],
+        "template": "npc_11",
+        "category": "npc",
+        "name": "unknown_84"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [0],
+        "template": "npc_16",
+        "category": "npc",
+        "name": "unknown_85"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [6],
+        "template": "npc_29",
+        "category": "object",
+        "name": "unknown_86"
+    },
+    {
+        "sheet_id": 44,
+        "palettes": [5],
+        "template": "static_17",
+        "category": "object",
+        "name": "unknown_87"
     }
 ]

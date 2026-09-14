@@ -57,7 +57,7 @@
     },
     {
         "sheet_id": 4,
-        "palettes": [0],
+        "palettes": [0, 1, 2, 3, 4, 5, 6, 8, 9],
         "template": "static_40",
         "category": "object",
         "name": "Serin's Tent"
@@ -99,7 +99,7 @@
     },
     {
         "sheet_id": 7,
-        "palettes": [6],
+        "palettes": [0, 1, 2, 3, 4, 5, 6, 8, 9],
         "template": "static_40",
         "category": "object",
         "name": "Fusoya's Tent"
@@ -231,6 +231,13 @@
         "name": "Astral"
     },
     {
+        "sheet_id": 17,
+        "palettes": [1, 5, 6, 9],
+        "template": "static_40",
+        "category": "object",
+        "name": "Astral's Tent"
+    },
+    {
         "sheet_id": 18,
         "palettes": [8],
         "template": "full_2",
@@ -239,7 +246,7 @@
     },
     {
         "sheet_id": 19,
-        "palettes": [1, 3, 8],
+        "palettes": [1, 3],
         "template": "full_2",
         "category": "full",
         "name": "Merchant"
@@ -253,7 +260,7 @@
     },
     {
         "sheet_id": 19,
-        "palettes": [1],
+        "palettes": [1, 4, 8],
         "template": "static_40",
         "category": "object",
         "name": "Merchant's Tent"
@@ -296,16 +303,135 @@
     {
         "sheet_id": 23,
         "palettes": [1, 3, 4, 6, 8, 9],
-        "template": "npc_1",
+        "template": "npc_12",
         "category": "npc",
         "name": "Old Man"
     },
     {
+        "sheet_id": 23,
+        "palettes": [2],
+        "template": "npc_11",
+        "category": "npc",
+        "name": "unknown_32"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [1, 3, 9],
+        "template": "npc_10",
+        "category": "npc",
+        "name": "unknown_33"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_10",
+        "category": "object",
+        "name": "unknown_34"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_11",
+        "category": "object",
+        "name": "unknown_35"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_12",
+        "category": "object",
+        "name": "unknown_36"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_17",
+        "category": "object",
+        "name": "unknown_37"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_19",
+        "category": "object",
+        "name": "unknown_38"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_24",
+        "category": "object",
+        "name": "unknown_39"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_25",
+        "category": "object",
+        "name": "unknown_40"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_32",
+        "category": "object",
+        "name": "unknown_41"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_39",
+        "category": "object",
+        "name": "unknown_42"
+    },
+    {
+        "sheet_id": 23,
+        "palettes": [6],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_43"
+    },
+    {
         "sheet_id": 24,
         "palettes": [0, 1, 2, 3, 4, 6, 8, 9],
-        "template": "npc_1",
+        "template": "npc_13",
         "category": "npc",
         "name": "Man"
+    },
+    {
+        "sheet_id": 24,
+        "palettes": [5],
+        "template": "npc_14",
+        "category": "object",
+        "name": "unknown_44"
+    },
+    {
+        "sheet_id": 24,
+        "palettes": [5],
+        "template": "npc_11",
+        "category": "object",
+        "name": "unknown_45"
+    },
+    {
+        "sheet_id": 24,
+        "palettes": [5],
+        "template": "npc_15",
+        "category": "object",
+        "name": "unknown_46"
+    },
+    {
+        "sheet_id": 24,
+        "palettes": [3, 8, 9],
+        "template": "npc_16",
+        "category": "object",
+        "name": "unknown_47"
+    },
+    {
+        "sheet_id": 24,
+        "palettes": [0, 2, 5],
+        "template": "npc_10",
+        "category": "object",
+        "name": "unknown_48"
     },
     {
         "sheet_id": 25,
@@ -337,6 +463,13 @@
     },
     {
         "sheet_id": 25,
+        "palettes": [1, 6],
+        "template": "static_39",
+        "category": "object",
+        "name": "unknown_49"
+    },
+    {
+        "sheet_id": 25,
         "palettes": [9],
         "template": "static_40",
         "category": "static",
@@ -344,14 +477,21 @@
     },
     {
         "sheet_id": 26,
-        "palettes": [0, 4, 8],
+        "palettes": [0, 4],
         "template": "npc_4",
         "category": "npc",
         "name": "unknown_3"
     },
     {
         "sheet_id": 26,
-        "palettes": [0, 8],
+        "palettes": [6, 9],
+        "template": "npc_17",
+        "category": "npc",
+        "name": "unknown_50"
+    },
+    {
+        "sheet_id": 26,
+        "palettes": [0, 4],
         "template": "static_10",
         "category": "static",
         "name": "unknown_4"
@@ -421,14 +561,14 @@
     },
     {
         "sheet_id": 28,
-        "palettes": [1, 4, 8],
+        "palettes": [1],
         "template": "npc_5",
         "category": "npc",
         "name": "unknown_12"
     },
     {
         "sheet_id": 28,
-        "palettes": [0, 1, 8],
+        "palettes": [0, 1],
         "template": "npc_6",
         "category": "npc",
         "name": "unknown_13"
@@ -442,7 +582,7 @@
     },
     {
         "sheet_id": 29,
-        "palettes": [0, 1, 8],
+        "palettes": [0, 1],
         "template": "static_39",
         "category": "static",
         "name": "unknown_14"
@@ -456,7 +596,7 @@
     },
     {
         "sheet_id": 30,
-        "palettes": [0, 1, 4, 8],
+        "palettes": [0, 1, 3, 4, 9],
         "template": "full",
         "category": "full",
         "name": "unknown_15"
@@ -477,14 +617,14 @@
     },
     {
         "sheet_id": 31,
-        "palettes": [0, 2, 9],
+        "palettes": [0, 1, 2, 9],
         "template": "npc_7",
         "category": "npc",
         "name": "unknown_16"
     },
     {
         "sheet_id": 31,
-        "palettes": [0, 1, 2, 3, 5, 6, 9],
+        "palettes": [0, 1, 2, 3, 5, 6, 8, 9],
         "template": "static_39",
         "category": "object",
         "name": "Yoshi Egg Small"
@@ -498,7 +638,7 @@
     },
     {
         "sheet_id": 32,
-        "palettes": [0, 1, 2, 3, 4, 5, 8, 9],
+        "palettes": [0, 1, 2, 3, 4, 5, 9],
         "template": "full_4",
         "category": "full",
         "name": "Ghost"
@@ -519,7 +659,7 @@
     },
     {
         "sheet_id": 33,
-        "palettes": [0, 4, 8],
+        "palettes": [0, 2, 4],
         "template": "full",
         "category": "full",
         "name": "Dancer"
@@ -540,7 +680,7 @@
     },
     {
         "sheet_id": 35,
-        "palettes": [0, 1, 2, 4, 6, 8, 9],
+        "palettes": [0, 1, 2, 4, 6, 9],
         "template": "full",
         "category": "full",
         "name": "unknown_21"
@@ -589,7 +729,7 @@
     },
     {
         "sheet_id": 36,
-        "palettes": [8, 9],
+        "palettes": [9],
         "template": "static_19",
         "category": "object",
         "name": "unknown_28"
@@ -610,9 +750,16 @@
     },
     {
         "sheet_id": 36,
-        "palettes": [5, 9],
+        "palettes": [1, 3, 6, 9],
         "template": "npc_11",
         "category": "npc",
         "name": "unknown_31"
+    },
+    {
+        "sheet_id": 36,
+        "palettes": [0, 1, 2, 3, 4, 6, 8, 9],
+        "template": "npc_18",
+        "category": "npc",
+        "name": "unknown_51"
     }
 ]

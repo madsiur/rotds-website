@@ -40,7 +40,47 @@
         "category": "full"
     }, 
     {
-        "filename": "serin_s_tent.png", 
+        "filename": "serin_s_tent_1.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_2.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_3.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_4.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_5.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_6.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_7.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_8.png", 
+        "name": "Serin's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "serin_s_tent_9.png", 
         "name": "Serin's Tent", 
         "category": "object"
     }, 
@@ -70,7 +110,47 @@
         "category": "full"
     }, 
     {
-        "filename": "fusoya_s_tent.png", 
+        "filename": "fusoya_s_tent_1.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_2.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_3.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_4.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_5.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_6.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_7.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_8.png", 
+        "name": "Fusoya's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "fusoya_s_tent_9.png", 
         "name": "Fusoya's Tent", 
         "category": "object"
     }, 
@@ -185,6 +265,26 @@
         "category": "full"
     }, 
     {
+        "filename": "astral_s_tent_1.png", 
+        "name": "Astral's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "astral_s_tent_2.png", 
+        "name": "Astral's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "astral_s_tent_3.png", 
+        "name": "Astral's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "astral_s_tent_4.png", 
+        "name": "Astral's Tent", 
+        "category": "object"
+    }, 
+    {
         "filename": "esper_aurora.png", 
         "name": "Esper Aurora", 
         "category": "full"
@@ -200,17 +300,22 @@
         "category": "full"
     }, 
     {
-        "filename": "merchant_3.png", 
-        "name": "Merchant", 
-        "category": "full"
-    }, 
-    {
         "filename": "merchant_b.png", 
         "name": "Merchant B", 
         "category": "static"
     }, 
     {
-        "filename": "merchant_s_tent.png", 
+        "filename": "merchant_s_tent_1.png", 
+        "name": "Merchant's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "merchant_s_tent_2.png", 
+        "name": "Merchant's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "merchant_s_tent_3.png", 
         "name": "Merchant's Tent", 
         "category": "object"
     }, 
@@ -285,6 +390,76 @@
         "category": "npc"
     }, 
     {
+        "filename": "unknown_32.png", 
+        "name": "unknown_32", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_33_1.png", 
+        "name": "unknown_33", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_33_2.png", 
+        "name": "unknown_33", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_33_3.png", 
+        "name": "unknown_33", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_34.png", 
+        "name": "unknown_34", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_35.png", 
+        "name": "unknown_35", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_36.png", 
+        "name": "unknown_36", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_37.png", 
+        "name": "unknown_37", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_38.png", 
+        "name": "unknown_38", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_39.png", 
+        "name": "unknown_39", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_40.png", 
+        "name": "unknown_40", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_41.png", 
+        "name": "unknown_41", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_42.png", 
+        "name": "unknown_42", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_43.png", 
+        "name": "unknown_43", 
+        "category": "object"
+    }, 
+    {
         "filename": "man_1.png", 
         "name": "Man", 
         "category": "npc"
@@ -325,6 +500,51 @@
         "category": "npc"
     }, 
     {
+        "filename": "unknown_44.png", 
+        "name": "unknown_44", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_45.png", 
+        "name": "unknown_45", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_46.png", 
+        "name": "unknown_46", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_47_1.png", 
+        "name": "unknown_47", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_47_2.png", 
+        "name": "unknown_47", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_47_3.png", 
+        "name": "unknown_47", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_48_1.png", 
+        "name": "unknown_48", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_48_2.png", 
+        "name": "unknown_48", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_48_3.png", 
+        "name": "unknown_48", 
+        "category": "object"
+    }, 
+    {
         "filename": "interceptor.png", 
         "name": "Interceptor", 
         "category": "npc"
@@ -350,6 +570,16 @@
         "category": "object"
     }, 
     {
+        "filename": "unknown_49_1.png", 
+        "name": "unknown_49", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_49_2.png", 
+        "name": "unknown_49", 
+        "category": "object"
+    }, 
+    {
         "filename": "yoshi.png", 
         "name": "Yoshi", 
         "category": "static"
@@ -365,8 +595,13 @@
         "category": "npc"
     }, 
     {
-        "filename": "unknown_3_3.png", 
-        "name": "unknown_3", 
+        "filename": "unknown_50_1.png", 
+        "name": "unknown_50", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_50_2.png", 
+        "name": "unknown_50", 
         "category": "npc"
     }, 
     {
@@ -475,17 +710,7 @@
         "category": "npc"
     }, 
     {
-        "filename": "unknown_12_1.png", 
-        "name": "unknown_12", 
-        "category": "npc"
-    }, 
-    {
-        "filename": "unknown_12_2.png", 
-        "name": "unknown_12", 
-        "category": "npc"
-    }, 
-    {
-        "filename": "unknown_12_3.png", 
+        "filename": "unknown_12.png", 
         "name": "unknown_12", 
         "category": "npc"
     }, 
@@ -496,11 +721,6 @@
     }, 
     {
         "filename": "unknown_13_2.png", 
-        "name": "unknown_13", 
-        "category": "npc"
-    }, 
-    {
-        "filename": "unknown_13_3.png", 
         "name": "unknown_13", 
         "category": "npc"
     }, 
@@ -516,11 +736,6 @@
     }, 
     {
         "filename": "unknown_14_2.png", 
-        "name": "unknown_14", 
-        "category": "static"
-    }, 
-    {
-        "filename": "unknown_14_3.png", 
         "name": "unknown_14", 
         "category": "static"
     }, 
@@ -585,6 +800,11 @@
         "category": "full"
     }, 
     {
+        "filename": "unknown_15_5.png", 
+        "name": "unknown_15", 
+        "category": "full"
+    }, 
+    {
         "filename": "unknown_tent_1.png", 
         "name": "unknown_tent", 
         "category": "object"
@@ -620,6 +840,11 @@
         "category": "npc"
     }, 
     {
+        "filename": "unknown_16_4.png", 
+        "name": "unknown_16", 
+        "category": "npc"
+    }, 
+    {
         "filename": "yoshi_egg_small_1.png", 
         "name": "Yoshi Egg Small", 
         "category": "object"
@@ -651,6 +876,11 @@
     }, 
     {
         "filename": "yoshi_egg_small_7.png", 
+        "name": "Yoshi Egg Small", 
+        "category": "object"
+    }, 
+    {
+        "filename": "yoshi_egg_small_8.png", 
         "name": "Yoshi Egg Small", 
         "category": "object"
     }, 
@@ -701,11 +931,6 @@
     }, 
     {
         "filename": "ghost_7.png", 
-        "name": "Ghost", 
-        "category": "full"
-    }, 
-    {
-        "filename": "ghost_8.png", 
         "name": "Ghost", 
         "category": "full"
     }, 
@@ -776,11 +1001,6 @@
     }, 
     {
         "filename": "unknown_21_6.png", 
-        "name": "unknown_21", 
-        "category": "full"
-    }, 
-    {
-        "filename": "unknown_21_7.png", 
         "name": "unknown_21", 
         "category": "full"
     }, 
@@ -900,12 +1120,7 @@
         "category": "object"
     }, 
     {
-        "filename": "unknown_28_1.png", 
-        "name": "unknown_28", 
-        "category": "object"
-    }, 
-    {
-        "filename": "unknown_28_2.png", 
+        "filename": "unknown_28.png", 
         "name": "unknown_28", 
         "category": "object"
     }, 
@@ -932,6 +1147,56 @@
     {
         "filename": "unknown_31_2.png", 
         "name": "unknown_31", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_31_3.png", 
+        "name": "unknown_31", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_31_4.png", 
+        "name": "unknown_31", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_1.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_2.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_3.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_4.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_5.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_6.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_7.png", 
+        "name": "unknown_51", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_51_8.png", 
+        "name": "unknown_51", 
         "category": "npc"
     }
 ]

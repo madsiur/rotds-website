@@ -761,5 +761,89 @@
         "template": "npc_18",
         "category": "npc",
         "name": "unknown_51"
+    },
+    {
+        "sheet_id": 37,
+        "palettes": [0, 3, 4, 8],
+        "template": "npc_19",
+        "category": "npc",
+        "name": "unknown_52"
+    },
+    {
+        "sheet_id": 37,
+        "palettes": [1, 6],
+        "template": "npc_20",
+        "category": "object",
+        "name": "unknown_53"
+    },
+    {
+        "sheet_id": 37,
+        "palettes": [0, 8],
+        "template": "npc_21",
+        "category": "object",
+        "name": "unknown_54"
+    },
+    {
+        "sheet_id": 37,
+        "palettes": [0, 2, 6],
+        "template": "npc_11",
+        "category": "object",
+        "name": "unknown_55"
+    },
+    {
+        "sheet_id": 37,
+        "palettes": [3, 6, 8, 9],
+        "template": "npc_22",
+        "category": "object",
+        "name": "unknown_56"
+    },
+    {
+        "sheet_id": 38,
+        "palettes": [0, 1, 3, 4],
+        "template": "npc_23",
+        "category": "npc",
+        "name": "unknown_57"
+    },
+    {
+        "sheet_id": 38,
+        "palettes": [0],
+        "template": "npc_24",
+        "category": "npc",
+        "name": "unknown_58"
+    },
+    {
+        "sheet_id": 38,
+        "palettes": [0, 3, 4, 5],
+        "template": "npc_8",
+        "category": "npc",
+        "name": "unknown_59"
+    },
+    {
+        "sheet_id": 39,
+        "palettes": [0, 1, 3, 4, 8, 9],
+        "template": "npc_23",
+        "category": "npc",
+        "name": "unknown_60"
+    },
+    {
+        "sheet_id": 39,
+        "palettes": [1],
+        "template": "static_10",
+        "category": "static",
+        "name": "unknown_61"
+    },
+    {
+        "sheet_id": 39,
+        "palettes": [0],
+        "template": "npc_25",
+        "category": "npc",
+        "name": "unknown_62"
+    },
+    {
+        "sheet_id": 40,
+        "palettes": [1],
+        "template": "npc_1",
+        "category": "npc",
+        "name": "Pigeon"
     }
 ]

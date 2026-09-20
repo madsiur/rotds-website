@@ -1042,17 +1042,17 @@
     {
         "filename": "unknown_23_1.png", 
         "name": "unknown_23", 
-        "category": "npc"
+        "category": "static"
     }, 
     {
         "filename": "unknown_23_2.png", 
         "name": "unknown_23", 
-        "category": "npc"
+        "category": "static"
     }, 
     {
         "filename": "unknown_23_3.png", 
         "name": "unknown_23", 
-        "category": "npc"
+        "category": "static"
     }, 
     {
         "filename": "unknown_24_1.png", 
@@ -1162,42 +1162,42 @@
     {
         "filename": "unknown_51_1.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_2.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_3.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_4.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_5.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_6.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_7.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_51_8.png", 
         "name": "unknown_51", 
-        "category": "npc"
+        "category": "object"
     }, 
     {
         "filename": "unknown_52_1.png", 
@@ -1628,5 +1628,285 @@
         "filename": "unknown_87.png", 
         "name": "unknown_87", 
         "category": "object"
+    }, 
+    {
+        "filename": "unknown_88_1.png", 
+        "name": "unknown_88", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_88_2.png", 
+        "name": "unknown_88", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_89_1.png", 
+        "name": "unknown_89", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_89_2.png", 
+        "name": "unknown_89", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_90.png", 
+        "name": "unknown_90", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_91.png", 
+        "name": "unknown_91", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_92.png", 
+        "name": "unknown_92", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_93_1.png", 
+        "name": "unknown_93", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_93_2.png", 
+        "name": "unknown_93", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_93_3.png", 
+        "name": "unknown_93", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_94_1.png", 
+        "name": "unknown_94", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_94_2.png", 
+        "name": "unknown_94", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_94_3.png", 
+        "name": "unknown_94", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_94_4.png", 
+        "name": "unknown_94", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_94_5.png", 
+        "name": "unknown_94", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_1.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_2.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_3.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_4.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_5.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_6.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_95_7.png", 
+        "name": "unknown_95", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_96_1.png", 
+        "name": "unknown_96", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_96_2.png", 
+        "name": "unknown_96", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_97.png", 
+        "name": "unknown_97", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_98_1.png", 
+        "name": "unknown_98", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_98_2.png", 
+        "name": "unknown_98", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_98_3.png", 
+        "name": "unknown_98", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_99_1.png", 
+        "name": "unknown_99", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_99_2.png", 
+        "name": "unknown_99", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_99_3.png", 
+        "name": "unknown_99", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_100_1.png", 
+        "name": "unknown_100", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_100_2.png", 
+        "name": "unknown_100", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_100_3.png", 
+        "name": "unknown_100", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_101_1.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_2.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_3.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_4.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_5.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_6.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_7.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_8.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_9.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_101_10.png", 
+        "name": "unknown_101", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_102_1.png", 
+        "name": "unknown_102", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_102_2.png", 
+        "name": "unknown_102", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_103.png", 
+        "name": "unknown_103", 
+        "category": "object"
+    }, 
+    {
+        "filename": "umaro_1.png", 
+        "name": "Umaro", 
+        "category": "full"
+    }, 
+    {
+        "filename": "umaro_2.png", 
+        "name": "Umaro", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_104.png", 
+        "name": "unknown_104", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_105.png", 
+        "name": "unknown_105", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_106.png", 
+        "name": "unknown_106", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_107_1.png", 
+        "name": "unknown_107", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_107_2.png", 
+        "name": "unknown_107", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_107_3.png", 
+        "name": "unknown_107", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_107_4.png", 
+        "name": "unknown_107", 
+        "category": "npc"
     }
 ]

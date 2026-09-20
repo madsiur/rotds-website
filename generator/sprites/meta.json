@@ -696,7 +696,7 @@
         "sheet_id": 36,
         "palettes": [1, 3, 9],
         "template": "npc_8",
-        "category": "npc",
+        "category": "static",
         "name": "unknown_23"
     },
     {
@@ -759,7 +759,7 @@
         "sheet_id": 36,
         "palettes": [0, 1, 2, 3, 4, 6, 8, 9],
         "template": "npc_18",
-        "category": "npc",
+        "category": "object",
         "name": "unknown_51"
     },
     {
@@ -1041,5 +1041,152 @@
         "template": "static_17",
         "category": "object",
         "name": "unknown_87"
+    },
+    {
+        "sheet_id": 45,
+        "palettes": [0, 4],
+        "template": "full_4",
+        "category": "full",
+        "name": "unknown_88"
+    },
+    {
+        "sheet_id": 45,
+        "palettes": [3, 4],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_89"
+    },
+    {
+        "sheet_id": 45,
+        "palettes": [4],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_90"
+    },
+    {
+        "sheet_id": 46,
+        "palettes": [4],
+        "template": "npc_30",
+        "category": "npc",
+        "name": "unknown_91"
+    },
+    {
+        "sheet_id": 46,
+        "palettes": [3],
+        "template": "npc_31",
+        "category": "npc",
+        "name": "unknown_92"
+    },
+    {
+        "sheet_id": 46,
+        "palettes": [5, 8, 9],
+        "template": "npc_11",
+        "category": "npc",
+        "name": "unknown_93"
+    },
+    {
+        "sheet_id": 46,
+        "palettes": [0, 1, 3, 4, 9],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_94"
+    },
+    {
+        "sheet_id": 46,
+        "palettes": [0, 1, 2, 3, 4, 6, 9],
+        "template": "static_40",
+        "category": "static",
+        "name": "unknown_95"
+    },
+    {
+        "sheet_id": 47,
+        "palettes": [1, 3],
+        "template": "npc_1",
+        "category": "npc",
+        "name": "unknown_96"
+    },
+    {
+        "sheet_id": 48,
+        "palettes": [0],
+        "template": "full_4",
+        "category": "full",
+        "name": "unknown_97"
+    },
+    {
+        "sheet_id": 48,
+        "palettes": [0, 4, 5],
+        "template": "npc_8",
+        "category": "npc",
+        "name": "unknown_98"
+    },
+    {
+        "sheet_id": 49,
+        "palettes": [0, 1, 9],
+        "template": "full_6",
+        "category": "full",
+        "name": "unknown_99"
+    },
+    {
+        "sheet_id": 49,
+        "palettes": [0, 1, 3],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_100"
+    },
+    {
+        "sheet_id": 49,
+        "palettes": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_101"
+    },
+    {
+        "sheet_id": 50,
+        "palettes": [0, 4],
+        "template": "full_3",
+        "category": "full",
+        "name": "unknown_102"
+    },
+    {
+        "sheet_id": 50,
+        "palettes": [4],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_103"
+    },
+    {
+        "sheet_id": 51,
+        "palettes": [0, 5],
+        "template": "full_3",
+        "category": "full",
+        "name": "Umaro"
+    },
+    {
+        "sheet_id": 51,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "static",
+        "name": "unknown_104"
+    },
+    {
+        "sheet_id": 52,
+        "palettes": [3],
+        "template": "full_3",
+        "category": "full",
+        "name": "unknown_105"
+    },
+    {
+        "sheet_id": 52,
+        "palettes": [3],
+        "template": "static_40",
+        "category": "object",
+        "name": "unknown_106"
+    },
+    {
+        "sheet_id": 53,
+        "palettes": [0, 1, 3, 9],
+        "template": "npc_1",
+        "category": "npc",
+        "name": "unknown_107"
     }
 ]

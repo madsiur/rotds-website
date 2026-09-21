@@ -1908,5 +1908,230 @@
         "filename": "unknown_107_4.png", 
         "name": "unknown_107", 
         "category": "npc"
+    }, 
+    {
+        "filename": "unknown_108.png", 
+        "name": "unknown_108", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_109_1.png", 
+        "name": "unknown_109", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_109_2.png", 
+        "name": "unknown_109", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_110.png", 
+        "name": "unknown_110", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_111.png", 
+        "name": "unknown_111", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_112.png", 
+        "name": "unknown_112", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_113_1.png", 
+        "name": "unknown_113", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_113_2.png", 
+        "name": "unknown_113", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_113_3.png", 
+        "name": "unknown_113", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_114.png", 
+        "name": "unknown_114", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_115.png", 
+        "name": "unknown_115", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_116.png", 
+        "name": "unknown_116", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_117_1.png", 
+        "name": "unknown_117", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_117_2.png", 
+        "name": "unknown_117", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_117_3.png", 
+        "name": "unknown_117", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_117_4.png", 
+        "name": "unknown_117", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_118_1.png", 
+        "name": "unknown_118", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_118_2.png", 
+        "name": "unknown_118", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_119_1.png", 
+        "name": "unknown_119", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_119_2.png", 
+        "name": "unknown_119", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_120.png", 
+        "name": "unknown_120", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_121.png", 
+        "name": "unknown_121", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_122.png", 
+        "name": "unknown_122", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_123.png", 
+        "name": "unknown_123", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_124.png", 
+        "name": "unknown_124", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_125.png", 
+        "name": "unknown_125", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_126_1.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_126_2.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_126_3.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_126_4.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_126_5.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_126_6.png", 
+        "name": "unknown_126", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fish_1.png", 
+        "name": "Fish", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fish_2.png", 
+        "name": "Fish", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fish_3.png", 
+        "name": "Fish", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fish_4.png", 
+        "name": "Fish", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fish_5.png", 
+        "name": "Fish", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "unknown_128.png", 
+        "name": "unknown_128", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_129.png", 
+        "name": "unknown_129", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_130_1.png", 
+        "name": "unknown_130", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_130_2.png", 
+        "name": "unknown_130", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_130_3.png", 
+        "name": "unknown_130", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_130_4.png", 
+        "name": "unknown_130", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_130_5.png", 
+        "name": "unknown_130", 
+        "category": "full"
+    }, 
+    {
+        "filename": "unknown_130_6.png", 
+        "name": "unknown_130", 
+        "category": "full"
     }
 ]

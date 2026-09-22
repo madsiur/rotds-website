@@ -1349,5 +1349,187 @@
         "template": "full",
         "category": "full",
         "name": "unknown_130"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [0, 2, 3],
+        "template": "full_8",
+        "category": "full",
+        "name": "unknown_131"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [0, 5],
+        "template": "npc_11",
+        "category": "object",
+        "name": "unknown_132"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [0],
+        "template": "npc_10",
+        "category": "static",
+        "name": "unknown_133"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [4],
+        "template": "static_17",
+        "category": "static",
+        "name": "unknown_134"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [1, 9],
+        "template": "static_10",
+        "category": "static",
+        "name": "unknown_135"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [1],
+        "template": "static_11",
+        "category": "static",
+        "name": "unknown_136"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [1],
+        "template": "static_12",
+        "category": "static",
+        "name": "unknown_137"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [0],
+        "template": "static_32",
+        "category": "static",
+        "name": "Cow"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [5],
+        "template": "static_39",
+        "category": "static",
+        "name": "unknown_138"
+    },
+    {
+        "sheet_id": 61,
+        "palettes": [5],
+        "template": "static_40",
+        "category": "static",
+        "name": "unknown_139"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [0, 4],
+        "template": "npc_38",
+        "category": "npc",
+        "name": "unknown_140"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [0, 1, 9],
+        "template": "npc_16",
+        "category": "npc",
+        "name": "unknown_141"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [5],
+        "template": "npc_39",
+        "category": "npc",
+        "name": "unknown_142"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [0],
+        "template": "npc_40",
+        "category": "npc",
+        "name": "unknown_143"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [5],
+        "template": "npc_11",
+        "category": "npc",
+        "name": "unknown_144"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [0, 4],
+        "template": "static_24",
+        "category": "object",
+        "name": "unknown_145"
+    },
+    {
+        "sheet_id": 62,
+        "palettes": [5],
+        "template": "static_39",
+        "category": "object",
+        "name": "unknown_146"
+    },
+    {
+        "sheet_id": 63,
+        "palettes": [0],
+        "template": "full",
+        "category": "full",
+        "name": "unknown_147"
+    },
+    {
+        "sheet_id": 64,
+        "palettes": [2, 3, 4],
+        "template": "full",
+        "category": "full",
+        "name": "unknown_148"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [0, 1, 3, 4],
+        "template": "npc_28",
+        "category": "npc",
+        "name": "unknown_149"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [0, 1, 2, 9],
+        "template": "npc_16",
+        "category": "npc",
+        "name": "unknown_150"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [1, 4],
+        "template": "npc_41",
+        "category": "npc",
+        "name": "unknown_151"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [0, 4],
+        "template": "npc_10",
+        "category": "npc",
+        "name": "unknown_152"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [1, 3, 9],
+        "template": "static_10",
+        "category": "static",
+        "name": "unknown_153"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [3, 8],
+        "template": "static_17",
+        "category": "static",
+        "name": "unknown_154"
+    },
+    {
+        "sheet_id": 65,
+        "palettes": [1, 4],
+        "template": "static_40",
+        "category": "static",
+        "name": "unknown_155"
     }
 ]

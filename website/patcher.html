@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html class="h-100" lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="return of the dark sorcerer, rotds, ffvi rotds, ff6 rotds, ff6 hack, ffvi hack, ff6 romhack, ffvi romhack, ff6 rom hack, ffvi rom hack, ff6 mod, ffvi mod, ff6 hacking, ffvi hacking, ff6 modding, ffvi modding, romhack, mod, romhacking, modding, snes, super nintendo, squaresoft, square-enix, patch, patches, ips, ips patch, patching, lunar ips, patcher, optional patch" name="keywords"/>
+        <meta content="Patcher page of the Return of the Dark Sorcerer official website." name="description"/>
+        <meta content="RotDS - Patcher" name="pagename"/>
+        <meta content="EN" name="language"/>
+        <meta content="madsiur" name="author"/>
+        <meta content="https://www.rotds.com/patcher.html" name="url"/>
+        <meta content="https://www.rotds.com/patcher.html" name="identifier-URL"/>
+        <meta content="General" name="rating"/>
+        <meta content="Worldwide" name="coverage"/>
+        <meta content="Global" name="distribution"/>
+        <meta content="RotDS - Patcher" name="og:title"/>
+        <meta content="https://www.rotds.com/media/cast_b.png" name="og:image"/>
+        <meta content="image/png" property="og:image:type"/>
+        <meta content="256" property="og:image:width"/>
+        <meta content="224" property="og:image:height"/>
+        <meta content="Alternate Cast" property="og:image:alt"/>
+        <meta content="Return of the Dark Sorcerer" name="og:site_name"/>
+        <meta content="Patcher page of the Return of the Dark Sorcerer official website." name="og:description"/>
+        <meta content="website" name="og:type"/>
+        <meta content="https://www.rotds.com/patcher.html" name="og:url"/>
+        <title>
+            RotDS - Patcher
+        </title>
+        <link href="css/bootstrap-5.3.6.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" rel="stylesheet"/>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="css/patcher.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body class="page-color d-flex flex-column h-100">
+        <nav class="navbar custom-collapse navbar-dark bg-dark">
+            <div class="container-fluid">
+                <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon">
+                    </span>
+                </button>
+                <a class="navbar-brand" href="home.html">
+                    Return of the Dark Sorcerer
+                </a>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="patcher.html">
+                                Patcher
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="soundtrack.html">
+                                Soundtrack
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="brr.html">
+                                BRR Samples
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="monsters-1.html" id="menu-monsters">
+                                Monsters
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="items.html">
+                                Items
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="characters.html">
+                                Characters
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="npcs.html">
+                                NPCs
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="guide.html">
+                                Strategy Guide
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="maps.html">
+                                World Maps
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="archive.html">
+                                Archive
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="credits.html">
+                                Credits
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center mt-2">
+                <h3 id="pageTitle">
+                    Patcher
+                </h3>
+            </div>
+            <div>
+                <div class="card patcher-card position-relative">
+                    <div class="card-body">
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="romFile">
+                                ROM file:
+                            </label>
+                            <div class="col-sm-8 d-flex">
+                                <input accept=".sfc,.smc" class="d-none" id="romFile" type="file"/>
+                                <button class="btn btn-outline-secondary btn-sm" id="btnRomUpload" type="button">
+                                    <i class="bi bi-upload me-2">
+                                    </i>
+                                    Choose file
+                                </button>
+                                <div class="col-sm-8">
+                                    <input class="form-control font-monospace" id="romFileName" readonly="" type="text"/>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="crc32">
+                                CRC32:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="crc32" readonly="" type="text"/>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="md5">
+                                MD5:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="md5" readonly="" type="text"/>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="sha1">
+                                SHA-1:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="sha1" readonly="" type="text"/>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="patchFile">
+                                Patch file:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="patchFile" readonly="" type="text" value="rotds_v213.ips"/>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="description">
+                                Description:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="description" readonly="" type="text" value="RotDS v2.13 base patch"/>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label class="col-sm-4 col-form-label text-end" for="requiredCrc32">
+                                Required CRC32:
+                            </label>
+                            <div class="col-sm-8">
+                                <input class="form-control font-monospace" id="requiredCrc32" readonly="" type="text" value="A27F1C7A"/>
+                            </div>
+                        </div>
+                        <div class="mb-3" id="errorMessage">
+                        </div>
+                        <div class="text-center">
+                            <button class="btn btn-dark" disabled="true" id="btnApplyPatch" type="button">
+                                Apply patch
+                            </button>
+                            <a class="btn btn-dark d-none" download="" href="#" id="downloadLink">
+                                <i class="bi bi-download me-2">
+                                </i>
+                                Download patched ROM
+                            </a>
+                        </div>
+                    </div>
+                    <div class="position-absolute top-0 start-0 w-100 h-100 d-none" id="patcherOverlay" style="background: rgba(0,0,0,0.5); z-index: 10;">
+                        <div class="d-flex flex-column align-items-center justify-content-center h-100 text-white">
+                            <div class="spinner-border text-light mb-2" role="status">
+                            </div>
+                            <span>
+                                Patching…
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="footer mt-auto bg-dark text-white text-center py-1">
+            <div class="container">
+                <div>
+                    2025 Return of the Dark Sorcerer. Website by madsiur.
+                </div>
+            </div>
+        </footer>
+        <script src="js/jquery-3.7.1.min.js">
+        </script>
+        <script src="js/bootstrap-5.3.6.bundle.min.js">
+        </script>
+        <script src="js/debug.js">
+        </script>
+        <script src="js/enums.js">
+        </script>
+        <script src="js/utils.js">
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.2/jszip.min.js">
+        </script>
+        <script src="js/patcher.js">
+        </script>
+        <script>
+            initSessionVar("monster_gallery_page", 1);
+            var href = $("#menu-monsters").attr("href");
+            var array = href.split("/");
+            array.pop();
+            array.push(MonstersPage[parseInt(sessionStorage.getItem("monster_gallery_page"))-1]);
+            var path = array.join("/");
+            $("#menu-monsters").attr("href", path);
+        </script>
+    </body>
+</html>

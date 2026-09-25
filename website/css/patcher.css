@@ -1,0 +1,41 @@
+.patcher-card {
+    max-width: 600px;
+    background-color: #c5d7f2;
+    margin: 0 auto;
+    border: solid 1px #212529
+}
+
+.patcher-card .card-body {
+    color: #212529;
+}
+
+.patcher-card .form-label {
+    color: #212529;
+}
+
+.patcher-card .form-control {
+    border-color: #212529;
+    font-size: 13px;
+}
+
+.patcher-card .form-control:focus {
+    border-color: #212529;
+    box-shadow: none;
+    outline: none;
+}
+
+.patcher-card #btnRomUpload {
+    background: #e8e8e8;
+    color: #181b1f;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-left: 1px solid #181b1f;
+    border-top: 1px solid #181b1f;
+    border-bottom: 1px solid #181b1f;
+    border-right: 0;
+}
+
+.patcher-card #romFileName {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}

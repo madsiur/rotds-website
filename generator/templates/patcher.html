@@ -1,0 +1,81 @@
+{% include 'header.html' %}
+    <body class="page-color d-flex flex-column h-100">
+        {% include 'menu.html' %}
+        <main class="flex-grow-1">
+            <div class="d-flex justify-content-center mt-2">
+                <h3 id="pageTitle">Patcher</h3>
+            </div>
+            <div>
+                <div class="card patcher-card position-relative">
+                    <div class="card-body">
+                        <div class="row mb-3 align-items-center">
+                            <label for="romFile" class="col-sm-4 col-form-label text-end">ROM file:</label>
+                            <div class="col-sm-8 d-flex">
+                                <input type="file" class="d-none" id="romFile" accept=".sfc,.smc">
+                                <button id="btnRomUpload" type="button" class="btn btn-outline-secondary btn-sm">
+                                    <i class="bi bi-upload me-2"></i>Choose file
+                                </button>
+                                <div class="col-sm-8">
+                                    <input type="text" class="form-control font-monospace" id="romFileName" readonly>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="crc32" class="col-sm-4 col-form-label text-end">CRC32:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="crc32" readonly>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="md5" class="col-sm-4 col-form-label text-end">MD5:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="md5" readonly>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="sha1" class="col-sm-4 col-form-label text-end">SHA-1:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="sha1" readonly>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="patchFile" class="col-sm-4 col-form-label text-end">Patch file:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="patchFile" readonly value="rotds_v213.ips">
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="description" class="col-sm-4 col-form-label text-end">Description:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="description" value="RotDS v2.13 base patch" readonly>
+                            </div>
+                        </div>
+                        <div class="row mb-3 align-items-center">
+                            <label for="requiredCrc32" class="col-sm-4 col-form-label text-end">Required CRC32:</label>
+                            <div class="col-sm-8">
+                                <input type="text" class="form-control font-monospace" id="requiredCrc32" value="A27F1C7A" readonly>
+                            </div>
+                        </div>
+                        <div id="errorMessage" class="mb-3"></div>
+                        <div class="text-center">
+                            <button id="btnApplyPatch" type="button" class="btn btn-dark" disabled="true">Apply patch</button>
+                            <a id="downloadLink" class="btn btn-dark d-none" href="#" download>
+                                <i class="bi bi-download me-2"></i>Download patched ROM
+                            </a>
+                        </div>
+                    </div>
+                    <div id="patcherOverlay" class="position-absolute top-0 start-0 w-100 h-100 d-none"
+                        style="background: rgba(0,0,0,0.5); z-index: 10;">
+                        <div class="d-flex flex-column align-items-center justify-content-center h-100 text-white">
+                        <div class="spinner-border text-light mb-2" role="status"></div>
+                        <span>Patching…</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        {% include 'footer.html' %}
+        {% include 'scripts.html' %}
+        {% include 'monsterspage.html' %}
+    </body>
+</html>

@@ -204,6 +204,17 @@ class Constants:
         "item list",
     ]
 
+    _PATCHER_KEYWORDS = [
+        "patch",
+        "patches",
+        "ips",
+        "ips patch",
+        "patching",
+        "lunar ips",
+        "patcher",
+        "optional patch"
+    ]
+
     _CHAR_NAME_ADDR = 0x0478C0
     _CHAR_NAME_LENGTH = 6
     _CHAR_NUM = 64
@@ -449,6 +460,10 @@ class Constants:
     @property
     def ITEM_KEYWORDS(self):
         return ", ".join(self._COMMON_KEYWORDS + self._ITEM_KEYWORDS)
+
+    @property
+    def PATCHER_KEYWORDS(self):
+        return ", ".join(self._COMMON_KEYWORDS + self._PATCHER_KEYWORDS)
     
     @property
     def CHAR_NAME_ADDR(self):

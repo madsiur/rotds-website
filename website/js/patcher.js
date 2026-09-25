@@ -62,7 +62,7 @@ async function getZipArchive(url) {
         const buf = await res.arrayBuffer();
         return await JSZip.loadAsync(buf);
     } catch (e) {
-        document.getElementById('errorMessage').innerHTML = buildError(`Error unzipping archive ${file}:\n${e.message}`);
+        document.getElementById('errorMessage').innerHTML = buildError(`Error unzipping archive ${url}:\n${e.message}`);
         return null;
     }
 }

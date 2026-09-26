@@ -8,6 +8,7 @@ bin
 obj
 packages
 website/archive/*
+website/patches/*
 website/css/bootstrap*
 website/js/bootstrap*
 website/js/jquery*

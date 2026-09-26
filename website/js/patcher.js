@@ -1,6 +1,10 @@
 let zip;
 let romFile;
 let romBuffer;
+let basePatches;
+let jsonDir = "json/patcher";
+let patcherDir = "patches";
+
 const hashWorkder = new Worker('js/patcher.webworker.hash.js');
 const applyWorker = new Worker('js/RomPatcher.webworker.apply.js');
 
@@ -96,8 +100,10 @@ function onPatchComplete(patchedBuffer) {
     const overlay = document.getElementById('patcherOverlay');
     overlay.classList.add('d-none');
     document.getElementById('btnApplyPatch').disabled = false;
+    selectedPatch = document.getElementById('patchFile').value;
+    romName = `${selectedPatch}.sfc`
 
-    createZip(patchedBuffer, 'rotds_v213.sfc').then(blob => {
+    createZip(patchedBuffer, romName).then(blob => {
         if (!blob) {
             return;
         }
@@ -106,10 +112,44 @@ function onPatchComplete(patchedBuffer) {
     });
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    fileName = `${jsonDir}/main.json`;
+    const select = document.getElementById('patchFile');
+
+    readJSON(fileName)
+        .then(data => {
+            basePatches = data;
+            select.innerHTML = '';
+            
+            basePatches.forEach(item => {
+                const option = document.createElement('option');
+                option.value = item.filename;
+                option.textContent = `${item.filename}.ips`;
+                select.appendChild(option);
+            });
+
+            if (basePatches.length > 0) {
+                select.value = basePatches[0].filename;
+                document.getElementById('description').value = basePatches[0].name;
+            }
+        })
+        .catch(error => {
+            document.getElementById('errorMessage').innerHTML = buildError(`Error loading main.json: ${error.message}`);
+            select.disabled = true;
+        });
+});
+
+document.getElementById('patchFile').addEventListener('change', function() {
+    const selected = basePatches.find(item => item.filename === this.value);
+    document.getElementById('description').value = selected ? selected.name : '';
+    document.getElementById('downloadLink').classList.add('d-none');
+});
+
 document.getElementById('downloadLink').addEventListener('click', function () {
     if (!pendingBlob) return;
     this.href = URL.createObjectURL(pendingBlob);
-    this.download = `rotds_v213_${Date.now()}.zip`;
+    selectedPatch = document.getElementById('patchFile').value;
+    this.download = `${selectedPatch}_${Date.now()}.zip`;
 });
 
 document.getElementById('btnRomUpload').addEventListener('click', function () {
@@ -152,14 +192,18 @@ document.getElementById('btnApplyPatch').addEventListener('click', async functio
         return;
     }
 
-    zip = await getZipArchive('patches.zip');
+    selectedPatch = document.getElementById('patchFile').value;
+    zipFile = `${patcherDir}/${selectedPatch}.zip`;
+
+    zip = await getZipArchive(zipFile);
     if(zip == null) {
         overlay.classList.add('d-none');
         this.disabled = false;
         return;
     }
 
-    patchBuffer = await getZipEntry(zip, 'rotds_v213.ips');
+    patchName = zipFile = `${selectedPatch}.ips`;
+    patchBuffer = await getZipEntry(zip, patchName);
     if(patchBuffer == null) {
         overlay.classList.add('d-none');
         this.disabled = false;

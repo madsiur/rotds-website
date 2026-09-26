@@ -4,6 +4,19 @@ async function fetchJson(url) {
     return data;
 }
 
+async function readJSON(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return await response.json();
+  } catch (err) {
+    console.error('Failed to read JSON:', err);
+    throw err;
+  }
+}
+
 function getUrlParams() {
     var params = {};
     var query = window.location.search.substring(1);

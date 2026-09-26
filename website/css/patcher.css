@@ -24,6 +24,17 @@
     outline: none;
 }
 
+.patcher-card #patchFile {
+    border-color: #212529;
+    font-size: 13px;
+}
+
+.patcher-card #patchFile:focus {
+    border-color: #212529;
+    box-shadow: none;
+    outline: none;
+}
+
 .patcher-card #btnRomUpload {
     background: #e8e8e8;
     color: #181b1f;

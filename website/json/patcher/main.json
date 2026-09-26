@@ -1,0 +1,18 @@
+[
+    {
+        "order": 1,
+        "filename": "rotds_v213",
+        "name": "Return of the Dark Sorcerer v2.13",
+        "description": "RotDS v2.13 base patch",
+        "category": "base",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "ffvi_last_hope_all_stars",
+        "name": "FFVI - Last Hope All Stars",
+        "description": "FFVI Last Hope All Stars base patch",
+        "category": "base",
+        "preview": ""
+    }
+]

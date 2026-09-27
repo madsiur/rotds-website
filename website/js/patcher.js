@@ -4,6 +4,7 @@ let romBuffer;
 let basePatches;
 let jsonDir = "json/patcher";
 let patcherDir = "patches";
+const selectedPatches = [];
 
 const hashWorkder = new Worker('js/patcher.webworker.hash.js');
 const applyWorker = new Worker('js/RomPatcher.webworker.apply.js');
@@ -206,16 +207,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
 document.querySelector('#categories').addEventListener('click', (e) => {
     const btn = e.target.closest('[data-selected]');
-    if (!btn) {
-        return;
+    if (!btn) return;
+
+    const nowSelected = btn.dataset.selected !== 'true';
+    btn.dataset.selected = nowSelected;
+
+    if (nowSelected) {
+        selectedPatches.push(btn.dataset.patch);
+    } else {
+        const idx = selectedPatches.indexOf(btn.dataset.patch);
+        if (idx !== -1) selectedPatches.splice(idx, 1);
     }
-    btn.dataset.selected = btn.dataset.selected === 'true' ? 'false' : 'true';
 });
 
 document.getElementById('patchFile').addEventListener('change', function() {
     const selected = basePatches.find(item => item.filename === this.value);
     document.getElementById('description').value = selected ? selected.name : '';
     document.getElementById('downloadLink').classList.add('d-none');
+    selectedPatches.length = 0;
 
     clearCategory("gameplay");
     clearCategory("gfx");
@@ -285,15 +294,36 @@ document.getElementById('btnApplyPatch').addEventListener('click', async functio
     }
 
     patchName = zipFile = `${selectedPatch}.ips`;
-    patchBuffer = await getZipEntry(zip, patchName);
-    if(patchBuffer == null) {
+    basePatchBuffer = await getZipEntry(zip, patchName);
+    if(basePatchBuffer == null) {
         overlay.classList.add('d-none');
         this.disabled = false;
         return;
     }
 
-    applyWorker.postMessage({
+    /*applyWorker.postMessage({
         romFileU8Array: romBuffer,
         patchFileU8Array: patchBuffer
+    });*/
+
+    const results = await Promise.all(
+        selectedPatches.map(id => getZipEntry(zip, id))
+    );
+
+    if (results.some(r => r === null)) {
+        overlay.classList.add('d-none');
+        this.disabled = false;
+        return;
+    }
+
+    const optionalPatches = selectedPatches.map((id, i) => ({
+        id,
+        buffer: results[i]
+    }));
+
+    applyWorker.postMessage({
+        romFileU8Array: romBuffer,
+        basePatch: basePatchBuffer,
+        optionalPatches
     });
 });

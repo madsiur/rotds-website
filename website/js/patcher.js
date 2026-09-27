@@ -127,8 +127,8 @@ function hideCategory(catId) {
     document.getElementById(`cat-${catId}`).style.display = 'none';
 }
 
-function clearCategory(id) {
-    document.querySelector(`#${id} .card-body`).innerHTML = '';
+function clearCategory(catId) {
+    document.querySelector(`#${catId} .card-body`).innerHTML = '';
 }
 
 async function loadPatches(jsonDir) {
@@ -161,7 +161,7 @@ async function loadPatches(jsonDir) {
                             <div class="card-body text-center">
                                 <div class="card-title mb-1">${patch.name}</div>
                                 <div class="justify-content-center gap-2 d-flex">
-                                    <button class="btn btn-sm btn-dark" data-patch="${patch.filename}">Select</button>
+                                    <button class="btn btn-sm btn-dark" data-patch="${patch.filename}" data-selected="false">Select</button>
                                     <button class="btn btn-sm btn-dark" data-preview="${patch.preview}">Preview</button>
                                 </div>
                             </div>
@@ -202,6 +202,14 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('errorMessage').innerHTML = buildError(`Error loading main.json: ${error.message}`);
             select.disabled = true;
         });
+});
+
+document.querySelector('#categories').addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-selected]');
+    if (!btn) {
+        return;
+    }
+    btn.dataset.selected = btn.dataset.selected === 'true' ? 'false' : 'true';
 });
 
 document.getElementById('patchFile').addEventListener('change', function() {

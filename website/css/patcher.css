@@ -79,3 +79,7 @@
     border: 1px solid #212529;
     background-color: #bbcbe6;
 }
+
+[data-selected="true"] {
+    background-color: var(--bs-success);
+}

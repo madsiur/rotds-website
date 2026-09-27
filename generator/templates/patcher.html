@@ -74,6 +74,94 @@
                         </div>
                     </div>
                 </div>
+                <!-- Collapsible Categories -->
+                <div id="categories" class="position-relative mt-3">
+                    <!-- Gameplay -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#gameplay"
+                            aria-expanded="false" aria-controls="gameplay">
+                            <span>Gameplay</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="gameplay" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- Graphics -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#gfx"
+                            aria-expanded="false" aria-controls="gfx">
+                            <span>Graphics</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="gfx" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- Music -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#music"
+                            aria-expanded="false" aria-controls="music">
+                            <span>Music</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="music" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- Other -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#other"
+                            aria-expanded="false" aria-controls="other">
+                            <span>Others</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="other" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- Sprite -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#sprite"
+                            aria-expanded="false" aria-controls="sprite">
+                            <span>Sprites</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="sprite" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- OST A -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#osta"
+                            aria-expanded="false" aria-controls="osta">
+                            <span>Soundtrack A</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="osta" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+                    <!-- OST B -->
+                    <div class="card mb-2">
+                        <div class="card-header d-flex justify-content-between align-items-center category-header"
+                            data-bs-toggle="collapse" data-bs-target="#ostb"
+                            aria-expanded="false" aria-controls="ostb">
+                            <span>Soundtrack B</span>
+                            <i class="bi bi-chevron-down"></i>
+                        </div>
+                        <div id="ostb" class="collapse category-content" data-bs-parent="#categories">
+                            <div class="card-body category-grid"></div>
+                        </div>
+                    </div>
+
+                </div>   
             </div>
         </main>
         {% include 'footer.html' %}

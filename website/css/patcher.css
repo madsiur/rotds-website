@@ -50,3 +50,32 @@
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
 }
+
+#categories {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 0.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.category-header {
+    background-color: #212529;
+    color: #b8b8b8;
+}
+
+.category-content {
+    background-color: #c5d7f2;
+    border: 1px solid #212529;
+}
+
+.patch-selector {
+    min-width: 250px;
+    border: 1px solid #212529;
+    background-color: #bbcbe6;
+}

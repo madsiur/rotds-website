@@ -112,6 +112,39 @@ function onPatchComplete(patchedBuffer) {
     });
 }
 
+async function loadPatches(jsonDir) {
+    const categories = document.querySelectorAll('#categories .collapse');
+    const jsonPath = `json/patcher/${jsonDir}`
+    for (const collapse of categories) {
+        const catId = collapse.id;
+        try {
+            const patches = await readJSON(`${jsonPath}/${catId}.json`);
+            const body = collapse.querySelector('.card-body');
+            body.innerHTML = '';
+
+            patches
+                .sort((a, b) => a.order - b.order)
+                .forEach(patch => {
+                    const card = document.createElement('div');
+                    card.className = 'card patch-card patch-selector';
+                    card.innerHTML = `
+                        <div class="card-body text-center">
+                            <div class="card-title mb-1">${patch.name}</div>
+                            <div class="justify-content-center gap-2 d-flex">
+                                <button class="btn btn-sm btn-dark" data-patch="${patch.filename}">Select</button>
+                                <button class="btn btn-sm btn-dark" data-preview="${patch.preview}">Preview</button>
+                            </div>
+                        </div>
+                    `;
+                    body.appendChild(card);
+                });
+        } catch(err) {
+            document.getElementById('errorMessage').innerHTML = buildError(`Error loading ${catId}.json: ${err.message}`);
+            collapse.querySelector('.card-body').innerHTML = '<p class="text-danger">Failed to load patches.</p>';
+        }
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fileName = `${jsonDir}/main.json`;
     const select = document.getElementById('patchFile');
@@ -131,6 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (basePatches.length > 0) {
                 select.value = basePatches[0].filename;
                 document.getElementById('description').value = basePatches[0].name;
+                loadPatches(basePatches[0].filename);
             }
         })
         .catch(error => {

@@ -1,0 +1,242 @@
+[
+    {
+        "order": 1,
+        "filename": "sprite_alt_serin.ips",
+        "name": "Alt Serin",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "sprite_alt_tifa.ips",
+        "name": "Alt Tifa",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 3,
+        "filename": "sprite_apple_knight_arc.ips",
+        "name": "Apple Knight Arc",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 4,
+        "filename": "sprite_archbishop_astral.ips",
+        "name": "Archbishop Astral",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 5,
+        "filename": "sprite_buccaneer_otis.ips",
+        "name": "Buccaneer Otis",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 6,
+        "filename": "sprite_classic_eiko.ips",
+        "name": "Classic Eiko",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 7,
+        "filename": "sprite_classic_golbez.ips",
+        "name": "Classic Golbez",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 8,
+        "filename": "sprite_cowgirl_tifa.ips",
+        "name": "Cowgirl Tifa",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 9,
+        "filename": "sprite_crisis_core_cloud.ips",
+        "name": "Crisis Core Cloud",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 10,
+        "filename": "sprite_dancer_mog.ips",
+        "name": "Dancer Mog",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 11,
+        "filename": "sprite_dark_esper_aurora.ips",
+        "name": "Dark Esper Aurora",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 12,
+        "filename": "sprite_dark_hair_ronan.ips",
+        "name": "Dark Hair Ronan",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 13,
+        "filename": "sprite_defender_heartless.ips",
+        "name": "Defender Heartless",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 14,
+        "filename": "sprite_dragoon_otis.ips",
+        "name": "Dragoon Otis",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 15,
+        "filename": "sprite_engineer_serin.ips",
+        "name": "Engineer Serin",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 16,
+        "filename": "sprite_ffv_pig_status.ips",
+        "name": "Ffv Pig Status",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 17,
+        "filename": "sprite_havoc_knight_avalon.ips",
+        "name": "Havoc Knight Avalon",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 18,
+        "filename": "sprite_hitman_oboro.ips",
+        "name": "Hitman Oboro",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 19,
+        "filename": "sprite_invisible_heartless.ips",
+        "name": "Invisible Heartless",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 20,
+        "filename": "sprite_lich_form_reaper.ips",
+        "name": "Lich Form Reaper",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 21,
+        "filename": "sprite_master_monk_ronan.ips",
+        "name": "Master Monk Ronan",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 22,
+        "filename": "sprite_miko_eiko.ips",
+        "name": "Miko Eiko",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 23,
+        "filename": "sprite_mist_demon_avalon.ips",
+        "name": "Mist Demon Avalon",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 24,
+        "filename": "sprite_piglet_status.ips",
+        "name": "Piglet Status",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 25,
+        "filename": "sprite_pumpkin_arc.ips",
+        "name": "Pumpkin Arc",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 26,
+        "filename": "sprite_royal_serin.ips",
+        "name": "Royal Serin",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 27,
+        "filename": "sprite_sorceress_aurora.ips",
+        "name": "Sorceress Aurora",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 28,
+        "filename": "sprite_summoner_eiko.ips",
+        "name": "Summoner Eiko",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 29,
+        "filename": "sprite_terminator_leo.ips",
+        "name": "Terminator Leo",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    },
+    {
+        "order": 30,
+        "filename": "sprite_younger_fusoya.ips",
+        "name": "Younger Fusoya",
+        "description": "",
+        "category": "sprite",
+        "preview": ""
+    }
+]

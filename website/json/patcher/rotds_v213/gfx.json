@@ -1,0 +1,50 @@
+[
+    {
+        "order": 1,
+        "filename": "gfx_alt_splash_screen.ips",
+        "name": "Alt Splash Screen",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "gfx_alt_window_designs.ips",
+        "name": "Alt Window Designs",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    },
+    {
+        "order": 3,
+        "filename": "gfx_cast_b.ips",
+        "name": "Cast B",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    },
+    {
+        "order": 4,
+        "filename": "gfx_fft_chocobo.ips",
+        "name": "Fft Chocobo",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    },
+    {
+        "order": 5,
+        "filename": "gfx_gemini_font.ips",
+        "name": "Gemini Font",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    },
+    {
+        "order": 6,
+        "filename": "gfx_suits_removed.ips",
+        "name": "Suits Removed",
+        "description": "",
+        "category": "gfx",
+        "preview": ""
+    }
+]

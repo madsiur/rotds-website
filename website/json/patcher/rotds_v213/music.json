@@ -1,0 +1,26 @@
+[
+    {
+        "order": 1,
+        "filename": "music_battle_music_restore.ips",
+        "name": "Battle Music Restore",
+        "description": "",
+        "category": "music",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "music_random_battle_song.ips",
+        "name": "Random Battle Song",
+        "description": "",
+        "category": "music",
+        "preview": ""
+    },
+    {
+        "order": 3,
+        "filename": "music_soundtrack_b.ips",
+        "name": "Soundtrack B",
+        "description": "",
+        "category": "music",
+        "preview": ""
+    }
+]

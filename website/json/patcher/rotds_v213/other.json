@@ -1,0 +1,42 @@
+[
+    {
+        "order": 1,
+        "filename": "other_anti-flash.ips",
+        "name": "Anti-Flash",
+        "description": "",
+        "category": "other",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "other_food_items.ips",
+        "name": "Food Items",
+        "description": "",
+        "category": "other",
+        "preview": ""
+    },
+    {
+        "order": 3,
+        "filename": "other_pig's_map.ips",
+        "name": "Pig'S Map",
+        "description": "",
+        "category": "other",
+        "preview": ""
+    },
+    {
+        "order": 4,
+        "filename": "other_remove_splash_screen.ips",
+        "name": "Remove Splash Screen",
+        "description": "",
+        "category": "other",
+        "preview": ""
+    },
+    {
+        "order": 5,
+        "filename": "other_skip_intro.ips",
+        "name": "Skip Intro",
+        "description": "",
+        "category": "other",
+        "preview": ""
+    }
+]

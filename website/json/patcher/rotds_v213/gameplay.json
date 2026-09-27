@@ -1,0 +1,122 @@
+[
+    {
+        "order": 1,
+        "filename": "gameplay_alt_battle_speed.ips",
+        "name": "Alt Battle Speed",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 2,
+        "filename": "gameplay_always_steal.ips",
+        "name": "Always Steal",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 3,
+        "filename": "gameplay_esper_unrestricted.ips",
+        "name": "Esper Unrestricted",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 4,
+        "filename": "gameplay_hold_button_to_advance_dialog.ips",
+        "name": "Hold Button To Advance Dialog",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 5,
+        "filename": "gameplay_jade_skull.ips",
+        "name": "Jade Skull",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 6,
+        "filename": "gameplay_natb.ips",
+        "name": "Natb",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 7,
+        "filename": "gameplay_nature_skill.ips",
+        "name": "Nature Skill",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 8,
+        "filename": "gameplay_no_dialog.ips",
+        "name": "No Dialog",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 9,
+        "filename": "gameplay_row_modifier.ips",
+        "name": "Row Modifier",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 10,
+        "filename": "gameplay_scrub_lolmode.ips",
+        "name": "Scrub Lolmode",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 11,
+        "filename": "gameplay_sir_astral_died.ips",
+        "name": "Sir Astral Died",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 12,
+        "filename": "gameplay_skill_select_menu.ips",
+        "name": "Skill Select Menu",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 13,
+        "filename": "gameplay_unrigged_slots.ips",
+        "name": "Unrigged Slots",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 14,
+        "filename": "gameplay_unrigged_slots_(layout_edit).ips",
+        "name": "Unrigged Slots (Layout Edit)",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    },
+    {
+        "order": 15,
+        "filename": "gameplay_walk_to_run_hold_b_to_walk.ips",
+        "name": "Walk To Run Hold B To Walk",
+        "description": "",
+        "category": "gameplay",
+        "preview": ""
+    }
+]

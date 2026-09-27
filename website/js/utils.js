@@ -5,16 +5,29 @@ async function fetchJson(url) {
 }
 
 async function readJSON(url) {
-  try {
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return await response.json();
+    } catch (err) {
+        console.error('Failed to read JSON:', err);
+        throw err;
     }
-    return await response.json();
-  } catch (err) {
-    console.error('Failed to read JSON:', err);
-    throw err;
-  }
+}
+
+async function readJSONNull(url) {
+  try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            return null;
+        }
+        return await response.json();
+    } catch (err) {
+        console.error('Failed to read JSON:', err);
+        return null;
+    }
 }
 
 function getUrlParams() {

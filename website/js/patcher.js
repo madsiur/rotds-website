@@ -112,35 +112,66 @@ function onPatchComplete(patchedBuffer) {
     });
 }
 
+function showCategory(catId) {
+    document.getElementById(`cat-${catId}`).style.display = '';
+    const collapse = document.getElementById(catId);
+    if (collapse.classList.contains('show')) {
+        collapse.classList.remove('show');
+        collapse.style.height = '';
+        collapse.style.overflow = '';
+        collapse.setAttribute('aria-expanded', 'false');
+    }
+}
+
+function hideCategory(catId) {
+    document.getElementById(`cat-${catId}`).style.display = 'none';
+}
+
+function clearCategory(id) {
+    document.querySelector(`#${id} .card-body`).innerHTML = '';
+}
+
 async function loadPatches(jsonDir) {
     const categories = document.querySelectorAll('#categories .collapse');
-    const jsonPath = `json/patcher/${jsonDir}`
+    const jsonPath = `json/patcher/${jsonDir}`;
+
+    const available = await readJSONNull(`${jsonPath}/manifest.json`);
+    if (!available) { 
+        return;
+    }
+
     for (const collapse of categories) {
         const catId = collapse.id;
-        try {
-            const patches = await readJSON(`${jsonPath}/${catId}.json`);
-            const body = collapse.querySelector('.card-body');
-            body.innerHTML = '';
 
-            patches
-                .sort((a, b) => a.order - b.order)
-                .forEach(patch => {
-                    const card = document.createElement('div');
-                    card.className = 'card patch-card patch-selector';
-                    card.innerHTML = `
-                        <div class="card-body text-center">
-                            <div class="card-title mb-1">${patch.name}</div>
-                            <div class="justify-content-center gap-2 d-flex">
-                                <button class="btn btn-sm btn-dark" data-patch="${patch.filename}">Select</button>
-                                <button class="btn btn-sm btn-dark" data-preview="${patch.preview}">Preview</button>
+        if (!available.includes(catId)) {
+            hideCategory(catId);
+            continue;
+        }
+        else {
+            const patches = await readJSONNull(`${jsonPath}/${catId}.json`);
+            if (patches) {
+                showCategory(catId);
+                const body = collapse.querySelector('.card-body');
+                patches
+                    .sort((a, b) => a.order - b.order)
+                    .forEach(patch => {
+                        const card = document.createElement('div');
+                        card.className = 'card patch-card patch-selector';
+                        card.innerHTML = `
+                            <div class="card-body text-center">
+                                <div class="card-title mb-1">${patch.name}</div>
+                                <div class="justify-content-center gap-2 d-flex">
+                                    <button class="btn btn-sm btn-dark" data-patch="${patch.filename}">Select</button>
+                                    <button class="btn btn-sm btn-dark" data-preview="${patch.preview}">Preview</button>
+                                </div>
                             </div>
-                        </div>
-                    `;
-                    body.appendChild(card);
-                });
-        } catch(err) {
-            document.getElementById('errorMessage').innerHTML = buildError(`Error loading ${catId}.json: ${err.message}`);
-            collapse.querySelector('.card-body').innerHTML = '<p class="text-danger">Failed to load patches.</p>';
+                        `;
+                        body.appendChild(card);
+                    });
+            } else {
+                hideCategory(catId);
+                document.getElementById('errorMessage').innerHTML = buildError(`Error loading ${catId}.json: ${error.message}`);
+            }
         }
     }
 }
@@ -177,6 +208,15 @@ document.getElementById('patchFile').addEventListener('change', function() {
     const selected = basePatches.find(item => item.filename === this.value);
     document.getElementById('description').value = selected ? selected.name : '';
     document.getElementById('downloadLink').classList.add('d-none');
+
+    clearCategory("gameplay");
+    clearCategory("gfx");
+    clearCategory("music");
+    clearCategory("osta");
+    clearCategory("ostb");
+    clearCategory("other");
+    clearCategory("sprite");
+    loadPatches(selected.filename);
 });
 
 document.getElementById('downloadLink').addEventListener('click', function () {

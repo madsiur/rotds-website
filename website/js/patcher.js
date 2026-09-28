@@ -3,8 +3,10 @@ let romFile;
 let romBuffer;
 let basePatches;
 let jsonDir = "json/patcher";
+let previewDir = "./patches/preview";
 let patcherDir = "patches";
 const selectedPatches = [];
+let patchDescriptions = {};
 
 const hashWorkder = new Worker('js/patcher.webworker.hash.js');
 const applyWorker = new Worker('js/RomPatcher.webworker.apply.js');
@@ -156,14 +158,16 @@ async function loadPatches(jsonDir) {
                 patches
                     .sort((a, b) => a.order - b.order)
                     .forEach(patch => {
+                        patchDescriptions[patch.filename] = patch.description;
                         const card = document.createElement('div');
                         card.className = 'card patch-card patch-selector';
                         card.innerHTML = `
                             <div class="card-body text-center">
                                 <div class="card-title mb-1">${patch.name}</div>
-                                <div class="justify-content-center gap-2 d-flex">
-                                    <button class="btn btn-sm btn-dark" data-patch="${patch.filename}" data-selected="false">Select</button>
-                                    <button class="btn btn-sm btn-dark" data-preview="${patch.preview}">Preview</button>
+                                <div class="align-items-center gap-2 d-flex flex-column">
+                                    <button class="btn btn-sm btn-dark btn-patch-card" data-patch="${patch.filename}" data-selected="false">Select</button>
+                                    ${patch.preview ? `<button class="btn btn-sm btn-dark btn-patch-card" data-preview="${patch.preview}">Preview</button>` : ''}
+                                    ${patch.description ? `<button class="btn btn-sm btn-dark btn-patch-card">Description</button>` : ''}
                                 </div>
                             </div>
                         `;
@@ -205,7 +209,35 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 });
 
+document.getElementById('descClose').addEventListener('click', () => {
+    document.getElementById('descOverlay').classList.add('d-none');
+});
+
+document.getElementById('descOverlay').addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) {
+        e.currentTarget.classList.add('d-none');
+    }
+});
+
 document.querySelector('#categories').addEventListener('click', (e) => {
+    const prevBtn = e.target.closest('[data-preview]');
+    if (prevBtn) {
+        const previewId = prevBtn.dataset.preview;
+        const content = document.getElementById('descContent');
+        content.innerHTML = `<img src="${previewDir}/rotds_v213/${previewId}" class="previewImage">`;
+        document.getElementById('descOverlay').classList.remove('d-none');
+        return;
+    }
+
+    const descBtn = e.target.closest('.btn-patch-card:not([data-patch]):not([data-preview])');
+    if (descBtn) {
+        const card = descBtn.closest('.card');
+        const patchId = card.querySelector('[data-patch]').dataset.patch;
+        document.getElementById('descContent').textContent = patchDescriptions[patchId] || '';
+        document.getElementById('descOverlay').classList.remove('d-none');
+        return;
+    }
+
     const btn = e.target.closest('[data-selected]');
     if (!btn) return;
 
@@ -225,6 +257,7 @@ document.getElementById('patchFile').addEventListener('change', function() {
     document.getElementById('description').value = selected ? selected.name : '';
     document.getElementById('downloadLink').classList.add('d-none');
     selectedPatches.length = 0;
+    patchDescriptions = {};
 
     clearCategory("gameplay");
     clearCategory("gfx");

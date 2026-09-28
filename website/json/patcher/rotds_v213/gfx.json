@@ -3,47 +3,47 @@
         "order": 1,
         "filename": "gfx_alt_splash_screen.ips",
         "name": "Alt Splash Screen",
-        "description": "",
+        "description": "Changes the 'splash screen' as it's called, which is the very first screen you see when the game fires up, to a different one that is red and black with God Kefka. Useful for any folks and/or streamers who do not wish to have the playable characters spoiled by them being on the splash screen.",
         "category": "gfx",
-        "preview": ""
+        "preview": "gfx_alt_splash_screen.png"
     },
     {
         "order": 2,
         "filename": "gfx_alt_window_designs.ips",
         "name": "Alt Window Designs",
-        "description": "",
+        "description": "Changes all 7 of the window background/wallpaper to 7 different ones. If you use this patch after already starting up a game, you can fix the bad-looking window colors by reseting them in the config menu by pressing A on 'Window'.",
         "category": "gfx",
         "preview": ""
     },
     {
         "order": 3,
         "filename": "gfx_cast_b.ips",
-        "name": "Cast B",
-        "description": "",
+        "name": "Side B GFX",
+        "description": "Side B GFX is simply all of the first round alternate main character graphics patches found in the 'extras' folder combined into one. Great for a repeat player or New Game +! Eventually we plan to have a 'costume room' sort of deal ala T-Edition, but for now this will have to suffice.",
         "category": "gfx",
-        "preview": ""
+        "preview": "gfx_cast_b.png"
     },
     {
         "order": 4,
         "filename": "gfx_fft_chocobo.ips",
         "name": "Fft Chocobo",
-        "description": "",
+        "description": "This patch changes the classic vanilla FF6 chocobo into the Final Fantasy Tactics variant. This includes it's overworld sprite, mode 7 sprites. (riding and dismounting)",
         "category": "gfx",
-        "preview": ""
+        "preview": "gfx_fft_chocobo.png"
     },
     {
         "order": 5,
         "filename": "gfx_gemini_font.ips",
         "name": "Gemini Font",
-        "description": "",
+        "description": "This patch changes the default FF6 GBA small font (dialog) to that of Gemini's custom VWF he made for his Final Fantasy IV Prettified project.",
         "category": "gfx",
-        "preview": ""
+        "preview": "gfx_gemini_font.png"
     },
     {
         "order": 6,
         "filename": "gfx_suits_removed.ips",
         "name": "Suits Removed",
-        "description": "",
+        "description": "This patch will remove the sprite-change function that a few of the armors labeled as 'Suits' have, such as the Yeti Suit for instance. Just in case they become annoying.",
         "category": "gfx",
         "preview": ""
     }

@@ -80,6 +80,47 @@
     background-color: #bbcbe6;
 }
 
+.btn-patch-card {
+    min-width: 160px;
+    max-width: 160px;
+}
+
 [data-selected="true"] {
     background-color: var(--bs-success);
+}
+
+.descOverlayContent {
+    width: 566px;
+    height: 502px;
+    background: linear-gradient(to bottom, #bbcbe6 0%, #f0f0ff 25%, #f0f0ff 75%, #bbcbe6 100%);
+    border: 3px solid #212529;
+    border-radius: 8px;
+    position: relative;
+    padding: 24px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.descOverlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1050;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.5);
+}
+
+.descContent {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.previewImage {
+    max-width:100%;
+    max-height:100%;
+    object-fit:contain;
 }

@@ -3,240 +3,240 @@
         "order": 1,
         "filename": "sprite_alt_serin.ips",
         "name": "Alt Serin",
-        "description": "",
+        "description": "This patch replaces Serin's sprite and portrait with the one from the previous versions.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_alt_serin.png"
     },
     {
         "order": 2,
         "filename": "sprite_alt_tifa.ips",
         "name": "Alt Tifa",
-        "description": "",
+        "description": "This patch simply changes Tifa to an alternate-colored hair Tifa sprite.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_alt_tifa.png"
     },
     {
         "order": 3,
         "filename": "sprite_apple_knight_arc.ips",
         "name": "Apple Knight Arc",
-        "description": "",
+        "description": "This patch changes Arc's Onion Knight sprite and portrait to that of a healthy green apple! His class name however will remain 'Onion Knight', due to the dialog.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_apple_knight_arc.png"
     },
     {
         "order": 4,
         "filename": "sprite_archbishop_astral.ips",
         "name": "Archbishop Astral",
-        "description": "",
+        "description": "This patch changes Astral's Wizard-looking sprite and portrait into that of a holy Bishop.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_archbishop_astral.png"
     },
     {
         "order": 5,
         "filename": "sprite_buccaneer_otis.ips",
         "name": "Buccaneer Otis",
-        "description": "",
+        "description": "This patch changes Otis's sprite and portrait to a more buccaneer-styled pirate.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_buccaneer_otis.png"
     },
     {
         "order": 6,
         "filename": "sprite_classic_eiko.ips",
         "name": "Classic Eiko",
-        "description": "",
+        "description": "This patch replaces the default Record Keeper Eiko's sprite with the previous version/older 'classic' Eiko sprite made by Poco Loco oh so long ago.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_classic_eiko.png"
     },
     {
         "order": 7,
         "filename": "sprite_classic_golbez.ips",
         "name": "Classic Golbez",
-        "description": "",
+        "description": "This patch changes Golbez's sprite and portrait to a much more FF4 variation.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_classic_golbez.png"
     },
     {
         "order": 8,
         "filename": "sprite_cowgirl_tifa.ips",
         "name": "Cowgirl Tifa",
-        "description": "",
+        "description": "This patch changes Tifa's sprite and portrait to her western cowgirl attire from her younger days in FF7.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_cowgirl_tifa.png"
     },
     {
         "order": 9,
         "filename": "sprite_crisis_core_cloud.ips",
         "name": "Crisis Core Cloud",
-        "description": "",
+        "description": "This patch changes Clouds's sprite and portrait to that of his Crisis Core attire.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_crisis_core_cloud.png"
     },
     {
         "order": 10,
         "filename": "sprite_dancer_mog.ips",
         "name": "Dancer Mog",
-        "description": "",
+        "description": "This patch changes Mog's sprite and portrait to another version: Dancer Mog! This will of course change every other Moogle sprite in the game as well, because they all share the same sprite ID. All the playable moogles' portraits have been updated to match as well.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_dancer_mog.png"
     },
     {
         "order": 11,
         "filename": "sprite_dark_esper_aurora.ips",
         "name": "Dark Esper Aurora",
-        "description": "",
+        "description": "This patch changes Aurora's palette back to the pre-version 2.9 palette, where she has dark hair and dress.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_dark_esper_aurora.png"
     },
     {
         "order": 12,
         "filename": "sprite_dark_hair_ronan.ips",
         "name": "Dark Hair Ronan",
-        "description": "",
+        "description": "This patch simply changes Ronan's red hair back to how it was in previous versions (black/grey), with red on his pants.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_dark_hair_ronan.png"
     },
     {
         "order": 13,
         "filename": "sprite_defender_heartless.ips",
         "name": "Defender Heartless",
-        "description": "",
+        "description": "This patch changes Shadow the Heartless's sprite and portrait to a bigger, evolved form of sorts, called a Defender, which is also from the Kingdom Hearts universe.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_defender_heartless.png"
     },
     {
         "order": 14,
         "filename": "sprite_dragoon_otis.ips",
         "name": "Dragoon Otis",
-        "description": "",
+        "description": "This patch changes Otis to an alternate Dragoon sprite and portrait.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_dragoon_otis.png"
     },
     {
         "order": 15,
         "filename": "sprite_engineer_serin.ips",
         "name": "Engineer Serin",
-        "description": "",
+        "description": "This patch changes Serin's sprite and portrait to an engineer reminiscent of Cid from FFIV, with a touch of Mega Man.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_engineer_serin.png"
     },
     {
         "order": 16,
         "filename": "sprite_ffv_pig_status.ips",
         "name": "Ffv Pig Status",
-        "description": "",
+        "description": "This patch changes the pig sprite back to the previous (FFV) version.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_ffv_pig_status.png"
     },
     {
         "order": 17,
         "filename": "sprite_havoc_knight_avalon.ips",
         "name": "Havoc Knight Avalon",
-        "description": "",
+        "description": "This patch changes Avalon's sprite and portrait to that of a fully armored Shovel Knight-looking badass: Havoc Knight Avalon!",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_havoc_knight_avalon.png"
     },
     {
         "order": 18,
         "filename": "sprite_hitman_oboro.ips",
         "name": "Hitman Oboro",
-        "description": "",
+        "description": "This patch changes Oboro's sprite and portrait to a version reminiscent of Hitman (bald with a suit).",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_hitman_oboro.png"
     },
     {
         "order": 19,
         "filename": "sprite_invisible_heartless.ips",
         "name": "Invisible Heartless",
-        "description": "",
+        "description": "This patch changes Shadow the Heartless's sprite and portrait to a much more intimidating version that is the dreaded Invisible, also from the Kingdom Hearts universe.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_invisible_heartless.png"
     },
     {
         "order": 20,
         "filename": "sprite_lich_form_reaper.ips",
         "name": "Lich Form Reaper",
-        "description": "",
+        "description": "This patch changes Reapers's sprite and portrait to another version: Lich-form Reaper.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_lich_form_reaper.png"
     },
     {
         "order": 21,
         "filename": "sprite_master_monk_ronan.ips",
         "name": "Master Monk Ronan",
-        "description": "",
+        "description": "This patch changes Ronan's sprite and portrait to another version: Master Ronan! Basically he resembles more a Kung Fu master, which is pretty awesome.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_master_monk_ronan.png"
     },
     {
         "order": 22,
         "filename": "sprite_miko_eiko.ips",
         "name": "Miko Eiko",
-        "description": "",
+        "description": "This patch changes Eiko's sprite and portrait to that of a Japanaese 'shrine maiden', called a Miko.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_miko_eiko.png"
     },
     {
         "order": 23,
         "filename": "sprite_mist_demon_avalon.ips",
         "name": "Mist Demon Avalon",
-        "description": "",
+        "description": "This patch changes Avalon's sprite and portrait to a mistly demon-like form, with horns, wings, and claws akin to that of a dragon.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_mist_demon_avalon.png"
     },
     {
         "order": 24,
         "filename": "sprite_piglet_status.ips",
         "name": "Piglet Status",
-        "description": "",
+        "description": "This patch changes the Pig Status sprite and portrait to that of an awfully cute quadrupedal piglet!",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_piglet_status.png"
     },
     {
         "order": 25,
         "filename": "sprite_pumpkin_arc.ips",
         "name": "Pumpkin Arc",
-        "description": "",
+        "description": "This patch changes Arc's Onion Knight sprite and portrait to that of a familiar spooky orange squash: Pumpkin Knight Arc! His class name however will remain 'Onion Knight', due to the character length and dialog.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_pumpkin_arc.png"
     },
     {
         "order": 26,
         "filename": "sprite_royal_serin.ips",
         "name": "Royal Serin",
-        "description": "",
+        "description": "This patch changes Serin's sprite and portrait to that fitting of a true king!",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_royal_serin.png"
     },
     {
         "order": 27,
         "filename": "sprite_sorceress_aurora.ips",
         "name": "Sorceress Aurora",
-        "description": "",
+        "description": "This patch changes Aurora's sprite and portrait to another version: Sorceress Aurora! She dons a beautiful FF8 Sorceress-inspired garment.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_sorceress_aurora.png"
     },
     {
         "order": 28,
         "filename": "sprite_summoner_eiko.ips",
         "name": "Summoner Eiko",
-        "description": "",
+        "description": "This patch changes Eiko's sprite and portrait to a different more FFX Summoner look.",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_summoner_eiko.png"
     },
     {
         "order": 29,
         "filename": "sprite_terminator_leo.ips",
         "name": "Terminator Leo",
-        "description": "",
+        "description": "This patch changes General Leo's sprite and portrait to that akin of a full-blown T-800 Terminator!",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_terminator_leo.png"
     },
     {
         "order": 30,
         "filename": "sprite_younger_fusoya.ips",
         "name": "Younger Fusoya",
-        "description": "",
+        "description": "This patch changes Fusoya's sprite and portrait to what one might imagine Fusoya to look like in his not so old/middle-aged prime, which would still be incredible old compared to our feeble human lifespans!",
         "category": "sprite",
-        "preview": ""
+        "preview": "sprite_younger_fusoya.png"
     }
 ]

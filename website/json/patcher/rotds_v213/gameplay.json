@@ -3,7 +3,7 @@
         "order": 1,
         "filename": "gameplay_alt_battle_speed.ips",
         "name": "Alt Battle Speed",
-        "description": "",
+        "description": "Characters are affected by the 'battle speed' option in the config menu. The patch use higher/faster values for the ATB multipliers. It also fixes the overflow error when a character's speed goes over 235.",
         "category": "gameplay",
         "preview": ""
     },
@@ -11,7 +11,7 @@
         "order": 2,
         "filename": "gameplay_always_steal.ips",
         "name": "Always Steal",
-        "description": "",
+        "description": "If the monster has a rare and common item, it will steal the rare 100% of the time, and there's no longer steal miss at all. You can then also steal the common one after the rare one. This patch is more or less a cheat, so keep that in mind when deciding to apply it or not.",
         "category": "gameplay",
         "preview": ""
     },
@@ -19,7 +19,7 @@
         "order": 3,
         "filename": "gameplay_esper_unrestricted.ips",
         "name": "Esper Unrestricted",
-        "description": "",
+        "description": "This patch allows every character to equip any esper again, like it is in the original game.",
         "category": "gameplay",
         "preview": ""
     },
@@ -27,23 +27,23 @@
         "order": 4,
         "filename": "gameplay_hold_button_to_advance_dialog.ips",
         "name": "Hold Button To Advance Dialog",
-        "description": "",
+        "description": "This patch makes it so that holding the 'confirm' button, which is normally the 'A' button, will advance dialog text, instead of needing to press it.",
         "category": "gameplay",
         "preview": ""
     },
     {
         "order": 5,
         "filename": "gameplay_jade_skull.ips",
-        "name": "Jade Skull",
-        "description": "",
+        "name": "Jade Skull From The Start",
+        "description": "This patch adds a coveted Jade Skull Relic (no random encounters) into Aurora's Relic 1 slot, upon starting a New Game. Normally this Relic is incredibly challenging to obtain...this patch is meant as a sort of 'cheat' for those who wish to control random monster encounters from the get-go, or for those who are doing a 'no random encounter' run.",
         "category": "gameplay",
         "preview": ""
     },
     {
         "order": 6,
         "filename": "gameplay_natb.ips",
-        "name": "Natb",
-        "description": "",
+        "name": "nATB",
+        "description": "What is nATB?  It is a modification to the FF6 Active Time Battle mechanic that forces the ATB meters to pause while an animation is playing.  nATB makes differences in the speed stat more significant and will most assuredly increase any of the game's four difficulties by giving monsters more opportunities to attack.",
         "category": "gameplay",
         "preview": ""
     },
@@ -51,7 +51,7 @@
         "order": 7,
         "filename": "gameplay_nature_skill.ips",
         "name": "Nature Skill",
-        "description": "",
+        "description": "his patch changes the 'Inverse' skill to 'Nature', which chooses a spell randomly from a table of sixteen spells.",
         "category": "gameplay",
         "preview": ""
     },
@@ -59,7 +59,7 @@
         "order": 8,
         "filename": "gameplay_no_dialog.ips",
         "name": "No Dialog",
-        "description": "",
+        "description": "Removes the dialog outside of battles, unless it's something that requires a choice. Perfect for K@N races!",
         "category": "gameplay",
         "preview": ""
     },
@@ -67,15 +67,15 @@
         "order": 9,
         "filename": "gameplay_row_modifier.ips",
         "name": "Row Modifier",
-        "description": "",
+        "description": "This patch changes both the physical damage given (Fight) and received while in the back row from 50% less to 25%, which makes things both a bit easier and harder at the same time. This will also unintentionally nerf the effects of 'same damage from back row' weapons, and the Reverse Polarity monster spell.",
         "category": "gameplay",
         "preview": ""
     },
     {
         "order": 10,
         "filename": "gameplay_scrub_lolmode.ips",
-        "name": "Scrub Lolmode",
-        "description": "",
+        "name": "Scrub LolMode",
+        "description": "This patch doubles the experience gained, doubles GP & halves the encounter rate. Think of it as an 'easy mode' of sorts. Relics that effect these things should still work as intended with this patch. This patch will obviously make the game easier, as well as less time-consuming & tedious in terms of grinding. It should work with/can be placed on top of any of the difficulties.",
         "category": "gameplay",
         "preview": ""
     },
@@ -83,7 +83,7 @@
         "order": 11,
         "filename": "gameplay_sir_astral_died.ips",
         "name": "Sir Astral Died",
-        "description": "",
+        "description": "This patch brings back the 'Banon (Sir Astral) cannot die or else game over' dynamic, for those of you who wish to show off or challenge yourself.",
         "category": "gameplay",
         "preview": ""
     },
@@ -91,7 +91,7 @@
         "order": 12,
         "filename": "gameplay_skill_select_menu.ips",
         "name": "Skill Select Menu",
-        "description": "",
+        "description": "This patch changes both Limit Break (Sword Tech) and Combo (Blitz) to instead be selected from a menu, like Dance. Combo is renamed to Chi.",
         "category": "gameplay",
         "preview": ""
     },
@@ -99,7 +99,7 @@
         "order": 13,
         "filename": "gameplay_unrigged_slots.ips",
         "name": "Unrigged Slots",
-        "description": "",
+        "description": "This patch, made by Master ZED a million years ago, will unrig the slots that are rigged against you.",
         "category": "gameplay",
         "preview": ""
     },
@@ -107,7 +107,7 @@
         "order": 14,
         "filename": "gameplay_unrigged_slots_(layout_edit).ips",
         "name": "Unrigged Slots (Layout Edit)",
-        "description": "",
+        "description": "This patch, made by Master ZED a million years ago, will unrig the slots that are rigged against you. The Slot Reel Layout edit makes the unrigged slots much more forgiving by coupling the same symbols.",
         "category": "gameplay",
         "preview": ""
     },
@@ -115,7 +115,7 @@
         "order": 15,
         "filename": "gameplay_walk_to_run_hold_b_to_walk.ips",
         "name": "Walk To Run Hold B To Walk",
-        "description": "",
+        "description": "This patch makes it so instead of holding B to run, it will make you walk. You will now run by default/pressing nothing.",
         "category": "gameplay",
         "preview": ""
     }

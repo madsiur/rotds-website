@@ -4,11 +4,11 @@ from jinja2 import Environment, FileSystemLoader
 
 def write_page(website_dir, templates_dir, cons=helpers.get_constants()):
     env = Environment(loader=FileSystemLoader(templates_dir))
-    template = env.get_template("home.html")
+    template = env.get_template("index.html")
 
     levels = ""
     img_name = "title_screen.png"
-    url = "home.html"
+    url = "index.html"
     title = "Homepage"
     meta_description = "Homepage {0}".format(cons.COMMON_DESC)
     img_url = f"{cons.MEDIA_DIR}/{img_name}"

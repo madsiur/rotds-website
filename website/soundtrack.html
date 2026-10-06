@@ -27,10 +27,11 @@
             RotDS - Soundtrack
         </title>
         <link href="css/bootstrap-5.3.6.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" rel="stylesheet"/>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/common.css" rel="stylesheet" type="text/css"/>
         <link href="css/ost.css" rel="stylesheet" type="text/css"/>
-        <link href="css/spc_player.css" rel="stylesheet" type="text/css"/>
+        <link href="https://unpkg.com/@smwcentral/spc-player@2.0.2/dist/spc_player.css" rel="stylesheet"/>
     </head>
     <body class="page-color d-flex flex-column h-100">
         <nav class="navbar custom-collapse navbar-dark bg-dark">
@@ -44,6 +45,11 @@
                 </a>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="patcher.html">
+                                Patcher
+                            </a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" href="soundtrack.html">
                                 Soundtrack
@@ -189,95 +195,133 @@
             <!-- github.com/telinc1/smwcentral-spc-player -->
             <input id="spc-player-toggle" type="checkbox"/>
             <input checked="" id="spc-player-loop" type="checkbox"/>
-            <input id="spc-player-move" type="checkbox"/>
             <div class="spc-player" id="spc-player-interface">
-                <div class="header">
+                <div class="header" id="spc-player-header">
                     <div class="group-left">
-                        <label class="toggle" for="spc-player-toggle" title="Toggle player">
-                            <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z">
+                        <label class="toggle header-button" for="spc-player-toggle" title="Toggle player">
+                            <svg class="shrink" height="24" viewbox="0 0 24 24" width="24">
+                                <path d="m 9,5 3,3 3,-3 z m -4,6 v 2 h 14 v -2 z m 7,5 -3,3 h 6 z">
+                                </path>
+                            </svg>
+                            <svg class="expand" height="24" viewbox="0 0 24 24" width="24">
+                                <path d="m 9,7 3,-3 3,3 z m -4,4 v 2 h 14 v -2 z m 7,9 -2.798151,-3 H 15 Z">
                                 </path>
                             </svg>
                         </label>
-                        <a class="pause" title="Pause song">
-                            <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z">
-                                </path>
-                            </svg>
-                        </a>
-                        <a class="play hidden" title="Resume song">
-                            <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M8 5v14l11-7z">
-                                </path>
-                            </svg>
-                        </a>
+                        <span>
+                            SPC Player
+                        </span>
+                    </div>
+                    <div class="now-playing">
+                        <span class="title">
+                        </span>
                     </div>
                     <div class="group-right">
-                        <label class="loop" for="spc-player-loop" title="Toggle looping">
-                            <svg class="check" height="16" viewbox="0 0 24 24" width="16">
-                                <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z">
-                                </path>
-                            </svg>
+                        <a class="stop close header-button" title="Close">
                             <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z">
-                                </path>
-                            </svg>
-                        </label>
-                        <a class="restart" title="Restart song">
-                            <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z">
-                                </path>
-                            </svg>
-                        </a>
-                        <a class="stop" title="Stop song">
-                            <svg height="24" viewbox="0 0 24 24" width="24">
-                                <path d="M6 6h12v12H6z">
+                                <path d="M 7.3847656,5.6152344 5.6152344,7.3847656 10.230469,12 5.6152344,16.615234 7.3847656,18.384766 12,13.769531 16.615234,18.384766 18.384766,16.615234 13.769531,12 18.384766,7.3847656 16.615234,5.6152344 12,10.230469 Z">
                                 </path>
                             </svg>
                         </a>
                     </div>
                 </div>
-                <h2>
-                    Song Title
-                </h2>
-                <h3 style="display: none;">
-                </h3>
-                <aside style="display: none;">
-                </aside>
-                <div class="seek" style="display: none;">
-                    <span>
-                    </span>
-                </div>
-                <ul style="display: none;">
-                </ul>
-                <div class="volume">
-                    <svg height="24" viewbox="0 0 24 24" width="24">
-                        <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z">
-                        </path>
-                    </svg>
-                    <span>
-                        100%
-                    </span>
-                    <div class="volume-control">
-                        <div class="slider" title="Volume">
-                            <div class="fill">
+                <div class="player-content" id="spc-player-content">
+                    <div class="track-info">
+                        <h2 class="title">
+                            Song Title
+                        </h2>
+                        <h3 class="subtitle">
+                        </h3>
+                        <div class="details">
+                        </div>
+                    </div>
+                    <div class="seek-container">
+                        <span class="track-time-elapsed">
+                        </span>
+                        <div class="seek">
+                            <span class="seek-preview">
+                            </span>
+                        </div>
+                        <span class="track-duration">
+                        </span>
+                    </div>
+                    <div class="controls" id="spc-player-controls">
+                        <div class="group-left">
+                            <a class="play hidden" title="Resume song">
+                                <svg height="24" viewbox="0 0 24 24" width="24">
+                                    <path d="M7 5v14l12-7Z">
+                                    </path>
+                                </svg>
+                            </a>
+                            <a class="pause" title="Pause song">
+                                <svg height="24" viewbox="0 0 24 24" width="24">
+                                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z">
+                                    </path>
+                                </svg>
+                            </a>
+                            <a class="hidden" id="spc-player-skip" title="Skip song">
+                                <svg height="24" viewbox="0 0 24 24" width="24">
+                                    <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z">
+                                    </path>
+                                </svg>
+                            </a>
+                            <a class="restart" title="Restart song">
+                                <svg height="24" viewbox="0 0 24 24" width="24">
+                                    <path d="M 12,5 V 1 l -5,5 5,5 V 7 c 3.31,0 6,2.69 6,6 0,3.31 -2.69,6 -6,6 C 8.69,19 6,16.31 6,13 H 4 c 0,4.42 3.58,8 8,8 4.42,0 8,-3.58 8,-8 0,-4.42 -3.58,-8 -8,-8 z">
+                                    </path>
+                                </svg>
+                            </a>
+                            <label class="loop" for="spc-player-loop" title="Toggle looping">
+                                <svg height="24" viewbox="0 0 24 24" width="24">
+                                    <path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z">
+                                    </path>
+                                </svg>
+                            </label>
+                        </div>
+                        <div class="volume" id="spc-player-volume">
+                            <span class="volume-level">
+                                100%
+                            </span>
+                            <svg height="24" viewbox="0 0 24 24" width="24">
+                                <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z">
+                                </path>
+                            </svg>
+                            <div class="volume-control">
+                                <input id="volume-slider" title="Volume" type="range"/>
+                                <div class="volume-track">
+                                    <div class="volume-fill">
+                                    </div>
+                                    <div class="volume-thumb">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="hidden" id="track-list-container">
+                        <div class="overflow-indicator top">
+                        </div>
+                        <div class="track-list-scrollbox">
+                            <ul class="track-list">
+                            </ul>
+                        </div>
+                        <div class="overflow-indicator bottom">
+                        </div>
+                    </div>
+                    <div class="up-next hidden" id="spc-player-up-next">
+                        <span>
+                            Up Next:
+                        </span>
+                        <a id="spc-player-up-next-link" target="_blank" title="Opens in a new tab">
+                        </a>
+                    </div>
                 </div>
-                <label class="move" for="spc-player-move" title="Move player">
-                    <svg height="24" viewbox="0 0 24 24" width="24">
-                        <path d="M14 7l-5 5 5 5V7z">
-                        </path>
-                    </svg>
-                </label>
             </div>
             <!-- end smwcentral-spc-player code -->
         </main>
         <footer class="footer mt-auto bg-dark text-white text-center py-1">
             <div class="container">
                 <div>
-                    2025 Return of the Dark Sorcerer. Website by madsiur.
+                    2026 Return of the Dark Sorcerer. Website by madsiur.
                 </div>
             </div>
         </footer>
@@ -295,7 +339,7 @@
         </script>
         <script src="js/ost.js">
         </script>
-        <script src="https://unpkg.com/@smwcentral/spc-player@1.2.0/dist/spc.js">
+        <script src="https://unpkg.com/@smwcentral/spc-player@2.0.2/dist/spc.js">
         </script>
         <script>
             initSessionVar("monster_gallery_page", 1);

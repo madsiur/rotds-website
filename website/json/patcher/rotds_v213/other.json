@@ -3,7 +3,7 @@
         "order": 1,
         "filename": "other_anti-flash.ips",
         "name": "Anti-Flash",
-        "description": "",
+        "description": "The purpose of this patch is to remove any flashes from the game that could possibly trigger seizures due to photosensitive epilepsy. So far there are three major event-related flash instances that this patch will remove, but in the future I hope to remove any more from spells and other events or what have you, but for now it at least takes care of the major ones.",
         "category": "other",
         "preview": ""
     },
@@ -11,15 +11,15 @@
         "order": 2,
         "filename": "other_food_items.ips",
         "name": "Food Items",
-        "description": "",
+        "description": "Changes the classic Final Fantasy items (Potion, Ether...) to that of food-related items, just for the hell of it.",
         "category": "other",
         "preview": ""
     },
     {
         "order": 3,
         "filename": "other_pig's_map.ips",
-        "name": "Pig'S Map",
-        "description": "",
+        "name": "Pig's Map",
+        "description": "This patch is the other half of the 'Imp's Map' patch that changes characters who have Imp/Pig status to the Pig sprite for the area maps as well as the overworld. It was broken up as an optional patch because for the area maps there's a palette issue that still needs figuring out, and because it can potentially take away from the sincerity of events.",
         "category": "other",
         "preview": ""
     },
@@ -27,7 +27,7 @@
         "order": 4,
         "filename": "other_remove_splash_screen.ips",
         "name": "Remove Splash Screen",
-        "description": "",
+        "description": "Removes the 'splash screen' as it's called, which is the very first screen you see when the game fires up. Useful for any folks and/or streamers who do not wish to have the playable characters spoiled by them being on the splash screen, or just to save a second of time/the repeated annoyance of seeing it every time.",
         "category": "other",
         "preview": ""
     },
@@ -35,7 +35,7 @@
         "order": 5,
         "filename": "other_skip_intro.ips",
         "name": "Skip Intro",
-        "description": "",
+        "description": "This patch removes the custom intro at the very beginning of the game if there is no save data present, for any who may be sick of seeing it.",
         "category": "other",
         "preview": ""
     }

@@ -3,512 +3,512 @@
         "order": 1,
         "filename": "osta_breath_of_fire_-_a_brave_general.ips",
         "name": "Breath Of Fire - A Brave General",
-        "description": "",
+        "description": "Replaces the battle song that is used for the mini-boss at the Battle of Narshe with the Brave General boss song from Breath of Fire.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_breath_of_fire_-_a_brave_general.spc"
     },
     {
         "order": 2,
         "filename": "osta_chrono_trigger_-_fanfare.ips",
         "name": "Chrono Trigger - Fanfare",
-        "description": "",
+        "description": "Replaces Saga Frontier - Victory (WoB battle fanfare) with Chrono Trigger - Fanfare.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_chrono_trigger_-_fanfare.spc"
     },
     {
         "order": 3,
         "filename": "osta_dbz_-_solid_state_scouter.ips",
-        "name": "Dbz - Solid State Scouter",
-        "description": "",
+        "name": "DBZ - Solid State Scouter",
+        "description": "Changes the song for the battle against Raditz to one from the Dragon Ball Z Original Soundtrack: Solid State Scouter.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_dbz_-_solid_state_scouter.spc"
     },
     {
         "order": 4,
         "filename": "osta_dbz_super_butouden_2_-_vageta's_theme.ips",
-        "name": "Dbz Super Butouden 2 - Vageta'S Theme",
-        "description": "",
+        "name": "DBZ Super Butouden 2 - Vageta's Theme",
+        "description": "Replaces the song that plays for the Ultros 4 battle with Dragon Ball Z Super Butouden 2 -  Vegeta's Theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_dbz_super_butouden_2_-_vageta's_theme.spc"
     },
     {
         "order": 5,
         "filename": "osta_doranarasi_-_battle_1_(wob).ips",
-        "name": "Doranarasi - Battle 1 (Wob)",
-        "description": "",
+        "name": "Doranarasi - Battle 1 (WoB)",
+        "description": "This is an amazing Romancing Saga-inspired original song by doranarasi. It replaces the normal battle theme in the WoB.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_doranarasi_-_battle_1_(wob).spc"
     },
     {
         "order": 6,
         "filename": "osta_doranarasi_-_battle_1_(wor).ips",
-        "name": "Doranarasi - Battle 1 (Wor)",
-        "description": "",
+        "name": "Doranarasi - Battle 1 (WoR)",
+        "description": "This is an amazing Romancing Saga-inspired original song by doranarasi. It replaces the normal battle theme in the WoR.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_doranarasi_-_battle_1_(wor).spc"
     },
     {
         "order": 7,
         "filename": "osta_doranarasi_-_battle_2.ips",
         "name": "Doranarasi - Battle 2",
-        "description": "",
+        "description": "This is an amazing Romancing Saga-inspired original song by doranarasi. It replaces the normal bos theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_doranarasi_-_battle_2.spc"
     },
     {
         "order": 8,
         "filename": "osta_ffi_-_battle_scene_(wob).ips",
-        "name": "Ffi - Battle Scene (Wob)",
-        "description": "",
+        "name": "FFI - Battle Scene (WoB)",
+        "description": "Replaces the regular WoB battle theme with a version of the FF1 battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffi_-_battle_scene_(wob).spc"
     },
     {
         "order": 9,
         "filename": "osta_ffi_-_battle_scene_(wor).ips",
-        "name": "Ffi - Battle Scene (Wor)",
-        "description": "",
+        "name": "FFI - Battle Scene (WoR)",
+        "description": "Replaces the regular WoR battle theme with a version of the FF1 battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffi_-_battle_scene_(wor).spc"
     },
     {
         "order": 10,
         "filename": "osta_ffi_-_matoya's_cave.ips",
-        "name": "Ffi - Matoya'S Cave",
-        "description": "",
+        "name": "FFI - Matoya's Cave",
+        "description": "Replaces the song played inside the Zone Eater with the classic tune from FF1, Matoya's Cave.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffi_-_matoya's_cave.spc"
     },
     {
         "order": 11,
         "filename": "osta_ffiii_-_dark_world.ips",
-        "name": "Ffiii - Dark World",
-        "description": "",
+        "name": "FFIII - Dark World",
+        "description": "Replaces Underworld - Terranigma (WoR Overworld) with FFIII - Dark World.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiii_-_dark_world.spc"
     },
     {
         "order": 12,
         "filename": "osta_ffiii_-_djinn's_curse.ips",
-        "name": "Ffiii - Djinn'S Curse",
-        "description": "",
+        "name": "FFIII - Djinn's Curse",
+        "description": "Replaces the song played in Umaro's Cave with FFIII - Djinn's Curse.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiii_-_djinn's_curse.spc"
     },
     {
         "order": 13,
         "filename": "osta_ffiv_-_Overworld.ips",
-        "name": "Ffiv - Overworld",
-        "description": "",
+        "name": "FFIV - Overworld",
+        "description": "Replaces FF4/DQ Alefgard Remix (WoB Overworld Theme) with FFIV Overworld.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiv_-_Overworld.spc"
     },
     {
         "order": 14,
         "filename": "osta_ffiv_-_fight_1_(wob).ips",
-        "name": "Ffiv - Fight 1 (Wob)",
-        "description": "",
+        "name": "FFIV - Fight 1 (WoB)",
+        "description": "Replaces the regular WoB battle theme with the FFIV battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiv_-_fight_1_(wob).spc"
     },
     {
         "order": 15,
         "filename": "osta_ffiv_-_fight_1_(wor).ips",
-        "name": "Ffiv - Fight 1 (Wor)",
-        "description": "",
+        "name": "FFIV - Fight 1 (WoR)",
+        "description": "Replaces the regular WoR battle theme with the FFIV battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiv_-_fight_1_(wor).spc"
     },
     {
         "order": 16,
         "filename": "osta_ffiv_-_the_lunarians.ips",
-        "name": "Ffiv - The Lunarians",
-        "description": "",
+        "name": "FFIV - The Lunarians",
+        "description": "This extremely fitting song replaces the song that plays for the story-heavy event right after the Burning House.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiv_-_the_lunarians.spc"
     },
     {
         "order": 17,
         "filename": "osta_ffiv_-_within_the_giant.ips",
-        "name": "Ffiv - Within The Giant",
-        "description": "",
+        "name": "FFIV - Within The Giant",
+        "description": "Replaces Xenoblade - Mechonis Field (Floating Continent) with FFIV - Within the Giant.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffiv_-_within_the_giant.spc"
     },
     {
         "order": 18,
         "filename": "osta_fft_-_run_past_through_the_plain.ips",
-        "name": "Fft - Run Past Through The Plain",
-        "description": "",
+        "name": "FFT - Run Past Through The Plain",
+        "description": "Replaces the song played during the 'Kefka at Narshe' battle with Final Fantasy Tactics - Run Past Through the Plain.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_fft_-_run_past_through_the_plain.spc"
     },
     {
         "order": 19,
         "filename": "osta_ffv_-_battle_1_(wob).ips",
-        "name": "Ffv - Battle 1 (Wob)",
-        "description": "",
+        "name": "FFV - Battle 1 (WoB)",
+        "description": "Replaces the regular WoB battle theme with the FFV battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffv_-_battle_1_(wob).spc"
     },
     {
         "order": 20,
         "filename": "osta_ffv_-_battle_1_(wor).ips",
-        "name": "Ffv - Battle 1 (Wor)",
-        "description": "",
+        "name": "FFV - Battle 1 (WoR)",
+        "description": "Replaces the regular WoR battle theme with the FFV battle theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffv_-_battle_1_(wor).spc"
     },
     {
         "order": 21,
         "filename": "osta_ffv_-_unknown_lands.ips",
-        "name": "Ffv - Unknown Lands",
-        "description": "",
+        "name": "FFV - Unknown Lands",
+        "description": "Replaces Underworld - Terranigma (WoR Overworld) with FFV - Unknown Lands.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffv_-_unknown_lands.spc"
     },
     {
         "order": 22,
         "filename": "osta_ffvi_-_battle_theme_(wob).ips",
-        "name": "Ffvi - Battle Theme (Wob)",
-        "description": "",
+        "name": "FFVI - Battle Theme (WoB)",
+        "description": "Changes the normal WoB battle theme back to FF6 Battle Theme.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 23,
         "filename": "osta_ffvi_-_battle_theme_(wor).ips",
-        "name": "Ffvi - Battle Theme (Wor)",
-        "description": "",
+        "name": "FFVI - Battle Theme (WoR)",
+        "description": "Changes the normal WoR battle theme back to FF6 Battle Theme.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 24,
         "filename": "osta_ffvi_-_decisive_battle.ips",
-        "name": "Ffvi - Decisive Battle",
-        "description": "",
+        "name": "FFVI - Decisive Battle",
+        "description": "Changes the normal boss battle theme from Romancing Saga back to FF6 Decisive Battle. This does not change /every/ boss-battle song to the FF6 Boss theme, just the ones that use the default boss theme ID, for instance the first boss in the game.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 25,
         "filename": "osta_ffvi_-_devil's_lab.ips",
-        "name": "Ffvi - Devil'S Lab",
-        "description": "",
+        "name": "FFVI - Devil's Lab",
+        "description": "Changes the Magitek Factory song back to the classic vanilla song 'Devil's Lab', for anyone who may want it back for the trek through there.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 26,
         "filename": "osta_ffvi_-_fanfare_(wob).ips",
-        "name": "Ffvi - Fanfare (Wob)",
-        "description": "",
+        "name": "FFVI - Fanfare (WoB)",
+        "description": "Changes the WoB fanfare (tune that plays after battles) back to the original FF6 one.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 27,
         "filename": "osta_ffvi_-_fanfare_(wor).ips",
-        "name": "Ffvi - Fanfare (Wor)",
-        "description": "",
+        "name": "FFVI - Fanfare (WoR)",
+        "description": "Changes the WoR fanfare (tune that plays after battles) back to the original FF6 one.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 28,
         "filename": "osta_ffvi_-_kefka_theme.ips",
-        "name": "Ffvi - Kefka Theme",
-        "description": "",
+        "name": "FFVI - Kefka's Theme",
+        "description": "Changes all three of Kefka's themes (Kefka, Final Dungeon, Dancing Mad 4.2) back to the vanilla ones, for anyone who may want them reverted, basically due to Kefka still being Kefka (mostly) in this mod... It's been requested before so I figure 'why not?'.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 29,
         "filename": "osta_ffvi_-_new_continent.ips",
-        "name": "Ffvi - New Continent",
-        "description": "",
+        "name": "FFVI - New Continent",
+        "description": "Changes the Floating Continent song back to the vanilla song 'New Continent', for anyone who may want it back for that epic part of the game.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 30,
         "filename": "osta_ffvi_-_nighty_night.ips",
-        "name": "Ffvi - Nighty Night",
-        "description": "",
+        "name": "FFVI - Nighty Night",
+        "description": "Changes the sleeping song (tent and inn) back to the vanilla 'Nighty Night' song, for anyone who may want it back due to it being that much shorter of a song (saves time).",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 31,
         "filename": "osta_ffvi_-_searching_for_friends.ips",
-        "name": "Ffvi - Searching For Friends",
-        "description": "",
+        "name": "FFVI - Searching For Friends",
+        "description": "Changes the WoR airship song back to the vanilla song 'Searching For Friends', for anyone who may want it back due to how iconic and awesome it is.",
         "category": "osta",
         "preview": ""
     },
     {
         "order": 32,
         "filename": "osta_ffvii_-_good_night.ips",
-        "name": "Ffvii - Good Night",
-        "description": "",
+        "name": "FFVII - Good Night",
+        "description": "Replaces the INN/sleep song with FF7's.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffvii_-_good_night.spc"
     },
     {
         "order": 33,
         "filename": "osta_ffvii_-_judgement_day.ips",
-        "name": "Ffvii - Judgement Day",
-        "description": "",
+        "name": "FFVII - Judgement Day",
+        "description": "Replaces the song played inside the Underworld (Cave to the Sealed Gate) to the epic final dungeon song from FF7.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffvii_-_judgement_day.spc"
     },
     {
         "order": 34,
         "filename": "osta_ffx_-_servants_of_the_mountain.ips",
-        "name": "Ffx - Servants Of The Mountain",
-        "description": "",
+        "name": "FFX - Servants Of The Mountain",
+        "description": "Replaces FF8 - Find Your Way (Thamasa Caves) with FFX - Servants of the Mountain.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ffx_-_servants_of_the_mountain.spc"
     },
     {
         "order": 35,
         "filename": "osta_grandia_-_the_sandy_beach_of_ganbo.ips",
         "name": "Grandia - The Sandy Beach Of Ganbo",
-        "description": "",
+        "description": "Replaces the very last song heard in the game that plays during THE END screen to Grandia - The Sandy Beach of Ganbo. Kind of pointless, I know, but I wanted to include this song somehow and somewhere at least!",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_grandia_-_the_sandy_beach_of_ganbo.spc"
     },
     {
         "order": 36,
         "filename": "osta_halo_ce_-_a_walk_in_the_woods.ips",
-        "name": "Halo Ce - A Walk In The Woods",
-        "description": "",
+        "name": "Halo CE - A Walk In The Woods",
+        "description": "Replaces the song played on the WoB Beast Plains/Veldt with a rhythmically atmospheric song called A Walk in the Woods, from Halo: Combat Evolved.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_halo_ce_-_a_walk_in_the_woods.spc"
     },
     {
         "order": 37,
         "filename": "osta_killer_instinct_-_glacius.ips",
         "name": "Killer Instinct - Glacius",
-        "description": "",
+        "description": "Replaces the Coloseum battle song with Glacius' theme from Killer Instinct.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_killer_instinct_-_glacius.spc"
     },
     {
         "order": 38,
         "filename": "osta_kss_-_trees_in_the_depths_of_the_earth.ips",
         "name": "Kss - Trees In The Depths Of The Earth",
-        "description": "",
+        "description": "Changes the WoB Cave to Seascape Town song to a respectable version of Kirby Super Star - Trees in the Depths of the Earth.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_kss_-_trees_in_the_depths_of_the_earth.spc"
     },
     {
         "order": 39,
         "filename": "osta_lufia_1_-_the_earth.ips",
         "name": "Lufia 1 - The Earth",
-        "description": "",
+        "description": "Replaces the WoR airship song with Lufia 1 - The Earth.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_lufia_1_-_the_earth.spc"
     },
     {
         "order": 40,
         "filename": "osta_lufia_2_-_village_theme.ips",
         "name": "Lufia 2 - Village Theme",
-        "description": "",
+        "description": "Changes the song that plays for the scene after meeting the espers, Crystal City - Romancing Saga, to Lufia 2 - Village Theme, an equally delightful tune.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_lufia_2_-_village_theme.spc"
     },
     {
         "order": 41,
         "filename": "osta_magic_sword_-_at_drokmar's_gate.ips",
         "name": "Magic Sword - At Drokmar'S Gate",
-        "description": "",
+        "description": "Changes the intro title screen song to another rockin' tune from Magic Sword, called At Drokmar's Gate.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_magic_sword_-_at_drokmar's_gate.spc"
     },
     {
         "order": 42,
         "filename": "osta_mega_man_10_-_abandoned_memory.ips",
         "name": "Mega Man 10 - Abandoned Memory",
-        "description": "",
+        "description": "Replaces the FFMQ Battle Theme that plays for some battle formations with Mega Man 10's Abandoned Memory.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_10_-_abandoned_memory.spc"
     },
     {
         "order": 43,
         "filename": "osta_mega_man_2_-_willy_stage.ips",
         "name": "Mega Man 2 - Willy Stage",
-        "description": "",
+        "description": "Replaces the song that plays at the Tyrano Tower in the WoR with the classic Mega Man 2 - Wily Stage 1.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_2_-_willy_stage.spc"
     },
     {
         "order": 44,
         "filename": "osta_mega_man_7_-_ruined_street.ips",
         "name": "Mega Man 7 - Ruined Street",
-        "description": "",
+        "description": "Replaces Suikoden 2 - The Chase (Magitek Factory escape) with Mega Man 7 - Ruined Street",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_7_-_ruined_street.spc"
     },
     {
         "order": 45,
         "filename": "osta_mega_man_9_-_we're_the_robots.ips",
-        "name": "Mega Man 9 - We'Re The Robots",
-        "description": "",
+        "name": "Mega Man 9 - We're The Robots",
+        "description": "Replaces the Magitek Factory song with Mega Man 9's Wily Stage 2.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_9_-_we're_the_robots.spc"
     },
     {
         "order": 46,
         "filename": "osta_mega_man_x3_-_gravity_beetle.ips",
         "name": "Mega Man X3 - Gravity Beetle",
-        "description": "",
+        "description": "This patch changes the Romancing Saga song that is played when the party attempts to land on the Floating Continent, to the rockin' Gravity Beetle stage theme from Mega Man X3.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_x3_-_gravity_beetle.spc"
     },
     {
         "order": 47,
         "filename": "osta_mega_man_x_-_Spark_mandrill.ips",
         "name": "Mega Man X - Spark Mandrill",
-        "description": "",
+        "description": "Replaces the song that plays when Avalon goes berserk at the Imperial Camp with Mega Man X - Spark Mandrill.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_x_-_Spark_mandrill.spc"
     },
     {
         "order": 48,
         "filename": "osta_mega_man_x_-_boomer_kuwanger.ips",
         "name": "Mega Man X - Boomer Kuwanger",
-        "description": "",
+        "description": "Changes the song for the Opera House timed event/defeat the rats part to be a fan favorite from Mega Man X - Boomer Kuwanger.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_mega_man_x_-_boomer_kuwanger.spc"
     },
     {
         "order": 49,
         "filename": "osta_ragnarok_-_main_theme.ips",
         "name": "Ragnarok - Main Theme",
-        "description": "",
+        "description": "Changes the Omen 2 aka the '1000 years have passed...' intro song to the hauntingly beautiful main theme from Ragnarok Online, which just so happens to be about the same length, so I figured it'd make a decent swap.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ragnarok_-_main_theme.spc"
     },
     {
         "order": 50,
         "filename": "osta_rambo_-_stage_select.ips",
         "name": "Rambo - Stage Select",
-        "description": "",
+        "description": "Back by popular demand, in optional patch form, is the one and only NES Rambo Stage Select theme, which replaces the WoR airship song.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_rambo_-_stage_select.spc"
     },
     {
         "order": 51,
         "filename": "osta_rpg_maker_vx_ace_-_battle_1.ips",
         "name": "Rpg Maker Vx Ace - Battle 1",
-        "description": "",
+        "description": "Changes the WoB overworld battle theme to a rockin' alternative from RPG Maker VX Ace.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_rpg_maker_vx_ace_-_battle_1.spc"
     },
     {
         "order": 52,
         "filename": "osta_rpg_maker_vx_ace_-_battle_4.ips",
         "name": "Rpg Maker Vx Ace - Battle 4",
-        "description": "",
+        "description": "Replaces the song that is played for the battle at Fraust, with RPG Maker VX Ace - Battle 4.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_rpg_maker_vx_ace_-_battle_4.spc"
     },
     {
         "order": 53,
         "filename": "osta_secret_of_mana_-_mana_fortress.ips",
         "name": "Secret Of Mana - Mana Fortress",
-        "description": "",
+        "description": "Replaces the song played at Spellbound Castle (castle at the Esper World in the WoR) with Secret of Mana's Mana Fortress theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_secret_of_mana_-_mana_fortress.spc"
     },
     {
         "order": 54,
         "filename": "osta_sonic_advance_-_x-zone.ips",
         "name": "Sonic Advance - X-Zone",
-        "description": "",
+        "description": "A fast-paced, ravey final stage theme from Sonic Advance, called X-Zone, that replaces the final dungeon, aka Kefka's Tower.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_sonic_advance_-_x-zone.spc"
     },
     {
         "order": 55,
         "filename": "osta_star_ocean_2_-_walk_over.ips",
         "name": "Star Ocean 2 - Walk Over",
-        "description": "",
+        "description": "Replaces the song played at WoB Kaldor Trade City/Nikeah with Star Ocean 2 - Walk Over.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_star_ocean_2_-_walk_over.spc"
     },
     {
         "order": 56,
         "filename": "osta_super-r_type_-_as_wet_as_a_fish.ips",
         "name": "Super-R Type - As Wet As A Fish",
-        "description": "",
+        "description": "Replaces the Serpent Trench song with the funky Stage 3 theme from Super-R Type.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_super-r_type_-_as_wet_as_a_fish.spc"
     },
     {
         "order": 57,
         "filename": "osta_super_mario_64_-_dire_dire_docks.ips",
         "name": "Super Mario 64 - Dire Dire Docks",
-        "description": "",
+        "description": "Replaces the Serpent Trench song with the Super Mario 64 fan favorite: Dire, Dire Docks.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_super_mario_64_-_dire_dire_docks.spc"
     },
     {
         "order": 58,
         "filename": "osta_tales_of_phantasia_-_the_second_act.ips",
         "name": "Tales Of Phantasia - The Second Act",
-        "description": "",
+        "description": "Replaces the WoR Overworld theme with: Tales of Phantasia - Second Act, which is more of a heroic and hopeful-feeling alternative to the regular depressing WoR themes you'll hear.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_tales_of_phantasia_-_the_second_act.spc"
     },
     {
         "order": 59,
         "filename": "osta_top_gear_-_track_1_(chocobo_theme_wob).ips",
-        "name": "Top Gear - Track 1 (Chocobo Theme Wob)",
-        "description": "",
+        "name": "Top Gear - Track 1 (Chocobo Theme WoB)",
+        "description": "Changes the Chocobo Theme to be the Track 1 song from Top Gear (SNES).",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_top_gear_-_track_1_(chocobo_theme_wob).spc"
     },
     {
         "order": 60,
         "filename": "osta_top_gear_-_track_1_(chocobo_theme_wor).ips",
-        "name": "Top Gear - Track 1 (Chocobo Theme Wor)",
-        "description": "",
+        "name": "Top Gear - Track 1 (Chocobo Theme WoR)",
+        "description": "Changes the Chocobo Theme to be the Track 1 song from Top Gear (SNES).",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_top_gear_-_track_1_(chocobo_theme_wor).spc"
     },
     {
         "order": 61,
         "filename": "osta_xenogears_-_june_mermaid.ips",
         "name": "Xenogears - June Mermaid",
-        "description": "",
+        "description": "Replaces the first song you hear in the WoR, Dust to Dust - Alundra (soundtrack_a), with 'June Mermaid', a sad tune from Xenogears.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_xenogears_-_june_mermaid.spc"
     },
     {
         "order": 62,
         "filename": "osta_ys_iv_-_a_great_ordeal.ips",
-        "name": "Ys Iv - A Great Ordeal",
-        "description": "",
+        "name": "Ys IV - A Great Ordeal",
+        "description": "Changes the intro credits song where to Ys IV The Dawn of Ys - A Great Ordeal. This patch may be useful for streamers who are worried about copyright issues for the Europe Final Countdown song.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_ys_iv_-_a_great_ordeal.spc"
     },
     {
         "order": 63,
         "filename": "osta_zamn_-_pof.ips",
         "name": "Zamn - Pof",
-        "description": "",
+        "description": "Changes Rogue City (Zozo) song back to a makeshift version of Zombies Ate My Neighbors - Pyramid of Fear.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_zamn_-_pof.spc"
     },
     {
         "order": 64,
         "filename": "osta_zelda_2_-_overworld.ips",
         "name": "Zelda 2 - Overworld",
-        "description": "",
+        "description": "Replaces Alefgard - Dragon Quest/Final Fantasy IV (WoB - Overworld) with the classic Zelda 2 - Overworld theme.",
         "category": "osta",
-        "preview": ""
+        "preview": "osta_zelda_2_-_overworld.spc"
     }
 ]

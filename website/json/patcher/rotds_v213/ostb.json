@@ -2,113 +2,113 @@
     {
         "order": 1,
         "filename": "ostb_dbz_-_solid_state_scouter.ips",
-        "name": "Dbz - Solid State Scouter",
-        "description": "",
+        "name": "DBZ - Solid State Scouter",
+        "description": "Changes the song for the battle against Raditz to one from the Dragon Ball Z Original Soundtrack: Solid State Scouter. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_dbz_-_solid_state_scouter.spc"
     },
     {
         "order": 2,
         "filename": "ostb_dbz_super_butouden_2_-_vageta's_theme.ips",
-        "name": "Dbz Super Butouden 2 - Vageta'S Theme",
-        "description": "",
+        "name": "DBZ Super Butouden 2 - Vageta'S Theme",
+        "description": "Replaces the song that plays for the Ultros 4 battle with Dragon Ball Z Super Butouden 2 -  Vegeta's Theme. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_dbz_super_butouden_2_-_vageta's_theme.spc"
     },
     {
         "order": 3,
         "filename": "ostb_ffiv_-_Overworld.ips",
-        "name": "Ffiv - Overworld",
-        "description": "",
+        "name": "FFIV - Overworld",
+        "description": "Replaces FF4/DQ Alefgard Remix (WoB Overworld Theme) with FFIV Overworld. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_ffiv_-_Overworld.spc"
     },
     {
         "order": 4,
         "filename": "ostb_fft_-_run_past_through_the_plain.ips",
-        "name": "Fft - Run Past Through The Plain",
-        "description": "",
+        "name": "FFT - Run Past Through The Plain",
+        "description": "Replaces the song played during the 'Kefka at Narshe' battle with Final Fantasy Tactics - Run Past Through the Plain. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_fft_-_run_past_through_the_plain.spc"
     },
     {
         "order": 5,
         "filename": "ostb_ffv_-_battle_1_(wob).ips",
-        "name": "Ffv - Battle 1 (Wob)",
-        "description": "",
+        "name": "FFV - Battle 1 (Wob)",
+        "description": "Replaces the regular WoB battle theme with the FFV battle theme. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_ffv_-_battle_1_(wob).spc"
     },
     {
         "order": 6,
         "filename": "ostb_ffvi_-_battle_theme_(wob).ips",
-        "name": "Ffvi - Battle Theme (Wob)",
-        "description": "",
+        "name": "FFVI - Battle Theme (Wob)",
+        "description": "Changes the normal WoB battle theme back to FF6 Battle Theme. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
         "preview": ""
     },
     {
         "order": 7,
         "filename": "ostb_ffvi_-_new_continent.ips",
-        "name": "Ffvi - New Continent",
-        "description": "",
+        "name": "FFVI - New Continent",
+        "description": "Changes the Floating Continent song back to the vanilla song 'New Continent', for anyone who may want it back for that epic part of the game. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
         "preview": ""
     },
     {
         "order": 8,
         "filename": "ostb_ffvii_-_judgement_day.ips",
-        "name": "Ffvii - Judgement Day",
-        "description": "",
+        "name": "FFVII - Judgement Day",
+        "description": "Replaces the song played inside the Underworld (Cave to the Sealed Gate) to the epic final dungeon song from FF7. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_ffvii_-_judgement_day.spc"
     },
     {
         "order": 9,
         "filename": "ostb_killer_instinct_-_glacius.ips",
         "name": "Killer Instinct - Glacius",
-        "description": "",
+        "description": "Replaces the Coloseum battle song with Glacius' theme from Killer Instinct. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_killer_instinct_-_glacius.spc"
     },
     {
         "order": 10,
         "filename": "ostb_magic_sword_-_at_drokmar's_gate.ips",
         "name": "Magic Sword - At Drokmar'S Gate",
-        "description": "",
+        "description": "Changes the intro title screen song to another rockin' tune from Magic Sword, called At Drokmar's Gate. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_magic_sword_-_at_drokmar's_gate.spc"
     },
     {
         "order": 11,
         "filename": "ostb_mega_man_7_-_ruined_street.ips",
         "name": "Mega Man 7 - Ruined Street",
-        "description": "",
+        "description": "Replaces Suikoden 2 - The Chase (Magitek Factory escape) with Mega Man 7 - Ruined Street. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_mega_man_7_-_ruined_street.spc"
     },
     {
         "order": 12,
         "filename": "ostb_mega_man_x_-_Spark_mandrill.ips",
         "name": "Mega Man X - Spark Mandrill",
-        "description": "",
+        "description": "Replaces the song that plays when Avalon goes berserk at the Imperial Camp with Mega Man X - Spark Mandrill. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_mega_man_x_-_Spark_mandrill.spc"
     },
     {
         "order": 13,
         "filename": "ostb_secret_of_mana_-_mana_fortress.ips",
         "name": "Secret Of Mana - Mana Fortress",
-        "description": "",
+        "description": "Replaces the song played at Spellbound Castle (castle at the Esper World in the WoR) with Secret of Mana's Mana Fortress theme. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_secret_of_mana_-_mana_fortress.spc"
     },
     {
         "order": 14,
         "filename": "ostb_sonic_advance_-_x-zone.ips",
         "name": "Sonic Advance - X-Zone",
-        "description": "",
+        "description": "A fast-paced, ravey final stage theme from Sonic Advance, called X-Zone, that replaces the final dungeon, aka Kefka's Tower. This song hack is meant to be used with the 'Soundtrack B' patch in the 'Music' category.",
         "category": "ostb",
-        "preview": ""
+        "preview": "ostb_sonic_advance_-_x-zone.spc"
     }
 ]

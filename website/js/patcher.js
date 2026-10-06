@@ -4,6 +4,7 @@ let romBuffer;
 let basePatches;
 let jsonDir = "json/patcher";
 let previewDir = "./patches/preview";
+let spcDir = `${previewDir}/rotds_v213/spc`;
 let patcherDir = "patches";
 const selectedPatches = [];
 let patchDescriptions = {};
@@ -155,18 +156,28 @@ async function loadPatches(jsonDir) {
             if (patches) {
                 showCategory(catId);
                 const body = collapse.querySelector('.card-body');
+                const isSPCCategory = catId === 'osta' || catId === 'ostb';
                 patches
                     .sort((a, b) => a.order - b.order)
                     .forEach(patch => {
                         patchDescriptions[patch.filename] = patch.description;
                         const card = document.createElement('div');
                         card.className = 'card patch-card patch-selector';
+                        const previewHTML = isSPCCategory
+                            ? (patch.preview
+                                ? `<a class="btn btn-sm btn-dark btn-patch-card btn-spc-preview"
+                                    href="${spcDir}/${patch.preview}">Preview</a>`
+                                : '')
+                            : (patch.preview
+                                ? `<button class="btn btn-sm btn-dark btn-patch-card" data-preview="${patch.preview}">Preview</button>`
+                                : '');
+
                         card.innerHTML = `
                             <div class="card-body text-center">
                                 <div class="card-title mb-1">${patch.name}</div>
                                 <div class="align-items-center gap-2 d-flex flex-column">
                                     <button class="btn btn-sm btn-dark btn-patch-card" data-patch="${patch.filename}" data-selected="false">Select</button>
-                                    ${patch.preview ? `<button class="btn btn-sm btn-dark btn-patch-card" data-preview="${patch.preview}">Preview</button>` : ''}
+                                    ${previewHTML}
                                     ${patch.description ? `<button class="btn btn-sm btn-dark btn-patch-card">Description</button>` : ''}
                                 </div>
                             </div>
@@ -220,6 +231,13 @@ document.getElementById('descOverlay').addEventListener('click', (e) => {
 });
 
 document.querySelector('#categories').addEventListener('click', (e) => {
+    const spcBtn = e.target.closest('.btn-spc-preview');
+    if (spcBtn) {
+        e.preventDefault();
+        SMWCentral.SPCPlayer.loadFromLink(spcBtn);
+        return;
+    }
+
     const prevBtn = e.target.closest('[data-preview]');
     if (prevBtn) {
         const previewId = prevBtn.dataset.preview;
@@ -229,7 +247,7 @@ document.querySelector('#categories').addEventListener('click', (e) => {
         return;
     }
 
-    const descBtn = e.target.closest('.btn-patch-card:not([data-patch]):not([data-preview])');
+    const descBtn = e.target.closest('.btn-patch-card:not([data-patch]):not([data-preview]):not(.btn-spc-preview)');
     if (descBtn) {
         const card = descBtn.closest('.card');
         const patchId = card.querySelector('[data-patch]').dataset.patch;

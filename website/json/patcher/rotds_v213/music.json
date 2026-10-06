@@ -3,7 +3,7 @@
         "order": 1,
         "filename": "music_battle_music_restore.ips",
         "name": "Battle Music Restore",
-        "description": "",
+        "description": "This patch restores the battle theme to every monster formation/encounter that previously had it removed (where no battle song would play). It should work fine with the 'random battle song' patch.",
         "category": "music",
         "preview": ""
     },
@@ -11,7 +11,7 @@
         "order": 2,
         "filename": "music_random_battle_song.ips",
         "name": "Random Battle Song",
-        "description": "",
+        "description": "This patch changes all the regular battle theme song instances to 8 possible random choices of 8 battle theme songs that exist in the hack.",
         "category": "music",
         "preview": ""
     },
@@ -19,7 +19,7 @@
         "order": 3,
         "filename": "music_soundtrack_b.ips",
         "name": "Soundtrack B",
-        "description": "",
+        "description": "Soundtrack B currently has 203 changed songs. By default the game starts with 'soundtrack a'.",
         "category": "music",
         "preview": ""
     }

@@ -103,7 +103,7 @@ class SpriteSheetList(list):
         for id in range(0, len(self)):
             poses = graphics.get_poses(self.json_poses["full"], self.poses)
             filename = os.path.join(filepath, f"sprite_{id}")
-            graphics.create_sheets(filename, self[id].tiles, self.palettes, poses)
+            graphics.create_sheets_full(filename, self[id].tiles, self.palettes, poses)
 
     def create_spritesheet_images(self, sprite_dir: str, json_dir: str):
         website_json = []

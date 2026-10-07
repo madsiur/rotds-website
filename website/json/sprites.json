@@ -2373,5 +2373,305 @@
         "filename": "unknown_155_2.png", 
         "name": "unknown_155", 
         "category": "static"
+    }, 
+    {
+        "filename": "elf_woman_1.png", 
+        "name": "Elf Woman", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "elf_woman_2.png", 
+        "name": "Elf Woman", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "elf_woman_3.png", 
+        "name": "Elf Woman", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "alt._fairy_1.png", 
+        "name": "Alt. Fairy", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "alt._fairy_2.png", 
+        "name": "Alt. Fairy", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "shattered_magicite_2_1.png", 
+        "name": "Shattered Magicite 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "shattered_magicite_2_2.png", 
+        "name": "Shattered Magicite 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "shattered_magicite_2_3.png", 
+        "name": "Shattered Magicite 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "shattered_magicite_2_4.png", 
+        "name": "Shattered Magicite 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "shattered_magicite_2_5.png", 
+        "name": "Shattered Magicite 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "terry_1.png", 
+        "name": "Terry", 
+        "category": "full"
+    }, 
+    {
+        "filename": "terry_2.png", 
+        "name": "Terry", 
+        "category": "full"
+    }, 
+    {
+        "filename": "terry_3.png", 
+        "name": "Terry", 
+        "category": "full"
+    }, 
+    {
+        "filename": "sword_1.png", 
+        "name": "Sword", 
+        "category": "object"
+    }, 
+    {
+        "filename": "sword_2.png", 
+        "name": "Sword", 
+        "category": "object"
+    }, 
+    {
+        "filename": "terry_s_tent.png", 
+        "name": "Terry's Tent", 
+        "category": "object"
+    }, 
+    {
+        "filename": "metroid_1.png", 
+        "name": "Metroid", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "metroid_2.png", 
+        "name": "Metroid", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "coffee_cup.png", 
+        "name": "Coffee Cup", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_156.png", 
+        "name": "unknown_156", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_157.png", 
+        "name": "unknown_157", 
+        "category": "static"
+    }, 
+    {
+        "filename": "drinking_gi_nattak.png", 
+        "name": "Drinking Gi Nattak", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_158.png", 
+        "name": "unknown_158", 
+        "category": "object"
+    }, 
+    {
+        "filename": "tea_cup.png", 
+        "name": "Tea Cup", 
+        "category": "object"
+    }, 
+    {
+        "filename": "burger.png", 
+        "name": "Burger", 
+        "category": "object"
+    }, 
+    {
+        "filename": "pizza.png", 
+        "name": "Pizza", 
+        "category": "object"
+    }, 
+    {
+        "filename": "cake.png", 
+        "name": "Cake", 
+        "category": "object"
+    }, 
+    {
+        "filename": "cake_2.png", 
+        "name": "Cake 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "bowl_of_soup.png", 
+        "name": "Bowl of Soup", 
+        "category": "object"
+    }, 
+    {
+        "filename": "roasted_chicken.png", 
+        "name": "Roasted Chicken", 
+        "category": "object"
+    }, 
+    {
+        "filename": "meat_meal.png", 
+        "name": "Meat Meal", 
+        "category": "object"
+    }, 
+    {
+        "filename": "meal.png", 
+        "name": "Meal", 
+        "category": "object"
+    }, 
+    {
+        "filename": "meal_2.png", 
+        "name": "Meal 2", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_159.png", 
+        "name": "unknown_159", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "bahamut_magicite.png", 
+        "name": "Bahamut Magicite", 
+        "category": "object"
+    }, 
+    {
+        "filename": "unknown_160_1.png", 
+        "name": "unknown_160", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_160_2.png", 
+        "name": "unknown_160", 
+        "category": "static"
+    }, 
+    {
+        "filename": "unknown_160_3.png", 
+        "name": "unknown_160", 
+        "category": "static"
+    }, 
+    {
+        "filename": "zombie.png", 
+        "name": "Zombie", 
+        "category": "full"
+    }, 
+    {
+        "filename": "ramuh.png", 
+        "name": "Ramuh", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "king_durandal_1.png", 
+        "name": "King Durandal", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "king_durandal_2.png", 
+        "name": "King Durandal", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "king_durandal_3.png", 
+        "name": "King Durandal", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "king_durandal_4.png", 
+        "name": "King Durandal", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "king_durandal_5.png", 
+        "name": "King Durandal", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fat_buu_1.png", 
+        "name": "Fat Buu", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "fat_buu_2.png", 
+        "name": "Fat Buu", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "kid_buu_1.png", 
+        "name": "Kid Buu", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "kid_buu_2.png", 
+        "name": "Kid Buu", 
+        "category": "npc"
+    }, 
+    {
+        "filename": "dead_soldier_1.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "dead_soldier_2.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "dead_soldier_3.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "dead_soldier_4.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "dead_soldier_5.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "dead_soldier_6.png", 
+        "name": "Dead Soldier", 
+        "category": "static"
+    }, 
+    {
+        "filename": "fisherman_1.png", 
+        "name": "Fisherman", 
+        "category": "static"
+    }, 
+    {
+        "filename": "fisherman_2.png", 
+        "name": "Fisherman", 
+        "category": "static"
+    }, 
+    {
+        "filename": "fisherman_3.png", 
+        "name": "Fisherman", 
+        "category": "static"
+    }, 
+    {
+        "filename": "fisherman_4.png", 
+        "name": "Fisherman", 
+        "category": "static"
+    }, 
+    {
+        "filename": "smoke_poof.png", 
+        "name": "Smoke Poof", 
+        "category": "object"
     }
 ]

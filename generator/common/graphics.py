@@ -88,9 +88,14 @@ def get_poses(poselist: list, poses: list):
         fullposes.append(poses[pose_id])
     return fullposes
 
+def create_sheets_full(filepath: str, tiles: list, palettes: list[Snes_Palette], poses: list):
+    for pal_id in range(0, len(palettes)):
+        filename = f"{filepath}_{pal_id}"
+        create_sheet(filename, tiles, palettes[pal_id], poses)
+
 def create_sheets(filepath: str, tiles: list, palettes: list[Snes_Palette], poses: list):
     for pal_id in range(0, len(palettes)):
-        filename = f"{filepath}_{pal_id + 1}"
+        filename = f"{filepath}_{pal_id+1}"
         create_sheet(filename, tiles, palettes[pal_id], poses)
 
 def create_sheet(filepath: str, tiles: list, palette: Snes_Palette, poses: list):
